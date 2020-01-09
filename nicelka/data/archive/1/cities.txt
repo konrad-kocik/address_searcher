@@ -1,0 +1,689 @@
+Kalisz
+Zduny
+Opatówek
+Marchwacz
+Murowaniec
+Popów
+Brzozowiec
+Błaszki
+Zawady
+Dziębedów
+Słomków Mokry
+Słomków Suchy
+Wróblew
+Smardzew
+Jeziory
+Kłocko
+Kuśnie
+Charłupia Wielka
+Tumidaj
+Krzaki
+Orzeł Biały
+Szałe
+Trojanów
+Wolica
+Cienia Pierwsza
+Cienia Druga
+Chełmce
+Porwity
+Żydów
+Chotów
+Osiek
+Stobno
+Saczyn
+Gostyczyna
+Śmiłów
+Bronibór
+Sobocin
+Bałdoń
+Kuczewola
+Włodzimierz
+Pośrednik
+Guzdek
+Skrzatki
+Godziesze Wielkie
+Kąpie
+Krzemionka
+Wola Proszewska
+Rafałów
+Kakawa
+Kakawa-Kolonia
+Nowa Kakawa
+Aleksandria
+Wrząca
+Zajączki
+Poręby
+Korzekwin
+Iwanowice
+Strużka
+Joanka
+Mała Gmina
+Piegonisko-Pustkowie
+Piegonisko-Wieś
+Jagodziniec
+Brzeziny
+Czempisz
+Jamnice
+Moczalec
+Przystajnia
+Brończyn
+Chrzanowice
+Wilczkowice
+Żelisław
+Bukowina
+Zaborów
+Sarny
+Stok Polski
+Grzymaczew
+Włocin-Kolonia
+Kopacz
+Pęczek
+Chudoba
+Pipie
+Fajum
+Dzięcioły
+Głuszyna
+Równa
+Brudzew
+Gruszyce
+Cienia
+Łubna-Jakusy
+Niedoń
+Jasionna
+Wągłczew
+Sadorzyce
+Kliczków Mały
+Bukowiec
+Podawacz
+Gałki
+Żuraw
+Trzcinka
+Próchna
+Rakowice
+Drzązna
+Dębołęka
+Próba
+Pustelnik
+Wojtyszki
+Chajew
+Chajew-Kolonia
+Czartoryja
+Wiry
+Szczesie
+Podcabaje
+Bronisławów
+Zapole
+Ruszków
+Brzeźnio
+Rybnik
+Gozdy
+Jeże
+Grójec Mały
+Grójec Wielki
+Starce
+Godynice
+Zagóra
+Przedłęcze
+Złote
+Lesiaki
+Pieczyska
+Kamasze
+Złote
+Szklana Huta
+Miklesz
+Złoczew
+Bujnów
+Uników
+Wandalin
+Knapy
+Kluski
+Owieczki
+Lipicze
+Kosatka
+Pasie
+Wiry
+Morasy
+Świątki
+Kiełbasy
+Klonowa
+Leliwa
+Pawelce
+Popielina
+Kopaniny
+Niemojew
+Janusz
+Dymki
+Lututów
+Łęki Małe
+Hipolity
+Dobrosław
+Augustynów
+Ostrycharze
+Rybka
+Pichlice
+Ryś
+Góry-Parcela
+Prusak
+Zdierczyzna Dąbie
+Przybyłów
+Ostrówek
+Kaski
+Żelazo
+Zataje
+Kalety
+Biadaszki
+Gąszcze
+Konaty
+Ostrówek
+Pędziwiatry
+Kużaj
+Galewice
+Niwiska
+Osowa
+Kostrzewy
+Cieszęcin
+Polesie
+Sopel
+Lubczyna
+Wyszanów
+Kolonia Osiek
+osiek
+Jeziorna
+Okoń
+Węglewice
+Tonia
+Spóle
+Plugawice
+Plęsy
+Oświęcim
+Morawin
+Wygoda Plugawska
+Gruszków
+Kuźniczka
+Mielcuchy
+Mielcuchy Pierwsze
+Michałów
+Niedźwiadek
+Kopna
+Zadki
+Klon
+Czajków
+Jelenie
+Salamony
+Muchy
+Kędzie
+Kuźnica Grabowska
+Bigosy
+Głuszyna
+Kraszewice
+Renta
+Mączniki
+Ostrów Kaliski
+Zagórna
+Kierzno
+Kierzenko
+Jutrków
+Mechnice
+Torzeniec
+Rudniczysko
+Zalesie
+Doruchów
+Stara Kuźnica
+Marczykowskie
+Bobrowniki
+Dębicze
+Kopeć
+Skrzynki
+Marszałki
+Siekierzyn
+Książenice
+Grabów nad Prosną
+Klapki
+Racławice
+Gizyce
+Grabów-Wójtostwo
+Biernacice
+Raduchów
+Wielowieś
+Zadowice
+Doroszew
+Trusków
+Biskupice
+Boczków
+Kurów
+Miedzianów
+Gniazdów
+Nowe Skalmierzyce
+Skalmierzyce
+Mączniki
+Kościuszków
+Czachory
+Młynów
+Kwiatków
+Ociąż
+Fabianów
+Czekanów
+Biskupice Obłoczne
+Śliwniki
+Węgry
+Chotów
+Gostyczyna
+Leziona
+Sławin
+Psary
+Bilczew
+Bagatela
+Trąba
+Kąkolewo
+Latowice
+Wtórek
+Nowe Kamienice
+Wysocko Wielkie
+Sadowie
+Westrza
+Parczew
+Sieroszewice
+Rososzyca
+Ołobok
+Masanów
+Namysłaki
+Kaliszkowice Ołobockie
+Kaliszkowice Kaliskie
+Kotłów
+Biskupice Zabaryczne
+Jezioro
+Przygodziczki
+Chynowa
+Bogufałów
+Strzyżew
+Miskat
+Miskat-Pustkowie
+Komorów
+Antonin
+Piwonie
+Marydół
+Kozły
+Bledzianów
+Aniołki
+Kuźniki
+Myje
+Potaśna
+Zajączki
+Kamola
+Ostrzeszów
+Rojów
+Ostrzeszów-Pustkowie
+Wygoda Tokarska
+Godziętowy
+Przytocznica
+Siedlików
+Korpysy
+Chlewo
+Bukownica
+Przedborów
+Olszyna
+Bierzów
+Tokarzew
+Wiązownia
+Malinów
+Rogaszyce
+Kochłowy
+Turze
+Rzetnia
+Mikorzyn
+Domanin
+Myjomice
+Kliny
+Przybyszów
+Weronikopole
+Czermin
+Mostki
+Marcinki
+Dziekania
+Tabor Mały
+Gęstwa
+Kobyla Góra
+Ligota
+Bałdowice
+Pisarzowice
+Mąkoszyce
+Kuźnica Myślniewska
+Myślniew
+Zmyślona Ligocka
+Rybin
+Wioska
+Syców
+Nowy Dwór
+Niwki Kraszowskie
+Kraszów
+Niwki Książęce
+Kuźnica Kącka
+Międzybórz
+Ose
+Klonów
+Hałdrychowice
+Gutów
+Lewków
+Bieganin
+Skrzebowa
+Raszków
+Pogrzybów
+Franklinów
+Stary Staw
+Ostrów Wielkopolski
+Wierzbno
+Gorzyce Wielkie
+Topola Mała
+Wysocko Małe
+Wysocko Wielkiego
+Janków Przygodzki
+Przygodzice
+Nadstawki
+Kaczory
+Odolanów
+Świeca
+Dębnica
+Kocięba
+Garki
+Szklarka Myślniewska
+Kałkowskie
+Hetmanów
+Granowiec
+Czarnylas
+Chojnik
+Kotowiecko
+Kościelna Wieś
+Warszówka
+Kucharki
+Kuchary
+Czerminek
+Macew
+Zagorzyn
+Kokanin
+Russów
+Kurza
+Jedlec
+Gołuchów
+Tursko
+Skrajna
+Witoldów
+Kościerzyn
+Dzierlin
+Charłupia Mała
+Ocin
+Kobierzycko
+Tubądzin
+Adamki
+Łabędzie
+Małków
+Włyń
+Duszniki
+Kalinowa
+Warta
+Kamionacz
+Krąków
+Grzybki
+Cielce
+Gawłowice
+Poniatów
+Goszczanów
+Wroniawy
+Kaszew
+Maszew
+Jeziorsko
+Ostrów Warcki
+Glinno
+Brzeg
+Lubola
+Brodnia
+Ostrów Warcki
+Maszew
+Łyszkowice
+Chocim
+Strachocice
+Rzymsko
+Staruchy
+Linne
+Pacht
+Ciemień
+Dobra
+Szymany
+Boleszczyn
+Gąsin
+Kowale Pańskie
+Dziewiątka
+Kaczki Średnie
+Przykona
+Żuki
+Turek
+Szadów Pański
+Szadów Księży
+Galewice
+Krwony
+Jakubka
+Posoka
+Janiszew
+Koźmin
+Brudzew
+Smolina
+Głowy
+Koble
+Bierzmo
+Daniszew
+Leonia
+Stefania
+Russocice
+Wyszyna
+Hiszpania
+Kiszewy
+Tarnowa
+Władysławów
+Emerytka
+Tuliszków
+Sarbicko
+Grzymiszew
+Smaszew
+Bibianna
+Piętno
+Kotwasice
+Kokosz
+Cisew
+Obrzębin
+Malanów
+Celestyny
+Orli Staw
+Przespolew Pański
+Ceków
+Kosmów
+Plewnia
+Morawin
+Madalin
+Stanisława
+Małgów
+Lisków
+Pośrednik
+Tymianek
+Koźminek
+Nowy Nakwasin
+Rogal
+Smółki
+Rajsko
+Radliczyce
+Staw
+Lipka
+Moskurnia
+Woleń
+Wojciechówka
+Skarszew
+Florentyna
+Bystrek
+Żelazków
+Goliszew
+Piątek mały
+Stawiszyn
+Petryki
+Zbiersk
+Przyranie
+Korzeniew
+Słuszków
+Strugi
+Kukułka
+Kosmów
+Ceków
+Mycielin
+Zbiersk
+Dierzbin
+Bibianna
+Smaszew
+Lubiny
+Biała Panieńska
+Rybie
+Grochowy
+Rychwał
+Wola Rychwalska
+Niklas
+Bicz
+Lisiec Wielki
+Modlibogowice
+Franki
+Zarzew
+Babia
+Osiecza Pierwsza
+Stare Miasto
+Modła Królewska
+Krągola
+Modła
+Rzgów
+Grabienice
+Szetlewek
+Szetlew
+Kopojno
+Skokum
+Trąbczyn
+Zagórów
+Włodzimirów
+Stawisko
+Czarnybród
+Orlina Duża
+Kolonia Obory
+Białobłoty
+Królików
+Tartak
+Grodziec
+Lądek
+Junno
+Stary Borowiec
+Piskory
+Stary Olesiec
+Nowolipsk
+Chocz
+Burdzewek
+Lipe
+Zawidowice
+Janków Pierwszy
+Bogusław
+Skrajnia
+Szczury
+Górzno
+Sobótka
+Dziedzice
+Ciążeń
+Ląd
+Chwalibogowo
+Białobrzeg
+Bierzglinek
+Gozdowo
+Bieganowo
+Zieleniec
+Sokolniki
+Biechowo
+Krzywa Góra
+Kołaczkowo
+Gorazdowo
+Miłosław
+Franula
+Mikuszewo
+Wszembórz
+Czeszewo
+Pogorzelica
+Lgów
+Śmiełów
+Ruda Komorska
+Kruszyny
+OlszańskaTarnowa
+Pyzdry
+Borzykowo
+Orzechowo
+Trzcianki
+Glinianki
+Baraniec
+Anielewo
+Tomice
+Szymanowice
+Gizałki
+Wronów
+Wieczyn
+Dobieszczyzna
+Lubinia Mała
+Pieruchy
+Mamoty
+Żegocin
+Kwileń
+Broniszewice
+Lenartowice
+Pleszew
+Zielona Łąka Dobra Nadzieja
+Taczanów Drugi
+Sowina
+Kowalew
+Borucin
+Grudzielec
+Cegły
+Janków Zaleśny
+Baszyny
+Krotoszyn
+Tomnice
+Kobierno
+Gorzupia
+Biadki
+Dzielice
+Czarny Sad
+Roszki
+Stare Budy
+Orpiszew
+Koźmin Wielkopolski
+Zduny
+Chachalnia
+Chwaliszew
+Daniszyn
+Mazury
+Orla
+Wyki
+Izbiczno
+Bugaj
+Koryta
+Cieszków
+Guzowice
+Pakosławsko
+Dziadkowo
+Stawiec
+Wszewilki
+Milicz
+Duchowo
+Trzebicko
+Pustków
+Wziąchowo Wielkie
+Gądkowice
+Zamek Myśliwski
+Kopice
+Bartniki
+Uciechów
+Wierzchowice
+Kotlarka
+Grabownica
+Kuźnica Czeszycka
+Janisławice
+Lipsko
+Mariak
+Garki
+Sulmierzyce

@@ -1,0 +1,51 @@
+Urząd
+Ośrodek
+Szkoła
+Przedszkole
+Akademia
+Uniwersytet
+Politechnika
+Biblioteka
+Szpital
+Przychodnia
+Placówka
+Bank
+Oddział
+Wydział
+Policja
+Prokuratura
+Sąd
+Wojsko
+Przedsiębiorstwo
+Produkcja
+Fabryka
+Zakład
+Zakłady
+Grupa
+Agencja
+Spółka
+Spółdzielnia
+Związek
+Stowarzyszenie
+Klub
+Koło
+Towarzystwo
+Fundacja
+Organizacja
+Firma
+Poczta
+Emeryci
+Emerytów
+Instytucja
+Instytut
+ZUS
+Izba lekarska
+Amazonki
+ZNP
+PZU
+muzeum
+Czerwony Krzyż
+Diabetycy Uniwersytet Trzeciego Wieku
+Klub Seniora
+Seniorzy
+Fundacja

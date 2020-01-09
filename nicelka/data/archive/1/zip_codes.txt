@@ -1,0 +1,525 @@
+62-800 Kalisz
+63-760 Zduny
+62-860 Opatówek
+62-865 Marchwacz
+62-865 Murowaniec
+62-840 Murowaniec
+62-865 Popów
+98-235 Brzozowiec
+98-235 Błaszki
+98-235 Zawady
+98-235 Dziębedów
+98-285 Słomków Mokry
+98-285 Słomków Suchy
+98-285 Wróblew
+98-285 Smardzew
+98-200 Jeziory
+98-200 Kłocko
+98-200 Kuśnie
+98-285 Charłupia Wielka
+98-275 Tumidaj
+98-275 Krzaki
+98-285 Orzeł Biały
+62-860 Szałe
+62-860 Trojanów
+62-872 Wolica
+62-860 Cienia Pierwsza
+62-860 Cienia Druga
+62-872 Chełmce
+62-860 Porwity
+62-872 Żydów
+63-460 Chotów
+63-460 Osiek
+62-872 Stobno
+62-872 Saczyn
+63-460 Gostyczyna
+63-460 Śmiłów
+62-862 Bronibór
+62-872 Sobocin
+92-872 Bałdoń
+62-862 Kuczewola
+62-862 Włodzimierz
+62-862 Pośrednik
+62-862 Guzdek
+62-872 Skrzatki
+32-872 Godziesze Wielkie
+62-872 Kąpie
+62-872 Krzemionka
+62-872 Wola Droszewska
+62-872 Rafałów
+62-872 Kakawa
+62-872 Kakawa-Kolonia
+62-872 Nowa Kakawa
+62-874 Aleksandria
+62-874 Wrząca
+62-874 Zajączki
+62-862 Poręby
+62-862 Korzekwin
+62-862 Iwanowice
+62-862 Strużka
+62-862 Joanka
+62-862 Mała Gmina
+62-874 Piegonisko-Pustkowie
+62-874 Piegonisko-Wieś
+62-874 Jagodziniec
+62-874 Brzeziny
+62-874 Czempisz
+62-874 Jamnice
+62-874 Moczalec
+62-874 Przystajnia
+98-235 Brończyn
+98-235 Chrzanowice
+98-235 Wilczkowice
+98-235 Żelisław
+98-235 Bukowina
+98-235 Zaborów
+98-235 Sarny
+98-235 Stok Polski
+98-235 Grzymaczew
+98-235 Włocin-Kolonia
+98-235 Kopacz
+98-235 Pęczek
+62-874 Chudoba
+98-277 Pipie
+62-874 Fajum
+62-874 Dzięcioły
+63-522 Głuszyna
+98-235 Równa
+62-720 Brudzew
+98-235 Brudzew
+98-235 Gruszyce
+98-235 Cienia
+98-235 Łubna-Jakusy
+98-235 Niedoń
+98-235 Jasionna
+98-285 Wągłczew
+98-285 Sadorzyce
+98-275 Kliczków Mały
+98-277 Bukowiec
+98-277 Podawacz
+98-277 Gałki
+98-277 Żuraw
+98-277 Trzcinka
+98-285 Próchna
+98-285 Rakowice
+98-285 Drzązna
+98-275 Dębołęka
+98-275 Próba
+98-275 Pustelnik
+98-277 Wojtyszki
+98-277 Chajew
+98-277 Chajew-Kolonia
+98-277 Czartoryja
+98-277 Wiry
+98-277 Szczęsie
+98-275 Podcabaje
+98-275 Bronisławów
+98-275 Zapole
+98-275 Ruszków
+98-275 Brzeźnio
+98-275 Rybnik
+98-275 Gozdy
+98-270 Jeże
+98-270 Grójec Mały
+98-270 Grójec Wielki
+98-277 Starce
+98-277 Godynice
+98-277 Zagóra
+98-277 Przedłęcze
+98-277 Złote
+98-273 Lesiaki
+98-270 Pieczyska
+98-270 Kamasze
+98-277 Złote
+98-270 Szklana Huta
+98-270 Miklesz
+98-270 Złoczew
+98-270 Bujnów
+98-270 Uników
+98-270 Wandalin
+98-360 Knapy
+98-360 Kluski
+98-273 Owieczki
+98-273 Lipicze
+98-277 Kosatka
+98-277 Pasie
+98-277 Wiry
+98-273 Morasy
+98-273 Świątki
+98-273 Kiełbasy
+98-273 Klonowa
+98-273 Leliwa
+98-275 Pawelce
+98-360 Popielina
+98-360 Kopaniny
+98-360 Niemojew
+98-360 Janusz
+98-360 Dymki
+98-360 Lututów
+98-360 Łęki Małe
+98-360 Hipolity
+98-360 Dobrosław
+98-360 Augustynów
+98-360 Ostrycharze
+98-405 Rybka
+98-420 Pichlice
+98-420 Ryś
+98-420 Góry-Parcela
+98-420 Prusak
+98-420 Zdzierczyzna Dąbie
+98-405 Przybyłów
+98-405 Ostrówek
+98-405 Kaski
+98-405 Żelazo
+98-405 Zataje
+98-405 Kalety
+98-405 Biadaszki
+98-405 Gąszcze
+98-405 Konaty
+98-311 Ostrówek
+98-405 Pędziwiatry
+98-405 Kużaj
+98-405 Galewice
+98-405 Niwiska
+98-405 Osowa
+98-405 Kostrzewy
+98-400 Cieszęcin
+98-400 Polesie
+98-400 Sopel
+98-400 Lubczyna
+98-400 Wyszanów
+98-400 Kolonia Osiek
+98-405 Osiek
+98-405 Jeziorna
+98-405 Okoń
+98-405 Węglewice
+63-505 Tonia
+98-405 Spóle
+63-505 Plugawice
+98-405 Plęsy
+63-505 Oświęcim
+63-505 Morawin
+63-505 Wygoda Plugawska
+63-505 Gruszków
+63-524 Kuźniczka
+63-524 Mielcuchy
+63-524 Mielcuchy Pierwsze
+63-524 Michałów
+63-524 Niedźwiadek
+63-524 Kopna
+63-524 Zadki
+63-524 Klon
+63-524 Czajków
+63-522 Jelenie
+63-524 Salamony
+63-524 Muchy
+63-524 Kędzie
+63-522 Kuźnica Grabowska
+63-522 Bigosy
+63-522 Głuszyna
+63-522 Kraszewice
+63-522 Renta
+63-522 Mączniki
+62-874 Ostrów Kaliski
+62-874 Zagórna
+63-600 Kierzno
+63-600 Kierzenko
+63-600 Jutrków
+63-600 Mechnice
+63-505 Torzeniec
+63-505 Rudniczysko
+63-505 Zalesie
+63-505 Doruchów
+63-505 Stara Kuźnica
+63-520 Marczykowskie
+63-520 Bobrowniki
+63-520 Dębicze
+63-520 Kopeć
+63-520 Skrzynki
+63-520 Marszałki
+66-520 Siekierzyn
+63-520 Książenice
+63-520 Grabów nad Prosną
+63-520 Klapki
+63-520 Racławice
+63-520 Giżyce
+63-520 Grabów-Wójtostwo
+63-520 Biernacice
+63-405 Raduchów
+63-405 Wielowieś
+62-872 Zadowice
+63-460 Doroszew
+63-460 Trusków
+62-800 Biskupice
+63-460 Boczków
+63-460 Kurów
+63-460 Miedzianów
+63-460 Gniazdów
+63-460 Nowe Skalmierzyce
+63-460 Skalmierzyce
+63-460 Mączniki
+63-460 Kościuszków
+63-460 Czachory
+63-450 Młynów
+63-410 Kwiatków
+63-460 Ociąż
+63-460 Fabianów
+63-400 Czekanów
+63-460 Biskupice Obłoczne
+63-460 Śliwniki
+63-460 Węgry
+63-460 Chotów
+63-460 Gostyczyna
+63-460 Leziona
+63-405 Sławin
+63-405 Psary
+63-405 Bilczew
+63-410 Bagatela
+63-410 Trąba
+63-410 Kąkolewo
+63-405 Latowice
+63-410 Wtórek
+63-410 Nowe Kamienice
+63-410 Wysocko Wielkie
+63-400 Sadowie
+63-405 Westrza
+63-405 Parczew
+63-405 Sieroszewice
+63-405 Rososzyca
+63-405 Ołobok
+63-405 Masanów
+63-405 Namysłaki
+63-510 Kaliszkowice Ołobockie
+63-510 Kaliszkowice Kaliskie
+63-510 Kotłów
+63-510 Biskupice Zabaryczne
+63-500 Jezioro
+63-420 Przygodziczki
+63-420 Chynowa
+63-421 Bogufałów
+63-405 Strzyżew
+63-510 Miskat
+63-510 Miskat-Pustkowie
+63-510 Komorów
+63-421 Antonin
+63-500 Piwonie
+63-500 Marydół
+63-500 Kozły
+63-500 Bledzianów
+63-500 Aniołki
+63-500 Kuźniki
+63-500 Myje
+63-500 Potaśna
+63-500 Zajączki
+63-520 Kamola
+63-500 Ostrzeszów
+63-500 Rojów
+63-500 Ostrzeszów-Pustkowie
+63-500 Wygoda Tokarska
+63-505 Godziętowy
+63-505 Przytocznica
+63-500 Siedlików
+63-500 Korpysy
+63-520 Chlewo
+63-520 Bukownica
+63-510 Przedborów
+63-500 Olszyna
+63-507 Bierzów
+63-505 Tokarzew
+63-500 Wiązownia
+63-500 Malinów
+63-500 Rogaszyce
+63-500 Kochłowy
+63-500 Turze
+63-500 Rzetnia
+63-600 Mikorzyn
+63-600 Domanin
+63-600 Myjomice
+63-600 Kliny
+63-600 Przybyszów
+63-640 Weronikopole
+63-640 Czermin
+62-410 Kopojno
+62-410 Skokum
+62-410 Trąbczyn
+62-410 Zagórów
+62-410 Włodzimirów
+62-410 Stawisko
+62-580 Czarnybród
+63-308 Orlina Duża
+63-308 Kolonia Obory
+63-308 Białobłoty
+62-580 Królików
+62-580 Tartak
+62-580 Grodziec
+62-580 Lądek
+62-580 Junno
+62-580 Stary Borowiec
+62-814 Piskory
+63-313 Stary Olesiec
+63-313 Nowolipsk
+63-313 Chocz
+63-313 Burdzewek
+62-814 Lipe
+63-300 Zawidowice
+62-814 Janków Pierwszy
+63-322 Bogusław
+62-814 Skrajnia
+63-450 Szczury
+63-450 Górzno
+63-450 Sobótka
+62-404 Dziedzice
+62-404 Ciążeń
+62-405 Ląd
+62-323 Chwalibogowo
+62-311 Białobrzeg
+62-303 Bierzglinek
+62-300 Gozdowo
+62-305 Bieganowo
+62-305 Zieleniec
+62-305 Sokolniki
+62-320 Biechowo
+62-304 Krzywa Góra
+62-306 Kołaczkowo
+62-306 Gorazdowo
+62-320 Miłosław
+62-321 Franula
+62-321 Mikuszewo
+62-306 Wszembórz
+62-322 Czeszewo
+63-210 Pogorzelica
+63-210 Lgów
+63-210 Śmiełów
+62-312 Ruda Komorska
+62-312 Kruszyny
+62-312 Olszańska
+62-310 Tarnowa
+62-310 Pyzdry
+62-307 Borzykowo
+62-322 Orzechowo
+62-311 Trzcianki
+62-310 Glinianki
+62-312 Baraniec
+62-410 Anielewo
+63-308 Tomice
+63-308 Szymanowice
+63-308 Gizałki
+63-308 Wronów
+63-304 Wieczyn
+63-210 Dobieszczyzna
+63-210 Lubinia Mała
+63-304 Pieruchy
+63-304 Mamoty
+63-304 Żegocin
+63-313 Kwileń
+63-300 Broniszewice
+63-300 Lenartowice
+63-300 Pleszew
+63-300 Zielona Łąka
+63-300 Dobra Nadzieja
+63-300 Taczanów Drugi
+63-300 Sowina
+63-300 Kowalew
+63-300 Borucin
+63-440 Grudzielec
+63-410 Cegły
+63-440 Janków Zaleśny
+63-716 Baszyny
+63-700 Krotoszyn
+63-714 Tomnice
+63-714 Kobierno
+63-714 Gorzupia
+63-714 Biadki
+63-708 Dzielice
+63-720 Czarny Sad
+63-714 Roszki
+63-714 Stare Budy
+63-714 Orpiszew
+63-720 Koźmin Wielkopolski
+63-760 Zduny
+63-760 Chachalnia
+63-750 Chwaliszew
+63-410 Daniszyn
+63-410 Mazury
+63-720 Orla
+63-708 Wyki
+63-330 Izbiczno
+63-440 Bugaj
+63-440 Koryta
+56-330 Cieszków
+56-330 Guzowice
+56-330 Pakosławsko
+56-330 Dziadkowo
+56-300 Stawiec
+56-300 Wszewilki
+56-300 Milicz
+56-300 Duchowo
+56-330 Trzebicko
+56-330 Pustków
+56-300 Wziąchowo Wielkie
+56-300 Gądkowice
+56-300 Zamek Myśliwski
+56-300 Kopice
+56-300 Bartniki
+63-430 Uciechów
+56-320 Wierzchowice
+56-320 Kotlarka
+56-320 Grabownica
+56-320 Kuźnica Czeszycka
+63-435 Janisławice
+63-435 Lipsko
+63-435 Mariak
+63-430 Garki
+63-750 Sulmierzyce
+62-830 Zbiersk
+63-720 Koźmin Wielkopolski
+63-750 Sulmierzyce
+62-860 Opatówek
+62-306 Kołaczkowo
+62-820 Stawiszyn
+63-421 Przygodzice
+62-740 Tuliszków
+63-701 Krotoszyn
+62-570 Rychwał
+63-405 Sieroszewice
+62-731 Przykona
+62-831 Korzeniew
+62-720 Brudzew
+62-410 Zagórów
+62-406 Lądek
+63-308 Gizałki
+62-730 Dobra
+62-701 Turek
+62-571 Stare Miasto
+63-507 Kobyla Góra
+62-709 Malanów
+64-550 Duszniki
+63-522 Kraszewice
+62-320 Miłosław
+63-702 Krotoszyn
+63-714 Kobierno
+63-460 Nowe Skalmierzyce
+63-304 Czermin
+62-586 Rzgów
+64-810 Kaczory
+62-874 Brzeziny
+63-440 Raszków
+63-524 Czajków
+63-300 Pleszew
+62-700 Turek
+63-520 Grabów nad Prosną
+63-322 Gołuchów
+63-450 Sobótka
+62-710 Władysławów
+62-310 Pyzdry
+63-301 Pleszew
+62-817 Żelazków
+62-850 Lisków
+62-580 Grodziec
+62-840 Koźminek
+63-505 Doruchów
+62-322 Orzechowo
+63-760 Zduny
+63-313 Chocz
+62-834 Ceków
+63-700 Krotoszyn
