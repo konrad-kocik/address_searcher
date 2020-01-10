@@ -5,7 +5,7 @@ from pytest import fixture
 import nicelka
 
 
-@fixture
+@fixture(scope='module')
 def test_cases():
     return ['no_result',
             'single_result',
@@ -14,7 +14,7 @@ def test_cases():
             'single_result_indirect_match_by_zip_code_tail']
 
 
-@fixture
+@fixture(scope='module')
 def create_results_dir(test_cases):
     for test_case in test_cases:
         result_dir_path = os.path.join('results', test_case)
@@ -22,7 +22,7 @@ def create_results_dir(test_cases):
             os.mkdir(result_dir_path)
 
 
-@fixture
+@fixture(scope='module')
 def remove_results_dir(test_cases, request):
     def teardown():
         for test_case in test_cases:
@@ -82,7 +82,7 @@ def test_searcher_when_skipped_single_result_indirect_match_by_zip_code(create_r
     _assert_result_file_content_equals(expected_result, searcher.results_file_path)
 
 
-def test_searcher_when_not_skipped_single_result_indirect_match_by_zip_code_tail(create_results_dir):  # remove_results_dir
+def test_searcher_when_not_skipped_single_result_indirect_match_by_zip_code_tail(create_results_dir, remove_results_dir):
     expected_result = \
         '======================================================================' + '\n' + \
         '24-150 NAŁĘCZÓW' + '\n\n' + \
