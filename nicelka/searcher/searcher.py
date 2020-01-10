@@ -49,13 +49,13 @@ class Searcher:
             self._add_city_header(city)
 
             for key in self._keys:
-                result = []
+                results = []
                 try:
-                    result = self._engine.search(city, key)
+                    results = self._engine.search(city, key)
                 except Exception:
                     pass
                 finally:
-                    self._add_result(result, city, key)
+                    self._add_results(results, city, key)
                     self._save_results()
 
         self._add_results_count()
@@ -81,20 +81,20 @@ class Searcher:
         self._results.append('=' * 70 + '\n')
         self._results.append(city + '\n\n')
 
-    def _add_result(self, result, city, key):
-        if result:
+    def _add_results(self, results, city, key):
+        if results:
             self._results.append('#' + key + '\n\n')
 
             zip_code_prefix = self._get_zip_code_prefix(city)
             city_name = self._get_city_name(city)
 
-            for item in result:
-                if self._skip_indirect_matches and (city_name.lower() not in item.lower() or zip_code_prefix not in item.lower()):
+            for result in results:
+                if self._skip_indirect_matches and self._is_indirect_match(result, city_name, zip_code_prefix):
                     continue
-                if self._skip_duplicates and item + '\n' in self._results:
+                if self._skip_duplicates and self._is_duplicate(result):
                     continue
                 else:
-                    self._results.append(item + '\n')
+                    self._results.append(result + '\n')
                     self._results_count += 1
 
     @staticmethod
@@ -105,6 +105,13 @@ class Searcher:
     def _get_city_name(city):
         city_split = city.split(' ', maxsplit=1)
         return city_split[1] if len(city_split) >= 2 else city
+
+    @staticmethod
+    def _is_indirect_match(result, city_name, zip_code_prefix):
+        return city_name.lower() not in result.lower() or zip_code_prefix not in result.lower()
+
+    def _is_duplicate(self, result):
+        return result + '\n' in self._results
 
     def _add_results_count(self):
         self._results.append('Liczba znalezionych adresow: {}'.format(self._results_count))
