@@ -6,11 +6,10 @@ from nicelka.engine.web_browser import WebBrowser
 
 # TODO: write functional tests
 # TODO: handle https://krkgw.arimr.gov.pl/
-
 # TODO: move all files activities to separate class
 # TODO: narrow all Exceptions into more specific classes
 # TODO: add unit tests
-# TODO: move whole package to separate project
+# TODO: store results in custom classes
 # TODO: use REST API instead of Selenium?
 
 
@@ -37,6 +36,10 @@ class Searcher:
         self._results_file_path = None
 
         self._engine = WebBrowser()
+
+    @property
+    def results_file_path(self):
+        return self._results_file_path
 
     def search(self):
         self._results_file_path = self._assemble_result_file_path()
@@ -81,8 +84,10 @@ class Searcher:
     def _add_result(self, result, city, key):
         if result:
             self._results.append('#' + key + '\n\n')
-            city_name = city.split(' ')[1]
-            zip_code_prefix = city.split('-')[0] + '-'
+
+            zip_code_prefix = self._get_zip_code_prefix(city)
+            city_name = self._get_city_name(city)
+
             for item in result:
                 if self._skip_indirect_matches and (city_name.lower() not in item.lower() or zip_code_prefix not in item.lower()):
                     continue
@@ -91,6 +96,15 @@ class Searcher:
                 else:
                     self._results.append(item + '\n')
                     self._results_count += 1
+
+    @staticmethod
+    def _get_zip_code_prefix(city):
+        return city.split('-')[0] + '-'
+
+    @staticmethod
+    def _get_city_name(city):
+        city_split = city.split(' ', maxsplit=1)
+        return city_split[1] if len(city_split) >= 2 else city
 
     def _add_results_count(self):
         self._results.append('Liczba znalezionych adresow: {}'.format(self._results_count))
