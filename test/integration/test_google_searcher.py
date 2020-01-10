@@ -2,7 +2,7 @@ import os
 
 from pytest import fixture
 
-from nicelka import Searcher
+from nicelka import GoogleSearcher
 
 
 @fixture
@@ -82,7 +82,7 @@ def test_searcher_when_skipped_single_result_indirect_match_by_zip_code(create_r
     _assert_result_file_content_equals(expected_result, searcher.results_file_path)
 
 
-def test_searcher_when_not_skipped_single_result_indirect_match_by_zip_code_tail(create_results_dir):  # remove_results_dir
+def test_searcher_when_not_skipped_single_result_indirect_match_by_zip_code_tail(create_results_dir, remove_results_dir):
     expected_result = \
         '======================================================================' + '\n' + \
         '24-150 NAŁĘCZÓW' + '\n\n' + \
@@ -102,7 +102,7 @@ def _get_io_dir_paths(test_case):
 
 
 def _run_searcher(data_dir_path, results_dir_path):
-    searcher = Searcher(data_dir_path, results_dir_path, source='google_page')
+    searcher = GoogleSearcher(data_dir_path, results_dir_path)
     searcher.search()
     return searcher
 

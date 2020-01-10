@@ -1,11 +1,9 @@
+from abc import abstractmethod
 from os import path
 from datetime import datetime
 
-from nicelka.engine.engine_factory import EngineFactory
-
 
 # TODO: write functional tests
-# TODO: handle https://krkgw.arimr.gov.pl/
 # TODO: move all files activities to separate class
 # TODO: narrow all Exceptions into more specific classes
 # TODO: add unit tests
@@ -19,14 +17,11 @@ class Searcher:
     def __init__(self,
                  data_dir_path='data',
                  results_dir_path='results',
-                 source='google_page',
                  skip_indirect_matches=True,
                  skip_duplicates=True):
         self._data_dir_path = data_dir_path
         self._cities_file = self._assemble_data_file_path('cities.txt')
-        self._keys_file = self._assemble_data_file_path('keys.txt')
         self._cities = self._get_cities()
-        self._keys = self._get_keys()
 
         self._skip_indirect_matches = skip_indirect_matches
         self._skip_duplicates = skip_duplicates
@@ -36,33 +31,16 @@ class Searcher:
         self._results_dir_path = results_dir_path
         self._results_file_path = None
 
-        self._engine = EngineFactory.get_engine(source)
-
     @property
     def results_file_path(self):
         return self._results_file_path
 
+    @abstractmethod
     def search(self):
-        self._results_file_path = self._assemble_result_file_path()
-        self._engine.start()
+        self._raise_not_implemented_error('search')
 
-        for city in self._cities:
-            self._add_city_header(city)
-
-            for key in self._keys:
-                results = []
-                try:
-                    results = self._engine.search(city, key)
-                except Exception:
-                    pass
-                finally:
-                    self._add_results(results, city, key)
-                    self._save_results()
-
-        self._add_results_count()
-        self._save_results()
-
-        self._engine.stop()
+    def _raise_not_implemented_error(self, method_name):
+        raise NotImplementedError('{} class missing required implementation of method: {}'.format(self.__class__.__name__, method_name))
 
     def _assemble_data_file_path(self, file_name):
         return path.join(self._data_dir_path, file_name)
@@ -71,32 +49,12 @@ class Searcher:
         with open(self._cities_file, encoding=self._FILE_ENCODING) as file:
             return [city.strip() for city in file.readlines()]
 
-    def _get_keys(self):
-        with open(self._keys_file, encoding=self._FILE_ENCODING) as file:
-            return [key.strip() for key in file.readlines()]
-
     def _assemble_result_file_path(self):
         return path.join(self._results_dir_path, '{}_raw.txt'.format(datetime.now()).replace(' ', '_').replace(':', '.'))
 
     def _add_city_header(self, city):
         self._results.append('=' * 70 + '\n')
         self._results.append(city + '\n\n')
-
-    def _add_results(self, results, city, key):
-        if results:
-            self._results.append('#' + key + '\n\n')
-
-            zip_code_prefix = self._get_zip_code_prefix(city)
-            city_name = self._get_city_name(city)
-
-            for result in results:
-                if self._skip_indirect_matches and self._is_indirect_match(result, city_name, zip_code_prefix):
-                    continue
-                if self._skip_duplicates and self._is_duplicate(result):
-                    continue
-                else:
-                    self._results.append(result + '\n')
-                    self._results_count += 1
 
     @staticmethod
     def _get_zip_code_prefix(city):
@@ -113,6 +71,9 @@ class Searcher:
 
     def _is_duplicate(self, result):
         return result + '\n' in self._results
+
+    def _add_results(self, *args, **kwargs):
+        self._raise_not_implemented_error('_add_results')
 
     def _add_results_count(self):
         self._results.append('Liczba znalezionych adresow: {}'.format(self._results_count))
