@@ -1,4 +1,7 @@
-from nicelka.searcher.searcher import Searcher
+from nicelka import GoogleSearcher, KrkgwSearcher
 
-searcher = Searcher()
-searcher.search()
+kola = KrkgwSearcher()
+kola.search()
+
+google = GoogleSearcher()
+google.search()

@@ -1,29 +1,35 @@
 from time import sleep
 
-from exceptbool import except_to_bool
-from selenium.common.exceptions import TimeoutException
+from exceptbool import except_converter
+from selenium.common.exceptions import TimeoutException, NoSuchElementException
 
 from nicelka.engine.web_page import WebPage
 
 
 class KrkgwPage(WebPage):
+    def __init__(self, executable_path='D:\\Program Files\\chromedriver.exe'):
+        super(KrkgwPage, self).__init__(executable_path=executable_path)
+        self._url = 'https://krkgw.arimr.gov.pl/'
+
     def search(self, city_name):
         self._enter_query(city_name)
         return self._get_results()
 
     def _enter_query(self, city_name):
-        self._driver.get(url='https://krkgw.arimr.gov.pl/')
-        self._close_cookies_info()
         search_input = self._driver.find_element_by_id('kgw')
+        search_input.clear()
         search_input.send_keys(city_name)
         search_button = self._driver.find_element_by_id('search')
         search_button.click()
 
     def _close_cookies_info(self):
         close_button_xpath = '/html/body/div[1]/div/a'
-        self._wait_for_element_by_xpath(close_button_xpath, timeout=20)
-        close_button = self._driver.find_element_by_xpath(close_button_xpath)
-        close_button.click()
+        try:
+            self._wait_for_clickability_by_xpath(close_button_xpath, timeout=0.2)
+            close_button = self._driver.find_element_by_xpath(close_button_xpath)
+            close_button.click()
+        except (TimeoutException, NoSuchElementException):
+            pass
 
     def _get_results(self):
         results = []
@@ -57,9 +63,12 @@ class KrkgwPage(WebPage):
 
         return results
 
-    @except_to_bool(exc=TimeoutException)
     def _is_result_present(self, timeout=10):
-        self._wait_for_element_by_xpath('//*[@id="kgwTable"]/tbody/tr/td[5]/button', timeout=timeout)
+        if self._is_alert_present():
+            return False
+        with except_converter(exc=TimeoutException) as result:
+            self._wait_for_element_by_xpath('//*[@id="kgwTable"]/tbody/tr/td[5]/button', timeout=timeout)
+            return result
 
     def _close_alert(self):
         self._driver.switch_to.alert.accept()

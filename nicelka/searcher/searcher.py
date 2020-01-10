@@ -4,6 +4,7 @@ from datetime import datetime
 
 
 # TODO: write functional tests
+# TODO: unhardcode D:\\Program Files\\chromedriver.exe
 # TODO: move all files activities to separate class
 # TODO: narrow all Exceptions into more specific classes
 # TODO: add unit tests

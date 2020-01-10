@@ -1,8 +1,9 @@
 from time import sleep
 from abc import abstractmethod
 
+from exceptbool import except_to_bool
 from selenium.webdriver import Chrome
-from selenium.common.exceptions import NoSuchElementException
+from selenium.common.exceptions import NoSuchElementException, NoAlertPresentException, TimeoutException
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import WebDriverWait
@@ -10,12 +11,15 @@ from selenium.webdriver.support.ui import WebDriverWait
 
 class WebPage:
     def __init__(self, executable_path='D:\\Program Files\\chromedriver.exe'):
+        self._url = None
         self._executable_path = executable_path
         self._driver = None
 
     def start(self):
         self._driver = Chrome(executable_path=self._executable_path)
         self._driver.maximize_window()
+        if self._url is not None:
+            self._driver.get(self._url)
 
     def stop(self):
         self._driver.close()
@@ -43,6 +47,10 @@ class WebPage:
 
     def _wait_for_clickability_by_xpath(self, xpath, timeout=5):
         WebDriverWait(self._driver, timeout).until(EC.element_to_be_clickable((By.XPATH, xpath)))
+
+    @except_to_bool(exc=(NoAlertPresentException, TimeoutException))
+    def _is_alert_present(self, timeout=0.1):
+        WebDriverWait(self._driver, timeout).until(EC.alert_is_present())
 
     def _back(self):
         self._driver.back()

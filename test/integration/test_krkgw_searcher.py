@@ -10,7 +10,8 @@ def test_cases():
     return ['single_result',
             'no_result',
             'two_results',
-            'multiple_results_indirect_matches']
+            'multiple_results_indirect_matches',
+            'single_result_twice']
 
 
 @fixture
@@ -70,6 +71,25 @@ def test_searcher_when_allowed_multiple_results_indirect_matches(create_results_
 
     data_dir_path, results_dir_path = _get_io_dir_paths(test_case='multiple_results_indirect_matches')
     searcher = _run_searcher(data_dir_path, results_dir_path, skip_indirect_matches=False)
+    _assert_result_file_content_equals(expected_result, searcher.results_file_path)
+
+
+def test_searcher_when_single_result_twice(create_results_dir, remove_results_dir):
+    expected_result = \
+        '======================================================================' + '\n' + \
+        '22-234 SĘKÓW' + '\n\n' + \
+        'KOŁO GOSPODYŃ WIEJSKICH "BUBNOWSKIE BABY"' + '\n' + \
+        'Sęków 15' + '\n' + \
+        '22-234 Sęków' + '\n\n' + \
+        '======================================================================' + '\n' + \
+        '21-421 ZASTAWIE' + '\n\n' + \
+        'Koło Gospodyń Wiejskich w Zastawiu' + '\n' + \
+        'Zastawie 47A' + '\n' + \
+        '21-421 Zastawie' + '\n\n' + \
+        'Liczba znalezionych adresow: 2'
+
+    data_dir_path, results_dir_path = _get_io_dir_paths(test_case='single_result_twice')
+    searcher = _run_searcher(data_dir_path, results_dir_path)
     _assert_result_file_content_equals(expected_result, searcher.results_file_path)
 
 
