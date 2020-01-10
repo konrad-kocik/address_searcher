@@ -51,7 +51,7 @@ def test_searcher_when_single_result(create_results_dir, remove_results_dir):
         'Urząd Gminy Konopnica' + '\n' + \
         'Kozubszczyzna 127a' + '\n' + \
         '21-030 Motycz' + '\n\n' + \
-        'Liczba znalezionych adresow: 1_kalisz'
+        'Liczba znalezionych adresow: 1'
 
     data_dir_path, results_dir_path = _get_io_dir_paths(test_case='single_result')
     searcher = _run_searcher(data_dir_path, results_dir_path)
