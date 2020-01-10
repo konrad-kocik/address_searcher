@@ -5,7 +5,7 @@ from pytest import fixture
 from nicelka import GoogleSearcher
 
 
-@fixture
+@fixture(scope='module')
 def test_cases():
     return ['no_result',
             'single_result',
@@ -14,7 +14,7 @@ def test_cases():
             'single_result_indirect_match_by_zip_code_tail']
 
 
-@fixture
+@fixture(scope='module')
 def create_results_dir(test_cases):
     for test_case in test_cases:
         _, result_dir_path = _get_io_dir_paths(test_case)
@@ -22,7 +22,7 @@ def create_results_dir(test_cases):
             os.mkdir(result_dir_path)
 
 
-@fixture
+@fixture(scope='module')
 def remove_results_dir(test_cases, request):
     def teardown():
         for test_case in test_cases:
