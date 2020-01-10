@@ -1,7 +1,7 @@
 from os import path
 from datetime import datetime
 
-from nicelka.engine.web_browser import WebBrowser
+from nicelka.engine.engine_factory import EngineFactory
 
 
 # TODO: write functional tests
@@ -19,6 +19,7 @@ class Searcher:
     def __init__(self,
                  data_dir_path='data',
                  results_dir_path='results',
+                 source='google_page',
                  skip_indirect_matches=True,
                  skip_duplicates=True):
         self._data_dir_path = data_dir_path
@@ -35,7 +36,7 @@ class Searcher:
         self._results_dir_path = results_dir_path
         self._results_file_path = None
 
-        self._engine = WebBrowser()
+        self._engine = EngineFactory.get_engine(source)
 
     @property
     def results_file_path(self):

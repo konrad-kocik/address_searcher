@@ -2,7 +2,7 @@ import os
 
 from pytest import fixture
 
-import nicelka
+from nicelka import Searcher
 
 
 @fixture
@@ -17,7 +17,7 @@ def test_cases():
 @fixture
 def create_results_dir(test_cases):
     for test_case in test_cases:
-        result_dir_path = os.path.join('results', test_case)
+        _, result_dir_path = _get_io_dir_paths(test_case)
         if not os.path.exists(result_dir_path):
             os.mkdir(result_dir_path)
 
@@ -26,7 +26,7 @@ def create_results_dir(test_cases):
 def remove_results_dir(test_cases, request):
     def teardown():
         for test_case in test_cases:
-            result_dir_path = os.path.join('results', test_case)
+            _, result_dir_path = _get_io_dir_paths(test_case)
             if os.path.exists(result_dir_path):
                 os.system('cmd /k "rmdir /Q /S {}"'.format(result_dir_path))
     request.addfinalizer(teardown)
@@ -98,11 +98,11 @@ def test_searcher_when_not_skipped_single_result_indirect_match_by_zip_code_tail
 
 
 def _get_io_dir_paths(test_case):
-    return os.path.join('data', test_case), os.path.join('results', test_case)
+    return os.path.join('data', 'google_page', test_case), os.path.join('results', 'google_page', test_case)
 
 
 def _run_searcher(data_dir_path, results_dir_path):
-    searcher = nicelka.Searcher(data_dir_path, results_dir_path)
+    searcher = Searcher(data_dir_path, results_dir_path, source='google_page')
     searcher.search()
     return searcher
 
