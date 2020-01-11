@@ -1,6 +1,6 @@
 from abc import abstractmethod
-from os import path
 
+from nicelka.gateway.gateway import Gateway
 from nicelka.reporter.reporter import Reporter
 
 # TODO: handle multiple result pages in KrkgwPage
@@ -24,11 +24,9 @@ class Searcher:
                  skip_indirect_matches=True,
                  skip_duplicates=True):
         self._engine = None
+        self._source = Gateway(data_dir_path)
+        self._cities = self._source.get_cities()
         self._reporter = Reporter(results_dir_path, self.engine_name)
-
-        self._data_dir_path = data_dir_path
-        self._cities_file = self._assemble_data_file_path('cities.txt')
-        self._cities = self._get_cities()
 
         self._skip_indirect_matches = skip_indirect_matches
         self._skip_duplicates = skip_duplicates
@@ -50,13 +48,6 @@ class Searcher:
 
     def _raise_not_implemented_error(self, method_name):
         raise NotImplementedError('{} class missing required implementation of method: {}'.format(self.__class__.__name__, method_name))
-
-    def _assemble_data_file_path(self, file_name):
-        return path.join(self._data_dir_path, file_name)
-
-    def _get_cities(self):
-        with open(self._cities_file, encoding=self._FILE_ENCODING) as file:
-            return [city.strip() for city in file.readlines()]
 
     def _add_city_header(self, city):
         self._results.append('=' * 70 + '\n')
