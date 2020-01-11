@@ -11,9 +11,14 @@ from selenium.webdriver.support.ui import WebDriverWait
 
 class WebPage:
     def __init__(self, executable_path='D:\\Program Files\\chromedriver.exe'):
+        self._name = 'unknown_engine'
         self._url = None
         self._executable_path = executable_path
         self._driver = None
+
+    @property
+    def name(self):
+        return self._name
 
     def start(self):
         self._driver = Chrome(executable_path=self._executable_path)

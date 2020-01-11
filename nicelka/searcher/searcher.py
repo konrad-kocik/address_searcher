@@ -5,6 +5,7 @@ from datetime import datetime
 
 # TODO: write functional tests
 # TODO: unhardcode D:\\Program Files\\chromedriver.exe
+# TODO: google_page should return more then max 3 results
 # TODO: move all files activities to separate class
 # TODO: narrow all Exceptions into more specific classes
 # TODO: add unit tests
@@ -20,6 +21,7 @@ class Searcher:
                  results_dir_path='results',
                  skip_indirect_matches=True,
                  skip_duplicates=True):
+        self._engine = None
         self._data_dir_path = data_dir_path
         self._cities_file = self._assemble_data_file_path('cities.txt')
         self._cities = self._get_cities()
@@ -31,6 +33,10 @@ class Searcher:
         self._results_count = 0
         self._results_dir_path = results_dir_path
         self._results_file_path = None
+
+    @property
+    def engine_name(self):
+        return None if self._engine is None else self._engine.name
 
     @property
     def results_file_path(self):
@@ -51,7 +57,7 @@ class Searcher:
             return [city.strip() for city in file.readlines()]
 
     def _assemble_result_file_path(self):
-        return path.join(self._results_dir_path, '{}_raw.txt'.format(datetime.now()).replace(' ', '_').replace(':', '.'))
+        return path.join(self._results_dir_path, '{}_{}.txt'.format(datetime.now(), self.engine_name).replace(' ', '_').replace(':', '.'))
 
     def _add_city_header(self, city):
         self._results.append('=' * 70 + '\n')

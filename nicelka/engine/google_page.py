@@ -8,13 +8,18 @@ from nicelka.engine.web_page import WebPage
 
 
 class GooglePage(WebPage):
+    def __init__(self, executable_path='D:\\Program Files\\chromedriver.exe'):
+        super(GooglePage, self).__init__(executable_path=executable_path)
+        self._name = 'google_page'
+        self._url = 'https://google.pl'
+
     def search(self, city, key):
         self._enter_query(city, key)
         return self._get_results()
 
     def _enter_query(self, city, key):
         sleep(1)
-        self._driver.get(url='https://google.pl')
+        self._driver.get(url=self._url)
         search_input = self._driver.find_element_by_name('q')
         search_input.send_keys('{} {} adres'.format(city, key))
         search_input.send_keys(Keys.ENTER)
