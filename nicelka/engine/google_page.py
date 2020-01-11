@@ -1,34 +1,31 @@
 from time import sleep
 
 from exceptbool import except_to_bool
-from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from selenium.common.exceptions import NoSuchElementException
 
+from nicelka.engine.web_page import WebPage
 
-class WebBrowser:
-    def __init__(self, executable_path='D:\Program Files\chromedriver.exe'):
-        self._executable_path = executable_path
-        self._driver = None
 
-    def start(self):
-        self._driver = webdriver.Chrome(executable_path=self._executable_path)
-        self._driver.maximize_window()
-
-    def stop(self):
-        self._driver.close()
-        self._driver = None
+class GooglePage(WebPage):
+    def __init__(self, executable_path='D:\\Program Files\\chromedriver.exe'):
+        super(GooglePage, self).__init__(executable_path=executable_path)
+        self._name = 'google_page'
+        self._url = 'https://google.pl'
 
     def search(self, city, key):
         self._enter_query(city, key)
-        return self._get_single_result() if self._is_single_result() else self._get_multiple_results()
+        return self._get_results()
 
     def _enter_query(self, city, key):
         sleep(1)
-        self._driver.get(url='https://google.pl')
+        self._driver.get(url=self._url)
         search_input = self._driver.find_element_by_name('q')
         search_input.send_keys('{} {} adres'.format(city, key))
         search_input.send_keys(Keys.ENTER)
+
+    def _get_results(self):
+        return self._get_single_result() if self._is_single_result() else self._get_multiple_results()
 
     @except_to_bool(exc=Exception)
     def _is_single_result(self):
@@ -73,14 +70,3 @@ class WebBrowser:
     @staticmethod
     def _format_address(address):
         return address.replace(', ', '\n')
-
-    def _wait_for_element_by_class_name(self, class_name):
-        try:
-            return self._driver.find_element_by_class_name(class_name)
-        except NoSuchElementException:
-            sleep(0.5)
-            return self._driver.find_element_by_class_name(class_name)
-
-    def _back(self):
-        self._driver.back()
-        sleep(1)
