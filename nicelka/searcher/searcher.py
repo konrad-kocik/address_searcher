@@ -11,6 +11,7 @@ from datetime import datetime
 # TODO: add unit tests
 # TODO: store results in custom classes
 # TODO: use REST API instead of Selenium?
+# TODO: add logger
 
 
 class Searcher:
