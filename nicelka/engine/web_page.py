@@ -1,5 +1,4 @@
 from time import sleep
-from abc import abstractmethod
 
 from exceptbool import except_to_bool
 from selenium.webdriver import Chrome
@@ -8,17 +7,15 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import WebDriverWait
 
+from nicelka.engine.engine import Engine
 
-class WebPage:
+
+class WebPage(Engine):
     def __init__(self, executable_path):
-        self._name = 'unknown_engine'
+        super(WebPage, self).__init__()
         self._url = None
         self._executable_path = executable_path
         self._driver = None
-
-    @property
-    def name(self):
-        return self._name
 
     def start(self):
         self._driver = Chrome(executable_path=self._executable_path)
@@ -29,13 +26,6 @@ class WebPage:
     def stop(self):
         self._driver.close()
         self._driver = None
-
-    @abstractmethod
-    def search(self, *args, **kwargs):
-        self._raise_not_implemented_error('search')
-
-    def _raise_not_implemented_error(self, method_name):
-        raise NotImplementedError('{} class missing required implementation of method: {}'.format(self.__class__.__name__, method_name))
 
     def _wait_for_element_by_class_name(self, class_name):
         try:
