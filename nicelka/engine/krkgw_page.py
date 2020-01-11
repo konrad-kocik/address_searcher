@@ -7,7 +7,7 @@ from nicelka.engine.web_page import WebPage
 
 
 class KrkgwPage(WebPage):
-    def __init__(self, executable_path='D:\\Program Files\\chromedriver.exe'):
+    def __init__(self, executable_path):
         super(KrkgwPage, self).__init__(executable_path=executable_path)
         self._name = 'krkgw_page'
         self._url = 'https://krkgw.arimr.gov.pl/'

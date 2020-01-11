@@ -8,7 +8,7 @@ from nicelka.engine.web_page import WebPage
 
 
 class GooglePage(WebPage):
-    def __init__(self, executable_path='D:\\Program Files\\chromedriver.exe'):
+    def __init__(self, executable_path):
         super(GooglePage, self).__init__(executable_path=executable_path)
         self._name = 'google_page'
         self._url = 'https://google.pl'
