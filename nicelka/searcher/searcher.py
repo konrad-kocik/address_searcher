@@ -3,15 +3,18 @@ from os import path
 from datetime import datetime
 
 
+# TODO: handle multiple result pages in KrkgwPage
 # TODO: write functional tests
 # TODO: unhardcode D:\\Program Files\\chromedriver.exe
+# TODO: narrow all Exceptions into more specific classes
+# TODO: extract Engine class
 # TODO: google_page should return more then max 3 results
 # TODO: move all files activities to separate class
-# TODO: narrow all Exceptions into more specific classes
 # TODO: add unit tests
 # TODO: store results in custom classes
 # TODO: use REST API instead of Selenium?
 # TODO: add logger
+# TODO: add AI to evaluate results found
 
 
 class Searcher:

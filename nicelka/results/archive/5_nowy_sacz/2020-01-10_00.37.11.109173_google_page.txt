@@ -1,0 +1,6956 @@
+======================================================================
+33-300 NOWY SĄCZ
+
+#Urząd
+
+Urząd Miasta Nowego Sącza
+Rynek 1
+33-300 Nowy Sącz
+
+Urząd Skarbowy w Nowym Sączu
+Władysława Barbackiego 10
+33-300 Nowy Sącz
+
+Sądecki Urząd Pracy
+Węgierska 146
+33-300 Nowy Sącz
+
+#Ośrodek
+
+Specjalny Ośrodek Szkolno-Wychowawczy w Nowym Sączu
+Władysława Broniewskiego 1
+33-300 Nowy Sącz
+
+Centrum
+33-300 Nowy Sącz
+
+Miejski Ośrodek Sportu i Rekreacji
+Jana Kilińskiego 47
+33-300 Nowy Sącz
+
+#Dom kultury
+
+Miejski Ośrodek Kultury
+Aleje Wolności 23
+33-300 Nowy Sącz
+
+Osiedlowy Dom Kultury
+Hugo Kołłątaja 13
+33-300 Nowy Sącz
+
+Małopolskie Centrum Kultury SOKÓŁ
+ul
+Jana Długosza 3
+33-300 Nowy Sącz
+
+#Szkoła
+
+szkoła
+Rokitniańczyków 26
+33-300 Nowy Sącz
+
+Zespół Szkół nr 4 w Nowym Sączu
+Świętego Ducha 6
+33-300 Nowy Sącz
+
+Państwowa Wyższa Szkoła Zawodowa w Nowym Sączu
+Stanisława Staszica 1
+33-300 Nowy Sącz
+
+#Przedszkole
+
+Przedszkole Galicyjskie
+33-300
+Nowy Sącz
+
+Ochronka. Katolickie Przedszkole Niepubliczne im. bł. E. Bojanowskiego
+Dąbrówki 32
+33-300 Nowy Sącz
+
+Przedszkole Językowo - Sportowe Niepubliczne
+Nawojowska 199
+33-300 Nowy Sącz
+
+#Akademia
+
+Akademia Maluszka - Przedszkole Nowy Sącz, Chełmiec
+Krakowska 91
+33-300 Nowy Sącz
+
+Akademia Przedszkolaka Magia - Niepubliczne Przedszkole w Nowym Sączu
+Urocza 27
+33-300 Nowy Sącz
+
+Akademia Transportu Drogowego
+Świętej Kunegundy 22
+33-300 Nowy Sącz
+
+#Uniwersytet
+
+Wyższa Szkoła Biznesu National Louis University
+Zielona 27
+33-300 Nowy Sącz
+
+#Biblioteka
+
+Sądecka Biblioteka Publiczna - Oddział dla dzieci
+Lwowska 21
+33-300 Nowy Sącz
+
+Biblioteka Publiczna Sądecka im. J. Szujskiego
+Franciszkańska 11
+33-300 Nowy Sącz
+
+Biblioteka Publiczna Sądecka. Filia os. Gołąbkowice
+Armii Krajowej 27
+33-300 Nowy Sącz
+
+#Szpital
+
+Szpital Specjalistyczny im. J. Śniadeckiego
+Młyńska 10
+33-300 Nowy Sącz
+
+Szpital Położniczo-Ginekologiczny MEDIKOR
+Rzemieślnicza 5
+33-300 Nowy Sącz
+
+Szpital w Nowym Sączu (Administracja)
+Młyńska 10
+33-300 Nowy Sącz
+
+#Przychodnia
+
+CenterMed Biegonice
+Węgierska 188
+33-300 Nowy Sącz
+
+Przychodnia w Nowym Sączu
+Stanisława Żółkiewskiego 11
+33-300 Nowy Sącz
+
+Remedium. Poradnie specjalistyczne
+Józefa Poniatowskiego 2
+33-300 Nowy Sącz
+
+#Placówka
+
+Placówka Opiekuńczo-Wychowawcza
+Leonida Teligi 24
+33-300 Nowy Sącz
+
+Centrum Administracyjne Placówek Opiekuńczo- Wychowawczych
+33-300
+Nowy Sącz
+
+Małopolski Urząd Wojewódzki - Placówka Zamiejscowa
+Jagiellońska 52
+33-300 Nowy Sącz
+
+#Bank
+
+Bank Spółdzielczy w Nowym Sączu Centrala
+Aleja Stefana Batorego 78
+33-300 Nowy Sącz
+
+Bank Spółdzielczy w Nowym Sączu, ul. I Brygady
+1 Brygady 6
+33-300 Nowy Sącz
+
+Santander Consumer Bank
+Jagiellońska 13
+33-300 Nowy Sącz
+
+#Oddział
+
+Dom Gotycki - oddział Muzeum Okręgowe w Nowym Sączu
+Lwowska 3
+33-300 Nowy Sącz
+
+#Wydział
+
+Starostwo Powiatowe w Nowym Sączu. Wydział Geodezji. Wydział Budownictwa.
+Strzelecka 1
+33-300 Nowy Sącz
+
+Sąd Rejonowy w Nowym Sączu
+Dr. Juliana Smolika 1
+33-300 Nowy Sącz
+
+#Policja
+
+Komenda Miejska Policji w Nowym Sączu
+Artura Grottgera 50
+33-300 Nowy Sącz
+
+#Prokuratura
+
+Prokuratura Okręgowa w Nowym Sączu
+Jagiellońska 56A
+33-300 Nowy Sącz
+
+Prokuratura Rejonowa w Nowym Sączu
+Ignacego Paderewskiego 26
+33-300 Nowy Sącz
+
+#Sąd
+
+Sąd Okręgowy
+Pijarska 3
+33-300 Nowy Sącz
+
+I Opiniodawczy Zespół Sądowych Specjalistów w Sądzie Okręgowym w Nowym Sączu
+Żeglarska 9B
+33-300 Nowy Sącz
+
+#Wojsko
+
+Wojskowa Komenda Uzupełnień
+Stefana Czarnieckiego 13
+33-300 Nowy Sącz
+
+#Przedsiębiorstwo
+
+Miejskie Przedsiębiorstwo Energetyki Cieplnej Sp. z o.o.
+Jeremiego Wiśniowieckiego 56
+33-300 Nowy Sącz
+
+Przedsiębiorstwo Robót Drogowo-Mostowych S.A.
+55,
+Jagodowa 33-300
+33-395 Nowy Sącz
+
+Surpap s.c.
+Stanisława Wyspiańskiego 3
+33-300 Nowy Sącz
+
+#Produkcja
+
+Meble Bugajski Zakład produkcji
+Tarnowska 164C
+33-300 Nowy Sącz
+
+Norlys Sp. z o.o.
+Zawiszy Czarnego 7
+33-300 Nowy Sącz
+
+STOLPOL MEBLE
+Jamnicka 73
+33-300 Nowy Sącz
+
+#Fabryka
+
+Bogdański. Fabryka okien i drzwi.
+Kolejowa 16
+33-300 Nowy Sącz
+
+Klub Fabryka
+Rynek 2
+33-300 Nowy Sącz
+
+#Zakłady
+
+Leśniak Wiesław. Zakłady mięsne
+Teodora Axentowicza 20a
+33-300 Nowy Sącz
+
+Zakład Produkcyjno-Szkoleniowy
+Wyspiańskiego 28
+33-300 Nowy Sącz
+
+Zakład Karny
+Pijarska 1
+33-300 Nowy Sącz
+
+#Grupa
+
+F.H. GRUPA SYSTEM Paweł Mliczek
+Zdrojowa 39
+33-300 Nowy Sącz
+
+GRUPAKRYNICKI 🎯 🏙 - ekspresy do kawy, YATOGASTRO, herbata, CARIMALI, kawa Julius Meinl ✅✅
+Węgierska
+33-300 Nowy Sącz
+
+Iguana Gastro / Grupa Iguana💪🏻gastronomia☕️,urządzenia gastronomiczne♨️,SMEG Nowy Sącz👍🏻stalgast
+Tarnowska 153A
+33-300 Nowy Sącz
+
+#Agencja
+
+Sądecka Agencja Rozwoju Regionalnego S.A.
+Jagiellońska 14
+33-300 Nowy Sącz
+
+A-4. Agencja projektowa
+33-300 Nowy Sącz; al. marsz. Piłsudskiego 46
+
+Agencja Restrukturyzacji i Modernizacji Rolnictwa
+Józefa Ignacego Kraszewskiego 44
+33-300 Nowy Sącz
+
+#Spółka
+
+TECHNOBUD Nowy Sącz Sp. z o. o. Sp. k.
+Grodzka 5
+33-300 Nowy Sącz
+
+NOVA Sp. z o.o.
+Śniadeckich 14
+33-300 Nowy Sącz
+
+#Spółdzielnia
+
+Grodzka Spółdzielnia Mieszkaniowa
+Grodzka 30
+33-300 Nowy Sącz
+
+Beskid. Spółdzielnia Mieszkaniowa
+Konstanty 12A
+33-300 Nowy Sącz
+
+Siła. Spółdzielnia Mieszkaniowa
+1 Brygady 73
+33-300 Nowy Sącz
+
+#Stowarzyszenie
+
+Stowarzyszenie Sursum Corda ("w górę serca")
+Lwowska 11
+33-300 Nowy Sącz
+
+Nadzieja. Stowarzyszenie Rodziców i Przyjaciół Dzieci Niepełnosprawnych Ruchowo i Umysłowo
+Jana Freislera 10
+33-300 Nowy Sącz
+
+Humaneo
+biuro
+Nawojowska 12
+33-300 Nowy Sącz
+
+#Klub
+
+Dawny Scream Club
+plac Dąbrowskiego 2A
+33-300 Nowy Sącz
+
+Klub Sportowy "Starówka" Nowy Sącz
+33-300 Nowy Sącz
+
+Winus Club
+Jana Kochanowskiego 30
+33-300 Nowy Sącz
+
+#Towarzystwo
+
+Sądeckie Towarzystwo Muzyczne
+Gabriela Narutowicza 6
+33-300 Nowy Sącz
+
+Lachy. Regionalne Towarzystwo Przyjaciół Spółdzielczego Zespołu
+Jagiellońska 31
+33-300 Nowy Sącz
+
+Towarzystwo Przyjaciół Sztuk Pięknych
+Jagiellońska 50a
+33-300 Nowy Sącz
+
+#Fundacja
+
+Fundacja Tarcza
+Jeremiego Wiśniowieckiego 125
+33-300 Nowy Sącz
+
+Fundacja im. dra Jerzego Masiora w Nowym Sączu
+Tarnowska 25
+33-300 Nowy Sącz
+
+#Poczta
+
+Poczta
+Śniadeckich 13
+33-300 Nowy Sącz
+
+Poczta Polska
+ul
+Antoniego Dunajewskiego 10
+33-300 Nowy Sącz
+
+Poczta Polska
+Samotna 11
+33-307 Nowy Sącz
+
+#Emeryci
+
+Polski Związek Emerytów, Rencistów i Inwalidów. Zarząd okręgowy
+Nawojowska 17A
+33-300 Nowy Sącz
+
+#Instytut
+
+Instytut Kultury Fizycznej PWSZ
+Tadeusza Kościuszki 2
+33-300 Nowy Sącz
+
+PWSZ w Nowym Sączu - Instytut Techniczny
+Ludwika Zamenhofa
+33-320 Nowy Sącz
+
+Instytut Języków Obcych PWSZ
+Jana Kochanowskiego 44
+33-300 Nowy Sącz
+
+#ZUS
+
+ZUS Oddział w Nowym Sączu
+Henryka Sienkiewicza 77
+33-300 Nowy Sącz
+
+#Izba lekarska
+
+Delegatura Okręgowej Izby Lekarskiej w Nowym Sączu
+Mikołaja Kopernika 18
+33-300 Nowy Sącz
+
+#Amazonki
+
+Stowarzyszenie Kobiet po Mastektomii Sądeckiego Klubu Amazonek
+Aleje Wolności 49
+33-300 Nowy Sącz
+
+#ZNP
+
+Ośrodek Usług Pedagogicznych i Socjalnych
+Gabriela Narutowicza 2
+33-300 Nowy Sącz
+
+#PZU
+
+PZU
+Tarnowska 18
+33-300 Nowy Sącz
+
+PZU Ubezpieczenia Nowy Sącz - Agent Paweł Rydwański
+Jagiellońska 38
+33-300 Nowy Sącz
+
+Oddział PZU - Nowy Sącz, Wolności
+Aleje Wolności 10
+33-300 Nowy Sącz
+
+#muzeum
+
+Muzeum Okręgowe w Nowym Sączu - Gmach Głowny
+Jagiellońska 56
+33-300 Nowy Sącz
+
+Sądecki Park Etnograficzny
+Gen. Wieniawy-Długoszowskiego 83B
+33-300 Nowy Sącz
+
+#Seniorzy
+
+Dom Pomocy Społecznej
+Nawojowska 159
+33-300 Nowy Sącz
+
+#Fundacja
+
+#Centrum
+
+Centrum
+Aleja Stefana Batorego 81
+33-300 Nowy Sącz
+
+Centrum Informacji Turystycznej
+Szwedzka 2
+33-300 Nowy Sącz
+
+Europa II Plaza Nowy Sącz
+Nawojowska 1
+33-300 Nowy Sącz
+
+#Seniora
+
+Dzienny Dom Seniora
+Jagiellońska 37
+33-300 Nowy Sącz
+
+#Emeryci
+
+#Niepełnosprawni
+
+Miejski Ośrodek Pomocy Społecznej w Nowym Sączu
+Żywiecka 13
+33-300 Nowy Sącz
+
+Nox. Fundacja Pomocy Osobom Fizycznie Niepełnosprawnym
+Jana Kochanowskiego 17
+33-300 Nowy Sącz
+
+#Inwalidzi
+
+Powiatowe Centrum Pomocy Rodzinie
+Jana Kilińskiego 72
+33-300 Nowy Sącz
+
+#Jeździecki
+
+Jazda Konna REVE
+Świt 7
+33-300 Nowy Sącz
+
+======================================================================
+LASKOWO
+
+#Ośrodek
+
+#Dom kultury
+
+#Szkoła
+
+#Przedszkole
+
+#Biblioteka
+
+#Szpital
+
+#Poczta
+
+#ZUS
+
+#PZU
+
+#Czerwony Krzyż
+
+#Centrum
+
+======================================================================
+32-731 BYTOMSKO
+
+#Dom kultury
+
+#Szkoła
+
+#Przedszkole
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#Produkcja
+
+Rozum Jan. Produkcja stołów i mebli
+Bytomsko 27
+32-731 Bytomsko
+
+#Spółka
+
+#Poczta
+
+Remiza Strażacka
+32-731 Bytomsko
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+======================================================================
+34-600 MORDARKA
+
+#Dom kultury
+
+Dom Weselny - Walek
+Mordarka 514
+34-600 Mordarka
+
+#Szkoła
+
+#Przedszkole
+
+Niepubliczne Przedszkole Integracyjne Chatka Małego Skrzatka
+34-600 Mordarka
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#Produkcja
+
+FUHP Stalkomplet S.C Walenty Szubryt Stanisław Bubula
+Mordarka dz.1236
+34-600
+
+#Stowarzyszenie
+
+LKS Mordarka
+34-600 Mordarka
+
+#Klub
+
+#Firma
+
+FIRMA ELEKTRYCZNO - BUDOWLANA PIOTR ZAPIÓR
+421
+34-600 Mordarka
+
+#ZUS
+
+#muzeum
+
+#Klub Seniora
+
+#Seniorzy
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+34-654 PISARZOWA
+
+#Dom kultury
+
+#Szkoła
+
+#Przedszkole
+
+Szkola Imienia Juzefa Gorszczyka
+Pisarzowa 456,
+34-654 Pisarzowa
+
+#Akademia
+
+Niepubliczny Żłobek "Bajkowa Akademia Maluszka" mgr Małgorzata Serafin-Łatka
+Pisarzowa 194
+34-654 Pisarzowa
+
+#Bank
+
+#Policja
+
+#Sąd
+
+#Produkcja
+
+Fabryka Smyczy S.C.
+Pisarzowa 426
+34-654 Męcina
+
+#Fabryka
+
+#Poczta
+
+#ZUS
+
+#PZU
+
+#muzeum
+
+Izba regionalna w Pisarzowej
+34-654 Pisarzowa
+
+======================================================================
+34-602 JAWORZNA
+
+#Szkoła
+
+Szkoła Podstawowa
+111
+34-602 Jaworzna
+
+#Przedszkole
+
+#Uniwersytet
+
+#Biblioteka
+
+#Spółka
+
+#PZU
+
+#muzeum
+
+#Czerwony Krzyż
+
+======================================================================
+32-725 RAJBRO
+
+#Ośrodek
+
+Delikatesy Centrum
+Rajbrot 625
+32-725 Rajbrot
+
+#Szkoła
+
+Szkoła Podstawowa Publiczna im. Jana Pawła II Zespołu Szkół
+Rajbrot 362
+32-725 Rajbrot
+
+#Przedszkole
+
+Przedszkole Samorządowe
+32-725 Rajbrot; 110
+32-725
+
+#Biblioteka
+
+Biblioteka Publiczna
+32-725 Rajbrot
+
+#Bank
+
+#Policja
+
+#Produkcja
+
+RAJ-MEB Piotr Czoch - producent mebli, kuchenne sypialniane salonowe szafy przesuwne wnęki
+Rajbrot 84
+32-725 Rajbrot
+
+#Klub
+
+Mała Chołpka
+Rajbrot 364
+32-725 Rajbrot
+
+#Poczta
+
+Agencja Pocztowa
+32-725 Rajbrot; 60
+32-725
+
+Ochotnicza Straż Pożarna
+32-725 Rajbrot; 49
+32-725
+
+Parafia pw. Narodzenia NMP w Rajbrocie
+Rajbrot 43
+32-725 Rajbrot
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#Czerwony Krzyż
+
+#Klub Seniora
+
+======================================================================
+34-603 STRZESZYCE
+
+#Dom kultury
+
+#Szkoła
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#Produkcja
+
+Olivea Małopolska Sp. z o. o.
+Strzeszyce 115
+34-603 Ujanowice
+34-603
+
+#Spółka
+
+#Poczta
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+======================================================================
+34-654 MIĘCINA
+
+#Dom kultury
+
+#Szkoła
+
+#Przedszkole
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#Sąd
+
+#Produkcja
+
+#Fabryka
+
+#Zakład
+
+#Zakłady
+
+#Organizacja
+
+#Poczta
+
+#Instytut
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#muzeum
+
+#Centrum
+
+======================================================================
+34-603 UJANOWICE
+
+#Dom kultury
+
+#Szkoła
+
+Szkoła Podstawowa im. bł. Kingi
+Ujanowice 55
+34-603 Ujanowice
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+Bank Spółdzielczy w Limanowej. Punkt obsługi klienta
+Ujanowice 2
+34-603 Ujanowice
+
+#Policja
+
+#Sąd
+
+#Produkcja
+
+FPHU EKOPROMET
+Ujanowice 52
+34-603 Ujanowice
+
+#Zakład
+
+Zakład Remontowo-Budowlany BUDOLEX
+34-603 Ujanowice
+
+#Klub
+
+AKS UJANOWICE
+34-603 Ujanowice
+
+#Fundacja
+
+#Poczta
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#muzeum
+
+#Klub Seniora
+
+#Fundacja
+
+======================================================================
+32-861 IWKOWA
+
+#Urząd
+
+Urząd gminy Iwkowa
+Iwkowa 468
+32-861 Iwkowa
+
+#Ośrodek
+
+Gminny Ośrodek Kultury w Iwkowej
+Iwkowa 468
+32-861 Iwkowa
+
+#Dom kultury
+
+#Szkoła
+
+Publiczna Szkoła Podstawowa w Iwkowej Nagórzu
+32-861 Iwkowa; 463
+32-861
+
+Publiczne Gimnazjum w Iwkowej im. Jana Pawła II
+Iwkowa 525
+32-861 Iwkowa
+
+Publiczne Przedszkole
+Iwkowa 585
+32-861 Iwkowa
+
+#Przedszkole
+
+#Uniwersytet
+
+#Biblioteka
+
+Biblioteka Publiczna Gminna
+32-861 Iwkowa; 509
+32-861
+
+#Szpital
+
+#Przychodnia
+
+Medyk. NZOZ
+32-861 Iwkowa
+
+#Bank
+
+Bank Spółdzielczy Rzemiosła w Krakowie. Oddział
+32-861 Iwkowa; 546
+32-861
+
+#Produkcja
+
+Zakład Stolarski HEBAN
+Iwkowa 100
+32-861 Iwkowa
+
+#Zakłady
+
+Motak
+Iwkowa 787
+32-861 Iwkowa
+
+#Spółka
+
+#Związek
+
+Małopolski Klub Hodowców Królików Rasowych
+651
+32-861 Iwkowa
+
+#Stowarzyszenie
+
+IVA Iwkowa. Ludowy klub sportowy
+Iwkowa 482
+32-861 Iwkowa
+
+#Klub
+
+#Koło
+
+32-861
+Iwkowa
+Będzieszyna
+
+#Poczta
+
+Urząd Pocztowy
+32-861 Iwkowa; 509
+32-861
+
+Poczta Polska
+Iwkowa 32
+32-861 Iwkowa
+
+#ZUS
+
+#PZU
+
+#Czerwony Krzyż
+
+#Centrum
+
+Delikatesy Centrum
+Iwkowa 685
+32-861 Iwkowa
+
+======================================================================
+32-862 PORĄBKA IWKOWSKA
+
+#Dom kultury
+
+#Szkoła
+
+#Przedszkole
+
+#Szpital
+
+#Bank
+
+Bank Spółdzielczy w Limanowej. Oddział w Laskowej. Filia
+Porąbka Iwkowska 117
+32-862 Porąbka Iwkowska
+
+#Oddział
+
+#Policja
+
+#Sąd
+
+#Produkcja
+
+P.P.H.U. NITUS Piotr Nowak
+Drużków Pusty
+Porąbka Iwkowska 9
+32-862 Porąbka Iwkowska
+
+#Firma
+
+ReDrog s.c. Bożena Krzyżak & Wojciech Krzyżak
+Porąbka Iwkowska 32
+32-862 Porąbka Iwkowska
+
+#Poczta
+
+Paczkomat InPost
+Porąbka Iwkowska 74
+32-862 Porąbka Iwkowska
+
+OSP Porąbka Iwkowska
+32-862
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+PZU Ubezpieczenia Porąbka Iwkowska - Agent Joanna Żołna
+Porąbka Iwkowska 44
+32-862 Porąbka Iwkowska
+
+PZU Ubezpieczenia Porąbka Iwkowska Joanna Żołna
+Porąbka Iwkowska 44
+32-862 Porąbka Iwkowska
+
+#muzeum
+
+#Czerwony Krzyż
+
+======================================================================
+33-394 CHOMRANICE
+
+#Ośrodek
+
+Ośrodek Zdrowia w Chomranicach
+Chomranice 10
+33-394 Chomranice
+
+#Dom kultury
+
+Chomranice 71 Lagosz
+Skawa - Wysoka
+33-394
+
+#Szkoła
+
+Szkoła Podstawowa im. św. Jana Pawła II
+Chomranice 12
+33-394 Klęczany
+
+#Przedszkole
+
+#Uniwersytet
+
+#Biblioteka
+
+#Szpital
+
+#Przychodnia
+
+#Bank
+
+#Oddział
+
+Parafia Imienia Najświętszej Maryi Panny w Chomranicach
+33-394 Chomranice; 8
+33-394
+
+#Policja
+
+#Sąd
+
+#Grupa
+
+#Związek
+
+#Stowarzyszenie
+
+#Towarzystwo
+
+#Poczta
+
+Kościół parafialny pw. św Maksymiliana Marii Kolbego
+33-394 Chomranice; 8
+33-394
+
+#ZUS
+
+#PZU
+
+#muzeum
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+33-314 Łososina Dolna
+
+#Urząd
+
+Urząd Gminy
+300
+33-314 Łososina Dolna
+
+Poczta Polska
+Łososina Dolna 0
+33-314 Łososina Dolna
+
+#Ośrodek
+
+Centrum Kultury i Promocji Gminy Łososina Dolna
+Łososina Dolna 400
+33-314 Łososina Dolna
+
+#Dom kultury
+
+#Szkoła
+
+Gimnazjum Zespołu Szkół Podstawowo - Gimnazjalnych im. Jana Pawła II
+33-314 Łososina Dolna
+
+#Przedszkole
+
+Przedszkole Bajkowa Kraina
+Łososina Dolna 314
+33-314 Łososina Dolna
+
+Zespół Szkół w Łososinie Dolnej
+DK75 75
+33-314 Łososina Dolna
+
+#Uniwersytet
+
+#Politechnika
+
+#Bank
+
+Bank Spółdzielczy
+Łososina Dolna 285
+33-314 Łososina Dolna
+
+Euronet Polska Sp z o. o.
+ul. Łososina Dolna 290
+Biedronka
+33-314 Łososina Dolna
+
+#Oddział
+
+#Policja
+
+Policja w Łosinej Dolnej
+Łososina Dolna 400
+33-314 Łososina Dolna
+
+#Prokuratura
+
+Komisariat Policji w Łososinie Dolnej
+Łososina Dolna 400
+33-314 Łososina Dolna
+
+#Sąd
+
+#Produkcja
+
+Pajor Markowe Specjaly
+DK75 297
+33-314 Łososina Dolna
+
+#Zakład
+
+Gminny Komunalny Zakład Budżetowy
+Łososina Dolna 70
+33-314 Łososina Dolna
+
+#Zakłady
+
+#Agencja
+
+Veris Media
+Żbikowice 18
+33-314 Łososina Dolna
+
+#Spółka
+
+WIKAR Przedsiębiorstwo Budowlano-Transportowe Sp. z o. o.
+Łososina Dolna 108
+33-314 Łososina Dolna
+
+#Związek
+
+Aeroklub Podhalański im. Leopolda Kwiatkowskiego
+33-314 Łososina Dolna
+
+#Stowarzyszenie
+
+#Towarzystwo
+
+#Organizacja
+
+#Firma
+
+CENTRUM WYKOŃCZENIA WNĘTRZ KOLOR
+Łososina Dolna 334
+33-314 Łososina Dolna
+
+#Poczta
+
+#Emerytów
+
+#Instytucja
+
+#Instytut
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#Czerwony Krzyż
+
+#Seniorzy
+
+#Centrum
+
+#Seniorów
+
+#Emerytów
+
+#Niepełnosprawnych
+
+#Niepełnosprawni
+
+#Inwalidów
+
+======================================================================
+33-316 TROPIE
+
+#Dom kultury
+
+#Szkoła
+
+Kościół Świętych Andrzeja Świerada i Benedykta w Tropiu
+Tropie 6
+33-316 Rożnów
+
+#Przedszkole
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#Stowarzyszenie
+
+#Poczta
+
+Parafia Świętych Pustelników Andrzeja Świerada i Benedykta
+Tropie 6
+33-316 Rożnów
+
+#Instytucja
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#muzeum
+
+======================================================================
+33-312 TĘGOBORZE
+
+#Ośrodek
+
+Szkolenia Litwiński
+Tęgoborze 160
+33-312 Tęgoborze
+
+#Dom kultury
+
+#Szkoła
+
+Szkoła Podstawowa Publiczna im. mjr. pilota J. Iszkowskiego
+33-312 Tęgoborze; 128
+
+Zespół Szkół Ponadgimnazjalnych im. Władysława St. Reymonta
+Tęgoborze 193
+33-312 Tęgoborze
+
+Gimnazjum
+6
+33-312 Tęgoborze
+
+#Przedszkole
+
+Bajka
+33-312 Tęgoborze
+
+#Szpital
+
+#Przychodnia
+
+Samodzielny Publiczny Zakład Opieki Zdrowotnej
+ul. Św. Floriana 21
+33-312 Tęgoborze
+
+#Bank
+
+Bank Spółdzielczy w Łososinie Dolnej, Punkt Obsługi Klienta w Tęgoborzy
+Tęgoborze 320
+33-312 Tęgoborze
+
+#Oddział
+
+#Przedsiębiorstwo
+
+Przedsiębiorstwo Omega Świdnik 241
+Świdnik 241
+33-312 Tęgoborze
+
+#Produkcja
+
+P.P.H.U. EKO-MET
+Miodowa 12
+33-312 Tęgoborze
+
+#Zakład
+
+#Zakłady
+
+#Grupa
+
+Grupa Producentów Owoców Zelsad Sp. z o.o
+Radosna 13
+33-312 Tęgoborze
+
+#Instytut
+
+#ZUS
+
+#PZU
+
+Ekspert s.c. Biuro rachunkowe
+33-312 Tęgoborze; 291
+
+#Centrum
+
+Maxfol Centrum Folii. W. Pierzchała, J. Szczecina
+Miodowa
+33-312 Tęgoborze
+
+Delikatesy Centrum
+Sądecka 81
+33-312 Tęgoborze
+
+======================================================================
+33-393 MARCINKOWICE
+
+#Dom kultury
+
+#Szkoła
+
+Szkoła Podstawowa im. Marszałka Józefa Piłsudskiego
+33-393
+Marcinkowicka 132
+33-395 Marcinkowice
+
+Zespół Szkół im. Władysława Orkana
+Marcinkowice 1
+33-395 Marcinkowice
+
+#Przedszkole
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#Sąd
+
+#Produkcja
+
+Electro Welle. PPHU. Stanuch D.
+Marcinkowice 440
+33-393 Marcinkowice
+
+#Firma
+
+PPHU "GEORGE"
+Marcinkowice 351
+33-393 Marcinkowice
+
+#Poczta
+
+Kościół Niepokalanego Serca NMP w Marcinkowicach
+Marcinkowice 3
+33-273 Marcinkowice
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#muzeum
+
+Dwór Morawskich
+33-393 Marcinkowice
+
+#Centrum
+
+RED SHOT PAINTBALL
+Marcinkowice 34
+33-393 Marcinkowice
+
+Centrum Społeczno-Kulturalne w Marcinkowicach
+33-393 Marcinkowice
+
+======================================================================
+33-311 WIELOGŁOWY
+
+#Ośrodek
+
+WIŚNIOWSKI
+Wielogłowy 153
+33-311 Wielogłowy
+
+#Dom kultury
+
+#Szkoła
+
+Szkoła Podstawowa im. gen. Józefa Gizy w Wielogłowach
+Wielogłowy 56
+33-311 Wielogłowy
+
+#Przedszkole
+
+Niepubliczne Przedszkole Dzieciątka Jezus
+270A
+33-311 Wielogłowy
+
+Tęcza - Niepubliczny Punkt Przedszkolny
+Dąbrowa 109
+33-311 Wielogłowy
+
+#Szpital
+
+#Bank
+
+Bank Spółdzielczy w Nowym Saczu, Wielogłowy
+Wielogłowy 95
+33-311 Wielogłowy
+
+#Oddział
+
+#Policja
+
+#Produkcja
+
+#Fabryka
+
+#Zakład
+
+Zakład Przetwórstwa Mleczarskiego DOMINIK Sp. z o.o.
+Dąbrowa
+Wielogłowy 6a
+33-311 Wielogłowy
+
+#Zakłady
+
+#Grupa
+
+#Spółka
+
+#Klub
+
+Klub Sportowy Dabrovia Wielogłowy
+DK75
+33-311
+
+#Firma
+
+#Poczta
+
+Urząd Pocztowy Wielogłowy
+Wielogłowy 45
+33-300 Wielogłowy
+
+#Emerytów
+
+#Instytut
+
+#ZUS
+
+#PZU
+
+#Klub Seniora
+
+Pogodne Dni - Dom Seniora
+Dąbrowa
+Wielogłowy 220
+33-311 Wielogłowy
+
+#Seniorzy
+
+#Seniora
+
+#Seniorów
+
+#Emerytów
+
+#Inwalidów
+
+======================================================================
+33-312 ZNAMIROWICE
+
+#Ośrodek
+
+jacht klub znamirowice(ZNTK)
+63
+33-312
+Znamirowice - Łabuzówka
+33-318 Znamirowice
+
+#Dom kultury
+
+#Szkoła
+
+#Przedszkole
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#Sąd
+
+#Klub
+
+#Poczta
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#muzeum
+
+======================================================================
+33-316 RÓŻNÓW
+
+#Ośrodek
+
+#Dom kultury
+
+#Szkoła
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#Sąd
+
+#Produkcja
+
+#Stowarzyszenie
+
+#Koło
+
+#Poczta
+
+#Instytucja
+
+#ZUS
+
+#PZU
+
+#muzeum
+
+#Centrum
+
+======================================================================
+33-318 JELNA
+
+#Urząd
+
+#Dom kultury
+
+#Szkoła
+
+Jelna
+Jelna-Działy
+Jelna 95
+33-318 Jelna
+
+Stołówka Gminna
+Jelna 95
+33-318 Jelna
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#Sąd
+
+#Poczta
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#muzeum
+
+======================================================================
+33-318 GRÓDEK NAD DUNAJCEM
+
+#Urząd
+
+Urząd Gminy Gródek nad Dunajcem
+Gródek nad Dunajcem 54
+33-318 Gródek nad Dunajcem
+
+#Dom kultury
+
+#Szkoła
+
+Szkoła Podstawowa Zespołu Szkół
+Gródek nad Dunajcem 195
+33-318 Gródek nad Dunajcem
+
+Zespół Szkół w Gródku nad Dunajcem
+Gródek nad Dunajcem 195
+33-318 Gródek nad Dunajcem
+
+Szkoła Podstawowa im. Janusza Korczaka w Roztoce - Brzezinach
+Roztoka Brzeziny 211
+33-318 Gródek nad Dunajcem
+
+#Przedszkole
+
+#Politechnika
+
+Dunajec Sp. z o.o.
+DW975 54
+33-318 Gródek nad Dunajcem
+
+#Szpital
+
+#Przychodnia
+
+Gródmed. NZOZ. Bulzak, Ciszkowska
+DW975 54
+33-318 Gródek nad Dunajcem
+
+#Bank
+
+Bank Spółdzielczy w Nowym Sączu, oddział w Gródku nad Dunajcem
+Gródek nad Dunajcem 100
+33-318 Gródek nad Dunajcem
+
+#Oddział
+
+#Wydział
+
+#Policja
+
+Policja. Komenda Miejska w Nowym Sączu. Posterunek
+33-318 Gródek Nad Dunajcem; 57
+33-318
+
+#Sąd
+
+#Zakład
+
+Centrum Formacyjno - Rekolekcyjne Diecezji Tarnowskiej ARKA
+Gródek nad Dunajcem 153
+33-318 Gródek nad Dunajcem
+
+Onyks. Salon fryzjersko - kosmetyczny
+33-318 Gródek Nad Dunajcem; 178
+33-318
+
+#Spółka
+
+#Stowarzyszenie
+
+Urząd Stanu Cywilnego
+Gródek Nad Dunajcem; 54
+33-318
+
+#Klub
+
+Klub Muzyczny Hangar
+Sienna 104
+33-318 Gródek nad Dunajcem
+
+#Organizacja
+
+#Poczta
+
+Poczta Polska (Post Office - Gródek nad Dunajcem)
+Gródek nad Dunajcem 239
+33-318 Gródek nad Dunajcem
+
+#Emeryci
+
+#Emerytów
+
+#ZUS
+
+#Amazonki
+
+Ośrodek Pomocy Społecznej
+Gródek nad Dunajcem 170
+33-318 Gródek nad Dunajcem
+
+#PZU
+
+#Centrum
+
+Delikatesy Centrum
+Nad Dunajcem 10
+33-318 Gródek nad Dunajcem
+
+#Emeryci
+
+#Emerytów
+
+#Inwalidów
+
+#Jeździecki
+
+Stadnina Koni - Koński oGródek
+Gródek nad Dunajcem 40
+33-318 Gródek nad Dunajcem
+
+======================================================================
+32-840 Ruda KAMERALNA
+
+#Dom kultury
+
+#Szkoła
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#muzeum
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+33-318 PRZYDONICA
+
+#Urząd
+
+#Dom kultury
+
+#Szkoła
+
+Zespół Szkół
+Przydonica 24
+33-318 Gródek nad Dunajcem
+
+#Uniwersytet
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#Sąd
+
+#Spółka
+
+#Poczta
+
+Kapliczka w Przydonicy
+Przydonica 198
+33-318 Przydonica
+
+Parafia Matki Bożej Różańcowej w Przydonicy
+Przydonica 32
+33-318 Przydonica
+
+#Instytucja
+
+#ZUS
+
+#PZU
+
+#muzeum
+
+======================================================================
+33-318 BARTKOWA – POSADOWA
+
+#Urząd
+
+#Przychodnia
+
+#Bank
+
+#Produkcja
+
+#Poczta
+
+#ZUS
+
+#PZU
+
+======================================================================
+32-842 PALEŚNICA
+
+#Szkoła
+
+Zespół Szkolno - Przedszkolny
+115
+32-842 Paleśnica
+
+#Przedszkole
+
+#Uniwersytet
+
+#Poczta
+
+Poczta Polska
+32-842 Paleśnica
+
+#ZUS
+
+#PZU
+
+#muzeum
+
+#Klub Seniora
+
+======================================================================
+33-322 JASIENNA
+
+#Urząd
+
+#Szkoła
+
+Szkoła Podstawowa im. Mikołaja Kopernika w Jasiennej
+33-322 Jasienna
+
+#Przedszkole
+
+#Uniwersytet
+
+#Biblioteka
+
+#Policja
+
+#Sąd
+
+#muzeum
+
+======================================================================
+32-842 JAMNA
+
+#Ośrodek
+
+Dom św. Jacka. Duszpasterstwo akademickie Dominikanów
+Jamna
+32-842 Paleśnica
+
+#Szkoła
+
+#Przedszkole
+
+#Biblioteka
+
+#Policja
+
+#Poczta
+
+#ZUS
+
+#muzeum
+
+======================================================================
+33-322 KORZENNA
+
+#Urząd
+
+Urząd Gminy Korzenna
+33-322 Korzenna
+
+#Ośrodek
+
+Centrum Kultury w Korzennej
+Korzenna 475
+33-322 Korzenna
+
+#Szkoła
+
+#Przedszkole
+
+Niepubliczne Przedszkole Językowe BAJKA
+254
+322
+Korzenna 33
+33-322 Korzenna
+
+#Biblioteka
+
+Gminna Biblioteka Publiczna w Korzennej
+33-322 Korzenna
+
+#Szpital
+
+Ośrodek Zdrowia w Korzennej
+Korzenna 338
+33-322 Korzenna
+
+#Przychodnia
+
+Bena Cor s.c. Przychodnia lekarska NSZOZ. Biskup D., Szpilowska K.
+33-322 Korzenna; 425
+33-322
+
+#Policja
+
+Posterunek policji w korzennej
+145
+322
+Korzenna 33
+33-322 Korzenna
+
+#Sąd
+
+#Klub
+
+ULKS Korzenna
+Korzenna 342
+33-322 Korzenna
+
+#Poczta
+
+Poczta Polska
+Korzenna 325
+33-322 Korzenna
+
+#ZUS
+
+#PZU
+
+#Seniorzy
+
+======================================================================
+34-606 JASTRZĘBIE
+
+#Szkoła
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#Sąd
+
+Ochotnicza Straż Pożarna w Jastrzębiu
+34-606 Jastrzębie
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+======================================================================
+34-483 LIPNICA WIELKA
+
+#Urząd
+
+Urząd Gminy
+518
+34-483 Lipnica Wielka
+
+#Dom kultury
+
+#Przedszkole
+
+#Uniwersytet
+
+Zespół Szkół Ogólnokształcących w Lipnicy Wielkiej na Orawie
+Lipnica Wielka 523
+34-483 Lipnica Wielka
+
+#Politechnika
+
+Parafia św. Łukasza Ewangelisty w Lipnicy Wielkiej
+Lipnica Wielka 583
+34-483 Lipnica Wielka
+
+#Przychodnia
+
+Samodzielny Publiczny Zakład Opieki Zdrowotnej
+Lipnica Wielka 517
+34-483 Lipnica Wielka
+
+#Bank
+
+Bank Spółdzielczy w Jabłonce, Filia Lipnica Wielka
+Lipnica Wielka 567
+34-483 Lipnica Wielka
+
+#Policja
+
+#Produkcja
+
+#Zakład
+
+#Zakłady
+
+#Koło
+
+34-483
+Lipnica Wielka
+Kiczory
+
+#Towarzystwo
+
+#Organizacja
+
+#Poczta
+
+Poczta Polska
+Lipnica Wielka 567
+34-483 Lipnica Wielka
+
+#Emeryci
+
+#Emerytów
+
+#Instytut
+
+#Amazonki
+
+#PZU
+
+#muzeum
+
+#Czerwony Krzyż
+
+Parafia św. Łukasza Ewangelisty w Lipnicy Wielkiej (Church P.W. St. Luke)
+Lipnica Wielka 583
+34-483 Lipnica Wielka
+
+#Centrum
+
+#Koło gospodyń wiejskich
+
+#Uniwersytet Trzeciego Wieku
+
+#Emeryci
+
+#Emerytów
+
+#Niepełnosprawni
+
+#Inwalidów
+
+======================================================================
+33-322 WOJNAROWA
+
+#Szkoła
+
+Szkoła Podstawowa w Wojnarowej
+33-322 Wojnarowa
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Produkcja
+
+Krasiński Antoni. Wytwórnia patyczków do lodów
+Wojnarowa 127
+33-322 Wojnarowa
+
+#ZUS
+
+#PZU
+
+======================================================================
+34-600 SIEKIERCZYNA
+
+#Dom kultury
+
+#Przedszkole
+
+#Uniwersytet
+
+Szkoła Podstawowa nr 2
+Siekierczyna 326
+34-600 Siekierczyna
+
+#Biblioteka
+
+#Policja
+
+#Sąd
+
+#ZUS
+
+#ZNP
+
+#muzeum
+
+======================================================================
+33-182 POLICHTY
+
+#Ośrodek
+
+Ośrodek Edukacji Ekologicznej w Polichtach, Zespół Parków Krajobrazowych Województwa Małopolskiego
+Polichty 85
+33-182 Polichty
+
+#Biblioteka
+
+#Policja
+
+#Sąd
+
+#Poczta
+
+#PZU
+
+======================================================================
+33-192 BRUŚNIK
+
+#Biblioteka
+
+Biblioteka Publiczna W Bruśniku
+Bruśnik 43
+33-192 Bruśnik
+
+#Bank
+
+#Policja
+
+#Sąd
+
+#Poczta
+
+Poczta Polska
+Bruśnik 131
+33-192 Bruśnik
+
+======================================================================
+38-350 BRZANA
+
+#Urząd
+
+#Szkoła
+
+Szkoła Podstawowa w Brzanie
+Brzana 10
+38-350 Brzana
+
+#Przedszkole
+
+#Biblioteka
+
+#Szpital
+
+#Koło
+
+38-350
+Brzana
+Stróżna
+Bobowa
+Wilczyska
+Jankowa
+Brzana Dolna
+Siedliska
+Sędziszowa
+
+#Poczta
+
+#Instytucja
+
+#ZUS
+
+#ZNP
+
+======================================================================
+38-350 BOBOWA
+
+#Urząd
+
+Urząd Miejski w Bobowej
+Rynek 21
+38-350 Bobowa
+
+#Ośrodek
+
+Centrum Kultury i Promocji Gminy
+Grunwaldzka 18
+38-350 Bobowa
+
+#Dom kultury
+
+Sala widowiskowa Koronka
+Rynek
+38-350 Bobowa
+
+#Przedszkole
+
+Przedszkole Samorządowe
+258
+38-350 Bobowa
+
+#Uniwersytet
+
+ZESPÓŁ SZKÓŁ OGÓLNOKSZTAŁCĄCYCH w Bobowej
+Długoszowskich 1
+38-350 Bobowa
+
+#Przychodnia
+
+Bomed. Spółka partnerska. NZOZ
+Świętej Zofii 14
+38-350 Bobowa
+
+#Bank
+
+#Policja
+
+Policja. Posterunek
+Okrężna 9
+38-350 Bobowa
+
+#Produkcja
+
+Juhas-Bis. Produkcja art. mleczarskich. Gargula K.
+Jankowa 223
+38-350 Bobowa
+
+#Zakłady
+
+#Klub
+
+Klub Aikido Bobowa
+Zespół Szkół nr 1
+ul
+Bohaterów Bobowej 6
+38-350 Bobowa
+
+#Poczta
+
+Poczta Polska
+Pocztowa 2
+38-350 Bobowa
+
+#Instytucja
+
+Parafia Wszystkich Świętych w Bobowej
+Kolegiacka 1
+38-350 Bobowa
+
+#ZUS
+
+#muzeum
+
+#Klub Seniora
+
+======================================================================
+33-190 BOGONIOWICE
+
+#Ośrodek
+
+Delikatesy Centrum
+Bogoniowice 70 A
+33-190 Bogoniowice
+
+#Szkoła
+
+Szkoła Podstawowa
+33-190 Bogoniowice
+
+#Przedszkole
+
+#Biblioteka
+
+#Sąd
+
+#Zakład
+
+Zakład Mleczarski „MLEK-BOG” Marek Wołkowicz i wspólnicy sc
+Bogoniowice 33
+33-190 Ciężkowice
+
+#Zakłady
+
+#Firma
+
+FIRMA "BURNAT" sc
+Bogoniowice 112
+33-190 Bogoniowice
+
+#Poczta
+
+#muzeum
+
+======================================================================
+33-190 CIĘŻKOWICE
+
+#Urząd
+
+Urząd Gminy
+Tysiąclecia 19
+33-190 Ciężkowice
+
+#Ośrodek
+
+#Dom kultury
+
+#Biblioteka
+
+Biblioteka Publiczna Miejsko - Gminna
+Rynek 1
+33-190 Ciężkowice
+
+#Przychodnia
+
+Centrum Zdrowia. NZOZ
+Zdrowa 1
+33-190 Ciężkowice
+
+#Bank
+
+#Policja
+
+Komisariat Policji w Ciężkowicach
+Krynicka 31
+33-190 Ciężkowice
+
+#Produkcja
+
+Api Steel
+Pławna 64
+33-190 Ciężkowice
+
+#Klub
+
+#Poczta
+
+#Instytucja
+
+Parafia Pana Jezusa Miłosiernego i św. Andrzeja Apostoła w Ciężkowicach
+św. Andrzeja 8
+33-190 Ciężkowice
+
+#muzeum
+
+Muzeum Przyrodnicze im. Krystyny i Włodzimierza Tomków w Ciężkowicach
+3 Maja 34
+33-190 Ciężkowice
+
+#Czerwony Krzyż
+
+======================================================================
+33-190 ZBOROWICE
+
+#Dom kultury
+
+#Przedszkole
+
+Przedszkole Publiczne
+14
+33-190 Zborowice
+
+#Uniwersytet
+
+Szkoła Podstawowa im. Jana Kantego
+33-190 Zborowice; 5
+33-190
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#Klub
+
+#Poczta
+
+#ZUS
+
+======================================================================
+33-172 SIEDLISKA
+
+#Ośrodek
+
+Niepubliczny Zakład Opieki Zdrowotnej INMED
+Siedliska 231A
+33-172 Siedliska
+
+#Szkoła
+
+Szkoła Podstawowa
+33-172 Siedliska; 232
+
+#Biblioteka
+
+#Przychodnia
+
+#Bank
+
+#Policja
+
+#Sąd
+
+#ZUS
+
+#ZNP
+
+======================================================================
+33-331 STRÓŻE
+
+#Urząd
+
+Poczta Polska
+Stróże 31
+33-331 Stróże
+
+#Ośrodek
+
+Centrum Szkoleniowo - Rehabilitacyjne im. Ojca Pio
+33-331 Stróże
+
+#Przedszkole
+
+Niepubliczne Przedszkole Integracyjne im. Fundacji Polsat
+33-331 Stróże
+
+#Uniwersytet
+
+#Przychodnia
+
+#Bank
+
+#Policja
+
+#Zakłady
+
+Zakład Aktywności Zawodowej im. Matki Bożej Fatimskiej
+Stróże 622b
+33-331 Stróże
+
+#Stowarzyszenie
+
+Fundacja Pomocy Osobom Niepełnosprawnym
+Stróże 413
+33-331 Stróże
+
+#Towarzystwo
+
+#Fundacja
+
+#Poczta
+
+#PZU
+
+#muzeum
+
+Muzeum pszczelarstwa Stróże
+Stróże 235
+33-331 Stróże
+
+#Fundacja
+
+#Niepełnosprawnych
+
+#Niepełnosprawni
+
+======================================================================
+38-331 SZALOWA
+
+#Dom kultury
+
+#Szkoła
+
+#Przedszkole
+
+Przedszkole
+38-331 Szalowa
+
+#Akademia
+
+Szalowa Sport Arena Sp. z o.o.
+Szalowa 292
+38-331 Szalowa
+
+#Biblioteka
+
+Biblioteka Publiczna Gminna. Filia
+38-331 Szalowa
+
+#Policja
+
+#Produkcja
+
+Monika Meble Produkcja Mebli Tapicerowanych MMsofa
+Szalowa 505
+38-331 Szalowa
+
+#Spółka
+
+#Klub
+
+Akademia Piłkarska RESPECT
+Szalowa 292
+38-331 Szalowa
+
+#Koło
+
+38-331
+Szalowa
+Bieśnik
+
+#ZUS
+
+#muzeum
+
+#Klub Seniora
+
+======================================================================
+33-163 RZEPIENNIK STRZYŻEWSKI
+
+#Urząd
+
+Urząd Gminy Rzepiennik Strzyżewski
+Rzepiennik Strzyżewski 400
+33-163 Rzepiennik Strzyżewski
+
+#Ośrodek
+
+#Dom kultury
+
+#Szkoła
+
+#Uniwersytet
+
+Szkoła Podstawowa w Rzepienniku Strzyżewskim
+Rzepiennik Strzyżewski 402
+33-163 Rzepiennik Strzyżewski
+
+#Politechnika
+
+#Przychodnia
+
+Salubris Sp. z o.o. O. Rzepiennik
+33-163 Rzepiennik Strzyżewski; 396
+Droga Wojewódzka 980
+33-163 Rzepiennik Strzyżewski
+
+#Bank
+
+Bank Spółdzielczy Rzemiosła w Krakowie. Oddział w Rzepienniku Strzyżewskim
+33-163 Rzepiennik Strzyżewski; 376
+DW980
+33-163 Rzepiennik Strzyżewski
+
+#Policja
+
+#Sąd
+
+#Zakład
+
+#Spółka
+
+#Emerytów
+
+#ZUS
+
+#muzeum
+
+Muzeum Parafialne
+33-163 Rzepiennik Strzyżewski; 1
+33-163
+
+#Czerwony Krzyż
+
+Urząd Gminy Rzepiennik Strzyżewski (Municipal Office Rzepiennik Strzyżewski)
+Rzepiennik Strzyżewski 400
+33-163 Rzepiennik Strzyżewski
+
+#Diabetycy
+
+#Klub Seniora
+
+#Seniorów
+
+#Emerytów
+
+#Niepełnosprawnych
+
+#Niepełnosprawni
+
+#Inwalidów
+
+======================================================================
+38-322 LUŻNA
+
+#Urząd
+
+#Ośrodek
+
+#Dom kultury
+
+#Biblioteka
+
+#Przychodnia
+
+#Policja
+
+#Sąd
+
+#Stowarzyszenie
+
+#Klub
+
+#Koło
+
+#Towarzystwo
+
+#Poczta
+
+#ZUS
+
+#ZNP
+
+======================================================================
+33-167 TURZA
+
+#Dom kultury
+
+#Szkoła
+
+#Przedszkole
+
+Przedszkole Publiczne
+33-167 Turza
+
+#Uniwersytet
+
+#Biblioteka
+
+#Bank
+
+#Policja
+
+#Produkcja
+
+FHP Barbara Sp. z o.o. Wytwórnia pasz
+33-167 Turza
+
+#Spółka
+
+Firma handlowo-produkcyjna Barbara Spółka z o.o.
+Turza 195
+33-167 Turza
+
+#ZUS
+
+#PZU
+
+#muzeum
+
+======================================================================
+33-163 RZEPIENNIK BISKUPI
+
+#Urząd
+
+#Ośrodek
+
+#Dom kultury
+
+#Uniwersytet
+
+Szkoła Podstawowa
+33-163 Rzepiennik Biskupi; 292
+33-163
+
+#Przychodnia
+
+#Bank
+
+#Policja
+
+#Produkcja
+
+Rąpała Stanisław. Wyroby z drewna
+Rzepiennik Biskupi 218
+33-163 Rzepiennik Biskupi
+
+#Zakłady
+
+#Spółka
+
+#ZUS
+
+#muzeum
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+38-300 BYSTRA
+
+#Urząd
+
+#Ośrodek
+
+Niepubliczny Zakład Opieki Zdrowotnej Ośrodek Zdrowia Szymbark- Filia Bystra
+38-300 Bystra; 155
+
+#Szkoła
+
+#Przedszkole
+
+Samorządowe Przedszkole W Bystrej
+Bystra
+Gorlice 154
+38-300 Gorlice
+
+#Biblioteka
+
+#Przychodnia
+
+#Policja
+
+#Sąd
+
+#Firma
+
+JD ROLKA
+Bystra 212
+38-300 Bystra
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+======================================================================
+38-321 MOSZCZENICA
+
+#Urząd
+
+Urząd Gminy Moszczenica
+Samorządowa 4
+38-321 Moszczenica
+
+#Ośrodek
+
+Ośrodek Zdrowia w Moszczenicy Sp. z o.o.
+Samorządowa 5
+38-321 Moszczenica
+
+#Szkoła
+
+Szkoła Podstawowa im. Bronisława Wanata
+Samorządowa 5
+38-321 Moszczenica
+
+#Przedszkole
+
+Przedszkole Samorządowe Wesołe Krasnale
+524
+38-321 Moszczenica
+
+#Uniwersytet
+
+#Politechnika
+
+#Biblioteka
+
+Biblioteka Publiczna Gminna
+38-321 Moszczenica; 246
+38-321
+
+#Szpital
+
+#Przychodnia
+
+#Sąd
+
+#Spółdzielnia
+
+Spółdzielnia Usług Rolniczych W Moszczenicy
+Samorządowa 7
+38-321 Moszczenica
+
+#Koło
+
+38-321
+Moszczenica
+Łużna
+Staszkówka
+Turza
+
+#Fundacja
+
+FUNDACJA NA RZECZ WSPIERANIA OSÓB NIEPEŁNOSPRAWNYCH „WYJDŹ Z DOMU”
+Średnie 85
+38-321 Moszczenica
+
+#Poczta
+
+#ZUS
+
+#ZNP
+
+#muzeum
+
+#Klub Seniora
+
+#Fundacja
+
+#Centrum
+
+#Inwalidów
+
+======================================================================
+38-322 Mszanka
+
+#Szkoła
+
+Zespół Szkolno - Przedszkolny w Mszance
+38-332 Mszanka
+
+#Biblioteka
+
+#Bank
+
+#Policja
+
+#Sąd
+
+#Produkcja
+
+FHU MELDO - Producent mebli
+Mszanka 306
+38-322 Mszanka
+
+#Fabryka
+
+#Grupa
+
+Grupa DALAB Dariusz Bożek
+Mszanka 234
+38-322 Mszanka
+
+#ZUS
+
+#PZU
+
+======================================================================
+38-323 SITNICA
+
+#Biblioteka
+
+#Policja
+
+#Poczta
+
+======================================================================
+OMSZYNY
+
+#Dom kultury
+
+#Spółdzielnia
+
+#ZUS
+
+#Czerwony Krzyż
+
+======================================================================
+38-333 ZAGÓRZANY
+
+#Dom kultury
+
+#Szkoła
+
+Szkoła Podstawowa w Zagórzanach
+Zagórzany 230
+38-333 Zagórzany
+
+#Przedszkole
+
+Przedszkole
+38-333 Zagórzany; 235
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#Produkcja
+
+Zakład Metalowy Ebugno - przenośniki taśmowe
+Kwiatonowice 1
+38-333 Zagórzany
+
+#Zakład
+
+Elbur. Zakład elektromechaniczny. Burkot B.
+38-333 Zagórzany; 252
+38-333 Zagórzany
+
+#Spółka
+
+#Poczta
+
+Poczta Polska
+Zagórzany 226a
+38-333 Zagórzany
+
+#ZUS
+
+#PZU
+
+#Centrum
+
+Protex-Dent. Pracownia Protetyki Stomatologicznej. Gryboś Piotr
+Zagórzany 386
+38-333 Zagórzany
+
+#Seniorów
+
+Parafia św. Wawrzyńca w Zagórzanach
+38-333 Zagórzany
+
+======================================================================
+38-323 RÓŻNOWICE
+
+#Uniwersytet
+
+#Politechnika
+
+#Biblioteka
+
+#Przychodnia
+
+#Bank
+
+#Oddział
+
+#Policja
+
+#Zakłady
+
+#Agencja
+
+#Spółka
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#Centrum
+
+======================================================================
+38-247 OŁPINY
+
+#Urząd
+
+Urząd Pocztowy
+Ołpiny 89
+38-247 Ołpiny
+
+#Dom kultury
+
+Wiejski Dom Kultury
+38-247 Ołpiny
+
+#Szkoła
+
+Szkoła Podstawowa
+Ołpiny 451
+38-247 Ołpiny
+
+#Przedszkole
+
+Publiczne Przedszkole w Ołpinach
+Ołpiny 89
+38-247 Ołpiny
+
+#Biblioteka
+
+Biblioteka Publiczna
+38-247 Ołpiny
+
+#Szpital
+
+#Bank
+
+KANTOR WYMIANY WALUT OŁPINY
+Ołpiny 639,
+38-247 Ołpiny
+
+#Zakład
+
+Zakład Wyrobów z Drewna Czesław Ryba - Wooden Products Manufacturer
+Ołpiny 66
+38-247 Ołpiny
+
+#ZUS
+
+#PZU
+
+#Centrum
+
+Delikatesy Centrum
+Ołpiny 639
+38-247 Ołpiny
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+38-300 GORLICE
+
+#Przedszkole
+
+#Akademia
+
+Akademia Sportu
+Parkowa 4/4
+38-300 Gorlice
+
+#Biblioteka
+
+#Szpital
+
+Szpital Specjalistyczny im. Henryka Klimontowicza (Specialist Hospital. Henryka Klimontowicza)
+H. Klimontowicz
+Węgierska 21
+38-300 Gorlice
+
+#Przychodnia
+
+#Placówka
+
+Kasa Rolniczego Ubezpieczenia Społecznego. Placówka terenowa
+Mikołaja Kopernika 10
+38-300 Gorlice
+
+#Oddział
+
+Szpital Specjalistyczny im. Henryka Klimontowicza
+H. Klimontowicz
+Węgierska 21
+38-300 Gorlice
+
+#Wydział
+
+Wydział Komunikacji i Dróg Starostwo Powiatowe w Gorlicach
+Michalusa 18
+38-300 Gorlice
+
+#Policja
+
+Komenda Powiatowa Policji
+11 Listopada 56
+38-300 Gorlice
+
+#Prokuratura
+
+Prokuratura Rejonowa w Gorlicach
+Biecka 5
+38-300 Gorlice
+
+#Sąd
+
+Sąd Rejonowy w Gorlicach
+Biecka 5
+38-300 Gorlice
+
+#Przedsiębiorstwo
+
+Godrom Sp.z o.o. Przedsiębiorstwo drogowo - mostowe
+Zakole 9
+38-300 Gorlice
+
+#Fabryka
+
+Glinik - Niuw. Sp. z o.o.
+Józefa Michalusa 1
+38-300 Gorlice
+
+#Zakłady
+
+Monterm Sp. z o.o. Zakład instalacyjno - montażowy
+Dukielska 83
+38-300 Gorlice
+
+#Agencja
+
+Agencja Restrukturyzacji i Modernizacji Rolnictwa. Biuro Powiatowe w Gorlicach.
+Wincentego Pola 2
+38-300 Gorlice
+
+#Spółka
+
+Polska Spółka Gazownictwa Sp. z o.o., Oddział Zakład Gazowniczy w Krakowie, Gazownia w Gorlicach
+Kolejowa 2
+38-300 Gorlice
+
+#Związek
+
+Związek Gmin Ziemi Gorlickiej
+Biecka 9B
+38-300 Gorlice
+
+#Klub
+
+GKS Glinik Gorlice
+Henryka Sienkiewicza 15
+38-300 Gorlice
+
+#Towarzystwo
+
+#Emerytów
+
+Związek Emerytów i Rencistów Pożarnictwa RP Koło Gorlice
+11 Listopada 84
+38-300 Gorlice
+
+#ZUS
+
+ZUS Inspektorat w Gorlicach
+Władysława Jagiełły 14
+38-300 Gorlice
+
+#ZNP
+
+Związek Nauczycielstwa Polskiego. Zarząd oddziału
+Walerego Wróblewskiego 10
+38-300 Gorlice
+
+#Centrum
+
+#Seniora
+
+Dom Pomocy Społecznej
+Henryka Sienkiewicza 30
+38-300 Gorlice
+
+#Emerytów
+
+#Niepełnosprawnych
+
+Powiatowe Centrum Pomocy Rodzinie
+Słoneczna 7
+38-300 Gorlice
+
+#Niepełnosprawni
+
+#Inwalidzi
+
+#Inwalidów
+
+======================================================================
+33-363 MACIEJOWA
+
+#Szkoła
+
+#Policja
+
+#ZUS
+
+#ZNP
+
+#Czerwony Krzyż
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+MSZANICA
+
+#Ośrodek
+
+#Policja
+
+#Spółdzielnia
+
+#ZUS
+
+#Czerwony Krzyż
+
+#Klub Seniora
+
+======================================================================
+33-334 KAMIONKA WIELKA
+
+#Urząd
+
+Urząd Gminy Kamionka Wielka
+33-334
+
+#Ośrodek
+
+Ośrodek Pomocy Społecznej Kamionka Wielka
+Kamionka Wielka 253
+33-334 Kamionka Wielka
+
+#Szkoła
+
+Szkoła Podstawowa Nr 2 im. św. Kingi w Kamionce Wielkiej
+Kamionka Wielka 162
+33-334 Kamionka Wielka
+
+#Przedszkole
+
+Zespół Szkół Podstawowo - Gimnazjalnych w Kamionce Wielkiej
+Kamionka Wielka 154
+33-334 Kamionka Wielka
+
+#Politechnika
+
+#Biblioteka
+
+Gminna Biblioteka Publiczna w Kamionce Wielkiej
+33-334 Kamionka Wielka
+
+#Szpital
+
+#Przychodnia
+
+NZOZ BonusMed - Przychodnia lekarska, rehabilitacja Nowy Sącz, NFZ, Lekarz Joanna Wójtowicz
+Kamionka Wielka 465
+33-334
+
+#Policja
+
+#Sąd
+
+#Produkcja
+
+#Spółka
+
+#Klub
+
+#Organizacja
+
+Parafia Matki Bożej Nieustającej Pomocy w Kamionce Wielkiej
+Kamionka Wielka
+33-334
+
+#Poczta
+
+#Instytucja
+
+#Instytut
+
+Zakład Masarski Kmak
+Kamionka Wielka 501
+33-334 Kamionka Wielka
+
+#ZUS
+
+#Amazonki
+
+#ZNP
+
+#PZU
+
+#Czerwony Krzyż
+
+#Klub Seniora
+
+Dom opieki społecznej "Samarytanin"
+Kamionka Wielka 65
+33-334 Kamionka Wielka
+
+#Seniorzy
+
+#Centrum
+
+#Seniora
+
+#Seniorów
+
+#Niepełnosprawnych
+
+#Niepełnosprawni
+
+#Inwalidów
+
+#Jeździecki
+
+Tara Ośrodek Hipoterapii i Jeździectwa
+Kamionka Wielka 377
+33-334 Kamionka Wielka
+
+======================================================================
+33-333 CIENIAWA
+
+#Szkoła
+
+Szkola Podstawowa im. Kornela Makuszyńskiego w Cieniawie
+Cieniawa 186
+33-333 Cieniawa
+
+#Przedszkole
+
+Katolickie Niepubliczne Przedszkole "Lolek" w Cieniawie
+Cieniawa
+Ptaszkowa 402
+33-333 Ptaszkowa
+
+#Uniwersytet
+
+#Biblioteka
+
+#Przychodnia
+
+''KROMED'' S.C. Rejonowa Przychodnia Lekarska
+Cieniawa 196
+33-333 Cieniawa
+
+#Policja
+
+#Sąd
+
+#Spółka
+
+#Poczta
+
+#Klub Seniora
+
+======================================================================
+33-336 ŁABOWA
+
+#Urząd
+
+Urząd Gminy Łabowa
+Łabowa 38
+33-336 Łabowa
+
+#Ośrodek
+
+Centrum Rehabilitacji TUKAN 🏥 - szpital rehabilitacyjny, egzoszkielet, poradnia neurologiczna✅
+Łabowa 284
+33-336 Łabowa
+
+#Szkoła
+
+#Biblioteka
+
+Gminna Biblioteka Publiczna w Łabowej
+Łabowa 171
+33-336 Łabowa
+
+#Szpital
+
+Centrum Rehabilitacji TUKAN 🏥 - szpital rehabilitacyjny, egzoszkielet, poradnia neurologiczna✅ (Centrum Rehabilitacji TUKAN)
+Łabowa 284
+33-336 Łabowa
+
+#Przychodnia
+
+NZOZ "Lekarz Rodzinny" Łabowa 284
+Łabowa 49
+33-336 Łabowa
+
+#Bank
+
+#Policja
+
+#Sąd
+
+#Produkcja
+
+Fabryka Mebli Beskid - Producent Krzeseł, Stołów
+Łabowa 21
+33-336 Łabowa
+
+#Fabryka
+
+#Zakłady
+
+Zaczyk. Zakład przetwórstwa mięsnego
+Łabowa 176
+33-336 Łabowa
+
+#Firma
+
+Tesam S.C.
+Łabowa 33
+33-336 Łabowa
+
+#ZUS
+
+#muzeum
+
+Łabowa. Cerkiew i cmentarz.
+33-336 Łabowa
+
+#Uniwersytet Trzeciego Wieku
+
+#Jeździecki
+
+Stajnia terenowo-rajdowa Beskid | Stadnina koni
+Łabowa 108
+33-336 Łabowa
+
+======================================================================
+33-336 KOTÓW
+
+#Dom kultury
+
+#Biblioteka
+
+#Szpital
+
+#Klub
+
+#Poczta
+
+#PZU
+
+======================================================================
+33-334 BOGUSZA
+
+#Dom kultury
+
+#Biblioteka
+
+#Bank
+
+#Policja
+
+#Sąd
+
+#Firma
+
+Motylex
+Bogusza 73
+33-334 Bogusza
+
+#ZUS
+
+======================================================================
+33-333 PTASZKOWA
+
+#Ośrodek
+
+Centrum Sportów Zimowych Ptaszkowa
+Ptaszkowa 883
+33-333 Ptaszkowa
+
+#Dom kultury
+
+#Przedszkole
+
+#Biblioteka
+
+#Przychodnia
+
+Jazmed
+Ptaszkowa 850
+33-333 Ptaszkowa
+
+#Bank
+
+Łącki Bank Spółdzielczy - POK Ptaszkowa
+Ptaszkowa 898
+33-333 Ptaszkowa
+
+#Sąd
+
+#Koło
+
+33-333
+Ptaszkowa
+Grybów
+Cieniawa
+Mszalnica
+
+#Poczta
+
+#PZU
+
+#Klub Seniora
+
+#Centrum
+
+======================================================================
+33-330 SIOŁKOWA
+
+#Dom kultury
+
+#Szkoła
+
+Zespół Szkolno-Przedszkolny w Siołkowej
+Siołkowa 300
+33-330 Siołkowa
+
+#Przedszkole
+
+Przedszkole Samorządowe w Siołkowej
+Siołkowa 31
+33-330 Siołkowa
+
+#Uniwersytet
+
+#Biblioteka
+
+#Szpital
+
+#Oddział
+
+#Produkcja
+
+Browar Pilsweizer S.A.
+Siołkowa 264
+33-330 Siołkowa
+
+#Zakład
+
+Warsztat Terapii Zajęciowej w Siołkowej
+Siołkowa 31
+33-330 Siołkowa
+
+#Agencja
+
+#Spółka
+
+#Stowarzyszenie
+
+#Firma
+
+PROXTRIM - INNOVATIVE SOLUTIONS
+Siołkowa 330
+33-330 Siołkowa
+
+#ZUS
+
+#PZU
+
+#Seniorów
+
+#Niepełnosprawni
+
+======================================================================
+33-330 GRYBÓW
+
+#Ośrodek
+
+Ośrodek Szkoleniowo-Wypoczynkowy PW Szkolenia Konferencje Imprezy Noclegi
+Chłodna 16
+33-330 Grybów
+
+#Dom kultury
+
+Miejski Dom Kultury
+gen. Kościuszki 7
+Tadeusza Kościuszki 7
+33-330 Grybów
+
+#Szkoła
+
+#Uniwersytet
+
+Przedszkole
+Topolowa 3
+33-330 Grybów
+
+#Politechnika
+
+#Biblioteka
+
+Biblioteka Publiczna Miejska
+Rynek 12
+33-330 Grybów
+
+#Przychodnia
+
+S.N.Z.O.Z. "BOMED" Sp. z o.o.
+Tadeusza Kościuszki 17
+33-330 Grybów
+
+#Oddział
+
+ABM Solid S.a. Oddział WKS Grybów
+33-330 Grybów; gen. Kościuszki 33
+
+#Policja
+
+#Sąd
+
+#Produkcja
+
+WOODLAND S.C. J&P Szwarkowscy
+Spokojna 8
+33-330 Grybów
+
+#Zakłady
+
+Zakład Opiekuńczo - Leczniczy Caritas Diecezji Tarnowskiej
+Rynek 10
+33-330 Grybów
+
+#Spółdzielnia
+
+Spółdzielnia Mieszkaniowa W Grybowie
+Grunwaldzka 43
+33-330 Grybów
+
+#Klub
+
+#Poczta
+
+Poczta Polska
+Tadeusza Kościuszki 8
+33-330 Grybów
+
+#Instytut
+
+#PZU
+
+PZU Ubezpieczenia Grybów - Agent Wanda Matusik
+Rynek 12
+33-330 Grybów
+
+#muzeum
+
+Muzeum Parafialne w Grybowie
+Kościelna 2
+33-330 Grybów
+
+#Inwalidzi
+
+#Inwalidów
+
+======================================================================
+33-332 BINCZAROWA
+
+#Biblioteka
+
+#Szpital
+
+#Policja
+
+#Sąd
+
+#Poczta
+
+#ZUS
+
+#Klub Seniora
+
+======================================================================
+33-336 KAMIANNA
+
+#Ośrodek
+
+#Szkoła
+
+Pasieka "BARĆ" - Skansen
+Kamianna 17
+33-336 Kamianna
+
+#Uniwersytet
+
+#Biblioteka
+
+#Bank
+
+#Policja
+
+#Sąd
+
+#Zakład
+
+#Związek
+
+Dom Pszczelarza w Kamiannej
+33-336 Kamianna
+
+#Stowarzyszenie
+
+#Towarzystwo
+
+#Organizacja
+
+#Firma
+
+#ZUS
+
+======================================================================
+33-330 BIAŁA NIŻNA
+
+#Dom kultury
+
+#Szkoła
+
+Zespół Szkolno-Przedszkolny w Białej Niżnej
+Biała Niżna 495
+33-330 Biała Niżna
+
+#Przedszkole
+
+#Uniwersytet
+
+#Politechnika
+
+OSP w Białej Niżnej
+DW981
+33-330 Biała Niżna
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Produkcja
+
+Karpaty. Spółdzielnia Inwalidów. Zakład pracy chronionej
+Biała Niżna 5
+33-330 Biała Niżna
+
+#Spółka
+
+Goran Sp. z o.o.
+Biała Niżna 441
+33-330 Grybów
+
+#Spółdzielnia
+
+#Firma
+
+Transrol. FHU. Romańczyk A., 33-330 Biała Niżna; 468
+Osiedle Biała Wyżna 468
+33-330 Biała Niżna
+
+#Poczta
+
+#Emerytów
+
+#ZUS
+
+#Amazonki
+
+Kościół MB Różańcowej w Białej Niżnej
+Biała Niżna 394
+33-330 Grybów
+
+#PZU
+
+#Emerytów
+
+#Inwalidzi
+
+#Inwalidów
+
+======================================================================
+33-330 KĄCLOWA
+
+#Dom kultury
+
+#Szkoła
+
+Zespół Szkolno - Przedszkolny w Kąclowej. Szkoła Podstawowa
+Kąclowa 280
+33-330 Grybów
+
+#Przedszkole
+
+#Biblioteka
+
+Biblioteka Publiczna W Kąclowej
+33-330 Kąclowa
+
+#Bank
+
+#Policja
+
+#Sąd
+
+#Zakłady
+
+Zelek M., Garbacz J. Tartak s.c. Zakład przemysłu drzewnego
+33-330 Kąclowa; 13
+33-330
+
+#Stowarzyszenie
+
+Parafia Najświętszej Maryi Panny Wniebowziętej w Kąclowej
+Kąclowa 116
+33-330 Kąclowa
+
+#PZU
+
+#muzeum
+
+======================================================================
+33-380 BEREST
+
+#Dom kultury
+
+#Szkoła
+
+#Przedszkole
+
+#Uniwersytet
+
+Szkoła podstawowa
+Berest 14
+33-380 Berest
+
+#Biblioteka
+
+#Bank
+
+#Policja
+
+#Poczta
+
+#ZUS
+
+#ZNP
+
+#muzeum
+
+======================================================================
+33-332 FLORYNKA
+
+#Ośrodek
+
+Ośrodek Zdrowia
+33-332 Florynka
+
+#Szkoła
+
+Zespol Szkol we Floryce im.Jana Pawla II
+Florynka 64
+33-332
+Florynka
+
+#Przedszkole
+
+Przedszkole Niepubliczne Zgromadzenia Sióstr św. Józefa
+70
+33-332 Florynka
+
+#Biblioteka
+
+Biblioteka
+33-332 Florynka
+
+#Przychodnia
+
+#Policja
+
+#Sąd
+
+#Produkcja
+
+Dutka S.C.
+Florynka 215
+33-332 Florynka
+
+#ZUS
+
+#muzeum
+
+======================================================================
+33-332 WAWRZKA
+
+#Szkoła
+
+Szkoła Podstawowa im. św. Kingi w Wawrzce
+Wawrzka 61
+33-332 Wawrzka
+
+#Biblioteka
+
+#Policja
+
+#Sąd
+
+#Firma
+
+#Poczta
+
+#PZU
+
+#muzeum
+
+#Klub Seniora
+
+======================================================================
+38-315 BRUNARY
+
+#Szkoła
+
+Szkoła Podstawowa
+Brunary 50
+38-315 Brunary
+
+#Przedszkole
+
+#Uniwersytet
+
+#Biblioteka
+
+#Szpital
+
+#Policja
+
+#Firma
+
+Mega-Mix Firma handlowo-usługowa
+Brunary 42
+38-315 Uście Gorlickie
+
+#Poczta
+
+#ZUS
+
+#muzeum
+
+======================================================================
+38-312 ROPA
+
+#Dom kultury
+
+#Szkoła
+
+#Przedszkole
+
+#Biblioteka
+
+Gminna Biblioteka Publiczna w Ropie
+Ropa 780
+38-312 Ropa
+
+#Szpital
+
+#Przychodnia
+
+GAMED
+Ropa 680
+38-312 Ropa
+
+#Policja
+
+#Produkcja
+
+Revesen. Podłogi drewniane.
+38-312
+Ropa
+
+#Poczta
+
+Urząd Pocztowy
+Ropa 574
+38-312 Ropa
+
+#muzeum
+
+======================================================================
+38-315 Śnietnica
+
+#Szkoła
+
+#Szpital
+
+#Bank
+
+BANK SPÓŁDZIELCZY W GRYBOWIE
+Śnietnica 72
+38-315 Śnietnica
+
+#Produkcja
+
+Dreno
+Śnietnica 90
+38-315 Śnietnica
+
+#Związek
+
+Parafia św. Andrzeja Boboli w Śnietnicy
+Śnietnica 32
+38-315 Śnietnica
+
+#Towarzystwo
+
+#Emeryci
+
+#ZUS
+
+#Amazonki
+
+#PZU
+
+#Uniwersytet Trzeciego Wieku
+
+#Emeryci
+
+======================================================================
+38-315 CZARNA
+
+#Szkoła
+
+#Biblioteka
+
+#Bank
+
+#Produkcja
+
+Tab-Dom Budowa Domów Drewnianych Leszek Tabis
+Czarna 29
+38-315 Czarna
+
+#Poczta
+
+#muzeum
+
+======================================================================
+38-480 KLIMKÓWKA
+
+#Urząd
+
+Poczta Polska
+Zdrojowa 160
+38-480 Klimkówka
+
+#Szkoła
+
+Zespół Szkół Publicznych im. Jana Pawła II w Klimkówce
+Zdrojowa 49
+38-480 Klimkówka
+
+#Uniwersytet
+
+#Biblioteka
+
+#Policja
+
+#Produkcja
+
+FHU PRYMA Rolety Moskitiery Okna Plisy ( Krosno , Brzozów , Sanok )
+Kasztanowa 6
+38-480 Klimkówka
+
+#Zakład
+
+#Klub
+
+Stadion LKS Karpaty Klimkówka
+38-480 Klimkówka
+
+#ZUS
+
+#PZU
+
+#muzeum
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+38-311 SZYMBARK
+
+#Ośrodek
+
+Kasztel. Ośrodek konferencyjno - wystawienniczy.
+38-311 Szymbark
+
+#Szkoła
+
+Szkoła Podstawowa w Szymbarku im. św. Jana Pawła II
+Szymbark 464
+38-311 Szymbark
+
+#Przychodnia
+
+Niepubliczny Zakład Opieki Zdrowotnej Ośrodek Zdrowia Szymbark
+Szymbark 574
+38-311 Szymbark
+
+#Oddział
+
+Skansen Wsi Pogórzańskiej im. prof. Romana Reinfussa w Szymbarku
+38-311 Szymbark
+
+#Policja
+
+#Produkcja
+
+SMX Design - Producent nowoczesnych lamp i zegarów, usługi cięcia i grawerowania laserem.
+Szymbark 10
+38-311 Szymbark k Gorlic
+
+#Zakład
+
+#Poczta
+
+Poczta Polska
+Szymbark 501
+38-311 Szymbark
+
+#PZU
+
+#muzeum
+
+======================================================================
+34-723 BIELANKA
+
+#Szkoła
+
+Szkoła Podstawowa
+34-723 Bielanka; 29
+
+#Uniwersytet
+
+#Biblioteka
+
+#Produkcja
+
+FPH Partner - Frajkowski Janusz
+Bielanka 21
+34-723 Bielanka
+
+#Spółka
+
+#Klub Seniora
+
+======================================================================
+38-300 ROPICA POLSKA
+
+#Urząd
+
+Szkoła Podstawowa
+Ropica Polska 70
+38-300 Ropica Polska
+
+#Ośrodek
+
+Ośrodek Kultury Gminy Gorlice
+Ropica Polska 338
+38-300 Gorlice
+
+#Przedszkole
+
+#Akademia
+
+Zespół Szkół w Ropicy Polskiej
+Ropica Polska 70
+38-300 Ropica Polska
+
+#Uniwersytet
+
+#Politechnika
+
+#Biblioteka
+
+#Bank
+
+#Oddział
+
+#Policja
+
+#Sąd
+
+#Przedsiębiorstwo
+
+#Zakład
+
+#Agencja
+
+#Spółdzielnia
+
+#Koło
+
+#Firma
+
+AUROS Automatyka Robotyka Sterowanie PADOŁ Sp. J.
+38-300 Ropica Polska
+
+#Emeryci
+
+Parafia Miłosierdzia Bożego w Ropicy Polskiej
+Ropica Polska 489
+38-300 Ropica Polska
+
+#Emerytów
+
+#Instytucja
+
+#ZUS
+
+#Amazonki
+
+#ZNP
+
+#PZU
+
+#muzeum
+
+#Seniorzy
+
+#Seniorów
+
+#Uniwersytet Trzeciego Wieku
+
+#Emeryci
+
+#Emerytów
+
+#Niepełnosprawni
+
+#Inwalidów
+
+======================================================================
+38-315 KUNKOWA
+
+#Szkoła
+
+Mała. Szkoła Niepubliczna
+38-315 Kunkowa
+
+#Biblioteka
+
+#Policja
+
+======================================================================
+38-315 UŚCIE GORLICKIE
+
+#Urząd
+
+Urząd Gminy Uście Gorlickie
+80
+38-315 Uście Gorlickie
+
+#Dom kultury
+
+#Szkoła
+
+#Przedszkole
+
+Szkoła Podstawowa Uście Gorlickie
+Uście Gorlickie 186
+38-315 Uście Gorlickie
+
+#Politechnika
+
+#Biblioteka
+
+Biblioteka Publiczna
+38-315 Uście Gorlickie
+
+#Oddział
+
+Bank Spółdzielczy w Grybowie Oddział w Uściu Gorlickim
+Uście Gorlickie 177
+38-315 Uście Gorlickie
+
+#Wydział
+
+#Policja
+
+Policja. Posterunek
+Uście Gorlickie 160
+38-315 Uście Gorlickie
+
+#Sąd
+
+#Przedsiębiorstwo
+
+#Produkcja
+
+CMC Sp. z o.o.
+38-315 Uście Gorlickie; 14
+38-315
+
+#Spółka
+
+#Związek
+
+Ośrodek Pomocy Społecznej
+77
+38-315 Uście Gorlickie
+
+#Stowarzyszenie
+
+#Klub
+
+Klub Sportowy LKS Uście Gorlickie
+38-315 Uście Gorlickie
+
+#Poczta
+
+Poczta Polska
+Uście Gorlickie 81
+38-315 Uście Gorlickie
+
+#Emeryci
+
+#Emerytów
+
+#Instytucja
+
+Parafia rzymskokatolicka Matki Bożej Nieustającej Pomocy
+38-315 Uście Gorlickie
+
+#ZNP
+
+#muzeum
+
+#Czerwony Krzyż
+
+#Seniorów
+
+#Emeryci
+
+#Emerytów
+
+#Niepełnosprawnych
+
+#Niepełnosprawni
+
+======================================================================
+38-315 KWIATOŃ
+
+#Szkoła
+
+#Przedszkole
+
+#Biblioteka
+
+#Związek
+
+Cerkiew św. Paraskewy w Kwiatoniu
+38-315 Kwiatoń
+
+#Stowarzyszenie
+
+#Towarzystwo
+
+#muzeum
+
+======================================================================
+38-315 NOWICA
+
+#Biblioteka
+
+#Policja
+
+#Związek
+
+Stowarzyszenie Magurycz
+Nowica 13
+38-315 Nowica
+
+#Stowarzyszenie
+
+#Towarzystwo
+
+#Organizacja
+
+#Poczta
+
+#PZU
+
+#muzeum
+
+======================================================================
+38-307 SĘKOWA
+
+#Urząd
+
+Urząd Gminy Sękowa
+Sękowa 252
+38-307 Sękowa
+
+#Ośrodek
+
+Gminny Dom Kultury w Sękowej
+DW977 181
+38-307 Sękowa
+
+#Szkoła
+
+Zespół Szkolno-Przedszkolny w Sękowej
+38-307,
+Sękowa
+
+#Przedszkole
+
+#Biblioteka
+
+#Bank
+
+#Policja
+
+#Sąd
+
+#Produkcja
+
+RYNEK ROLEP TM Oddział Sękowa
+Sękowa 289
+38-307 Sękowa
+
+#Stowarzyszenie
+
+Parafia św. Józefa w Sękowej
+Sękowa 13
+38-307 Sękowa
+
+#Poczta
+
+Poczta Polska
+Sękowa 181
+38-307 Sękowa
+
+#ZUS
+
+#ZNP
+
+#muzeum
+
+Skansen Przemysłu Naftowego w Sękowej
+38-307 Sękowa
+
+#Centrum
+
+======================================================================
+34-451 TYLMANOWA
+
+#Ośrodek
+
+Wiejski Ośrodek Kultury
+34-451 Tylmanowa
+
+#Dom kultury
+
+#Szkoła
+
+Szkoła Podstawowa im. ks. Jana Twardowskiego w Tylmanowej
+Tylmanowa os. Mastalerze 32 B
+34-451 Tylmanowa
+
+#Przedszkole
+
+Przedszkole
+34-451 Tylmanowa
+
+#Akademia
+
+#Biblioteka
+
+#Policja
+
+#Koło
+
+34-451
+Tylmanowa
+Talafusy
+Klodne
+
+#Poczta
+
+Poczta Polska
+osiedle Rzeka 412
+34-451 Tylmanowa
+
+#PZU
+
+======================================================================
+33-390 ZABRZEŻ
+
+#Szkoła
+
+Szkoła Podstawowa w Zabrzeży
+33-390 Zabrzeż
+
+#Przedszkole
+
+#Biblioteka
+
+#Spółka
+
+Knap Sp. z o. o. Sp. k.-granity,piaskowce,łupki,kamień elewacyjny
+Zabrzeż 405
+33-390 Łącko
+
+#Firma
+
+Sandezia Sp. z o.o.
+Zabrzeż 248
+33-390 Zabrzeż
+
+#Poczta
+
+======================================================================
+33-390 ŁĄCKO
+
+#Urząd
+
+Urząd Gminy
+445
+33-390 Łącko
+
+#Ośrodek
+
+Ośrodek Pomocy Społecznej
+Łącko 445
+33-390 Łącko
+
+#Dom kultury
+
+Gminny Ośrodek Kultury
+Strażacka 29
+33-390 Łącko
+
+#Przedszkole
+
+Przedszkole Samorządowe
+33-390 Łącko
+
+#Uniwersytet
+
+Zespół Szkół im. św. Kingi w Łącku
+Łącko 26
+33-390 Łącko
+
+#Biblioteka
+
+Biblioteka Publiczna Gminna
+33-390 Łącko
+
+#Przychodnia
+
+Reni-med. NZOZ
+53
+33-390 Łącko
+
+#Wydział
+
+Zakład Gospodarki Komunalnej
+Szczawnicka 512
+33-390 Łącko
+
+#Policja
+
+#Zakład
+
+#Zakłady
+
+#Klub
+
+Pomnik J.Piłsudzkiego
+33-390 Łącko
+
+#Fundacja
+
+Fundacja Rozwoju Gminy Łącko
+Łącko 252
+33-390 Łącko
+
+#Poczta
+
+Poczta Polska (Post Office - Lacko)
+Łącko 770
+33-390 Łącko
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#Fundacja
+
+======================================================================
+33-390 MASZKOWICE
+
+#Dom kultury
+
+#Szkoła
+
+Szkoła Podstawowa
+27
+33-390 Maszkowice
+
+#Przedszkole
+
+#Uniwersytet
+
+#Politechnika
+
+#Biblioteka
+
+#Policja
+
+#Sąd
+
+#Produkcja
+
+Marko-Meble
+Maszkowice 13
+33-390 Łącko
+
+#ZUS
+
+#muzeum
+
+======================================================================
+33-389 OBIDZA
+
+#Ośrodek
+
+Obidza 438 - Dom z bali
+Obidza 438
+33-389 Jazowsko
+
+#Szkoła
+
+Szkoła Podstawowa Nr 1 w Obidzy
+33-389 Obidza
+
+#Przedszkole
+
+#Uniwersytet
+
+#Biblioteka
+
+#Szpital
+
+#Produkcja
+
+Groński Adam. Zakład stolarski. Okna, drzwi
+33-389 Obidza; 324
+
+#Zakład
+
+#Zakłady
+
+#Koło
+
+33-389
+Obidza
+Jazowsko
+Maszkowice
+Kadcza
+Brzyna
+Łazy Brzyńskie
+Gaboń
+
+#Poczta
+
+#ZUS
+
+#muzeum
+
+#Klub Seniora
+
+#Centrum
+
+======================================================================
+34-606 ŁUKOWICA
+
+#Ośrodek
+
+Gminny Ośrodek Pomocy Społecznej
+Łukowica 286
+34-606 Łukowica
+
+#Dom kultury
+
+Gminny Ośrodek Kultury (Municipal Culture Centre)
+Łukowica 349
+34-606 Łukowica
+
+#Szkoła
+
+Szkoła Podstawowa
+Szkoła Podstawowa Imienia Marii Skłodowskiej-Curie w Łukowicy
+34-606 Łukowica
+
+#Przychodnia
+
+Almedica
+Łukowica 349
+34-606 Łukowica
+
+#Sąd
+
+#Produkcja
+
+Traktor 4x4
+Łukowica 25
+34-606 Łukowica
+
+#Stowarzyszenie
+
+#Klub
+
+Uran Łukowica
+34-606 Łukowica
+
+#Poczta
+
+Urząd Pocztowy (Polish Post)
+Łukowica,34-606
+34-606
+
+#ZNP
+
+#PZU
+
+#muzeum
+
+#Centrum
+
+#Seniorów
+
+Urząd Gminy w Łukowicy
+Łukowica 334
+34-606 Łukowica
+
+======================================================================
+33-389 JAZOWSKO
+
+#Dom kultury
+
+#Szkoła
+
+Szkoła Podstawowa w Jazowsku
+Jazowsko 171
+33-389 Jazowsko
+
+#Szpital
+
+#Bank
+
+Łącki Bank Spółdzielczy - POK Jazowsko
+Jazowsko 322
+33-389 Jazowsko
+
+#Policja
+
+#Poczta
+
+#ZUS
+
+#PZU
+
+======================================================================
+34-604 STRONIE
+
+#Klub Seniora
+
+======================================================================
+34-606 OWIECZKA
+
+#Urząd
+
+#Dom kultury
+
+#Szkoła
+
+#Przedszkole
+
+#Poczta
+
+#ZNP
+
+#PZU
+
+#muzeum
+
+#Klub Seniora
+
+======================================================================
+33-388 GABOŃ
+
+#Szkoła
+
+#Przedszkole
+
+#Biblioteka
+
+#Policja
+
+#Sąd
+
+#Produkcja
+
+Meble Plus
+Gaboń
+Gołkowice Dolne 51
+33-388 Gołkowice Dolne
+
+#Stowarzyszenie
+
+Parafia Matki Bożej Częstochowskiej w Gaboni
+33-388 Gaboń; 221
+33-388
+
+#Koło
+
+33-388
+Gaboń
+Obidza
+Gołkowice Górne
+Gołkowice Dolne
+Skrudzina
+Praczka
+
+#Firma
+
+F.H.U. TRANS-KOS Florek Jerzy
+Gaboń 175
+33-388 Gaboń
+
+#ZUS
+
+#PZU
+
+======================================================================
+33-386 Podegrodzie
+
+#Urząd
+
+Urząd Gminy Podegrodzie
+Podegrodzie 248
+33-386 Podegrodzie
+
+#Dom kultury
+
+Gminny Ośrodek Kultury w Podegrodziu (municipal Cultural Center)
+33-386 Podegrodzie
+
+#Biblioteka
+
+Biblioteka Gminna w Podegrodziu
+Podegrodzie 525
+33-386 Podegrodzie
+
+#Przychodnia
+
+NZOZ Zdrowie Rodziny
+Podegrodzie 255
+33-386 Podegrodzie
+
+#Bank
+
+Bank Spółdzielczy w Podegrodziu (Cooperative Bank in Podegrodzie)
+Podegrodzie 223
+33-386 Podegrodzie
+
+#Policja
+
+#Produkcja
+
+Agrod
+Podegrodzie 376
+33-386 Podegrodzie
+
+#Zakład
+
+Czop Wiesław. Zakład remontowo - budowlany
+Podegrodzie 210a
+33-386 Podegrodzie
+
+#Klub
+
+Fit&Joy
+254
+Podegrodzie 33-386
+33-386 Podegrodzie
+
+#Fundacja
+
+#Organizacja
+
+#Instytut
+
+#ZUS
+
+#PZU
+
+#muzeum
+
+Muzeum Lachów Sądeckich
+Podegrodzie 525
+33-386 Podegrodzie
+
+#Czerwony Krzyż
+
+#Klub Seniora
+
+#Fundacja
+
+======================================================================
+33-386 GOSTWICA
+
+#Przedszkole
+
+#Biblioteka
+
+#Placówka
+
+Dom Bosko. Salezjańska Placówka Opiekuńczo - Wychowawcza
+220
+33-386 Gostwica
+
+#Policja
+
+#Sąd
+
+#Produkcja
+
+Meble Wygoński
+Gostwica 322
+33-386 Gostwica
+
+#Zakłady
+
+Zakład Przetwórstwa Mięsnego
+Gostwica 2
+33-386 Podegrodzie
+
+#Spółdzielnia
+
+Spółdzielnia Socjalna Osób Prawnych EkoAkcja
+Gostwica 27
+33-386 Gostwica
+
+#Stowarzyszenie
+
+Promyk
+Gostwica 27
+33-386 Gostwica
+
+#Poczta
+
+#PZU
+
+#muzeum
+
+#Niepełnosprawni
+
+Stowarzyszenie Rodziców Przyjaciół Dzieci i Osób Niepełnosprawnych "Promyk"
+Gostwica 27
+33-386 Gostwica
+
+#Inwalidów
+
+======================================================================
+33-386 BRZEZNA
+
+#Ośrodek
+
+NZOZ Zdrowie Rodziny - Ośrodek Zdrowia w Brzeznej
+Brzezna 311
+33-386 Chochorowice
+
+#Szkoła
+
+#Przedszkole
+
+Gminne Przedszkole w Brzeznej
+Brzezna 447
+33-386 Podegrodzie
+33-386
+
+#Biblioteka
+
+#Szpital
+
+#Przychodnia
+
+#Policja
+
+#Sąd
+
+#Produkcja
+
+Global-System Bramy przemysłowe, Systemy Przeładunkowe, Kurtyny Przeciwpożarowe
+Brzezna 495
+33-386 Brzezna
+
+#Zakład
+
+Sadowniczy Zakład Doświadczalny Instytutu Ogrodnictwa Brzezna Sp. z o.o.
+Brzezna 1
+33-386 Podegrodzie
+
+#Zakłady
+
+#Spółka
+
+#Związek
+
+Stowarzyszenie Integrowanej Produkcji Owoców "PODKARPACIE"
+Brzezna 1
+33-386 Brzezna
+
+#Fundacja
+
+Fundacja Europa+
+Brzezna 1
+33-386 Brzezna
+
+#Organizacja
+
+Dwór w Brzeznej
+Brzezna 1
+33-386 Brzezna
+
+#Firma
+
+#Instytut
+
+#ZUS
+
+#PZU
+
+#muzeum
+
+Kanta
+Brzezna 472
+33-386 Brzezna
+
+#Fundacja
+
+======================================================================
+36-200 PRZYSIETNICA
+
+#Urząd
+
+#Dom kultury
+
+#Przedszkole
+
+Zespół Szkół Nr 1 w Przysietnicy
+36-200 Przysietnica
+
+#Uniwersytet
+
+#Biblioteka
+
+#Przychodnia
+
+NZOZ Ośrodek Zdrowia w Przysietnicy
+Przysietnica 858
+36-200 Brzozów
+
+#Wydział
+
+#Policja
+
+#Prokuratura
+
+#Sąd
+
+#Spółdzielnia
+
+#Klub
+
+Stadion klubu piłkarskiego Iskra Przysietnica
+Bohaterów II Wojny Światowej
+36-200 Przysietnica
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#muzeum
+
+#Seniorów
+
+Ośrodek Turystyczny „Czardworek”
+Przysietnica 883
+36-200 Przysietnica
+
+======================================================================
+33-340 STARY SĄCZ
+
+#Urząd
+
+Urząd Miasta i Gminy Stary Sącz
+Stefana Batorego 25
+33-340 Stary Sącz
+
+#Przedszkole
+
+#Uniwersytet
+
+Uniwersytet Trzeciego Wieku
+Stefana Batorego 25A
+33-340 Stary Sącz
+
+#Politechnika
+
+Internat Międzyszkolny
+Daszyńskiego 19
+33-340 Stary Sącz
+
+#Biblioteka
+
+Powiatowa i Miejsko-Gminna Biblioteka Publiczna im. Wiktora Bazielicha w Starym Sączu
+Adama Mickiewicza 33
+33-340 Stary Sącz
+
+#Oddział
+
+BNP Paribas Bank Polska S.A. Oddział w Starym Sączu
+Rynek 20
+33-340 Stary Sącz
+
+#Wydział
+
+#Policja
+
+Komisariat Policji
+Źródlana 22
+33-340 Stary Sącz
+
+#Produkcja
+
+#Agencja
+
+Agencja Rezerw Materiałowych
+Węgierska 12
+33-340 Stary Sącz
+
+#Spółka
+
+Batim Transport Międzynarodowy i Spedycja sp.j.
+ul. Prymasa Stefana Wyszynskiego 9A
+Stary Sącz 33-340
+33-300 Stary Sącz
+
+#Spółdzielnia
+
+Grodzka Spółdzielnia Mieszkaniowa w Nowym Sączu. Zespół Administracji Budynków nr 4
+Osiedle Słoneczne 1
+33-340 Stary Sącz
+
+#Towarzystwo
+
+STOWARZYSZENIE NA RZECZ OSÓB NIEPEŁNOSPRAWNYCH “GNIAZDO”
+Rynek 5
+33-340 Stary Sącz
+
+#Fundacja
+
+#Firma
+
+#Poczta
+
+Poczta Polska
+ul
+Stefana Batorego 19
+33-340 Stary Sącz
+
+#Emeryci
+
+Urząd Stanu Cywilnego
+Stefana Batorego 25
+33-340 Stary Sącz
+
+#Instytucja
+
+Parafia Miłosierdzia Bożego w Starym Sączu
+Podegrodzka 12
+33-340 Stary Sącz
+
+#ZUS
+
+#Amazonki
+
+#PZU
+
+PZU Ubezpieczenia Stary Sącz - Agent Elżbieta Lekstan
+Morawskiego 5
+33-340 Stary Sącz
+
+#muzeum
+
+#Fundacja
+
+#Seniorów
+
+Dzienny Dom Seniora
+Kopernika 1
+33-340 Stary Sącz
+
+#Uniwersytet Trzeciego Wieku
+
+#Emeryci
+
+#Niepełnosprawnych
+
+#Niepełnosprawni
+
+======================================================================
+33-342 BARCICE
+
+#Ośrodek
+
+Las Vegas
+Barcice 550
+33-342 Barcice
+
+#Szkoła
+
+#Przedszkole
+
+Niepubliczne Przedszkole Sióstr Karmelitanek Dzieciątka Jezus
+33-342
+Barcice
+
+#Biblioteka
+
+Powiatowa i miejsko-gminna biblioteka publiczna im. W. Bazielicha w Starym Sączu filia w Barcicach
+DK87 53
+33-342 Barcice
+
+#Szpital
+
+Medyk. Niepubliczny Zakład Opieki Zdrowotnej (Niepubliczny Zakład Opieki Zdrowotnej Medyk Sp. z o.o.)
+Barcice 422
+33-342 Barcice
+
+#Przychodnia
+
+Medyk. Niepubliczny Zakład Opieki Zdrowotnej
+Barcice 422
+33-342 Barcice
+
+#Bank
+
+#Zakład
+
+#Organizacja
+
+#ZUS
+
+#PZU
+
+======================================================================
+33-342 BARCICE DOLNE
+
+#Ośrodek
+
+#Szkoła
+
+#Przedszkole
+
+#Biblioteka
+
+#Przychodnia
+
+#Policja
+
+#Sąd
+
+#Poczta
+
+#ZUS
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+33-395 CHEŁMIEC
+
+#Urząd
+
+Urząd Gminy
+Papieska 2
+33-395 Chełmiec
+
+#Ośrodek
+
+Gminny Ośrodek Pomocy Społecznej
+Marcinkowicka 6
+33-395 Chełmiec
+
+#Akademia
+
+#Uniwersytet
+
+#Biblioteka
+
+Biblioteka Publiczna Gminna
+Marcinkowicka 9
+33-395 Chełmiec
+
+#Wydział
+
+UG Chełmiec-Wydział Świadczeń Wychowawczych
+Marcinkowicka 25
+33-395 Chełmiec
+
+#Policja
+
+#Sąd
+
+#Zakład
+
+#Zakłady
+
+Zakłady Mięsne Szubryt
+Węgrzynek 50
+33-395 Chełmiec
+
+#Fundacja
+
+Fundacja Rozwoju Beskidu Wyspowego
+Łączna
+33-395 Chełmiec
+
+#Poczta
+
+Poczta Polska
+Marcinkowicka 11
+33-395 Chełmiec
+
+#ZUS
+
+#muzeum
+
+#Czerwony Krzyż
+
+#Fundacja
+
+======================================================================
+33-343 RYTRO
+
+#Urząd
+
+Urząd Gminy
+Rytro 265
+33-343 Rytro
+
+#Dom kultury
+
+#Przedszkole
+
+Przedszkole
+8
+33-343 Rytro
+
+#Biblioteka
+
+Biblioteka Publiczna Gminna
+33-343 Rytro
+
+#Szpital
+
+#Przychodnia
+
+Telmed S.c. NZOZ
+33-343 Rytro
+
+#Policja
+
+#Spółka
+
+TK TRANS Tokarczyk Agata i Jarosław - spółka jawna
+Rytro 550
+33-343 Rytro
+
+#Klub
+
+Nowosądecki Klub Okinawa Karate - Dojo Oshukan
+Rytro 541
+33-343 Rytro
+
+#Poczta
+
+#ZUS
+
+#PZU
+
+======================================================================
+33-335 Żeleźnikowa Wielka
+
+#Szkoła
+
+Szkoła Podstawowa
+216
+33-335 Żeleźnikowa Wielka
+
+#Przedszkole
+
+#Uniwersytet
+
+#Politechnika
+
+Parafia św. Michała Archanioła w Żeleźnikowej Wielkiej
+33-335 Żeleźnikowa Wielka
+
+#Biblioteka
+
+#Policja
+
+#Sąd
+
+#Spółdzielnia
+
+#Związek
+
+#Stowarzyszenie
+
+#Klub
+
+#Towarzystwo
+
+#Fundacja
+
+#Organizacja
+
+#Emeryci
+
+#Emerytów
+
+#ZUS
+
+#Amazonki
+
+#ZNP
+
+#muzeum
+
+Izba Regionalna w Żeleźnikowej Wielkiej
+Żeleźnikowa Wielka 3
+33-335 Żeleźnikowa Wielka
+
+#Czerwony Krzyż
+
+#Klub Seniora
+
+#Fundacja
+
+#Seniora
+
+#Seniorów
+
+#Koło gospodyń wiejskich
+
+#Emeryci
+
+#Emerytów
+
+#Niepełnosprawni
+
+#Inwalidów
+
+======================================================================
+33-343 SUCHA STRUGA
+
+#Ośrodek
+
+Ośrodek Wypoczynkowy "Słoneczny Stok"
+Sucha Struga 34
+33-343 Rytro
+
+#Przedszkole
+
+#Biblioteka
+
+#Policja
+
+#Sąd
+
+#Firma
+
+Geodezja i Kartografia Marcin Waligóra
+33-343 Sucha Struga; 148
+33-343
+
+#ZUS
+
+#PZU
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+33-335 Nawojowa
+
+#Urząd
+
+Urząd Gminy
+Ogrodowa 2
+33-335 Nawojowa
+
+#Dom kultury
+
+Gminny Ośrodek Kultury w Nawojowej
+Nawojowa 333
+33-335 Nawojowa
+
+#Biblioteka
+
+Gminna Biblioteka Publiczna w Nawojowej
+Nawojowa 25
+33-335
+
+#Policja
+
+Posterunek Policji w Nawojowej
+Nawojowa 69
+33-335 Nawojowa
+
+#Sąd
+
+#Produkcja
+
+HM Manufaktura Mebli - siedziba
+nowosądecka 27
+33-335 Nawojowa
+
+#Zakłady
+
+#Firma
+
+#ZUS
+
+#muzeum
+
+Opuszczony cmentarz
+33-335 Nawojowa
+
+#Uniwersytet Trzeciego Wieku
+
+#Jeździecki
+
+Jazda Konna Nowosądecki Ośrodek Jazdy Konnej i Hipoterapii "Beskid" Nawojowa
+PODKAMIENNE 10
+33-335 Nawojowa
+
+======================================================================
+33-300 PIĄTKOWA
+
+#Urząd
+
+#Szkoła
+
+Zespół Szkół w Piątkowej
+Piątkowa 1
+33-300 Nowy Sącz
+
+#Przedszkole
+
+#Uniwersytet
+
+#Biblioteka
+
+Biblioteka Publiczna W Piątkowej
+Piątkowa 321
+33-300 Nowy Sącz
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#Sąd
+
+#Produkcja
+
+STEEL BOX SZYMON SZCZUREK
+Piątkowa 201
+33-300 Nowy Sącz
+
+#Grupa
+
+Grupa Twardowski sp. z o.o.
+Piątkowa 201
+33-300 Nowy Sącz
+
+#Spółdzielnia
+
+#Klub
+
+#Fundacja
+
+#ZUS
+
+#PZU
+
+#muzeum
+
+#Fundacja
+
+======================================================================
+33-300 JAMNICA
+
+#Szkoła
+
+Szkoła Podstawowa w Jamnicy
+Jamnica 182
+33-300
+
+#Przedszkole
+
+#Uniwersytet
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#Sąd
+
+#Produkcja
+
+#Spółdzielnia
+
+#ZUS
+
+#muzeum
+
+======================================================================
+33-335 Homrzyska
+
+#Dom kultury
+
+#Biblioteka
+
+#Policja
+
+#Sąd
+
+#ZUS
+
+#PZU
+
+#muzeum
+
+======================================================================
+33-335 FRYCOWA
+
+#Urząd
+
+#Dom kultury
+
+#Biblioteka
+
+#Szpital
+
+#Przychodnia
+
+#Bank
+
+#Wydział
+
+#Policja
+
+#Zakład
+
+Zakład Budowlano-Kamieniarski Tadeusz Wojnarowski
+Frycowa 369
+33-335 Frycowa
+
+#Spółka
+
+Szkoła Podstawowa
+33-335 Frycowa
+
+#Poczta
+
+#ZUS
+
+#Jeździecki
+
+======================================================================
+33-334 MYSTKÓW
+
+#Dom kultury
+
+Wiejski Dom Kultury
+33-334 Mystków
+
+#Szkoła
+
+#Przedszkole
+
+faustynka
+Mystków 9
+33-334 Mystków
+
+#Biblioteka
+
+Biblioteka Publiczna
+33-334 Mystków
+
+#Policja
+
+#Zakład
+
+Auto-Złom
+Mystków
+33-334 Nowy Sącz
+
+#Zakłady
+
+#Związek
+
+#Emeryci
+
+Parafia Świętych Apostołów Filipa i Jakuba w Mystkowie
+Mystków 9
+33-334 Kamionka Wielka
+
+#Emerytów
+
+#Instytucja
+
+#ZUS
+
+#PZU
+
+#Koło gospodyń wiejskich
+
+#Emeryci
+
+#Emerytów
+
+======================================================================
+34-451 TYLMANOWA
+
+#Ośrodek
+
+#Dom kultury
+
+#Szkoła
+
+#Przedszkole
+
+#Akademia
+
+#Biblioteka
+
+#Produkcja
+
+#Koło
+
+#Poczta
+
+#PZU
+
+======================================================================
+34-450 KROŚCIENKO NAD DUNAJCEM
+
+#Urząd
+
+#Szkoła
+
+#Politechnika
+
+Willa Halina noclegi Krościenko nad Dunajcem
+Blachnickiego 10
+34-450 Krościenko nad Dunajcem
+
+#Szpital
+
+Samodzielny Publiczny Zakład Opieki Zdrowotnej (independent public health care)
+34-450 Krościenko nad Dunajcem
+
+#Przychodnia
+
+Samodzielny Publiczny Zakład Opieki Zdrowotnej
+34-450 Krościenko nad Dunajcem
+
+#Placówka
+
+Zespół Szkół Zawodowych i Placówek
+Jagiellońska 4
+34-450 Krościenko nad Dunajcem
+
+#Oddział
+
+Oddział Pieniński PTTK w Krościenku nad Dunajcem
+Jagiellońska 28
+34-450 Krościenko nad Dunajcem
+
+#Wydział
+
+Ratusz w Krościenku, Urząd Gminy
+Rynek 36
+34-450 Krościenko nad Dunajcem
+
+#Policja
+
+Komisariat Policji w Krościenku nad Dunajcem
+Mickiewicza 1
+34-450 Krościenko nad Dunajcem
+
+#Zakład
+
+Zakład Gospodarki Komunalnej
+34-450 Krościenko nad Dunajcem; Rynek 32
+
+#Zakłady
+
+#Towarzystwo
+
+#Fundacja
+
+Fundacja Dzieci Pienin
+Pienińska 2
+34-450 Krościenko nad Dunajcem
+
+#ZUS
+
+#Amazonki
+
+Urząd Stanu Cywilnego
+Rynek 35
+34-450 Krościenko nad Dunajcem
+
+#Czerwony Krzyż
+
+#Seniorzy
+
+Dzienny Ośrodek Opieki i Aktywizacji Osób Starszych
+Jagiellońska 55
+34-450 Krościenko nad Dunajcem
+
+#Fundacja
+
+#Seniora
+
+#Seniorów
+
+#Uniwersytet Trzeciego Wieku
+
+#Niepełnosprawnych
+
+Polskie Stowarzyszenie na rzecz Osób z Niepełnosprawnością Intelektualną. Koło w Szczawnicy
+Trzech Koron 1
+34-450 Krościenko nad Dunajcem
+
+#Niepełnosprawni
+
+======================================================================
+33-389 OBIDZA
+
+#Ośrodek
+
+#Szkoła
+
+#Przedszkole
+
+#Uniwersytet
+
+#Biblioteka
+
+#Produkcja
+
+#Zakład
+
+#Zakłady
+
+#Koło
+
+#ZUS
+
+#muzeum
+
+#Klub Seniora
+
+======================================================================
+34-460 SZCZAWNICA
+
+#Urząd
+
+Urząd Miasta i Gminy Szczawnica
+Szalaya 103
+34-460 Szczawnica
+
+#Dom kultury
+
+Miejski Ośrodek Kultury
+Główna 6
+34-460 Szczawnica
+
+#Szkoła
+
+#Uniwersytet
+
+Szkoła Podstawowa
+Pienińska 2
+34-460 Szczawnica
+
+#Biblioteka
+
+Biblioteka Publiczna Miejska
+Główna 6
+34-460 Szczawnica
+
+#Spółdzielnia
+
+Połoniny. Spółdzielnia Mieszkaniowa Lokatorsko - Własnościowa
+osiedle Połoniny 2
+34-460 Szczawnica
+
+#Koło
+
+34-460
+Szczawnica
+Jaworki
+Szlachtowa
+
+#Poczta
+
+Urząd Pocztowy
+Główna 25
+34-460 Szczawnica
+
+#ZNP
+
+Sanatorium Uzdrowiskowe Nauczyciel
+Połoniny 14
+34-460 Szczawnica
+
+#Uniwersytet Trzeciego Wieku
+
+Pieniński Uniwersytet Trzeciego Wieku
+Szalaya 84
+34-460 Szczawnica
+
+======================================================================
+34-460 SZLACHTOWA
+
+#Dom kultury
+
+#Szkoła
+
+Szkoła Podstawowa im. Jana Pawła II
+Jana Pawła II 25
+34-460 Szlachtowa
+
+#Przedszkole
+
+#Biblioteka
+
+#Spółka
+
+#Spółdzielnia
+
+#Poczta
+
+#muzeum
+
+Muzeum Pienińskie im. Józefa Szalaya w Szlachtowej
+Ciehliska 37
+34-460 Szlachtowa
+
+#Klub Seniora
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+34-460 JAWORKI
+
+#Urząd
+
+#Ośrodek
+
+Arena Narciarska Jaworki-Homole
+Zaskalskie 16
+34-460 Jaworki
+
+#Przedszkole
+
+#Biblioteka
+
+#Bank
+
+#Policja
+
+#Sąd
+
+#Klub
+
+#Instytut
+
+Stacja Badawcza w Jaworkach
+Biała Woda 12
+34-460 Jaworki
+
+#ZUS
+
+#muzeum
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+33-343 SUCHA STRUGA
+
+#Ośrodek
+
+#Przedszkole
+
+#Biblioteka
+
+#Szpital
+
+#Policja
+
+#Sąd
+
+#Firma
+
+#ZUS
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+33-350 KOKUSZKA
+
+#Dom kultury
+
+#Biblioteka
+
+#Bank
+
+#Policja
+
+#Koło
+
+Kokuszka. Stacja narciarska (Kokuszka. ski station)
+Kokuszka 2
+33-350 Kokuszka
+
+#Poczta
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+======================================================================
+33-350 PIWNICZNA ZDRÓJ
+
+#Urząd
+
+#Dom kultury
+
+#Szkoła
+
+#Biblioteka
+
+#Przychodnia
+
+#Placówka
+
+#Policja
+
+#Sąd
+
+#Produkcja
+
+#Zakład
+
+#Zakłady
+
+#Agencja
+
+#Spółka
+
+#Spółdzielnia
+
+#Poczta
+
+#Instytucja
+
+#ZUS
+
+#ZNP
+
+#muzeum
+
+#Czerwony Krzyż
+
+#Seniorzy
+
+#Seniora
+
+#Seniorów
+
+#Niepełnosprawni
+
+#Inwalidów
+
+#Jeździecki
+
+======================================================================
+33-350 Wierchomla Wielka
+
+#Szkoła
+
+#Politechnika
+
+Dom "Karolina" w Wierchomli Wielkiej
+15
+Wierchomla Wielka 33-350
+33-352 Wierchomla Wielka
+
+#Biblioteka
+
+#Bank
+
+Bankomat BPS
+33-350
+Wierchomla Mała
+Wierchomla Wielka 42
+33-352 Wierchomla Wielka
+
+#Zakład
+
+Agroturystyka Jan i Ela Żywczak - noclegi, pokoje do wynajęcia, apartamenty, narty Wierchomla Wielka
+Wierchomla Wielka 121
+33-350 Wierchomla Wielka
+
+#Związek
+
+#Stowarzyszenie
+
+#Organizacja
+
+#ZUS
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+33-350 Wierchomla Mała
+
+#Ośrodek
+
+Dwie Doliny Muszyna - Wierchomla
+Wierchomla Mała 42
+33-350 Wierchomla Mała
+
+#Szkoła
+
+Szkoła Narciarska Dwie Doliny
+Wierchomla Mała 21
+33-350 Wierchomla Mała
+
+#Uniwersytet
+
+#Politechnika
+
+#Biblioteka
+
+#Policja
+
+#Sąd
+
+#Zakład
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+33-336 UHRYŃ
+
+#Dom kultury
+
+#Szkoła
+
+#Przedszkole
+
+#Uniwersytet
+
+#Biblioteka
+
+#Policja
+
+#Sąd
+
+#ZUS
+
+#muzeum
+
+#Klub Seniora
+
+======================================================================
+33-370 ŻEGIESTÓW
+
+#Ośrodek
+
+Wiejski Ośrodek Zdrowia Przychodnia
+Żegiestów 77A
+33-370 Żegiestów
+
+#Szkoła
+
+#Biblioteka
+
+#Przychodnia
+
+#Policja
+
+#Klub
+
+Skalniak
+Żegiestów 111 A
+33-370 Żegiestów
+
+#Koło
+
+#Fundacja
+
+Polski Zespół Humanitarny
+Żegiestów 29
+33-370 Żegiestów
+
+#ZUS
+
+#PZU
+
+#muzeum
+
+#Fundacja
+
+======================================================================
+33-370 SZCZAWNIK
+
+#Dom kultury
+
+#Szkoła
+
+#Uniwersytet
+
+#Biblioteka
+
+#Policja
+
+#Sąd
+
+#PZU
+
+#muzeum
+
+#Klub Seniora
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+33-370 ZŁOCKIE
+
+#Ośrodek
+
+Alpina Sport
+Złockie 76
+33-370 Złockie
+
+#Szkoła
+
+Zespół Szkolno - Przedszkolny w Złockiem
+33-370 Złockie; 69
+
+#Uniwersytet
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#Produkcja
+
+Sopel Sp. z o.o. Rozlewnia wód mineralnych. Adamus J., Lalik J.
+Złockie 18b
+33-370
+
+#Poczta
+
+#PZU
+
+#muzeum
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+33-370 MUSZYNA
+
+#Przedszkole
+
+#Uniwersytet
+
+Zespół Szkolno - Przedszkolny w Muszynie
+Rynek 13
+33-370 Muszyna
+
+#Biblioteka
+
+Biblioteka Publiczna
+Rynek 31
+33-370 Muszyna
+
+#Przychodnia
+
+Samodzielny Publiczny Zakład Podstawowej Opieki Zdrowotnej w Muszynie
+Zefirka 6
+33-370 Muszyna
+
+#Bank
+
+#Oddział
+
+PKO Bank Polski S.A.-Oddział 1 w Muszynie
+Rynek 31
+33-370 Muszyna
+
+#Wydział
+
+Sąd Rejonowy w Muszynie
+Antoniego Kity 18
+33-370 Muszyna
+
+#Prokuratura
+
+Prokuratura Rejonowa w Muszynie
+Piłsudskiego 25
+33-370 Muszyna
+
+#Produkcja
+
+Rozlewnia Wody Muszynianka
+Lipowa 5
+33-370 Muszyna
+
+#Fabryka
+
+Spływy Popradem Fabryka Endorfiny - Muszyna
+Aleja Zdrojowa
+33-370 Muszyna
+
+#Zakład
+
+#Zakłady
+
+Przedsiębiorstwo Gospodarki Komunalnej Sp. z o.o.
+Piłsudskiego 128
+33-370 Muszyna
+
+#Spółka
+
+#Spółdzielnia
+
+Krynicka Spółdzielnia Mieszkaniowa Lokatorsko - Własnościowa
+33-370 Muszyna
+
+#Klub
+
+Poprad Muszyna
+Słoneczna 1
+33-370 Muszyna
+
+#Poczta
+
+Urząd Pocztowy
+Rynek 24
+33-370 Muszyna
+
+#Instytut
+
+Instytut Zdrowia Człowieka
+Dr Mściwujewskiego 1
+33-370 Muszyna
+
+#PZU
+
+#muzeum
+
+#Seniora
+
+Dom Pomocy Społecznej
+Zielona 26
+33-370 Muszyna
+
+======================================================================
+33-336 ROZTOKA WIELKA
+
+#Uniwersytet
+
+#Biblioteka
+
+#Szpital
+
+#Policja
+
+#Sąd
+
+#Koło
+
+Firma Handlowo Usługowa Klinjon Jan Klimczak
+Roztoka Wielka 67
+33-336 Roztoka Wielka
+
+#PZU
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+33-370 JASTRZĘBIK
+
+#Urząd
+
+#Dom kultury
+
+#Szkoła
+
+Szkoła Podstawowa
+Jastrzębik; 25
+33-370
+
+#Uniwersytet
+
+#Biblioteka
+
+#Szpital
+
+#Policja
+
+#Sąd
+
+#ZUS
+
+#PZU
+
+#muzeum
+
+#Klub Seniora
+
+======================================================================
+33-336 KRZYŻÓWKA
+
+======================================================================
+33-380 KRYNICA ZDRÓJ
+
+#Urząd
+
+#Ośrodek
+
+#Dom kultury
+
+#Szkoła
+
+#Uniwersytet
+
+#Politechnika
+
+#Biblioteka
+
+#Szpital
+
+#Placówka
+
+#Bank
+
+#Policja
+
+#Sąd
+
+#Wojsko
+
+#Przedsiębiorstwo
+
+#Produkcja
+
+#Zakład
+
+#Zakłady
+
+#Grupa
+
+GOPR Krynica Zdrój
+Halna 18
+33-380 Krynica-Zdrój
+
+#Spółka
+
+#Stowarzyszenie
+
+#Klub
+
+#Towarzystwo
+
+#Poczta
+
+Krynica Zdrój poczta (Krynica Zdroj mail)
+Zdrojowa 28
+33-380 Krynica-Zdrój
+
+#Instytut
+
+#ZNP
+
+#Czerwony Krzyż
+
+#Seniorów
+
+#Niepełnosprawni
+
+======================================================================
+33-370 POWROŹNIK
+
+#Ośrodek
+
+DW Janosik
+Powroźnik 44
+33-370 Powroźnik
+
+#Szkoła
+
+Zespół Szkolno - Przedszkolny
+42
+33-370 Powroźnik
+
+#Przedszkole
+
+#Uniwersytet
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#Spółka
+
+Witecki Jerzy, Kawula Marek. Przedsiębiorstwo produkcyjne - usługowo - handlowe sp.j.
+Powroźnik 188
+33-370 Powroźnik
+
+#Stowarzyszenie
+
+Cerkiew św. Jakuba w Powroźniku
+Droga Wojewódzka 971 28
+33-370 Powroźnik
+
+#Towarzystwo
+
+Parafia rzymskokatolicka
+33-370 Powroźnik; 50
+33-370
+
+#ZUS
+
+#PZU
+
+#muzeum
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+33-383 MOCHNACZKA WYŻNA
+
+#Uniwersytet
+
+#Biblioteka
+
+#Szpital
+
+#Produkcja
+
+TABASZEWSKI Zakład Drzewny
+Mochnaczka Wyżna 108
+33-380 Krynica-Zdrój
+
+#PZU
+
+#muzeum
+
+======================================================================
+33-370 WOJKOWA
+
+#Uniwersytet
+
+#Szpital
+
+#Policja
+
+#PZU
+
+#muzeum
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+33-383 MOCHNACZKA NIŻNA
+
+#Uniwersytet
+
+#Biblioteka
+
+#Koło
+
+#Poczta
+
+#ZNP
+
+======================================================================
+33-380 CZYRNA
+
+#Dom kultury
+
+#Szkoła
+
+Szkoła Podstawowa w Czyrnej
+Czyrna 37
+33-380 Czyrna
+
+#Przedszkole
+
+#Uniwersytet
+
+#Biblioteka
+
+#Policja
+
+#Koło
+
+Ranczo Czyrna
+Czyrna 1
+33-380 Krynica Zdrój
+
+#Poczta
+
+#ZNP
+
+#muzeum
+
+======================================================================
+33-383 TYLICZ
+
+#Dom kultury
+
+#Szkoła
+
+Szkoła Podstawowa Samorządowego Centrum Edukacji Szkolnej
+33-383 Tylicz; Kazimierza Wielkiego 9
+33-383
+
+#Przedszkole
+
+#Uniwersytet
+
+"Master-SKI" w Tyliczu
+ul
+Kazimierza Pułaskiego 11a
+33-383 Tylicz
+
+#Biblioteka
+
+#Szpital
+
+#Przychodnia
+
+Przychodnia
+33 383
+Boczna 6
+33-383 Tylicz
+
+#Klub
+
+Klub Sportowy "Przełęcz" Tylicz
+Sportowa
+33-383 Tylicz
+
+#Koło
+
+33-383
+Tylicz
+Muszynka
+
+#Poczta
+
+Urząd Pocztowy Krynica Zdrój. Filia w Tyliczu
+Rynek 3
+33-383 Tylicz
+
+#ZNP
+
+#muzeum
+
+Muzeum Dziejów Tylicza
+Rynek 1
+33-383 Tylicz
+
+#Klub Seniora
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+38-315 BANICA
+
+#Przedszkole
+
+Szkoła Podstawowa W Banicy
+Banica 24
+38-315 Banica
+
+#Uniwersytet
+
+#Politechnika
+
+#Szpital
+
+#Instytucja
+
+#ZUS
+
+======================================================================
+33-383 MUSZYNKA
+
+#Dom kultury
+
+#Szkoła
+
+Szkoła i Przedszkole
+Muszynka 15
+33-383 Muszynka
+
+#Przedszkole
+
+#Uniwersytet
+
+#Biblioteka
+
+#Bank
+
+#Policja
+
+#muzeum
+
+kapliczka
+33-383 Muszynka
+
+#Klub Seniora
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+38-315 IZBY
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#ZUS
+
+#ZNP
+
+#muzeum
+
+Krzyż ku pamięci Konfederatów Barskich
+Unnamed Road
+38-313 Izby
+
+======================================================================
+38-316 ROPKI
+
+#Ośrodek
+
+Buddyjski Ośrodek w Ropkach
+Ropki 3
+38-316 Ropki
+
+#Dom kultury
+
+#Szkoła
+
+#Uniwersytet
+
+#Politechnika
+
+Beskid Masala
+Ropki 19,
+38-316 Wysowa-Zdrój
+
+#Biblioteka
+
+#Policja
+
+#Sąd
+
+Swystowy Sad
+Ropki 10
+38-313 Ropki
+
+#Koło
+
+Stara Farma w Ropkach koło Wysowej
+Ropki 22
+38-316
+Wysowa-Zdrój
+
+#Firma
+
+#ZUS
+
+#Uniwersytet Trzeciego Wieku
+
+#Jeździecki
+
+Ośrodek Jazdy Konnej DEBIUTANTKA
+Ropki
+38-316 Wysowa-Zdrój
+
+======================================================================
+38-316 HAŃCZOWA
+
+#Ośrodek
+
+Zespół Szkół Centrum Kształcenia Rolniczego w Hańczowej
+Hańczowa 80
+38-316 Wysowa Zdrój
+
+#Szkoła
+
+#Przedszkole
+
+#Uniwersytet
+
+#Politechnika
+
+#Biblioteka
+
+#Bank
+
+#Policja
+
+#Zakład
+
+#Agencja
+
+#Związek
+
+Cerkiew Opieki Matki Bożej w Hańczowej
+38-313 Hańczowa
+
+#Firma
+
+#Poczta
+
+Kościół Rzymskokatolicki
+Hańczowa 103
+38-316 Hańczowa
+
+Cerkiew prawosławna Opieki Bogurodzicy
+38-313 Hańczowa
+
+#Instytucja
+
+#ZUS
+
+#PZU
+
+Hańczowa 28 Pensjonat agroturystyczny
+Hańczowa 28
+38-316 Hańczowa
+
+#muzeum
+
+#Seniorów
+
+Liczba znalezionych adresow: 672
