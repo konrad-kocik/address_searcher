@@ -1,0 +1,11369 @@
+======================================================================
+07-106 ZUZUŁKA
+
+#Szkoła
+
+#Biblioteka
+
+#Bank
+
+#Policja
+
+#ZUS
+
+#PZU
+
+#muzeum
+
+======================================================================
+07-106 UGOSZCZ
+
+#Dom kultury
+
+#Szkoła
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#Produkcja
+
+KONCORD Konrad Gąsior
+Ugoszcz 14
+07-106 Ugoszcz
+
+#Poczta
+
+Parafia Rzymskokatolicka św. Antoniego Padewskiego
+Ugoszcz 15
+07-106 Ugoszcz
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#muzeum
+
+======================================================================
+07-319 TREBLINKA
+
+#Szkoła
+
+#Przedszkole
+
+#Biblioteka
+
+#Bank
+
+#Policja
+
+#Poczta
+
+#ZUS
+
+#muzeum
+
+#Czerwony Krzyż
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+07-319 PROSTYŃ
+
+#Ośrodek
+
+Ośrodek Zdrowia w Prostyni
+07-319 Prostyń
+
+#Dom kultury
+
+#Szkoła
+
+Zespół Szkół Gminnych im. Jana Pawła II w Prostyni
+Prostyń 60
+07-319 Prostyń
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#Poczta
+
+Parafia Rzymskokatolicka Trójcy Przenajświętszej - Bazylika Mniejsza - Sanktuarium Trójcy Świętej
+Prostyń 137
+07-319 Prostyń
+
+#Instytucja
+
+Bazylika Trójcy Przenajświętszej i św. Anny w Prostyni
+Prostyń 137
+07-319 Prostyń
+
+#ZUS
+
+#PZU
+
+#muzeum
+
+#Czerwony Krzyż
+
+#Klub Seniora
+
+======================================================================
+07-140 ZŁOTKI
+
+#Dom kultury
+
+#Szkoła
+
+Boisko Piłkarskie Złotki
+Złotki 48
+07-140 Złotki
+
+#Przedszkole
+
+#Biblioteka
+
+#Bank
+
+#Policja
+
+#Produkcja
+
+Promar Zakład Produkcji Maszyn Rolniczych Dariusz Nowak
+Złotki 49A
+07-140 Złotki
+
+#Zakład
+
+#Zakłady
+
+#Firma
+
+Dłuski Józef. PPHU. Konstrukcje stalowe, wynajem samochodów retro, maszyny rolnicze
+Złotki 45
+07-140 Złotki
+
+Przedsiębiorstwo Produkcyjno-Handolowo-Usługowe Dłuski Józef
+Złotki 45
+07-140 Złotki
+
+#Poczta
+
+#Instytut
+
+#ZUS
+
+#PZU
+
+#muzeum
+
+#Klub Seniora
+
+======================================================================
+07-104 NOWE LIPKI
+
+#Dom kultury
+
+#Szkoła
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#Poczta
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#muzeum
+
+#Czerwony Krzyż
+
+#Seniora
+
+======================================================================
+07-104 MIEDNIK
+
+#Szkoła
+
+#Szpital
+
+#Policja
+
+#Poczta
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#muzeum
+
+#Czerwony Krzyż
+
+======================================================================
+07-104 STARE LIPKI
+
+#Urząd
+
+Dom Pomocy Społecznej
+Stare Lipki 65
+07-104 Stare Lipki
+
+#Ośrodek
+
+#Dom kultury
+
+#Politechnika
+
+#Biblioteka
+
+#Bank
+
+#Zakład
+
+#Zakłady
+
+#Spółka
+
+#Związek
+
+#Stowarzyszenie
+
+#Klub
+
+#Towarzystwo
+
+#Fundacja
+
+#Organizacja
+
+#Poczta
+
+#Emeryci
+
+#Emerytów
+
+#ZUS
+
+#Amazonki
+
+#PZU
+
+#Czerwony Krzyż
+
+#Diabetycy
+
+#Klub Seniora
+
+#Seniorzy
+
+#Fundacja
+
+#Seniora
+
+#Seniorów
+
+#Emeryci
+
+#Emerytów
+
+#Niepełnosprawni
+
+#Inwalidów
+
+======================================================================
+07-140 BOJEWO
+
+#Dom kultury
+
+#Szkoła
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#ZUS
+
+#PZU
+
+#muzeum
+
+======================================================================
+07-140 ORZEŁEK
+
+#Dom kultury
+
+#Szkoła
+
+Szkoła Podstawowa
+Orzełek 13
+07-140 Orzełek
+
+#Przedszkole
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#Poczta
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#muzeum
+
+#Czerwony Krzyż
+
+#Klub Seniora
+
+======================================================================
+07-319 KIEŁCZEW
+
+#Dom kultury
+
+#Szkoła
+
+Szkoła Podstawowa im. kard. S. Wyszyńskiego
+Prymasa Tysiąclecia 49
+07-319 Kiełczew
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#Produkcja
+
+#Poczta
+
+#ZUS
+
+#PZU
+
+#muzeum
+
+#Klub Seniora
+
+======================================================================
+07-104 STOCZEK
+
+#Urząd
+
+Urząd Stanu Cywilnego
+Kosowska 5
+07-104 Stoczek
+
+#Ośrodek
+
+Gminny Ośrodek Pomocy Społecznej
+Węgrowska 22
+07-104 Stoczek
+
+#Dom kultury
+
+#Szkoła
+
+Szkoła Podstawowa w Stoczku
+Węgrowska 34
+07-104 Stoczek
+
+#Przedszkole
+
+Przedszkole Gminne
+Węgrowska 34
+07-104 Stoczek
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+Powiatowy Bank Spółdzielczy
+Kosowska 1
+07-104 Stoczek
+
+Powiatowy Bank Spółdzielczy w Węgrowie. Oddział
+3 Maja 21
+07-104 Stoczek
+
+#Policja
+
+Posterunek Policji w Stoczku
+07-104 Stoczek
+
+#Zakład
+
+Zakład Gospodarki Komunalnej
+Węgrowska 22
+07-104 Stoczek
+
+#Zakłady
+
+#Poczta
+
+Poczta Polska
+Kolejowa 5
+07-104 Stoczek
+
+Urząd Pocztowy
+Kolejowa 5
+07-104 Stoczek
+
+#Instytut
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#muzeum
+
+Łysa Góra
+07-104 Stoczek
+
+#Czerwony Krzyż
+
+======================================================================
+07-104 DRGICZ
+
+#Urząd
+
+#Dom kultury
+
+#Szkoła
+
+#Szpital
+
+#Bank
+
+#Poczta
+
+#PZU
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+07-140 SOKÓŁKA
+
+#Szkoła
+
+#Szpital
+
+#Poczta
+
+Ochotnicza Straż Pożarna w Sokółce
+Sokółka 35
+07-140 Sokółka
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#Czerwony Krzyż
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+07-104 MROZOWA WOLA
+
+#Dom kultury
+
+#Szpital
+
+#Bank
+
+Jan Rydzewski i Jerzy Rydzewski
+20
+07-
+Mrozowa Wola 104
+07-104 Mrozowa Wola
+
+#Firma
+
+#Poczta
+
+Kaplica Rzymskokatolicka pw. Jezusa Miłosiernego
+Mrozowa Wola 27E
+07-104 Mrozowa Wola
+
+#ZUS
+
+#PZU
+
+#muzeum
+
+#Czerwony Krzyż
+
+#Seniorów
+
+======================================================================
+07-130 MATAŁY
+
+#Dom kultury
+
+#Szkoła
+
+#Przedszkole
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#muzeum
+
+#Czerwony Krzyż
+
+#Klub Seniora
+
+======================================================================
+07-140 SADOWNE
+
+#Urząd
+
+#Ośrodek
+
+Gminny Ośrodek Pomocy Społecznej
+Kuźnica 1
+07-140 Sadowne
+
+#Dom kultury
+
+#Szkoła
+
+Szkoła Podstawowa im. Bł. Ks. Edwarda Grzymały
+Kościuszki 72
+07-140 Sadowne
+
+Zasadnicza Szkoła Zawodowa Zespołu Szkół
+Kościuszki 74
+07-140 Sadowne
+
+Liceum Ogólnokształcące im. Władysława Orkana
+Kościuszki 74
+07-140 Sadowne
+
+#Przedszkole
+
+Przedszkole w Sadownem
+Plac Kościelny
+07-140 Sadowne
+
+#Biblioteka
+
+Gminna Biblioteka Publiczna
+Kościuszki 35
+07-140 Sadowne
+
+#Szpital
+
+#Przychodnia
+
+Niepubliczny Zakład Opieki Zdrowotnej
+Kościuszki 82
+07-140 Sadowne
+
+#Bank
+
+Powiatowy Bank Spółdzielczy w Węgrowie.
+Kościuszki 5
+07-140 Sadowne
+
+Bank Polskiej Spóldzielczosci S.A. Bankomat
+Kościuszki 5
+07-140 Sadowne
+
+Credit Agricole Bank Polska S.A. - Placówka CA Express
+Kościuszki 37
+07-140 Sadowne
+
+#Policja
+
+#Sąd
+
+Sklep SadPol
+Targowa
+07-140 Sadowne
+
+#Produkcja
+
+Drewsad - Produkcja i sprzedaż tarcicy
+Strażacka 19
+07-140 Sadowne
+
+#Zakłady
+
+Zakład Gospodarki Komunalnej w Sadownem
+Kuźnica 1a
+07-140 Sadowne
+
+#Klub
+
+Klub Sportowy Wicher Sadowne
+Kościuszki 74
+07-140 Sadowne
+
+#Poczta
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+PZU Ubezpieczenia Sadowne - Agent Piotr Olkowski
+Kościuszki 5
+07-140 Sadowne
+
+#muzeum
+
+Muzeum Ziemi Sadowieńskiej
+Kościuszki 74
+07-140 Sadowne
+
+#Czerwony Krzyż
+
+======================================================================
+07-140 PŁATKOWNICA
+
+#Dom kultury
+
+#Szkoła
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#Firma
+
+Agrola. ZHP. Niegowski Z.
+07-140 Płatkownica; 84
+07-140
+
+#Poczta
+
+#ZUS
+
+#PZU
+
+#muzeum
+
+======================================================================
+07-306 BROK
+
+#Urząd
+
+Urząd Gminy
+Plac Kościelny 6
+07-306 Brok
+
+#Ośrodek
+
+NADRZECZE Ośrodek wypoczynkowo-szkoleniowy
+Brzostowa 5
+07-306 Brok
+
+Binduga. Agroturystyka
+Przystań 2
+07-306 Brok
+
+OW Rzemieślnik
+Brzostowa 28
+07-306 Brok
+
+#Dom kultury
+
+MOSIR
+07-306 Brok
+
+#Szkoła
+
+CARE Brok "Szkoła Specjalistów Psychoterapii i Instruktorów Terapii Uzależnień"
+Modrzewiowa 9
+07-306 Brok
+
+#Uniwersytet
+
+Nadbużański Ośrodek Edukacji
+Szosowa 17
+07-306 Brok
+
+#Biblioteka
+
+Biblioteka Publiczna
+Pułtuska 56
+07-306 Brok
+
+#Szpital
+
+Gajewski Andrzej, lek. med. NZOZ
+Jana Pawła II 36
+07-306 Brok
+
+#Przychodnia
+
+#Bank
+
+Bank Spółdzielczy w Ostrowi Mazowieckiej Oddział Brok
+Jarosława Dąbrowskiego 30
+07-306 Brok
+
+#Policja
+
+#Stowarzyszenie
+
+Urząd Stanu Cywilnego
+plac Kościelny 6
+07-306 Brok
+
+#Poczta
+
+Poczta Polska
+Warszawska 15
+07-306 Brok
+
+#ZUS
+
+#PZU
+
+#muzeum
+
+Most Brok
+Szosowa
+07-306 Brok
+
+Zła Wieś (Pierwsza lokacja dzisiejszego Broku)
+07-306 Brok
+
+Zła Wieś
+07-306 Brok
+
+#Czerwony Krzyż
+
+#Jeździecki
+
+Bronco. Western Riding Center. Żarnawski M.
+Brzostowa 23
+07-306 Brok
+
+W.R.C BRONCO
+07-306 Brok
+
+======================================================================
+07-130 TWAROGI
+
+#Dom kultury
+
+#Szkoła
+
+#Przedszkole
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#muzeum
+
+======================================================================
+07-130 KAMIONNA
+
+#Dom kultury
+
+#Uniwersytet
+
+Szkoła Podstawowa im. Henryka Sienkiewicza w Kamionnie
+Szkolna 18
+07-130 Kamionna
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#Poczta
+
+Kościół Rzymskokatolicki pw. Niepokalanego Poczęcia NMP
+Kościelna 4
+07-130 Kamionna
+
+Kościół parafialny pod wezwaniem Niepokalanego Poczęcia Najświętszej Maryi Panny w Kamionnie
+Józefa Piłsudskiego 25
+07-130 Kamionna
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#muzeum
+
+#Czerwony Krzyż
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+07-130 BACZKI
+
+#Dom kultury
+
+#Szkoła
+
+#Przedszkole
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#Poczta
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#muzeum
+
+#Czerwony Krzyż
+
+#Klub Seniora
+
+======================================================================
+07-132 OSTRÓWEK
+
+#Dom kultury
+
+#Szkoła
+
+Szkoła Podstawowa im. Orła Białego z Oddziałami Gimnazjalnymi w Ostrówku
+Szkolna 2
+07-132 Ostrówek
+
+#Przedszkole
+
+#Uniwersytet
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+Bankomat
+XXX-lecia PRL 8
+07-132 Ostrówek
+
+#Policja
+
+#Poczta
+
+Poczta Polska
+XXX-lecia PRL 6
+07-132 Ostrówek
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#muzeum
+
+#Czerwony Krzyż
+
+======================================================================
+07-104 MAJDAN
+
+#Dom kultury
+
+#Szkoła
+
+#Szpital
+
+#Bank
+
+#Produkcja
+
+#Poczta
+
+#ZUS
+
+#PZU
+
+======================================================================
+07-140 OCIĘTE
+
+#Dom kultury
+
+#Szkoła
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#Poczta
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+PZU Ubezpieczenia Sadowne - Agent Piotr Olkowski
+Ocięte 28A
+07-140 Ocięte
+
+#muzeum
+
+#Czerwony Krzyż
+
+======================================================================
+07-306 BOJANY
+
+#Biblioteka
+
+#Bank
+
+#Policja
+
+#Poczta
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#muzeum
+
+======================================================================
+07-140 SZYNKARZYZNA
+
+#Dom kultury
+
+#Szkoła
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#Poczta
+
+Ochotnicza Straż Pożarna
+Szynkarzyzna 66
+07-140 Szynkarzyzna
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#muzeum
+
+#Czerwony Krzyż
+
+======================================================================
+08-441 STAROWOLA
+
+#Dom kultury
+
+#Szkoła
+
+#Przedszkole
+
+#Biblioteka
+
+#Bank
+
+#Policja
+
+#Sąd
+
+#Produkcja
+
+Osit - Producent Obuwia Męskiego
+Starowola 12
+08-441 Starowola
+
+#Poczta
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#Czerwony Krzyż
+
+#Klub Seniora
+
+======================================================================
+07-130 ŁOCHÓW
+
+#Urząd
+
+Urząd Miejski w Łochowie
+aleja Pokoju 75
+07-130 Łochów
+
+#Ośrodek
+
+Folwark Łochów
+Konopnickiej 10
+07-130 Łochów
+
+Pałac Łochów
+Konopnickiej 1
+07-130 Łochów
+
+Miejski i Gminny Ośrodek Kultury w Łochowie
+1 Maja 22
+07-130 Łochów
+
+#Dom kultury
+
+#Szkoła
+
+IMIENIA MARII KONOPNICKIEJ W ŁOCHOWIE
+1 Maja 47
+07-130 Łochów
+
+Szkoła Podstawowa im. W. Witosa
+Szkolna 9
+07-130 Łochów
+
+#Przedszkole
+
+Przedszkole
+Kolejowa 23
+07-130 Łochów
+
+#Uniwersytet
+
+#Biblioteka
+
+Biblioteka Publiczna Gminna
+1 Maja 24
+07-130 Łochów
+
+#Szpital
+
+SPZOZ w Węgrowie
+aleja Pokoju 73
+07-130 Łochów
+
+INDYWIDUALNA SPECJALISTYCZNA PRAKTYKA LEKARSKA ELŻBIETA MITKOWSKA
+1 Maja 34
+07-130 Łochów
+
+#Przychodnia
+
+Przychodnia stomatologiczna Mońdziel M.A. s.c. NZOZ
+aleja Pokoju 2
+07-130 Łochów
+
+Pracownia diagnostyki medycznej
+Dolna 22
+07-130 Łochów
+
+#Placówka
+
+Credit Agricole Bank Polska S.A. - Placówka CA Express
+Marii Sadzewicz 38
+07-130 Łochów
+
+#Bank
+
+Bank Spółdzielczy w Łochowie Centrala
+aleja Pokoju 54
+07-130 Łochów
+
+Agencja PKO Banku Polskiego
+Kolejowa 1
+07-130 Łochów
+
+#Wydział
+
+#Policja
+
+Komisariat Policji
+1 Maja 18
+07-130 Łochów
+
+#Produkcja
+
+Zakład Produkcji Pomocy Szkolnych Dariusz Przesmycki
+Marii Sadzewicz 5
+07-130 Łochów
+
+TenSmak Wojtkowscy sp. j
+Osiedlowa 2
+07-130 Łochów
+
+Poltron System Sp. z o.o.
+Nowowiejska 198
+07-130 Łochów
+
+#Zakład
+
+Zakład Gospodarki Komunalnej
+Myśliwska 6
+07-130 Łochów
+
+#Zakłady
+
+#Poczta
+
+Poczta Polska
+1 Maja 1
+07-130 Łochów
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+PZU Ubezpieczenia Łochów - Agent Zdzisław Pogorzelski
+Armii Krajowej 1
+07-130 Łochów
+
+#muzeum
+
+#Czerwony Krzyż
+
+#Klub Seniora
+
+#Centrum
+
+======================================================================
+07-130 BRZÓZA
+
+#Urząd
+
+#Dom kultury
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#Poczta
+
+#PZU
+
+#muzeum
+
+======================================================================
+07-140 RAŻNY
+
+#Dom kultury
+
+#Szkoła
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#Poczta
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#muzeum
+
+#Czerwony Krzyż
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+07-308 UDRZYN
+
+#Dom kultury
+
+#Szkoła
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#muzeum
+
+======================================================================
+07-221 TUCHLIN
+
+#Dom kultury
+
+#Szkoła
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Poczta
+
+Tuchlin
+07-221 Tuchlin
+
+#ZUS
+
+#PZU
+
+#muzeum
+
+#Centrum
+
+Tuchlin Centrum Europy
+Tuchlin 71
+07-221 Tuchlin
+
+======================================================================
+07-308 PORĘBA- KOCĘBY
+
+#Dom kultury
+
+#Szkoła
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#ZUS
+
+#PZU
+
+#muzeum
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+07-308 UDRZYNEK
+
+#Dom kultury
+
+#Szkoła
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#ZUS
+
+#muzeum
+
+======================================================================
+07-130 WYWŁOKA
+
+#Dom kultury
+
+#Szkoła
+
+#Przedszkole
+
+#Uniwersytet
+
+#Biblioteka
+
+#Bank
+
+#Policja
+
+#Poczta
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#muzeum
+
+#Czerwony Krzyż
+
+#Klub Seniora
+
+======================================================================
+05-281 URLE
+
+#Ośrodek
+
+Ośrodek Rozwojowy Oddechowo
+ul. Nielubowicza 6
+05-281
+05-281 Urle Borzymy
+
+Agroturystyczna ośrodek wypoczynkowy
+Krzywa 38
+05-281 Urle
+
+Pokoje GoŚCinne - Urle
+11 Listopada 51
+05-281 Urle
+
+#Dom kultury
+
+#Szkoła
+
+Szkoła Podstawowa
+Żwirki i Wigury 4
+05-281 Urle
+
+#Przedszkole
+
+#Uniwersytet
+
+#Biblioteka
+
+Biblioteka Publiczna
+Poniatowskiego 11
+05-281 Urle
+
+#Szpital
+
+#Przychodnia
+
+Poradnia Medycyny Rodzinnej RAZEM
+kard. Stefana Wyszyńskiego 3
+05-281 Urle
+
+#Bank
+
+#Policja
+
+#Stowarzyszenie
+
+Stowarzyszenie Przyjaciół Kultury
+Piękna 8
+05-281 Urle
+
+#Klub
+
+Menelnia
+kard. Stefana Wyszyńskiego 15
+05-281 Urle
+
+#Poczta
+
+Sołtys
+Piaskowa 11
+05-281 Urle
+
+Ośrodek Caritas Diecezji Warszawsko - Praskiej
+Stanisława Augusta Poniatowskiego 2
+05-281 Urle
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#muzeum
+
+#Czerwony Krzyż
+
+#Klub Seniora
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+05-281 ADAMPOL
+
+#Dom kultury
+
+#Szkoła
+
+#Szpital
+
+#Bank
+
+#ZUS
+
+#PZU
+
+======================================================================
+05-281 IŁY
+
+#Dom kultury
+
+#Szkoła
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#ZUS
+
+#PZU
+
+#muzeum
+
+#Klub Seniora
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+07-221 KNUROWIEC
+
+#Urząd
+
+#Dom kultury
+
+#Szkoła
+
+Szkoła Podstawowa
+Knurowiec 1
+07-221 Knurowiec
+
+#Przedszkole
+
+#Uniwersytet
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#Sąd
+
+#Koło
+
+#Poczta
+
+#Emeryci
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#muzeum
+
+#Czerwony Krzyż
+
+#Emeryci
+
+======================================================================
+07-210 Białebłoto-Kobyla
+
+#Dom kultury
+
+#Szkoła
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#ZUS
+
+#PZU
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+07-221 BRAŃSZCZYK
+
+#Urząd
+
+Urząd Gminy
+Jana Pawła II 45
+07-221 Brańszczyk
+
+#Ośrodek
+
+Centrum Księdza Orione w Brańszczyku
+Jana Pawła II 1
+07-221 Brańszczyk
+
+#Dom kultury
+
+Gminny Dom Kultury w Brańszczyku
+Jana Pawła II 43
+07-221 Brańszczyk
+
+#Szkoła
+
+Szkola Podstawowa Im Henryka Sienkiewicza W Brańszczyku
+Nadbużna 3
+07-221 Brańszczyk
+
+Gimnazjum Publicznego Zespołu Placówek Oświatowych
+Nadbużna 3
+07-221 Brańszczyk
+
+#Przedszkole
+
+Przedszkole w Brańszczyku "Krasnoludek"
+Jana Pawła II 58
+07-221 Brańszczyk
+
+#Uniwersytet
+
+#Szpital
+
+#Przychodnia
+
+Przychodnia lekarska. NZOZ. Praktyka lekarza rodzinnego
+Jana Pawła II 50
+07-221 Brańszczyk
+
+#Bank
+
+Bank Spółdzielczy w Ostrowi Mazowieckiej Oddział Brańszczyk
+Jana Pawła II 54
+07-221 Brańszczyk
+
+#Sąd
+
+#Stowarzyszenie
+
+Drabina Jakubowa
+Jana Pawła II 1
+07-221 Brańszczyk
+
+#Klub
+
+Winkiel
+07-221 Brańszczyk
+
+#Koło
+
+#Poczta
+
+Urząd Pocztowy
+Jana Pawła II 43
+07-221 Brańszczyk
+
+#Emeryci
+
+#Emerytów
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#muzeum
+
+Skansen im. Marii Żywirskiej w Brańszczyku
+Jana Pawła II 65A
+07-221 Brańszczyk
+
+#Czerwony Krzyż
+
+#Seniorzy
+
+#Centrum
+
+Gminny Ośrodek Pomocy Społecznej
+Jana Pawła II 45
+07-221 Brańszczyk
+
+#Seniora
+
+#Seniorów
+
+#Uniwersytet Trzeciego Wieku
+
+#Emeryci
+
+#Emerytów
+
+======================================================================
+07-130 NADKOLE
+
+#Dom kultury
+
+#Szkoła
+
+#Przedszkole
+
+#Biblioteka
+
+#Bank
+
+#Policja
+
+#ZUS
+
+#PZU
+
+#Czerwony Krzyż
+
+#Klub Seniora
+
+======================================================================
+07-202 LORETTO
+
+#Dom kultury
+
+#Szkoła
+
+#Biblioteka
+
+#Szpital
+
+#Policja
+
+#Sąd
+
+#Spółdzielnia
+
+#Poczta
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#muzeum
+
+#Seniorzy
+
+Loretto. Charytatywne Dzieło Miłości
+07-202 Loretto
+
+#Seniora
+
+#Seniorów
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+05-281 SZEWNICA
+
+#Dom kultury
+
+#Szkoła
+
+Publiczna Szkoła Podstawowa w Szewnicy
+Kościelna 28
+05-281 Szewnica
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#Przedsiębiorstwo
+
+Przedsiębiorstwo Handlowo - Usługowe Wiesław Olszewski
+Miła
+05-281 Szewnica
+
+#Poczta
+
+Kościół Rzymskokatolicki pw. Przemienienia Pańskiego
+Kościelna 32
+05-281 Szewnica
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#muzeum
+
+#Czerwony Krzyż
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+07-230 PŁATKÓW
+
+#Dom kultury
+
+#Szkoła
+
+#Przedszkole
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#Sąd
+
+#Poczta
+
+Kapliczka
+Płatków 34
+07-230 Płatków
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#Czerwony Krzyż
+
+#Klub Seniora
+
+======================================================================
+07-202 KAMIEŃCZYK
+
+#Urząd
+
+#Dom kultury
+
+#Szkoła
+
+#Przedszkole
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#Sąd
+
+#Produkcja
+
+#Zakłady
+
+Zakład Mięsny "KAMIEŃCZYK" Sp. j. Irena,Jan i Dariusz Kalisz
+Warszawska 31
+07-202 Kamieńczyk
+
+#Spółdzielnia
+
+#Poczta
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#muzeum
+
+Muzeum Etnograficzno-Historyczne w Kamieńczyku
+Rynek Tadeusza Kościuszki 14
+07-202 Kamieńczyk
+
+#Czerwony Krzyż
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+07-221 TURZYN
+
+#Dom kultury
+
+#Szkoła
+
+Szkoła Podstawowa im. Marii Konopnickiej w Turzynie
+Turzyn 95
+07-221 Turzyn
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#Zakład
+
+Tadex. Zakłady mięsne
+Turzyn 108
+07-221 Turzyn
+
+#Zakłady
+
+#Poczta
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#muzeum
+
+#Czerwony Krzyż
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+07-221 OJCOWIZNA
+
+#Dom kultury
+
+#Szkoła
+
+#Biblioteka
+
+#Bank
+
+#Policja
+
+#Poczta
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#muzeum
+
+#Czerwony Krzyż
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+07-221 TRZCIANKA
+
+#Dom kultury
+
+#Szkoła
+
+Szkoła
+Trzcianka 148
+07-221 Trzcianka
+
+#Bank
+
+#Policja
+
+#Poczta
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#muzeum
+
+#Czerwony Krzyż
+
+======================================================================
+07-221 BAGIENKO
+
+#Urząd
+
+#Dom kultury
+
+#Szkoła
+
+#Przedszkole
+
+#Biblioteka
+
+#Policja
+
+#Sąd
+
+#Koło
+
+#Poczta
+
+#Emeryci
+
+#Emerytów
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#muzeum
+
+#Czerwony Krzyż
+
+#Centrum
+
+#Emeryci
+
+#Emerytów
+
+======================================================================
+07-221 JASZCZUŁTY
+
+#Dom kultury
+
+#Szkoła
+
+#Przedszkole
+
+#Biblioteka
+
+#Policja
+
+#Poczta
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#muzeum
+
+======================================================================
+07-201 FIDEST
+
+#Dom kultury
+
+#Szkoła
+
+#Przedszkole
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#Poczta
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#muzeum
+
+Ciekawa miejscówka...
+Fidest 1
+07-201 Fidest
+
+#Czerwony Krzyż
+
+#Klub Seniora
+
+======================================================================
+07-221 DALEKIE – TARTAK
+
+#Dom kultury
+
+#Szkoła
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Oddział
+
+#Policja
+
+#Poczta
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#muzeum
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+07-201 SKUSZEW
+
+#Dom kultury
+
+#Szkoła
+
+Szkoła Podstawowa
+Przejazdowa 81
+07-201 Skuszew
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#Sąd
+
+#Produkcja
+
+Stoldark - Producent domów drewnianych, domów z bala - Drewniane, Szkieletowe, Całoroczne
+Kamieńczykowska 1
+07-201 Skuszew
+
+"Sasena" Marta Katner
+Lotników 2
+07-201 Skuszew
+
+Stolkar. Producent drzwi drewnianych i fornirowanych. Karp J.
+Kółko 8
+07-201 Skuszew
+
+#Firma
+
+#Poczta
+
+Kapica Rzymskokatolicka
+Turystyczna 6
+07-201 Skuszew
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#muzeum
+
+#Czerwony Krzyż
+
+======================================================================
+07-200 WYSZKÓW
+
+#Urząd
+
+Urząd Miejski
+aleja Róż 2
+07-200 Wyszków
+
+Powiatowy Urząd Pracy
+Kościuszki 15
+07-200 Wyszków
+
+Urząd Skarbowy
+gen. Józefa Sowińskiego 82
+07-200 Wyszków
+
+#Dom kultury
+
+Hutnik. Wyszkowski Ośrodek Kultury
+Prosta 7
+07-200 Wyszków
+
+#Szkoła
+
+Szkoła Podstawowa nr 5
+Geodetów 45
+07-200 Wyszków
+
+Centrum Edukacji Zawodowej i Ustawicznej Kopernik w Wyszkowie
+Świętojańska 82
+07-200 Wyszków
+
+ZDZ. Centrum Kształcenia
+Komisji Edukacji Narodowej 2
+07-200 Wyszków
+
+#Przedszkole
+
+Przedszkole nr 7
+11 Listopada 50
+07-200 Wyszków
+
+Przedszkole nr 4 Integracyjne
+Generała Józefa Sowińskiego 27B
+07-200 Wyszków
+
+Nasze Bambino. Przedszkole
+3 Maja 24
+07-200 Wyszków
+
+#Akademia
+
+Akademia Jazdy - Ośrodek Szkolenia Kierowców Adam Królikowski
+Świętojańska 82B
+07-200 Wyszków
+
+Polsko-Angielska Szkoła Podstawowa Akademia Ucznia w Wyszkowie
+Geodetów 45a
+07-200 Wyszków
+
+#Uniwersytet
+
+Szkoła Wyższa im. Pawła Włodkowica
+Geodetów 45A
+07-200 Wyszków
+
+#Biblioteka
+
+Biblioteka Publiczna Miejsko - Gminna im. C.K. Norwida
+Generała Józefa Sowińskiego 80
+07-200 Wyszków
+
+Biblioteka Pedagogiczna
+Świętojańska 82
+07-200 Wyszków
+
+Biblioteka Publiczna Miejsko - Gminna im. C.K. Norwida. Filia nr 1
+Stefana Batorego 6
+07-200 Wyszków
+
+#Szpital
+
+Samodzielny Publiczny Zespół Zakładów Opieki Zdrowotnej
+Komisji Edukacji Narodowej 1
+07-200 Wyszków
+
+Przychodnia i Szpital GIN MEDICUS Sp. z o.o.
+Generała Józefa Sowińskiego 57
+07-200 Wyszków
+
+Medical Sp. z o.o. NZOZ
+Stefana Okrzei 77
+07-200 Wyszków
+
+#Przychodnia
+
+#Placówka
+
+Placówka Opiekuńczo-Wychowawcza Dom Dla Dzieci nr 1 w Wyszkowie
+Dworcowa 3a
+07-200 Wyszków
+
+#Bank
+
+Polski Bank Spółdzielczy w Wyszkowie
+Kościuszki 5
+07-200 Wyszków
+
+Oddział Millennium
+Pułtuska 28A
+07-200 Wyszków
+
+Wyszków Oddział Partnerski Santander Consumer Bank
+Pułtuska 15B
+07-200 Wyszków
+
+#Wydział
+
+Starostwo Powiatowe
+aleja Róż 2
+07-200 Wyszków
+
+#Policja
+
+Komenda Powiatowa Policji
+Kościuszki 13
+07-200 Wyszków
+
+#Prokuratura
+
+Prokuratura Rejonowa w Wyszkowie
+11 Listopada 2
+07-200 Wyszków
+
+Prokuratura Rejonowa W Wyszkowie
+11 Listopada 2
+07-200 Wyszków
+
+#Sąd
+
+Sąd Rejonowy w Wyszkowie
+Kościuszki 50
+07-200 Wyszków
+
+#Wojsko
+
+Wojskowa Komenda Uzupełnień
+Serocka 3
+07-200 Wyszków
+
+#Przedsiębiorstwo
+
+Przedsiębiorstwo Wodociągów i Kanalizacji Sp. z o.o. w Wyszkowie
+Komunalna 1
+07-200 Wyszków
+
+Przedsiębiorstwo Energetyki Cieplnej Sp. z o.o.
+Przemysłowa 4
+07-200 Wyszków
+
+Przedsiębiorstwo Budowlano-Handlowe „Z. Niziński”
+Serocka 11A
+07-200 Wyszków
+
+#Produkcja
+
+Horizont Rolos
+Henryka Sienkiewicza 2
+07-200 Wyszków
+
+Pomelac
+Kasztanowa 1
+07-200 Wyszków
+
+T.M.W. Sp. z o.o. Produkcja skrzyń biegów, obróbka skrawaniem
+Leśna 10
+07-200 Wyszków
+
+#Agencja
+
+Agencja Restrukturyzacji i Modernizacji Rolnictwa. Mazowiecki Oddział Regionalny. Biuro powiatowe
+Świętojańska 54
+07-200 Wyszków
+
+#Spółdzielnia
+
+Przyszłość. Spółdzielnia Mieszkaniowa
+Generała Józefa Sowińskiego 63
+07-200 Wyszków
+
+Hutnik. Spółdzielnia Mieszkaniowa
+Generała Józefa Sowińskiego 33B
+07-200 Wyszków
+
+Mebrol. SM
+3 Maja 10
+07-200 Wyszków
+
+#Stowarzyszenie
+
+Towarzystwo Opieki nad Zwierzętami w Polsce. Koło
+Generała Józefa Sowińskiego 33B
+07-200 Wyszków
+
+Stowarzyszenie Inicjatyw Społecznych „WIATRAK”
+Prosta 7
+07-200 Wyszków
+
+#Klub
+
+Grove Street
+Zakolejowa 3A
+07-200 Wyszków
+
+MKS Gimnazjon Wyszków
+Pułtuska 31
+07-200 Wyszków
+
+UKS Jedynka Wyszków
+3 Maja 41
+07-200 Wyszków
+
+#Towarzystwo
+
+Wyszkowskie Towarzystwo Budownictwa Społecznego Sp. z o.o.
+1 Maja 12
+07-200 Wyszków
+
+Ubezpieczenia Wyszków - Unilink S.A.
+3 Maja 8G
+07-200 Wyszków
+
+#Poczta
+
+Poczta Polska
+Ignacego Daszyńskiego 27
+07-200 Wyszków
+
+Urząd Pocztowy Wyszków 1 Oddział
+Pułtuska 116
+07-200 Wyszków
+
+Urząd Pocztowy Wyszków 3
+aleja Wolności 9
+07-200 Wyszków
+
+#Emeryci
+
+Polski Związek Emerytów Rencistów i Inwalidów
+Prosta 7
+07-200 Wyszków
+
+#Emerytów
+
+#ZUS
+
+ZUS Inspektorat w Wyszkowie
+Fryderyka Chopina 9
+07-200 Wyszków
+
+#PZU
+
+Oddział PZU - Wyszków, 11 Listopada
+11 Listopada 4
+07-200 Wyszków
+
+PZU Ubezpieczenia Wyszków - Agent Jolanta Zglec
+Geodetów 44
+07-200 Wyszków
+
+PZU Ubezpieczenia Wyszków - Agent Monika Nozderka
+Wąska 5
+07-200 Wyszków
+
+#muzeum
+
+Pomnik Żołnierzy Wyklętych i Ofiar Terroru Komunistycznego
+Kościelna
+07-200 Wyszków
+
+Plac Miejski
+Szkolna 8/30
+07-200 Wyszków
+
+W HOŁDZIE " LUDZIOM MORZA"
+Berka Joselewicza
+07-200 Wyszków
+
+#Czerwony Krzyż
+
+Polski Czerwony Krzyż. Mazowiecki Zarząd Okręgowy. Zarząd Rejonowy
+Świętojańska 82
+07-200 Wyszków
+
+#Seniora
+
+Dom Dziennego Pobytu
+3 Maja 18
+07-200 Wyszków
+
+#Seniorów
+
+#Emeryci
+
+#Emerytów
+
+#Inwalidów
+
+======================================================================
+07-201 WYSZKÓW
+
+#Urząd
+
+#Ośrodek
+
+Ośrodek Szkoleniowo-Wypoczynkowy Totalizatora Sportowego Sp. z o.o. w Rybienku Leśnym
+Jana III Sobieskiego 9
+07-201 Wyszków
+
+#Dom kultury
+
+#Szkoła
+
+#Przedszkole
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Wydział
+
+#Policja
+
+#Sąd
+
+#Wojsko
+
+#Spółdzielnia
+
+#Stowarzyszenie
+
+STOWARZYSZENIE WAŻNA RÓŻA
+Świętojańska 40
+07-201 Wyszków
+
+Stowarzyszenie Miłośników Rybienka Leśnego i Okolic
+aleja Wolności 42
+07-201 Wyszków
+
+#Klub
+
+#Koło
+
+#Towarzystwo
+
+#Poczta
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#muzeum
+
+#Czerwony Krzyż
+
+#Centrum
+
+Małgorzata Teresa Gąsiorowska
+Targowa 19
+07-201 Wyszków
+
+"Baśniowa" Hotel & Restauracja - Wyszków
+Księcia Jóżefa Poniatowskiego 10
+07-201 Wyszków
+
+======================================================================
+07-202 WYSZKÓW
+
+#Urząd
+
+Poczta Polska
+ul
+Generała Józefa Sowińskiego 63
+07-202 Wyszków
+
+Zespół Obsługi Placówek Oświatowych w Wyszkowie
+1 Maja 23A
+07-202 Wyszków
+
+#Dom kultury
+
+#Szkoła
+
+#Przedszkole
+
+Mały Geniusz. Przedszkole Niepubliczne
+1 Maja
+07-202 Wyszków
+
+#Uniwersytet
+
+#Biblioteka
+
+#Szpital
+
+#Placówka
+
+Nest Bank - Wyszków (placówka partnerska)
+Pułtuska 32
+07-202 Wyszków
+
+#Bank
+
+#Policja
+
+#Prokuratura
+
+#Sąd
+
+#Wojsko
+
+#Produkcja
+
+ADD s.c. Obróbka Skrawaniem Frezowanie CNC Produkcja części maszyn Formy wtryskowe Wyszków
+Pułtuska 112A
+07-202 Wyszków
+
+#Agencja
+
+Agencja Celna A&M Sped Błażewicz Anna
+Towarowa 10
+07-202 Wyszków
+
+#Spółdzielnia
+
+#Poczta
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+PZU Ubezpieczenia Wyszków - Agent Andrzej Skoczeń
+Generała Józefa Sowińskiego 21A
+07-202 Wyszków
+
+#muzeum
+
+#Czerwony Krzyż
+
+#Centrum
+
+Powiatowe Centrum Pomocy Rodzinie w Wyszkowie
+Świętojańska 82A
+07-202 Wyszków
+
+======================================================================
+07-202 LESZCZYDÓŁ
+
+#Urząd
+
+Ballas. Zakład usług leśnych i transportowych
+Leśników 12
+07-202 Leszczydół-Nowiny
+
+#Dom kultury
+
+#Szkoła
+
+Szkoła Podstawowa
+Leszczydół Stary 38
+07-202 Leszczydół Stary
+
+#Przedszkole
+
+#Uniwersytet
+
+#Biblioteka
+
+Biblioteka Publiczna Miejsko - Gminna im. C.K. Norwida. Filia
+Szkolna 26
+07-202 Leszczydół-Nowiny
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#Sąd
+
+#Produkcja
+
+#Poczta
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#muzeum
+
+#Czerwony Krzyż
+
+#Centrum
+
+Nadleśnictwo Wyszków
+Leśników 27
+07-202 Leszczydół-Nowiny
+
+======================================================================
+07-202 LESZCZYDÓŁ STARY
+
+#Dom kultury
+
+#Szkoła
+
+#Przedszkole
+
+#Uniwersytet
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#Zakłady
+
+#Firma
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#muzeum
+
+#Czerwony Krzyż
+
+======================================================================
+07-202 OCHUDNO
+
+#Dom kultury
+
+#Szkoła
+
+#Przedszkole
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#muzeum
+
+======================================================================
+05-252 LASKÓW
+
+#Dom kultury
+
+#Szkoła
+
+#Przedszkole
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#Sąd
+
+#Poczta
+
+OSP Lasków
+Cypriana Kamila Norwida 60
+05-252 Lasków
+
+z Winory
+Cypriana Kamila Norwida 66
+05-252 Lasków
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#muzeum
+
+#Czerwony Krzyż
+
+======================================================================
+07-200 GULCZEWO
+
+#Dom kultury
+
+#Przedszkole
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#Sąd
+
+#Poczta
+
+OSP Gulczewo
+07-200
+Szkolna 16
+07-200 Gulczewo
+
+Ochotnicza Straż Pożarna
+Szkolna 16
+07-200 Gulczewo
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#muzeum
+
+#Czerwony Krzyż
+
+#Klub Seniora
+
+======================================================================
+07-200 Łosinno
+
+#Dom kultury
+
+#Szkoła
+
+#Przedszkole
+
+#Biblioteka
+
+#Szpital
+
+#Policja
+
+#Sąd
+
+#Poczta
+
+Radosław Gruchalski
+Pułtuska 49
+07-200 Łosinno
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#muzeum
+
+#Czerwony Krzyż
+
+#Klub Seniora
+
+======================================================================
+07-205 KOMOROWO
+
+#Szkoła
+
+Szkoła Podstawowa W Komorowie
+Komorowo 34
+07-205 Komorowo
+
+#Przedszkole
+
+#Uniwersytet
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#Poczta
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#muzeum
+
+#Czerwony Krzyż
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+05-252 DĄBRÓWKA
+
+#Urząd
+
+Urząd Gminy Dąbrówka
+Kościuszki 14
+05-252 Dąbrówka
+
+#Ośrodek
+
+#Dom kultury
+
+Gminne Centrum Kultury (Municipal Cultural Center)
+Kościuszki 14a
+05-252 Dąbrówka
+
+#Szkoła
+
+Szkoła Podstawowa im. C.K. Norwida
+Kościuszki 20
+05-252 Dąbrówka
+
+Gimnazjum Publiczne
+Kościuszki 20
+05-252 Dąbrówka
+
+#Przedszkole
+
+#Biblioteka
+
+Gminna Biblioteka Publiczna
+05-252 Dąbrówka; Kościuszki 14a
+05-430
+
+#Szpital
+
+#Bank
+
+Polski Bank Spółdzielczy w Wyszkowie. Oddział
+05-252 Dąbrówka; Kościuszki 2
+05-430
+
+#Policja
+
+#Produkcja
+
+Indeco S.A. - Magazyn/Produkcja
+Karpin
+ul. Firmowa 1,
+05-252 Dąbrówka
+
+#Klub
+
+#Koło
+
+#Firma
+
+#Poczta
+
+Poczta Polska
+Kościuszki 14
+05-252 Dąbrówka
+
+#Emerytów
+
+#Instytucja
+
+#ZUS
+
+#PZU
+
+#muzeum
+
+Park Kultury Ludowej i Drobnoszlacheckiej - Skansen w Kuligowie nad Bugiem
+Kręta 4
+05-252 Dąbrówka Polska
+
+#Czerwony Krzyż
+
+#Centrum
+
+Gminne Centrum Kultury
+Kościuszki 14a
+05-252 Dąbrówka
+
+#Seniora
+
+#Seniorów
+
+#Emerytów
+
+#Niepełnosprawnych
+
+#Niepełnosprawni
+
+======================================================================
+07-203 SOMIANKA
+
+#Urząd
+
+Urząd Gminy Somianka
+Somianka 16B
+07-203 Somianka
+
+#Ośrodek
+
+Gminny Ośrodek Pomocy Społecznej
+07-203 Somianka
+
+#Dom kultury
+
+#Szkoła
+
+Szkoła Podstawowa
+Ulasek 28
+07-203 Somianka
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+Bank Spółdzielczy w Ostrowi Mazowieckiej Oddział Somianka
+Somianka 40
+07-203 Somianka
+
+#Zakład
+
+Zakłady Mięsne Somianka
+Somianka 88
+07-203 Somianka
+
+#Zakłady
+
+#Poczta
+
+Urząd Pocztowy
+07-203 Somianka; 21
+07-203
+
+Poczta Polska
+07-203 Somianka
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#muzeum
+
+#Czerwony Krzyż
+
+#Uniwersytet Trzeciego Wieku
+
+#Niepełnosprawnych
+
+#Niepełnosprawni
+
+======================================================================
+07-203 SKORKI
+
+#Dom kultury
+
+#Szkoła
+
+======================================================================
+07-206 WOLA MYSTKOWSKA
+
+#Dom kultury
+
+#Szkoła
+
+#Przedszkole
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#Spółka
+
+#Związek
+
+#Stowarzyszenie
+
+Kościół
+07-206 Wola Mystkowska
+
+#Towarzystwo
+
+#Organizacja
+
+#Poczta
+
+#Instytucja
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+07-215 SADYKIERZ
+
+#Dom kultury
+
+#Szkoła
+
+#Przedszkole
+
+#Biblioteka
+
+#Szpital
+
+#Policja
+
+#Poczta
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#muzeum
+
+#Czerwony Krzyż
+
+======================================================================
+07-215 OBRYTE
+
+#Urząd
+
+Urząd Gminy Obryte
+Obryte 185
+07-215 Obryte
+
+#Ośrodek
+
+Eskulap. NZOZ. Ośrodek zdrowia
+Obryte 187
+07-215 Obryte
+
+Dom Pomocy Społecznej
+Obryte 188
+07-215 Obryte
+
+#Dom kultury
+
+Wiejski dom kultury
+Obryte 102
+07-215 Obryte
+
+#Szkoła
+
+Publiczna Szkoła Podstawowa w Obrytem
+07-215 Obryte
+
+Publiczne Gimnazjum w Obrytem
+Obryte 114
+07-215 Obryte
+
+#Politechnika
+
+#Szpital
+
+#Przychodnia
+
+Niepubliczny Zaklad Opieki Zdrowotnej Eskulap
+Obryte 187
+07-215 Obryte
+
+#Policja
+
+#Sąd
+
+#Związek
+
+Urząd Stanu Cywilnego
+Obryte 185
+07-215 Obryte
+
+#Stowarzyszenie
+
+#Koło
+
+#Towarzystwo
+
+#Poczta
+
+Poczta Polska
+Obryte 21
+07-215 Obryte
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#muzeum
+
+#Niepełnosprawni
+
+======================================================================
+07-215 PŁUSY
+
+#Dom kultury
+
+#Biblioteka
+
+#Bank
+
+#Policja
+
+#Poczta
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#muzeum
+
+======================================================================
+07-214 PNIEWO
+
+#Ośrodek
+
+Gajda-Med. NZOZ. Centrum medyczne. Filia
+Strażacka 2
+07-214 Pniewo
+
+#Szkoła
+
+Zespół Szkół im. Żołnierzy Armii Krajowej W Pniewie
+18 Maja 6
+07-214 Pniewo
+
+#Przedszkole
+
+#Biblioteka
+
+#Szpital
+
+#Przychodnia
+
+#Bank
+
+Bank Spółdzielczy Bankomat
+07-214 Pniewo
+
+#Policja
+
+#Stowarzyszenie
+
+Parafia p.w. św. Piotra i Pawła
+18 Maja 13
+07-214 Pniewo
+
+#Poczta
+
+Ochotnicza Straż Pożarna
+Strażacka 1
+07-214 Pniewo
+
+#Instytucja
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#muzeum
+
+Kuźnia Kurpiowska
+18 Maja 8
+07-214 Pniewo
+
+#Czerwony Krzyż
+
+#Klub Seniora
+
+#Centrum
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+07-217 CISKI
+
+#Urząd
+
+#Szkoła
+
+Publiczna Szkoła Podstawowa
+Ciski 23
+07-217 Ciski
+
+#Fabryka
+
+#Instytucja
+
+======================================================================
+07-202 SUWIN
+
+#Dom kultury
+
+#Szkoła
+
+#Przedszkole
+
+#Bank
+
+#Policja
+
+#Poczta
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#Czerwony Krzyż
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+07-203 BARCICE
+
+#Dom kultury
+
+#Szkoła
+
+#Biblioteka
+
+#Bank
+
+#Policja
+
+#Poczta
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#muzeum
+
+#Czerwony Krzyż
+
+#Seniora
+
+Barcice
+Barcice 12
+07-203 Barcice
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+05-254 KOŁAKÓW
+
+#Dom kultury
+
+#Szkoła
+
+Wyższa Szkoła Melanżu im. Mocnych Trunków
+05-254 Kołaków
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#Sąd
+
+#Poczta
+
+Ochotnicza Straż Pożarna Kołaków
+05-254 Kołaków
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#muzeum
+
+#Czerwony Krzyż
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+07-217 WIKTORYN
+
+#Szkoła
+
+#Biblioteka
+
+#Bank
+
+#Policja
+
+#Poczta
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#Czerwony Krzyż
+
+======================================================================
+07-214 TOPOLNICA
+
+#Dom kultury
+
+#Szkoła
+
+#Biblioteka
+
+#Bank
+
+#Policja
+
+#Produkcja
+
+Usługi Tartaczne Suski Adam
+Topolnica 14
+07-214 Topolnica
+
+#Firma
+
+#Poczta
+
+Sołtys
+07-214 Topolnica
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#muzeum
+
+#Czerwony Krzyż
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+07-215 BARTODZIEJE
+
+#Dom kultury
+
+#Szkoła
+
+#Biblioteka
+
+#Szpital
+
+#Przychodnia
+
+#Policja
+
+#Produkcja
+
+Tartak Bartodzieje
+Bartodzieje 56
+07-215 Bartodzieje
+
+#Poczta
+
+Agencja Informacyjna WPU24.pl
+Bartodzieje 53a
+07-215 Bartodzieje
+
+#ZNP
+
+#PZU
+
+#Czerwony Krzyż
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+07-214 CIEŃSZA
+
+#Szkoła
+
+#Szpital
+
+#Policja
+
+#Poczta
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#muzeum
+
+#Czerwony Krzyż
+
+#Klub Seniora
+
+======================================================================
+07-217 CISKI
+
+#Urząd
+
+#Szkoła
+
+#Fabryka
+
+#Instytucja
+
+======================================================================
+05-254 KULIGÓW
+
+#Ośrodek
+
+ELLE-MED
+Warszawska 5
+05-254 Kuligów
+
+#Dom kultury
+
+#Szkoła
+
+#Biblioteka
+
+Biblioteka
+Warszawska 5
+05-254 Kuligów
+
+#Przychodnia
+
+#Bank
+
+#Policja
+
+#Sąd
+
+#Agencja
+
+Security Basma Sp.J. Agencja Ochrony Osób i Mienia. Jaworski Michał, Zdzisław
+Wojska Polskiego 58
+05-254 Kuligów
+
+#Fundacja
+
+Fundacja Dziedzictwo Nadbużańskie
+Kręta 4
+05-254 Kuligów
+
+#Poczta
+
+Filia Urzędu Pocztowego Dąbrówka
+Warszawska 5A
+05-254 Kuligów
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#muzeum
+
+Skansen
+Kręta 4
+05-254 Kuligów
+
+#Czerwony Krzyż
+
+#Fundacja
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+07-203 POPOWO KOŚCIELNE
+
+#Ośrodek
+
+#Dom kultury
+
+#Szkoła
+
+Publiczna Szkoła Podstawowa im. Kazimiery Augustynowicz
+Malownicza 60
+07-203 Popowo Kościelne
+
+#Uniwersytet
+
+#Politechnika
+
+Sanktuarium Matki Bożej Popowskiej, Matki nadziei
+Popowo Kościelne 66
+07-203 Popowo Kościelne
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Spółka
+
+#Związek
+
+#Stowarzyszenie
+
+#Klub
+
+#Towarzystwo
+
+#Fundacja
+
+#Emeryci
+
+#Instytucja
+
+Parafia Narodzenia Najświętszej Maryi Panny w Popowie
+Popowo Kościelne 65
+07-203 Popowo Kościelne
+
+#Instytut
+
+#ZUS
+
+#Amazonki
+
+#ZNP
+
+#PZU
+
+#muzeum
+
+#Czerwony Krzyż
+
+#Fundacja
+
+#Uniwersytet Trzeciego Wieku
+
+#Emeryci
+
+======================================================================
+07-217 ZATORY
+
+#Urząd
+
+Urząd Gminy Zatory
+Jana Pawła II 106
+07-217 Zatory
+
+#Ośrodek
+
+#Szkoła
+
+Szkoła Podstawowa
+Jana Pawła II 69
+07-217 Zatory
+
+#Przedszkole
+
+#Politechnika
+
+#Biblioteka
+
+Biblioteka Publiczna Gminna
+Jana Pawła II 106
+07-217 Zatory
+
+#Szpital
+
+#Bank
+
+Bank Spółdzielczy w Pułtusku. Oddział
+Jana Pawła II 108
+07-217 Zatory
+
+Bank Polskiej Spółdzielczości SA
+07-217 Zatory
+
+#Oddział
+
+#Policja
+
+#Spółdzielnia
+
+#Koło
+
+#Poczta
+
+Poczta Polska
+ul
+Jana Pawła II 91
+07-217 Zatory
+
+#Emerytów
+
+#Instytucja
+
+#PZU
+
+#Centrum
+
+#Seniorów
+
+#Emerytów
+
+#Niepełnosprawni
+
+======================================================================
+07-214 GŁADCZYN
+
+#Dom kultury
+
+#Szkoła
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#Spółdzielnia
+
+#ZNP
+
+#PZU
+
+#Czerwony Krzyż
+
+#Klub Seniora
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+05-140 KANIA POLSKA
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Sąd
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#muzeum
+
+#Czerwony Krzyż
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+05-255 STARE ZAŁUBICE
+
+#Urząd
+
+Poczta Polska - FUP Radzymin
+Mazowiecka 10
+05-255 Stare Załubice
+
+#Dom kultury
+
+#Szkoła
+
+Szkoła Podstawowa im. Armii Krajowej Zespołu Szkół
+Mazowiecka 40
+05-255 Stare Załubice
+
+#Przedszkole
+
+#Uniwersytet
+
+#Politechnika
+
+#Biblioteka
+
+Biblioteka Publiczna Miasta i Gminy Radzymin - Filia Stare Załubice
+Mazowiecka 49
+05-255 Stare Załubice
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#Produkcja
+
+Gama - Kaletnictwo
+Mazowiecka
+05-255 Stare Załubice
+
+#Zakład
+
+#Zakłady
+
+#Agencja
+
+#Spółka
+
+#Klub
+
+Klub Sportowy Rządza Załubice
+Mazowiecka 49
+05-255 Stare Załubice
+
+#Poczta
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#muzeum
+
+Dąb Jacek - pomnik przyrody
+Serocka 43
+05-255 Stare Załubice
+
+#Diabetycy
+
+======================================================================
+07-217 ŚLISKI
+
+#Dom kultury
+
+#Szkoła
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#Poczta
+
+#ZUS
+
+#ZNP
+
+======================================================================
+06-100 GRABÓWIEC
+
+#Dom kultury
+
+#Szkoła
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#Klub
+
+#Poczta
+
+#PZU
+
+#muzeum
+
+#Czerwony Krzyż
+
+#Centrum
+
+======================================================================
+06-100 PUŁTUSK
+
+#Dom kultury
+
+Miejskie Centrum Kultury
+Plac Teatralny 2
+06-100 Pułtusk
+
+#Szkoła
+
+Publiczna Szkoła Podstawowa Nr 3 z Oddziałami Integracyjnymi im. Tadeusza Kościuszki
+aleja Tysiąclecia 14
+06-100 Pułtusk
+
+Szkoła Podstawowa nr 4
+New Britain 1
+06-100 Pułtusk
+
+Zespół Szkół im. Bolesława Prusa w Pułtusku
+Marii Konopnickiej 9
+06-100 Pułtusk
+
+#Przedszkole
+
+Przedszkole Miejskie nr 4
+Rafała Krajewskiego 3
+06-100 Pułtusk
+
+Urwis. Niepubliczne przedszkole. Kujawa E.
+3 Maja 4D
+06-100 Pułtusk
+
+British School Clever. Przedszkole Niepubliczne
+Burmistrza Stanisława Śniegockiego 8
+06-100 Pułtusk
+
+#Akademia
+
+Akademia Humanistyczna im. Aleksandra Gieysztora w Pułtusku
+Ignacego Daszyńskiego 19
+06-100 Pułtusk
+
+Akademia Bezpiecznej Jazdy Plus Michał Mieszkowski
+Baltazara 19B
+06-100 Pułtusk
+
+Dom Studenta
+Adama Mickiewicza 36A
+06-100 Pułtusk
+
+#Uniwersytet
+
+#Biblioteka
+
+Biblioteka Publiczna im. J. Lelewela
+Juliusza Słowackiego 6
+06-100 Pułtusk
+
+#Szpital
+
+Grupa Gajda-Med. Centrum medyczne
+Księdza Piotra Skargi 23
+06-100 Pułtusk
+
+Pultusk Poplawy
+Zakolejowa 5
+06-100 Pułtusk
+
+#Przychodnia
+
+#Bank
+
+Bank Spółdzielczy w Pułtusku
+Tadeusza Kościuszki 1
+06-100 Pułtusk
+
+Alior Bank - Placówka Partnerska
+Świętojańska 4
+06-100 Pułtusk
+
+Credit Agricole Bank Polska S.A. - Placówka CA Express
+Stanisława Staszica 3
+06-100 Pułtusk
+
+#Policja
+
+Komenda Powiatowa Policji
+Rynek 23
+06-100 Pułtusk
+
+Policja. Komenda Powiatowa w Pułtusku. Posterunek
+Jana Pawła II 1
+06-100 Pułtusk
+
+#Prokuratura
+
+Prokuratura Rejonowa w Pułtusku
+Ignacego Daszyńskiego 6
+06-100 Pułtusk
+
+#Sąd
+
+Sąd Rejonowy
+Rynek 37
+06-100 Pułtusk
+
+#Przedsiębiorstwo
+
+Pułtuskie Przedsiębiorstwo Usług Komunalnych Sp. z o.o.
+Stanisława Staszica 35
+06-100 Pułtusk
+
+Przedsiębiorstwo Energetyki Cieplnej Sp. z o.o. Kaźmierczak J.
+Adama Mickiewicza 36
+06-100 Pułtusk
+
+Przedsiębiorstwo Wodociągów i Kanalizacji Sp. z o.o.
+Wyszkowska 2
+06-100 Pułtusk
+
+#Zakłady
+
+Godlewski W. Zakład stolarski
+Białowiejska 21
+06-100 Pułtusk
+
+ZURFAM Sp. z o.o. Zakład Stolarski
+Białowiejska 80
+06-100 Pułtusk
+
+Zakład Szklarski Pułtusk, Szklarz, Obróbka Szkła, Oprawa Obrazów, Lustra, Klejenie Szkła
+aleja Polonii 12
+06-100 Pułtusk
+
+#Grupa
+
+#Agencja
+
+Eko-invest. PPHU
+Rynek 16
+06-100 Pułtusk
+
+#Spółdzielnia
+
+Międzyzakładowa Spółdzielnia Mieszkaniowa
+Rafała Krajewskiego 3A
+06-100 Pułtusk
+
+Spółdzielnia Mieszkaniowa
+aleja Tysiąclecia 11
+06-100 Pułtusk
+
+#Klub
+
+Pułtuski Klub Wodniaków
+Stare Miasto 28
+06-100 Pułtusk
+
+Zespół Szkół kręcenia bata🚬 im. HEWRA_MOBBYN w Pułtusku
+aleja Tysiąclecia 12
+06-100 Pułtusk
+
+#Towarzystwo
+
+Towarzystwo Budownictwa Społecznego
+Białowiejska 17
+06-100 Pułtusk
+
+#Organizacja
+
+Polski Czerwony Krzyż. Mazowiecki Zarząd Okręgowy. Zarząd Rejonowy
+Stanisława Staszica 35
+06-100 Pułtusk
+
+#Poczta
+
+Poczta Polska
+17 Sierpnia 35
+06-100 Pułtusk
+
+Filia Urzędu Pocztowego Nr 1
+Świętego Andrzeja Boboli 8
+06-100 Pułtusk
+
+#Amazonki
+
+Amazonki Pułtusk
+3 Maja 5
+06-100 Pułtusk
+
+#PZU
+
+PZU
+Świętojańska 19
+06-100 Pułtusk
+
+PZU Ubezpieczenia Pułtusk - Agent Marta Żebrowska
+Tadeusza Kościuszki 67
+06-100 Pułtusk
+
+PZU Ubezpieczenia Pułtusk - Agent Andrzej Pergół
+Ignacego Daszyńskiego 3
+06-100 Pułtusk
+
+#muzeum
+
+Muzeum Regionalne w Pułtusku
+Rynek 43
+06-100 Pułtusk
+
+#Czerwony Krzyż
+
+#Centrum
+
+Adama Mickiewicza 36N,06-100 Pułtusk
+Adama Mickiewicza 36N
+06-100 Pułtusk
+
+#Niepełnosprawnych
+
+#Inwalidów
+
+======================================================================
+06-102 PUŁTUSK
+
+#Urząd
+
+#Dom kultury
+
+#Szkoła
+
+#Przedszkole
+
+#Akademia
+
+#Uniwersytet
+
+#Biblioteka
+
+#Szpital
+
+#Przychodnia
+
+#Bank
+
+#Oddział
+
+#Policja
+
+#Zakłady
+
+#Klub
+
+#Koło
+
+#Poczta
+
+#PZU
+
+#muzeum
+
+#Centrum
+
+======================================================================
+06-121 ŁUBIENICA – SUPERUNKI
+
+#Ośrodek
+
+#Dom kultury
+
+#Bank
+
+#Policja
+
+#Poczta
+
+#ZUS
+
+#PZU
+
+#muzeum
+
+#Centrum
+
+======================================================================
+06-114 GZOWO
+
+#Dom kultury
+
+#Szkoła
+
+Szkoła Podstawowa im. Ks. Jana Twardowskiego w Gzowie
+Gzowo 5
+06-114 Gzowo
+
+#Przedszkole
+
+#Szpital
+
+#Bank
+
+#Produkcja
+
+Vortex sp.j. Kryński W., Balcerak K.
+Gzowo 52
+06-114 Gzowo
+
+#Zakład
+
+#Spółka
+
+#Firma
+
+#Poczta
+
+#PZU
+
+======================================================================
+06-114 KARNIEWEK
+
+#Dom kultury
+
+#Szkoła
+
+#Szpital
+
+#Bank
+
+#PZU
+
+======================================================================
+07-130 POGORZELEC
+
+#Dom kultury
+
+#Szkoła
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#Poczta
+
+#ZUS
+
+#PZU
+
+#muzeum
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+06-114 DZIERŻENIN
+
+#Ośrodek
+
+Eskulap. NZOZ
+Dzierżenin 101
+DK61
+06-114 Dzierżenin
+
+#Dom kultury
+
+#Szkoła
+
+Publiczne Gimnazjum z Oddziałami Integracyjnymi
+06-114 Dzierżenin
+
+#Szpital
+
+#Przychodnia
+
+#Bank
+
+#Oddział
+
+#Produkcja
+
+SteelProfil - Tanie Blachy, Płyty Warstwowe i Płyty PIR
+Dzierżenin 34 E
+06-114 Dzierżenin
+
+#Zakłady
+
+Zakład Opieki Zdrowotnej (Healthcare center)
+101
+DK61
+06-114 Dzierżenin
+
+#Grupa
+
+#Spółka
+
+#Firma
+
+#Poczta
+
+#PZU
+
+#Centrum
+
+======================================================================
+06-114 KLUSEK
+
+#Szkoła
+
+#Biblioteka
+
+#Szpital
+
+#Policja
+
+#Sąd
+
+#Poczta
+
+Kapliczka
+Unnamed Road
+06-114 Klusek
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#muzeum
+
+======================================================================
+05-140 WIERZBICA
+
+#Ośrodek
+
+Cicha Zatoka - Ośrodek Rybacki
+Wierzbica 10
+05-140 Wierzbica
+
+#Dom kultury
+
+#Szkoła
+
+Szkoła Podstawowa
+Wierzbica 24
+05-140 Wierzbica
+
+#Biblioteka
+
+#Bank
+
+#Policja
+
+#Sąd
+
+#Klub
+
+#Fundacja
+
+Fundacja Idea Rozwoju
+Wierzbica 57B
+05-140 Wierzbica
+
+#Poczta
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#muzeum
+
+Turystyczny szlak patriotyczny Polski Walczącej
+DK62
+05-140 Wierzbica
+
+#Czerwony Krzyż
+
+#Fundacja
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+05-140 SEROCK
+
+#Urząd
+
+Urząd Miasta i Gminy
+Rynek 21
+05-140 Serock
+
+#Dom kultury
+
+Centrum Kultury i Czytelnictwa
+Pułtuska 35
+05-140 Serock
+
+sala widowiskowa
+Pułtuska 35
+05-140 Serock
+
+Ośrodek Sportu i Rekreacji
+Pułtuska 47
+05-140 Serock
+
+#Szkoła
+
+Szkoła podstawowa im. Mikołaja Kopernika w Serocku
+Pułtuska 68
+05-140 Serock
+
+Zespół Szkół Ponadgimnazjalnych
+Włodzimierza Wolskiego 8
+05-140 Serock
+
+#Przedszkole
+
+Samorządowe Przedszkole im. Krasnala Hałabały w Serocku
+Włodzimierza Wolskiego 15
+05-140 Serock
+
+Przedszkole Integracyjne Uniwersytet Malucha
+Wyzwolenia 31
+05-140 Serock
+
+Wesołe Skrzaty. Przedszkole Niepubliczne
+Pułtuska 53D
+05-140 Serock
+
+#Akademia
+
+￼ Serocka Akademia Seniora
+Pułtuska 35
+05-140 Serock
+
+#Uniwersytet
+
+#Biblioteka
+
+Biblioteka Publiczna Miasta i Gminy
+Tadeusza Kościuszki 8
+05-140 Serock
+
+#Szpital
+
+Samodzielny Publiczny Zakład Opieki Zdrowotnej
+Apoloniusza i Antoniego Kędzierskich
+05-140 Serock
+
+#Przychodnia
+
+Goldenmed Centrum Medyczne
+D
+Pułtuska 53
+05-140 Serock
+
+#Bank
+
+Polski Bank Spółdzielczy w Wyszkowie
+Pułtuska 25
+05-140 Serock
+
+Alior Bank - Placówka Partnerska
+11 Listopada 8
+05-140 Serock
+
+#Wydział
+
+#Policja
+
+Policja. Komenda Powiatowa w Legionowie. Komisariat
+Pułtuska 7
+05-140 Serock
+
+#Sąd
+
+#Zakłady
+
+#Spółdzielnia
+
+Gminna Spółdzielnia Samopomoc Chłopska
+Warszawska 32
+05-140 Serock
+
+#Związek
+
+Stowarzyszenie Polski Ziemniak
+Jerzego Szaniawskiego 15
+05-140 Serock
+
+#Stowarzyszenie
+
+Integracyjne Centrum Opieki Wychowania Terapii
+Wyzwolenia 31
+05-140 Serock
+
+#Klub
+
+Stanica PZW koła nr. 6 Warszawa Wola
+Retmańska 75
+05-140 Serock
+
+YKP WARSZAWA - Port Jadwisin
+Radziwiłła 2
+05-140 Serock
+
+Klub Aktywności Społecznej
+Tadeusza Kościuszki 8A
+05-140 Serock
+
+#Towarzystwo
+
+#Fundacja
+
+#Poczta
+
+Poczta Polska
+Rynek 12
+05-140 Serock
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+PZU Ubezpieczenia Serock - Agent Iwona Ciszkowska
+Pułtuska 33
+05-140 Serock
+
+#muzeum
+
+Izba Pamięci i Tradycji Rybackich
+świętego Wojciecha 1
+05-140 Serock
+
+#Czerwony Krzyż
+
+#Klub Seniora
+
+#Seniorzy
+
+#Fundacja
+
+#Centrum
+
+Centrum Konferencyjno-Szkoleniowe "NICOLA"
+Wyzwolenia 61
+05-140 Serock
+
+Green Park Conference Centre at IBD Business School
+Wyzwolenia 63
+05-140 Serock
+
+#Seniora
+
+#Seniorów
+
+======================================================================
+05-140 ZEGRZYNEK
+
+#Ośrodek
+
+Klub Mila Zegrzynek
+Jerzego Szaniawskiego 56
+05-140 Zegrzynek
+
+#Dom kultury
+
+#Szkoła
+
+Akademia Kusznierewicza
+Jerzego Szaniawskiego 56
+05-140 Zegrzynek
+
+#Przedszkole
+
+#Akademia
+
+#Uniwersytet
+
+#Biblioteka
+
+#Policja
+
+#Sąd
+
+#Klub
+
+#Koło
+
+#Organizacja
+
+#Poczta
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#muzeum
+
+#Klub Seniora
+
+#Centrum
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+05-140 KAROLINO
+
+#Dom kultury
+
+#Szkoła
+
+#Przedszkole
+
+#Biblioteka
+
+#Bank
+
+#Policja
+
+#Sąd
+
+#Produkcja
+
+Zakład Cukierniczy STANS, Joanna Słonecka-Szyszka
+Babie Lato
+05-140 Karolino
+
+#Zakłady
+
+#Poczta
+
+PRINT FACTORY
+Zorzy 12
+05-140 Karolino
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#muzeum
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+06-114 TRZEPOWO
+
+#Dom kultury
+
+#Szkoła
+
+#Biblioteka
+
+#Bank
+
+#Policja
+
+#Poczta
+
+Ochotnicza Straż Pożarna
+Trzepowo-Parcele 27
+06-114 Trzepowo-Parcele
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#Czerwony Krzyż
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+06-121 MORY
+
+#Dom kultury
+
+#Szkoła
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#Poczta
+
+#ZNP
+
+#PZU
+
+#Centrum
+
+======================================================================
+06-100 GROMIN
+
+#Szkoła
+
+#Przedszkole
+
+#Uniwersytet
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#Sąd
+
+#Stowarzyszenie
+
+Związek Hodowców Królików Rasowych i Drobuu Ozdobnego
+Gromin 4A
+06-100 Gromin
+
+#Poczta
+
+Ochotnicza Straż Pożarna w Grominie
+06-100
+Moszyn
+Gromin 35
+06-100 Gromin
+
+#ZNP
+
+#PZU
+
+#muzeum
+
+======================================================================
+06-121 ŁEPICE
+
+#Urząd
+
+#Dom kultury
+
+#Szkoła
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#Poczta
+
+#ZNP
+
+#PZU
+
+#muzeum
+
+#Czerwony Krzyż
+
+======================================================================
+06-121 POKRZYWNICA
+
+#Urząd
+
+Urząd Gminy w Pokrzywnicy
+Aleja Jana Pawła II 1
+06-121 Pokrzywnica
+
+#Ośrodek
+
+Gminny Ośrodek Opieki Społecznej
+parter
+Aleja Jana Pawła II 1
+06-121 Pokrzywnica
+
+#Szkoła
+
+Samoarządowe Przedszkole w Pokrzywnicy
+Aleja Jana Pawła II 10
+06-121 Pokrzywnica
+
+#Przedszkole
+
+Samorządowe Przedszkole w Pokrzywnicy
+Aleja Jana Pawła II 10
+06-121 Pokrzywnica
+
+#Politechnika
+
+#Szpital
+
+#Przychodnia
+
+NZOZ "Eskulap"
+Przemysłowa 1
+06-121 Pokrzywnica
+
+#Bank
+
+BS - Bankomat 24h
+Przemysłowa 1
+06-121 Pokrzywnica
+
+Bank Spółdzielczy w Pułtusku. Oddział
+Przemysłowa 1
+06-121 Pokrzywnica
+
+#Oddział
+
+#Policja
+
+Posterunek Policji
+Aleja Jana Pawła II 1
+06-121 Pokrzywnica
+
+#Sąd
+
+#Spółdzielnia
+
+Spółdzielnia Kółek Rolniczych
+Przemysłowa 9
+06-121 Pokrzywnica
+
+#Stowarzyszenie
+
+Zielone Mosty Narwi
+parter (obok) biblioteki
+Aleja Jana Pawła II 1
+06-121 Pokrzywnica
+
+#Klub
+
+GKS Pokrzywnica
+Aleja Jana Pawła II 1
+06-121 Pokrzywnica
+
+#Poczta
+
+Poczta Polska
+Przemysłowa 3
+06-121 Pokrzywnica
+
+#Emerytów
+
+#ZNP
+
+#PZU
+
+#muzeum
+
+#Seniorów
+
+#Emerytów
+
+#Niepełnosprawni
+
+#Inwalidów
+
+======================================================================
+06-141 POWIELIN
+
+#Szkoła
+
+#Policja
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#Czerwony Krzyż
+
+======================================================================
+06-120 ŁACHOŃ
+
+#Szkoła
+
+#Przedszkole
+
+#Uniwersytet
+
+#Biblioteka
+
+#Bank
+
+#Policja
+
+#Poczta
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+======================================================================
+06-126 SISICE
+
+#Biblioteka
+
+#Bank
+
+#Policja
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#muzeum
+
+======================================================================
+06-120 WINNICA
+
+#Urząd
+
+Urząd Gminy Winnica
+Pułtuska
+06-120 Winnica
+
+#Ośrodek
+
+Dar-med. NZOZ
+Widok 1
+06-120 Winnica
+
+#Dom kultury
+
+#Szkoła
+
+Publiczna Szkoła Podstawowa im. prof. Ignacego Mościckiego w Winnicy
+Pułtuska 19
+06-120 Winnica
+
+Publiczne Gimnazjum im. Bogdana Jańskiego
+Pułtuska 17
+06-120 Winnica
+
+#Przedszkole
+
+Samorządowe Przedszkole w Winnicy
+Wspólna 7
+06-120 Winnica
+
+#Biblioteka
+
+Gminna Biblioteka Publiczna
+Pułtuska 55
+06-120 Winnica
+
+#Szpital
+
+#Przychodnia
+
+#Bank
+
+Bank Spółdzielczy
+06-120 Winnica
+
+#Produkcja
+
+EMPRA - Traysealery, Folie Do Maszyn
+ul. Pułtuska 109 A
+06-120 Winnica
+
+#Poczta
+
+Poczta Polska
+Pułtuska 25
+06-120 Winnica
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#Czerwony Krzyż
+
+======================================================================
+05-140 GUTY
+
+#Dom kultury
+
+#Szkoła
+
+#Przedszkole
+
+#Biblioteka
+
+#Bank
+
+#Policja
+
+#Sąd
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#muzeum
+
+#Klub Seniora
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+05-140 DĘBE
+
+#Urząd
+
+#Ośrodek
+
+Krajowa Szkoła Sądownictwa i Prokuratury. Ośrodek szkoleniowy
+05-140 Dębe
+
+#Dom kultury
+
+#Szkoła
+
+#Przedszkole
+
+#Biblioteka
+
+#Szpital
+
+#Przychodnia
+
+Przychodnia w Dębe. SPZOZ w Serocku
+Dębe 38
+05-140 Dębe
+
+#Policja
+
+#Prokuratura
+
+#Sąd
+
+#Firma
+
+Energo-Inwest s.c.
+Dębe 5
+05-140 Dębe
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#muzeum
+
+#Czerwony Krzyż
+
+#Klub Seniora
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+05-190 NUNA
+
+#Dom kultury
+
+#Szkoła
+
+Grupa Ekspertów 24/7
+Nuna 183
+05-190 Nuna
+
+Parafia Rzymskokatolicka pw. bł. ks. Jerzego Popiełuszki w Nunie
+Nuna 159
+05-190 Nuna
+
+#Przedszkole
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#Sąd
+
+#Firma
+
+Floryda domki holenderskie
+Nuna 307
+05-190 Nuna
+
+#Poczta
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#Klub Seniora
+
+======================================================================
+05-190 LORCIN
+
+#Dom kultury
+
+#Szkoła
+
+#Przedszkole
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#Sąd
+
+#Poczta
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#Uniwersytet Trzeciego Wieku
+
+#Jeździecki
+
+"Stangret" Jakoniuk Małgorzata
+Lorcin
+Nasielsk
+05-190 Lorcin k. Nasielska
+
+======================================================================
+05-190 CHRCYNNO
+
+#Dom kultury
+
+#Szkoła
+
+#Przedszkole
+
+#Biblioteka
+
+#Bank
+
+#Policja
+
+#Sąd
+
+#Przedsiębiorstwo
+
+#Produkcja
+
+#Spółdzielnia
+
+#Fundacja
+
+Centrum Ochrony Środowiska. Fundacja
+Schronisko w Chrcynnie
+05-190 Chrcynno
+
+#Firma
+
+#Poczta
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#muzeum
+
+#Czerwony Krzyż
+
+#Fundacja
+
+#Centrum
+
+Ośrodek Szkoleniowy Log-Service
+158
+05-190 Chrcynno
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+06-141 PONIATY WIELKIE
+
+#Ośrodek
+
+#Dom kultury
+
+#Uniwersytet
+
+#Politechnika
+
+#Biblioteka
+
+#Szpital
+
+#Placówka
+
+#Bank
+
+#Oddział
+
+Logiservice Sp. z o. o.
+Poniaty Wielkie 12
+06-141 Poniaty Wielkie
+
+#Policja
+
+#Przedsiębiorstwo
+
+#Zakład
+
+#Zakłady
+
+#Spółka
+
+#Związek
+
+#Towarzystwo
+
+#Firma
+
+#Poczta
+
+#Emerytów
+
+#Instytut
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#muzeum
+
+#Diabetycy
+
+#Seniorów
+
+#Uniwersytet Trzeciego Wieku
+
+#Emerytów
+
+#Inwalidów
+
+======================================================================
+06-120 SKOROSZE
+
+#Dom kultury
+
+#Szkoła
+
+#Przedszkole
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#Sąd
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#Czerwony Krzyż
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+05-140 GĄSIOROWO
+
+#Dom kultury
+
+#Przedszkole
+
+#Biblioteka
+
+#Policja
+
+#Sąd
+
+#Poczta
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#muzeum
+
+#Klub Seniora
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+06-150 STRZEGOCIN
+
+#Szkoła
+
+#Uniwersytet
+
+#Biblioteka
+
+Biblioteka Publiczna Gminna. Filia
+Strzegocin 10/1
+06-150 Strzegocin
+
+#Szpital
+
+#Przychodnia
+
+Medical-west. NZOZ
+Strzegocin 78
+06-150 Strzegocin
+
+#Bank
+
+#Policja
+
+#Poczta
+
+Parafia Matki Boskiej Szkaplerznej
+Strzegocin 39
+06-150 Strzegocin
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#muzeum
+
+======================================================================
+06-150 BRODOWO
+
+#Dom kultury
+
+#Szkoła
+
+#Biblioteka
+
+#Bank
+
+#Poczta
+
+#ZNP
+
+#PZU
+
+#muzeum
+
+======================================================================
+05-190 NASIELSK
+
+#Urząd
+
+Urząd Miasta
+Elektronowa 3
+05-190 Nasielsk
+
+#Ośrodek
+
+Nasielski Ośrodek Kultury
+Kościuszki 12
+05-190 Nasielsk
+
+#Dom kultury
+
+Nasielski Ośrodek Kultury (Kino Niwa / Nasielski Osrodek Kultury)
+Kościuszki 12
+05-190 Nasielsk
+
+#Szkoła
+
+Technikum Zespołu Szkół Zawodowych
+Zespół Szkół Zawodowych w Nasielsku
+Lipowa 10
+05-190 Nasielsk
+
+Szkoła Podstawowa Nr
+Szkolna 1
+05-190 Nasielsk
+
+Szkoła Podstawowa im. S. Starzyńskiego
+Kościuszki 21
+05-190 Nasielsk
+
+#Przedszkole
+
+Przedszkole Samorządowe
+Warszawska 39A
+05-190 Nasielsk
+
+Sakolandia. Przedszkole niepubliczne
+Kosewo 51A
+05-190 Nasielsk
+
+Niepubliczne Przedszkole "Pod Fiołkami"
+Kościelna 21
+05-190 Nasielsk
+
+#Biblioteka
+
+Biblioteka Publiczna Miejsko - Gminna w Nasielsku
+Marszałka Józefa Piłsudskiego 6
+05-190 Nasielsk
+
+#Szpital
+
+Samodzielny Publiczny Zakład Opieki Zdrowotnej
+Sportowa 2
+05-190 Nasielsk
+
+#Przychodnia
+
+#Bank
+
+Bank Spółdzielczy w Nasielsku Centrala
+Kościuszki 19
+05-190 Nasielsk
+
+Bank Pekao S.A.
+Elektronowa 8/10
+05-190 Nasielsk
+
+PKO Bank Polski S.A.-Oddział 1 w Nasielsku
+Kościuszki 31 E
+05-190 Nasielsk
+
+#Oddział
+
+#Wydział
+
+#Policja
+
+Komisariat Policji
+Kościuszki 29
+05-190 Nasielsk
+
+#Produkcja
+
+ELEKTRO-PLAST
+Płońska 18
+05-190 Nasielsk
+
+#Spółdzielnia
+
+Spółdzielnia Mieszkaniowa Lokatorsko - Własnościowa
+Warszawska 21
+05-190 Nasielsk
+
+#Klub
+
+Kakaowy zawór u Ferdasa
+Romualda Traugutta 4
+05-190 Nasielsk
+
+#Poczta
+
+Poczta Polska
+Warszawska 26
+05-190 Nasielsk
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+PZU Ubezpieczenia Nasielsk - Agent Andrzej Pająk
+Kilińskiego 6
+05-190 Nasielsk
+
+Ostaszewski Adam. Agncja ubezpieczeniowa
+Warszawska 38
+05-190 Nasielsk
+
+Turek Hanna. Agencja ubezpieczeniowa
+Świętego Wojciecha 3
+05-190 Nasielsk
+
+#Czerwony Krzyż
+
+======================================================================
+05-190 PSUCIN
+
+#Dom kultury
+
+#Szkoła
+
+#Przedszkole
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#Produkcja
+
+Produkcja plandek. Malinowski Paweł
+Dębowa 9
+05-190 Psucin
+
+#Poczta
+
+Kapliczka
+05-190
+Warszawska 31
+05-190 Psucin
+
+Kapliczka
+05-190
+Lipowa 2
+05-190 Psucin
+
+Kapliczka
+05-190
+Warszawska 25
+05-190 Psucin
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#muzeum
+
+======================================================================
+05-190 Cegielnia Psucka
+
+#Dom kultury
+
+#Szkoła
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#Poczta
+
+Kapliczka
+Cegielnia Psucka 121
+05-190 Cegielnia Psucka
+
+Kapliczka
+Cegielnia Psucka 66
+05-190 Cegielnia Psucka
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+Moja Kuchnia
+Cegielnia Psucka 71
+05-190 Cegielnia Psucka
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+05-191 NOWE PIESCIROGI
+
+#Dom kultury
+
+#Szkoła
+
+#Uniwersytet
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#Sąd
+
+#Poczta
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#Czerwony Krzyż
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+05-190 KĄTNE
+
+#Szkoła
+
+#Przedszkole
+
+#Biblioteka
+
+#Bank
+
+#Policja
+
+#Poczta
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#Czerwony Krzyż
+
+======================================================================
+06-150 GOŁĘBIE
+
+#Dom kultury
+
+#Szkoła
+
+#Szpital
+
+#Bank
+
+#PZU
+
+======================================================================
+06-150 ŚWIERCZE
+
+#Urząd
+
+Urząd Gminy Świercze
+Pułtuska 47
+06-150 Świercze
+
+#Dom kultury
+
+#Szkoła
+
+Publiczna Szkoła Podstawowa w Świerczach
+Pułtuska 26A
+06-150 Świercze
+
+#Przedszkole
+
+#Biblioteka
+
+Gminna Biblioteka Publiczna
+Pułtuska 26
+06-150 Świercze
+
+#Szpital
+
+#Przychodnia
+
+Medical-West. NZOZ. Ośrodek zdrowia
+06-150 Świercze; Zwycięstwa 30
+
+#Placówka
+
+#Bank
+
+Bank Spółdzielczy w Nasielsku O. w Świerczach
+Wiejska 3D
+06-150 Świercze
+
+Mazowiecki Bank Regionalny S.A. Bankomat
+Wiejska 3D
+06-150 Świercze
+
+#Oddział
+
+#Policja
+
+Policja. Komenda Powiatowa w Pułtusku. Posterunek
+06-150 Świercze; Pułtuska 47a
+
+#Sąd
+
+#Poczta
+
+Poczta Polska
+Wiejska 3 C
+06-150 Świercze
+
+#Emerytów
+
+#PZU
+
+PZU Ubezpieczenia Świercze - Agent Wanda Szwejkowska
+Wiejska 4A
+06-150 Świercze
+
+#muzeum
+
+Pomnik
+Las kacperowski
+06-150 Świercze
+
+#Seniorów
+
+#Emerytów
+
+#Niepełnosprawnych
+
+======================================================================
+06-150 PRUSINOWICE
+
+#Szkoła
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Poczta
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#muzeum
+
+Park Edukacji i Rozrywki "Szturmówka"
+Prusinowice 35B
+06-150 Prusinowice
+
+======================================================================
+05-119 LEGIONOWO
+
+#Urząd
+
+Powiatowy Urząd Pracy
+Generała Władysława Sikorskiego 11
+05-119 Legionowo
+
+#Ośrodek
+
+Centrum Szkolenia Policji
+Zegrzyńska 121
+05-119 Legionowo
+
+#Dom kultury
+
+#Szkoła
+
+Szkoła Podstawowa nr 8 im. 1. Warszawskiej Dywizji Piechoty
+Zegrzyńska 3
+05-119 Legionowo
+
+Szkoła Podstawowa nr 4 im. Legionów Polskich
+Jana Pawła I 2
+05-119 Legionowo
+
+Zespół Szkolno-Przedszkolny
+Jana Pawła I 2
+05-119 Legionowo
+
+#Przedszkole
+
+Przedszkole nr 11 Miejskie
+Zegrzyńska 9
+05-119 Legionowo
+
+#Uniwersytet
+
+#Biblioteka
+
+Miejska Biblioteka Publiczna. Filia nr 3
+Generała Bolesława Roi 4A
+05-119 Legionowo
+
+#Szpital
+
+#Przychodnia
+
+Wojskowa Specjalistyczna Przychodnia Lekarska w Legionowie
+Zegrzyńska 8
+05-119 Legionowo
+
+#Bank
+
+Agencja PKO Banku Polskiego
+Zegrzyńska 15
+05-119 Legionowo
+
+#Wydział
+
+Starostwo Powiatowe
+Generała Władysława Sikorskiego 11
+05-119 Legionowo
+
+#Policja
+
+#Sąd
+
+#Produkcja
+
+Lopi
+Długa 3
+05-119 Legionowo
+
+AMP Producent dzianin
+Zegrzyńska 4
+05-119 Legionowo
+
+Gesipa Polska Sp. z o.o.
+Generała Władysława Sikorskiego 5
+05-119 Legionowo
+
+#Zakład
+
+"Polska Grupa Recyklingu PROEKO" Sp. z o.o.
+Generała Władysława Sikorskiego 5
+05-119 Legionowo - Łajski
+
+#Grupa
+
+#Agencja
+
+INTRAHOUSE Nieruchomości
+Grudzie 66 c
+05-119 Legionowo
+
+CPR. Centrum Promocji i Rozwoju
+Stanisława Wigury 4
+05-119 Legionowo
+
+#Spółdzielnia
+
+#Związek
+
+#Stowarzyszenie
+
+Amicus Legionowskie Stowarzyszenie
+Orląt Lwowskich 8
+05-119 Legionowo
+
+#Klub
+
+Legionowski Klub Sportów Walki Tajfun
+Zegrzyńska 4
+05-119 Legionowo
+
+JUDO LTS Klub sportowy
+Zegrzyńska 121
+05-119 Legionowo
+
+#Towarzystwo
+
+#Fundacja
+
+#Poczta
+
+Poczta Polska
+Zegrzyńska 17
+05-119 Legionowo
+
+#Instytut
+
+Ośrodek Aerologii Instytutu Meteorologii i Gospodarki Wodnej
+Zegrzyńska 38
+05-119 Legionowo
+
+#ZUS
+
+#PZU
+
+#muzeum
+
+#Czerwony Krzyż
+
+#Fundacja
+
+#Centrum
+
+#Seniora
+
+#Uniwersytet Trzeciego Wieku
+
+#Niepełnosprawnych
+
+#Niepełnosprawni
+
+#Jeździecki
+
+======================================================================
+05-120 LEGIONOWO
+
+#Urząd
+
+Urząd Miasta
+Józefa Piłsudskiego 41
+05-120 Legionowo
+
+Urząd Skarbowy w Legionowie
+Józefa Piłsudskiego 43C
+05-120 Legionowo
+
+#Ośrodek
+
+EL-MED
+Zygmunta Krasińskiego 70
+05-120 Legionowo
+
+Ośrodek Pomocy Społecznej
+aleja 3 Maja 28
+05-120 Legionowo
+
+Ośrodek Mazurski Okrągłe
+Sielankowa 5
+05-120 Legionowo
+
+#Dom kultury
+
+Miejski Ośrodek Kultury
+Józefa Piłsudskiego 41
+05-120 Legionowo
+
+Miejski Ośrodek Kultury w Legionowie
+Cypriana Kamila Norwida 10
+05-120 Legionowo
+
+Scena 210
+Husarska 12
+05-120 Legionowo
+
+#Szkoła
+
+Szkoła Podstawowa nr 1
+Zakopiańska 4
+05-120 Legionowo
+
+Szkoła Podstawowa Specjalna Zespołu Szkół i Placówek Specjalnych
+Jagiellońska 69
+05-120 Legionowo
+
+Szkoła Podstawowa nr 7 im. VII Obwodu Obroża Armii Krajowej
+Królowej Jadwigi 7
+05-120 Legionowo
+
+#Przedszkole
+
+Przedszkole Niepubliczne Wesołe Sówki
+Jagiellońska 40
+05-120 Legionowo
+
+Przedszkole nr 7 Miejskie
+Husarska 19
+05-120 Legionowo
+
+Przedszkole Miejskie Nr 9
+Królowej Jadwigi 11
+05-120 Legionowo
+
+#Akademia
+
+Akademia Zucha Niepubliczne Przedszkole
+Husarska 19
+05-120 Legionowo
+
+Akademia Piłkarska 11
+Zakopiańska 4
+05-120 Legionowo
+
+Akademia Dzieciaków - Robotyka LEGO Eksperymenty Urodziny... i wiele innych Legionowo
+Jana III Sobieskiego 6
+05-120 Legionowo
+
+#Uniwersytet
+
+#Biblioteka
+
+Miejska Biblioteka Publiczna w Legionowie. Poczytalnia
+Tadeusza Kościuszki 8a
+05-120 Legionowo
+
+#Szpital
+
+Niepubliczny Zakład Opieki Zdrowotnej Legio-Med
+Husarska 14
+05-120 Legionowo
+
+Wigor Zol
+Pomorska 26
+05-120 Legionowo
+
+Dom Opiekuńczy DWOREK
+Strużańska 10
+05-120 Legionowo
+
+#Przychodnia
+
+Przychodnia Zdrowie Legionowo
+Generała Józefa Sowińskiego 15A
+05-120 Legionowo
+
+MEDIQ Szpital i Poradnie Specjalistyczne
+Józefa Piłsudskiego 20
+05-120 Legionowo
+
+#Placówka
+
+Oddział Banku Millennium
+Józefa Piłsudskiego 11
+05-120 Legionowo
+
+#Bank
+
+Bank Spółdzielczy
+Rynek 4
+05-120 Legionowo
+
+PKO Bank Polski S.A.-Oddział 4 w Legionowie
+Józefa Piłsudskiego 20
+05-120 Legionowo
+
+PKO Bank Polski S.A.-Oddział 1 w Legionowie
+Józefa Piłsudskiego 28
+05-120 Legionowo
+
+#Wydział
+
+#Policja
+
+Komenda Powiatowa Policji
+Jagiellońska 26B
+05-120 Legionowo
+
+#Prokuratura
+
+Prokuratura Rejonowa w Legionowie
+Jana III Sobieskiego 47
+05-120 Legionowo
+
+#Sąd
+
+Sąd Rejonowy w Legionowie
+Jana III Sobieskiego 47
+05-120 Legionowo
+
+#Przedsiębiorstwo
+
+Przedsiębiorstwo Wodociągowo-Kanalizacyjne "Legionowo" Sp. z o.o.
+Tadeusza Kościuszki 16A
+05-120 Legionowo
+
+#Produkcja
+
+Linktex Artur Węcławek
+Ul. lok.23
+Jana III Sobieskiego 29
+05-120 Legionowo
+
+SKŁAD DREWNA I PŁYT
+Tadeusza Kościuszki 14
+05-120 Legionowo
+
+Producent Sprężyn Warszawa - sprzedaż i wyrób sprężyn na zamówienie
+Franciszka Ksawerego Lubeckiego 1
+05-120 Legionowo
+
+#Fabryka
+
+AIR-POL Sp. z o. o.
+Olszankowa 52
+05-120 Legionowo
+
+#Zakład
+
+PGE Obrót S.A. Biuro Obsługi Klienta Legionowo
+Józefa Piłsudskiego 31a
+05-120 Legionowo
+
+#Zakłady
+
+#Agencja
+
+Agencja Nieruchomości MAX
+Stanisława Konarskiego 3
+05-120 Legionowo
+
+TiO Nieruchomości - Legionowo
+Rynek 2
+05-120 Legionowo
+
+Agencja Restrukturyzacji i Modernizacji Rolnictwa. Biuro Powiatowe
+Generała Władysława Sikorskiego 11
+05-120 Legionowo
+
+#Spółdzielnia
+
+Spółdzielnia Mieszkaniowa Lokatorsko-Własnościowa w Legionowie
+Jagiellońska 11
+05-120 Legionowo
+
+#Związek
+
+Związek Kynologiczny w Polsce. Oddział
+Jagiellońska 20
+05-120 Legionowo
+
+Stowarzyszenie Właścicieli Kotów i Psów Rasowych - SWKiPR
+Juliusza Słowackiego 2b
+05-120 Legionowo
+
+#Stowarzyszenie
+
+Legionowskie Amatorskie Ligi Piłkarskie. Stowarzyszenie
+Parkowa 27
+05-120 Legionowo
+
+Fundacja MOVERI
+Husarska 19
+05-120 Legionowo
+
+#Klub
+
+Legionovia. Miejski klub sportowy
+Parkowa 27A
+05-120 Legionowo
+
+#Koło
+
+Światowy Związek Żołnierzy Armii Krajowej. Koło
+Stefana Batorego 20
+05-120 Legionowo
+
+Polski Związek Niewidomych. Okręg mazowiecki. Koło
+Generała Józefa Sowińskiego 15A
+05-120 Legionowo
+
+Maranta. Kwiaciarnia
+Józefa Piłsudskiego 19
+05-120 Legionowo
+
+#Towarzystwo
+
+#Fundacja
+
+Fundacja Gwiazdka
+Hetmańska 65
+05-120 Legionowo
+
+#Poczta
+
+Poczta Polska
+Jagiellońska 16
+05-120 Legionowo
+
+Agencja Pocztowa ul.Grzybowa 6, Legionowo
+117 6
+Grzybowa
+05-120 Legionowo
+
+Filia Urzędu Pocztowego - Legionowo 1
+Józefa Piłsudskiego 41
+05-120 Legionowo
+
+#Instytut
+
+#ZUS
+
+ZUS Inspektorat w Legionowie
+Juliusza Słowackiego 20
+05-120 Legionowo
+
+#Amazonki
+
+Legionowski Klub Amazonek przy Stowarzyszeniu Pomocy Potrzebującym Nadzieja
+Józefa Piłsudskiego 3
+05-120 Legionowo
+
+#PZU
+
+Oddział PZU - Legionowo, Józefa Piłsudskiego
+Józefa Piłsudskiego 22
+05-120 Legionowo
+
+#muzeum
+
+Muzeum Historyczne w Legionowie
+Adama Mickiewicza 23
+05-120 Legionowo
+
+#Czerwony Krzyż
+
+Polski Czerwony Krzyż. Mazowiecki Zarząd Okręgowy. Zarząd Rejonowy
+Husarska 15
+05-120 Legionowo
+
+#Fundacja
+
+#Centrum
+
+Błękitne Centrum
+Józefa Piłsudskiego 31
+05-120 Legionowo
+
+DH Maxim
+Jerzego Siwińskiego 2
+05-120 Legionowo
+
+Centrum Komunikacyjne w Legionowie
+Tadeusza Kościuszki 8a
+05-120 Legionowo
+
+#Seniora
+
+Dom Pomocy Społecznej im. Wandy Olędzkiej
+Stefana Okrzei 5
+05-120 Legionowo
+
+Dom Dziennego Pobytu
+Generała Józefa Sowińskiego 3
+05-120 Legionowo
+
+Zakład Pielęgnacyjno-Opiekuńczy (Niepubliczny Zespół Zakładów Opieki Zdrowotnej WIGOR)
+Jana Kozietulskiego 9
+05-120 Legionowo
+
+#Seniorów
+
+#Uniwersytet Trzeciego Wieku
+
+Legionowski Uniwersytet Trzeciego Wieku
+3
+Józefa Piłsudskiego
+05-120 Legionowo
+
+#Niepełnosprawnych
+
+Powiatowe Centrum Pomocy Rodzinie
+Generała Władysława Sikorskiego 11
+05-120 Legionowo
+
+#Niepełnosprawni
+
+#Jeździecki
+
+Sklep Jeździecki CORDEO
+Warszawska 57
+05-120 Legionowo
+
+======================================================================
+05-816 OPACZ- KOLONIA
+
+#Urząd
+
+#Dom kultury
+
+#Szkoła
+
+#Przedszkole
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#Produkcja
+
+#Spółka
+
+#Spółdzielnia
+
+#Organizacja
+
+#Poczta
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#muzeum
+
+#Czerwony Krzyż
+
+#Seniora
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+05-820 PIASTÓW
+
+#Urząd
+
+Urząd Miejski Piastów
+11 Listopada 2
+05-820 Piastów
+
+Urząd Stanu Cywilnego
+11 Listopada 8/2
+05-820 Piastów
+
+Urząd Pocztowy Piastów 3
+Michała Ogińskiego 18
+05-820 Piastów
+
+#Ośrodek
+
+Ośrodek Readaptacyjno - Rehabilitacyjny. Oddział
+Władysława Reymonta 27
+05-820 Piastów
+
+Miejski Ośrodek Pomocy Społecznej w Piastowie
+aleja Tysiąclecia 3
+05-820 Piastów
+
+#Dom kultury
+
+Miejski Ośrodek Kultury
+Warszawska 24
+05-820 Piastów
+
+#Szkoła
+
+Zespół Szkół im. Fridtjofa Nansena
+Karola Namysłowskiego 11
+05-820 Piastów
+
+Niepubliczna Szkoła Podstawowa nr 85 w Piastowie
+Bohaterów Wolności 43
+05-820 Piastów
+
+Szkoła Podstawowa nr 2
+aleja Krakowska 20
+05-820 Piastów
+
+#Przedszkole
+
+Przedszkole nr 4
+Żbikowska 5
+05-820 Piastów
+
+Przedszkole nr 1
+Stanisława Moniuszki 11
+05-820 Piastów
+
+Żłobek i Przedszkole Mała Akademia
+Warszawska 39
+05-820 Piastów
+
+#Akademia
+
+#Uniwersytet
+
+MBP Szkolenia Ubezpieczeniowe
+Maurycego Mochnackiego 28
+05-820 Piastów
+
+#Biblioteka
+
+Biblioteka Publiczna Miejska
+Warszawska 24
+05-820 Piastów
+
+Filia nr 3 Miejskiej Biblioteki Publicznej w Piastowie
+Dworcowa 1
+05-820 Piastów
+
+#Szpital
+
+Przychodnia Amodent
+Ignacego Paderewskiego 13
+05-820 Piastów
+
+#Przychodnia
+
+SPZOZ PIASTUN
+Mikołaja Reja 1
+05-820 Piastów
+
+Poradnia przy Konopnickiej - Przychodnia lekarska w Piastowie
+Marii Konopnickiej 11
+05-820 Piastów
+
+#Placówka
+
+Nest Bank - Piastów (placówka partnerska)
+Warszawska 43/C2
+05-820 Piastów
+
+#Bank
+
+Bank Pekao S.A.
+Dworcowa 1
+05-820 Piastów
+
+Bank Spółdzielczy w Pruszkowie
+05-820 Piastów; Wybickiego 3
+05-850
+
+#Policja
+
+Policja. Komenda Powiatowa w Pruszkowie. Komisariat
+Księdza Jerzego Popiełuszki 24
+05-820 Piastów
+
+#Prokuratura
+
+#Sąd
+
+#Produkcja
+
+USB System s.c.
+Juliusza Słowackiego 25
+05-820 Piastów
+
+Ewros Sp. z o.o.
+Szarych Szeregów 2
+05-820 Piastów
+
+Stil Sil Bis Jerzy Wiśniewski
+aleja Wojska Polskiego 30
+05-820 Piastów
+
+#Fabryka
+
+Fabryka Pizzy
+Warszawska 43
+05-820 Piastów
+
+#Zakłady
+
+Piastowskie Zakłady Przemysłu Gumowego "STOMIL" Sp. z o.o.
+Warszawska 49/51
+05-820 Piastów
+
+Magurex Zakład Elektroniczny
+Adama Mickiewicza 45
+05-820 Piastów
+
+Ostrowski D. Zakład stolarski
+Mazowiecka 3
+05-820 Piastów
+
+#Agencja
+
+Agencja Restrukturyzacji i Modernizacji Rolnictwa. Mazowiecki Oddział Regionalny. Biuro powiatowe
+Harcerska 30
+05-820 Piastów
+
+#Spółka
+
+Piastów. Spółka wodna
+Księdza Piotra Skargi 21
+05-820 Piastów
+
+#Spółdzielnia
+
+Piastovia. Spółdzielnia Mieszkaniowa
+Księdza Jana Ignacego Skorupki 14
+05-820 Piastów
+
+Ursus. Robotnicza Spółdzielnia Mieszkaniowa
+aleja Marszałka Józefa Piłsudskiego 56
+05-820 Piastów
+
+#Towarzystwo
+
+Marianiści. Towarzystwo Maryi
+Henryka Siemiradzkiego 24
+05-820 Piastów
+
+Piastowskie Towarzystwo Tenisowe
+11 Listopada 3
+05-820 Piastów
+
+Stowarzyszenie MOŻESZ na rzecz psychoprofilaktyki i rozwoju dzieci i młodzieży
+Warszawska 24
+05-820 Piastów
+
+#Fundacja
+
+DOBROCZYNNA FUNDACJA „DOBRA NOWINA”
+Michała Ogińskiego 16/15
+05-820 Piastów
+
+Fundacja Dzieci Mazowsza
+Karola Namysłowskiego 11
+05-820 Piastów
+
+Fundacja Toto Animo
+Mikołaja Reja 11/m. 3
+05-820 Piastów
+
+#Poczta
+
+Poczta Polska
+11 Listopada 3
+05-820 Piastów
+
+#Instytut
+
+Instytut Inżynierii Materiałów Polimerowych i Barwników
+Harcerska 30
+05-820 Piastów
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+PZU Ubezpieczenia Grójec - Agent Anna Mentek- Dziubińska
+Warszawska 43
+05-820 Piastów
+
+PZU Ubezpieczenia Piastów - Agent Alfred Stokowski
+Jana III Sobieskiego 13
+05-820 Piastów
+
+#muzeum
+
+Usługi archeologiczne, Nadzór archeologiczny, wykopaliska, badania wykopaliskowe,Archeo Culture
+Marii Skłodowskiej-Curie 32A
+05-820 Piastów
+
+#Czerwony Krzyż
+
+#Fundacja
+
+#Centrum
+
+Miejski Ośrodek Sportu i Rekreacji
+aleja Tysiąclecia 1
+05-820 Piastów
+
+Siedziba Frosnet
+Warszawska
+05-820 Piastów
+
+#Inwalidów
+
+Polski Związek Emerytów Rencistów I Inwalidów
+aleja Tysiąclecia 1
+05-820 Piastów
+
+Akcjum. Wyposażenie toalet publicznych
+Mieczysława Karłowicza 4A
+05-820 Piastów
+
+======================================================================
+05-082 BABICE NOWE
+
+#Urząd
+
+#Dom kultury
+
+#Szkoła
+
+#Przedszkole
+
+#Szpital
+
+Opmedica
+Pocztowa 1
+05-082 Babice Nowe
+
+#Przychodnia
+
+Formmed
+Warszawska 197D
+05-082 Babice Nowe
+
+#Bank
+
+Warszawski Bank Spółdzielczy (WBS Bank) Oddział w Starych Babicach
+Warszawska 189
+05-082 Babice Nowe
+
+#Policja
+
+#Sąd
+
+#Koło
+
+#Fundacja
+
+#Poczta
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#muzeum
+
+#Czerwony Krzyż
+
+#Fundacja
+
+#Centrum
+
+Park handlowy
+Warszawska 195
+05-082 Babice Nowe
+
+Drogeria Rossmann
+Warszawska 195
+05-082 Babice Nowe
+
+#Seniora
+
+#Seniorów
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+05-080 BABICE WIELKIE
+
+#Szkoła
+
+======================================================================
+05-080 KLAUDYN
+
+#Dom kultury
+
+#Szkoła
+
+Школа 4
+Ul.
+Klaudyńska 33
+05-080 Klaudyn
+
+#Przedszkole
+
+#Biblioteka
+
+#Szpital
+
+Klinika w Klaudynie
+Karola Kurpińskiego 15
+05-080 Klaudyn
+
+#Przychodnia
+
+#Bank
+
+#Policja
+
+#Prokuratura
+
+#Sąd
+
+#Produkcja
+
+#Spółdzielnia
+
+#Klub
+
+Klaudyn-Kampinos. Ludowy Klub Jeździecki
+Witolda Lutosławskiego 47
+05-080 Klaudyn
+
+#Firma
+
+APM Profil
+Plut. J. Ciećwierza 2
+05-080 Klaudyn
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#Uniwersytet Trzeciego Wieku
+
+#Jeździecki
+
+======================================================================
+05-092 ŁOMIANKI
+
+#Ośrodek
+
+Ośrodek Pomocy Społecznej
+Szpitalna 7
+05-092 Łomianki
+
+Młodzieżowy Ośrodek Socjoterapii nr 1 w Łomiankach
+Warszawska 14
+05-092 Łomianki
+
+Integracyjne Centrum Dydaktyczno - Sportowe
+Wiślana 4C
+05-092 Łomianki
+
+#Dom kultury
+
+Centrum Kultury w Łomiankach
+Wiejska 12A wejście od ulicy Gościńcowej
+05-092 Łomianki
+
+Scena widowiskowa przy Centrum Kultury
+Wiejska 12A
+05-092 Łomianki
+
+soojka.pl
+Warszawska 180
+05-092 Łomianki
+
+#Szkoła
+
+Dwujęzyczna Szkoła Podstawowa i Dwujęzyczne Gimnazjum w Łomiankach
+Warszawska 141
+05-092 Łomianki
+
+SZKOŁA PODSTAWOWA nr 2 w Łomiankach
+Partyzantów 31
+05-092 Łomianki
+
+Szkoła Podstawowa nr 3 im. Janusza Kusocińskiego
+2
+Stanisława Staszica
+05-092 Łomianki
+
+#Przedszkole
+
+Przedszkole
+Warszawska 125
+05-092 Łomianki
+
+Przedszkole Samorządowe w Łomiankach
+Szpitalna 1
+05-092 Łomianki
+
+Europejskie Przedszkole Niepubliczne Dziecięca Planeta
+Działkowa 31
+05-092 Łomianki
+
+#Akademia
+
+Akademia Piłkarska Janusza Domaradzkiego
+11 Listopada 48
+05-092 Łomianki
+
+#Uniwersytet
+
+#Biblioteka
+
+Biblioteka Publiczna w Łomiankach
+Wiejska 12A
+05-092 Łomianki
+
+#Szpital
+
+Niepubliczny Zakład Opieki Zdrowotnej ŁOMIANKI
+Warszawska 31
+05-092 Łomianki
+
+CENTRUM MEDYCZNE ROYALMED
+Wiślana 36
+05-092 Łomianki
+
+#Przychodnia
+
+#Bank
+
+Mazowiecki Bank Spółdzielczy w Łomiankach
+Szpitalna 8
+05-092 Łomianki
+
+PKO Bank Polski S.A.-Oddział 1 w Łomiankach
+Warszawska 148
+05-092 Łomianki
+
+Alior Bank - Oddział
+Warszawska 98
+05-092 Łomianki
+
+#Oddział
+
+#Wydział
+
+Wydział Komunikacji PWZ
+Stanisława Staszica 2
+05-092 Łomianki
+
+#Policja
+
+Komisariat Policji
+Warszawska 87
+05-092 Łomianki
+
+#Produkcja
+
+Polmo Łomianki S.A.
+Warszawska 31
+05-092 Łomianki
+
+SUN-FARM Sp.z o.o.
+Dolna 21
+05-092 Łomianki
+
+AXXIS Pharma Sp. z o. o.
+Aleja Fryderyka Chopina 57A
+05-092 Łomianki Dolne
+
+#Fabryka
+
+Avip. Fabryka reklamy. Wiesława Andrzej Barciak
+11 Listopada 100
+05-092 Łomianki
+
+#Zakład
+
+Medimark. Zakład mechaniki precyzyjnej. Narzędzia i aparaty medyczne
+Polna 24
+05-092 Łomianki
+
+#Zakłady
+
+#Grupa
+
+ANTAP Grupa Sp. z o.o.
+Racławicka 30
+05-092 Łomianki
+
+Grupa A2ND SC. Bron M.m.
+Dolna 4
+05-092 Łomianki
+
+Grupa Dekarska Łomianki
+Kolejowa 113
+05-092 Łomianki
+
+#Agencja
+
+Biuro Nieruchomości KORAB
+Wiślana 49
+05-092 Łomianki
+
+#Spółdzielnia
+
+Łomianki-Równoległa. Spółdzielnia Mieszkaniowa
+Równoległa 5
+05-092 Łomianki
+
+#Klub
+
+Wilczeniec Sp. z o.o. Klub wiejski
+Kościelna Droga 10
+05-092 Łomianki
+
+Jazz Cafe
+Warszawska 69
+05-092 Łomianki
+
+Frajda
+Jeziorna 1A
+05-092 Łomianki
+
+#Fundacja
+
+Pomoc Rodzinie. Fundacja
+Krzysztofa Kamila Baczyńskiego 9
+05-092 Łomianki
+
+Hipoterapia Fundacja Byka za Rogi
+Jeziorna
+05-092 Łomianki
+
+#Firma
+
+Inwep - Internet dla Firm Biznesu, Telewizja, Telefon - Warszawa Łomianki
+Warszawska 91
+05-092 Łomianki
+
+#Poczta
+
+Poczta Polska
+Warszawska 258
+05-092 Łomianki
+
+Poczta Polska
+Kwiatowa 12
+05-092 Łomianki
+
+#Instytut
+
+Instytut Świecki Życia Konsekrowanego Świętej Rodziny
+Krzysztofa Kamila Baczyńskiego 7
+05-092 Łomianki
+
+#ZUS
+
+Urząd Miejski W Łomiankach
+Warszawska 115
+05-092 Łomianki
+
+#ZNP
+
+#PZU
+
+Pruchniewicz Andrzej, agent ubezpieczeniowy PZU SA
+Łąkowa 2A
+05-092 Łomianki
+
+UBEZPIECZENIA Łomianki- Wiślana5 Różycki Paweł/Piechocka-Antosik Agnieszka
+Wiślana 5
+05-092 Łomianki
+
+#muzeum
+
+PDDiU Pro
+Pionierów 22
+05-092 Łomianki
+
+Mural Powstania Warszawskiego
+Jedności Robotniczej
+05-092 Łomianki
+
+Gabinet Kosmetyczny
+Warszawska
+05-092 Łomianki
+
+#Czerwony Krzyż
+
+#Klub Seniora
+
+#Fundacja
+
+#Centrum
+
+Galeria Łomianki
+Brukowa 25
+05-092 Łomianki
+
+#Seniora
+
+Polonijny Dom Opieki-Dla Osób Starszych - i z Alzheimerem , Całodobowa Opieka Medyczna i Neurologiczna .
+Jaśminowa 20
+05-092 Łomianki
+
+#Seniorów
+
+#Inwalidów
+
+Luksusowe Toalety Myjące - BIO BIDET - Sklep Firmowy
+Warszawska 284
+05-092 Łomianki
+
+Integracyjne Centrum Dydaktyczno-Sportowe
+Stanisława Staszica 2
+05-092 Łomianki
+
+#Jeździecki
+
+SALON JEŹDZIECKI KOŃSKI ŚWIAT
+Warszawska 67
+05-092 Łomianki
+
+======================================================================
+05-092 ŁOMIANKI DOLNE
+
+#Urząd
+
+#Ośrodek
+
+#Dom kultury
+
+#Szkoła
+
+Akademia Małego Człowieka Łomianki
+Brzegowa 8D
+05-092 Łomianki Dolne
+
+Gdańskie Wydawnictwo Psychologiczne Szkolenia
+Władysława Szpilmana
+05-092 Łomianki Dolne
+
+#Przedszkole
+
+#Akademia
+
+#Biblioteka
+
+#Szpital
+
+Biuro Epik game
+05-092 Łomianki Dolne
+
+#Przychodnia
+
+#Bank
+
+#Oddział
+
+#Policja
+
+#Produkcja
+
+Cedros
+Łużycka 3
+05-092 Łomianki Dolne
+
+#Klub
+
+#Fundacja
+
+#Firma
+
+#Poczta
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#muzeum
+
+#Czerwony Krzyż
+
+#Fundacja
+
+#Seniorów
+
+#Uniwersytet Trzeciego Wieku
+
+#Inwalidów
+
+TEGRA
+Aleja Fryderyka Chopina 49A
+05-092 Łomianki Dolne
+
+#Jeździecki
+
+======================================================================
+05-110 JABŁONNA
+
+#Urząd
+
+Urząd Gminy
+Modlińska 152
+05-110 Jabłonna
+
+#Ośrodek
+
+Samodzielny Zespół Publicznych Zakładów Opieki Zdrowotnej
+Parkowa 21
+05-110 Jabłonna
+
+Gminny Ośrodek Pomocy Społecznej
+Zegrzyńska 1
+05-110 Jabłonna
+
+Gminne Centrum Kultury i Sportu
+Modlińska 102
+05-110 Jabłonna
+
+#Dom kultury
+
+Dom Ogrodnika. Ogrodniczy dom kultury
+Modlińska 102
+05-110 Jabłonna
+
+#Szkoła
+
+Szkoła Podstawowa im. Armii Krajowej w Jabłonnie
+Szkolna 2
+05-110 Jabłonna
+
+Niepubliczna Szkoła Podstawowa im. Jana Pawła II w Jabłonnie (filia)
+Modlińska 105A
+05-110 Jabłonna
+
+#Przedszkole
+
+Przedszkole Gminne
+Modlińska 103B
+05-110 Jabłonna
+
+#Akademia
+
+Akademia Dobrej Edukacji w Jabłonnie
+Chotomowska 81
+05-110 Jabłonna
+
+#Uniwersytet
+
+Instytut Fizjologii i Żywienia Zwierząt im. Jana Kielanowskiego PAN
+Instytucka 3
+05-110 Jabłonna
+
+#Biblioteka
+
+Gminna Biblioteka Publiczna w Jabłonnie
+Modlińska 102
+05-110 Jabłonna
+
+#Szpital
+
+Centrum Medyczne DP MED
+Modlińska 49
+05-110 Jabłonna
+
+#Przychodnia
+
+#Bank
+
+Alior Bank - Placówka Partnerska
+Akademijna 3/lok. 1
+05-110 Jabłonna
+
+Bank Spółdzielczy Oddział
+Zegrzyńska 1
+05-110 Jabłonna
+
+Agencja PKO Banku Polskiego
+Zegrzyńska 8
+05-110 Jabłonna
+
+#Wydział
+
+#Policja
+
+Policja. Komisariat Policji Jabłonna
+Modlińska 130
+05-110 Jabłonna
+
+#Prokuratura
+
+#Sąd
+
+#Przedsiębiorstwo
+
+APP. Przedsiębiorstwo techniczne
+Wałowa 38
+05-110 Jabłonna
+
+#Produkcja
+
+Zbigmet
+Modlińska 35A
+05-110 Jabłonna
+
+#Fabryka
+
+Fabryka Urody - Beauty Center
+Akademijna 3/4
+05-110 Jabłonna
+
+#Agencja
+
+Agencja Ubezpieczeniowa MAX TEAM Aneta Bojarska
+Modlińska 34
+05-110 Jabłonna
+
+#Spółdzielnia
+
+Spółdzielnia budowlano-mieszkaniowa Spółdzielców Pracy
+Chotomowska 9
+05-110 Jabłonna
+
+Samopomoc Chłopska. Gminna Spółdzielnia
+Zegrzyńska 1
+05-110 Jabłonna
+
+#Klub
+
+Klub Sportowy Wisła Jabłonna
+Modlińska 102
+05-110 Jabłonna
+
+Klub Tenisowy Kortland Sandor Ladanyi, Paweł Hardyś
+Modlińska 65
+05-110 Jabłonna
+
+Klub Animacji "Jabłonka"
+Przylesie 32/32 I piętro
+05-110 Jabłonna
+
+#Koło
+
+#Firma
+
+Sarw s.c.
+Zegrzyńska 28A
+05-110 Jabłonna
+
+#Poczta
+
+Poczta Polska
+Modlińska 102
+05-110 Jabłonna
+
+#Instytut
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#muzeum
+
+Pomnik Armii Krajowej
+Zegrzyńska 1
+05-110 Jabłonna
+
+pomnik maksymiliana chudzika
+Unnamed Road
+05-110 Jabłonna
+
+#Czerwony Krzyż
+
+#Centrum
+
+======================================================================
+05-123 CHOTOMÓW
+
+#Urząd
+
+Urząd Pocztowy - filia UP Legionowo
+Partyzantów 27
+05-123 Chotomów
+
+#Ośrodek
+
+Wiejski Ośrodek Zdrowia SPZOZ
+Partyzantów 10A
+05-123 Chotomów
+
+#Dom kultury
+
+#Szkoła
+
+Gimnazjum Publiczne im.Orła Białego
+Partyzantów 23
+05-123 Chotomów
+
+Szkoła Podstawowa im. Stefana Krasińskiego
+Partyzantów 124
+05-123 Chotomów
+
+Art Of Body Akademia Rozwoju Sztuki Tańca i Kultury Fizycznej
+Gwiaździsta 23
+05-123 Chotomów
+
+#Przedszkole
+
+Przy Lesie. Przedszkole niepubliczne
+Partyzantów 118
+05-123 Chotomów
+
+Przedszkole Gminne w Chotomowie
+Kwiatowa 1
+05-123 Chotomów
+
+Przedszkole Publiczne
+Generała Lucjana Żeligowskiego 27
+05-123 Chotomów
+
+#Akademia
+
+#Uniwersytet
+
+#Biblioteka
+
+Filia w Chotomowie Gminnej Biblioteki Publicznej im. Ks. J. Twardowskiego w Jabłonnie
+Strażacka 8
+05-123 Chotomów
+
+Biblioteka Gminna
+Na parterze Szkoły Podstawowej
+Partyzantów 23
+05-123 Chotomów
+
+#Szpital
+
+Agma s.c. Centrum medycyny rodzinnej
+Gwiaździsta 4
+05-123 Chotomów
+
+#Przychodnia
+
+#Bank
+
+Planet Cash. Bankomat
+Partyzantów 29
+05-123 Chotomów
+
+#Policja
+
+#Sąd
+
+#Produkcja
+
+Vende
+Pogodna 4
+05-123 Chotomów
+
+INTELLE
+Podleśna 31
+05-123 Chotomów
+
+#Fabryka
+
+Fabryka Motywacji sp. z o.o.
+Strażacka 21A
+05-123 Chotomów
+
+#Grupa
+
+Mar-Mos Mościcki Marcin Serwis Grupy VW
+Piusa XI 2D
+05-123 Chotomów
+
+#Spółdzielnia
+
+#Klub
+
+Lotos. Ludowy Klub Sportowy
+Piusa XI 63
+05-123 Chotomów
+
+#Fundacja
+
+Fundacja Krym: Dernek
+Partyzantów 38
+05-123 Chotomów
+
+#Poczta
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+Ubezpieczenia Ewa Górska
+Boczna 3
+05-123 Chotomów
+
+#muzeum
+
+#Czerwony Krzyż
+
+#Klub Seniora
+
+#Fundacja
+
+#Centrum
+
+Centrum Finansowe Ciechomski
+Partyzantów 116C
+05-123 Chotomów
+
+======================================================================
+05-092 KIEŁPIN
+
+#Dom kultury
+
+#Szkoła
+
+#Przedszkole
+
+#Uniwersytet
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Sąd
+
+#Produkcja
+
+Celon Pharma S.A.
+Ogrodowa 2A
+05-092 Kiełpin
+
+#Spółdzielnia
+
+#Klub
+
+#Fundacja
+
+#Firma
+
+#Poczta
+
+Poczta Łomianki, Filia Kiełpin
+Warszawska 402
+05-092 Kiełpin
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#muzeum
+
+#Czerwony Krzyż
+
+#Seniorzy
+
+Rodzinny Dom Seniora Promyk
+Ogrodowa 1a
+05-092 Kiełpin
+
+#Fundacja
+
+#Seniora
+
+#Seniorów
+
+======================================================================
+05-080 LASKI
+
+#Urząd
+
+#Ośrodek
+
+#Dom kultury
+
+#Szkoła
+
+Szkoła św. Maksymiliana w Laskach
+7505-
+Brzozowa
+05-080 Laski
+
+Internat Chłopców
+Brzozowa 75
+05-080 Laski
+
+#Przedszkole
+
+Przedszkole Gminne
+3 Maja 43
+05-080 Laski
+
+#Akademia
+
+#Uniwersytet
+
+Wseiz Laski
+Klaudyńska
+05-080 Laski
+
+#Biblioteka
+
+#Szpital
+
+#Placówka
+
+#Bank
+
+PKO Bank Polski S.A.- Bankomat
+3 Maja 42
+05-080 Laski
+
+#Sąd
+
+#Produkcja
+
+Krystad Sp. z o.o. Produkcja obuwia damskiego
+3 Maja 23
+05-080 Laski
+
+#Zakład
+
+#Związek
+
+Towarzystwo Opieki nad Ociemniałymi
+Brzozowa 75
+05-080 Laski
+
+#Stowarzyszenie
+
+#Klub
+
+LKS Ryś Laski Klub Sporotwy
+Jana Wieczorka 50
+05-080 Laski
+
+#Towarzystwo
+
+Towarzystwo Pomocy im. św. Brata Alberta
+Brzozowa 37
+05-080 Laski
+
+Stowarzyszenie Mieszkanców Lasek
+3 Maja 16
+05-080 Laski
+
+#Organizacja
+
+#Firma
+
+Ag Automatic System Sp. z o.o.
+Klonowa 16
+05-080 Laski
+
+#Poczta
+
+Ochotnicza Straż Pożarna
+Partyzantów 30
+05-080 Laski
+
+Dom Rekolekcyjny, Zgromadzenie Sióstr Franciszkanek Służebnic Krzyża
+Brzozowa 75
+05-080 Laski
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+Małgorzata Selerowicz
+3 Maja 91
+05-080 Laski
+
+#muzeum
+
+Miejsce pamieci
+Unnamed Road
+05-080 Laski
+
+#Czerwony Krzyż
+
+#Klub Seniora
+
+#Seniorzy
+
+Dom Seniora Rezon k/ Warszawy
+Zielona 32
+05-080 Laski
+
+#Seniora
+
+#Seniorów
+
+======================================================================
+05-092 SADOWA
+
+#Dom kultury
+
+#Szkoła
+
+Szkoła Podstawowa
+05-092 Sadowa; Strzelecka 35
+47-100
+
+Sowia wola szkoła
+Jagodowa 6
+05-092 Sadowa
+
+#Przedszkole
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#Spółka
+
+ATMSolutions Sp.z o.o. Sp.k.
+Kolejowa 311
+05-092 Sadowa
+
+#Poczta
+
+Dom Pomocy Społecznej
+05-092
+Jagodowa 2
+05-092 Sadowa
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#Czerwony Krzyż
+
+======================================================================
+05-101 TRZCIANY
+
+#Dom kultury
+
+#Szkoła
+
+#Przedszkole
+
+#Biblioteka
+
+#Bank
+
+#Policja
+
+#Sąd
+
+#Fundacja
+
+Fundacja TRZCIANY
+Kwarcowa 15
+05-101 Trzciany
+
+#Poczta
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#muzeum
+
+#Czerwony Krzyż
+
+#Klub Seniora
+
+#Fundacja
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+ŁOMNARY
+
+#Policja
+
+#Spółdzielnia
+
+#ZUS
+
+#Czerwony Krzyż
+
+#Klub Seniora
+
+======================================================================
+05-080 TRUSKAW
+
+#Urząd
+
+#Dom kultury
+
+#Szkoła
+
+#Przedszkole
+
+#Uniwersytet
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#Sąd
+
+#Przedsiębiorstwo
+
+Mokre Łąki Sp. z o.o. Gminne Przedsiębiorstwo Wodociągów i Kanalizacji
+Mokre Łąki 8
+05-080 Truskaw
+
+#Produkcja
+
+#Spółka
+
+#Stowarzyszenie
+
+#Klub
+
+Klub Jeździecki Truskaw
+Piotra Falińskiego 3
+05-080 Truskaw
+
+#Koło
+
+#Towarzystwo
+
+#Poczta
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#muzeum
+
+Kapliczka
+Szeroka Warszawska Droga
+05-080 Truskaw
+
+Pomnik
+3 Maja 178
+05-080 Truskaw
+
+#Czerwony Krzyż
+
+#Klub Seniora
+
+#Seniora
+
+#Uniwersytet Trzeciego Wieku
+
+#Jeździecki
+
+======================================================================
+05-082 WOJCIESZYN
+
+#Urząd
+
+#Dom kultury
+
+#Szkoła
+
+#Przedszkole
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#Sąd
+
+#Produkcja
+
+Vetro Systems - szklane ściany działowe - producent i montaż
+Warszawska 549
+05-082 Wojcieszyn
+
+#Agencja
+
+Agencja Restrukturyzacji i Modernizacji Rolnictwa. Biuro powiatu warszawskiego zachodniego
+Trakt Królewski 91
+05-082 Wojcieszyn
+
+#Spółdzielnia
+
+#Koło
+
+#Poczta
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#muzeum
+
+#Czerwony Krzyż
+
+#Klub Seniora
+
+#Centrum
+
+Centrum Ogrodnicze Sysiak
+Warszawska 609
+05-082 Wojcieszyn
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+05-850 KOPRKI
+
+#Dom kultury
+
+#Szkoła
+
+Amargo Sp. z o.o. Nowoczesne Tworzywa Sztuczne
+Jaśminowa 16
+05-850 Koprki
+
+#Przedszkole
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#Przedsiębiorstwo
+
+#Produkcja
+
+Meble AKORD Warszawa. Producent mebli kuchennych, łazienkowych salonowych i sypialni.
+Jaśminowa 19
+05-850 Koprki
+
+OPTIMUM - Tymiński i s-ka sp.j.
+Macieja Rataja 4f
+05-850 Koprki
+
+#Fabryka
+
+#Zakład
+
+Zakład Produkcyjny Amargo. Zbiorniki Klasy PREMIUM
+Jaśminowa 16
+05-850 Koprki
+
+#Agencja
+
+#Spółka
+
+#Firma
+
+#Poczta
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+05-860 ŚWIĘCICE
+
+#Dom kultury
+
+#Szkoła
+
+Szkoła Podstawowa im. Marszałka Józefa Piłsudskiego w Święcicach
+Poznańska 541
+05-860 Święcice
+
+#Przedszkole
+
+#Biblioteka
+
+#Szpital
+
+#Przychodnia
+
+#Bank
+
+#Policja
+
+#Grupa
+
+IVECO Warszawa Grupa DBK | Remo-Car
+Zaborowska 1
+05-860 Święcice
+
+#Spółka
+
+Omnigena. Sp.J.
+Pozytywki 7
+05-860 Święcice
+
+#Firma
+
+TENDER WŁODZIMIERZ MŁOT
+Źródlana 9
+05-860 Święcice
+
+#Poczta
+
+Ochotnicza Straż Pożarna
+Warszawska 53
+05-860 Święcice
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#Klub Seniora
+
+Willa Wiosenna - Medicover Senior
+Wiosenna 1
+05-860 Święcice
+
+#Seniorzy
+
+#Seniora
+
+#Seniorów
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+05-083 WYGLĘDY
+
+#Dom kultury
+
+#Szkoła
+
+#Przedszkole
+
+#Biblioteka
+
+#Bank
+
+#Policja
+
+#Produkcja
+
+HELIO S.A. - Bakalie, owoce suszone, orzechy, masy do ciast
+Stołeczna 26
+05-083 Wyględy
+
+#Spółdzielnia
+
+#Poczta
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#Czerwony Krzyż
+
+======================================================================
+05-152 TRUSKAWKA
+
+#Dom kultury
+
+#Szkoła
+
+#Klub Seniora
+
+======================================================================
+05-152 CZOSNÓW
+
+#Urząd
+
+Urząd Gminy
+Gminna 6
+05-152 Czosnów
+
+#Dom kultury
+
+#Szkoła
+
+Szkoła Podstawowa Zespołu Szkół Publicznych
+Szkolna 108
+05-152 Czosnów
+
+#Przedszkole
+
+Niepubliczne Przedszkole i Żłobek Zielona Akademia w Czosnowie
+Warszawska 29
+05-152 Czosnów
+
+#Akademia
+
+#Biblioteka
+
+Biblioteka Publiczna Gminna
+Gminna 6
+05-152 Czosnów
+
+#Szpital
+
+#Przychodnia
+
+#Bank
+
+Bank Spółdzielczy
+05-152 Czosnów; Warszawska 42
+05-170
+
+#Policja
+
+Komisariat Policji w Czosnowie
+Władysława Lercha 1
+05-152 Czosnów
+
+#Sąd
+
+#Produkcja
+
+Szymanowicz i Spółka s.j. Zakład Produkcyjny
+Duńska 3
+05-152 Czosnów
+
+#Poczta
+
+Urząd Pocztowy
+Strażacka 10
+05-152 Czosnów
+
+Western Union
+Gminna 6
+05-152 Czosnów
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#muzeum
+
+#Czerwony Krzyż
+
+#Klub Seniora
+
+======================================================================
+05-152 CYBULICE MAŁE
+
+#Dom kultury
+
+#Szkoła
+
+#Przedszkole
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#Sąd
+
+#Przedsiębiorstwo
+
+Linek-Eko sp.j. Przedsiębiorstwo wielobranżowe. Krygier i wspólnicy
+Wiosenna 42
+05-152 Cybulice Małe
+
+#Produkcja
+
+TOCE. Fabryka Mebli Kuchennych
+Wiosenna 34
+05-152 Cybulice Małe
+
+#Fabryka
+
+#Zakład
+
+#Spółka
+
+Monagro Sp. z o.o.
+Towarowa 1
+05-152 Cybulice Małe
+
+#Poczta
+
+Kapliczka
+Wiosenna 23
+05-152 Cybulice Małe
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#Klub Seniora
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+05-152 CYBULICE
+
+#Dom kultury
+
+#Szkoła
+
+#Przedszkole
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#Sąd
+
+#Fabryka
+
+#Poczta
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#muzeum
+
+#Czerwony Krzyż
+
+#Klub Seniora
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+05-152 SOWIA WOLA
+
+#Ośrodek
+
+Ośrodek Zdrowia NZOZ
+Sowia
+05-152 Sowia Wola
+
+#Dom kultury
+
+#Szkoła
+
+#Przedszkole
+
+#Uniwersytet
+
+#Biblioteka
+
+#Szpital
+
+#Przychodnia
+
+Centrum Medyczne Sowia Wola
+Wojska Polskiego 286
+05-152 Sowia Wola
+
+Przychodnia Rodzinna Tera-Med
+Szkolna 102
+05-152 Sowia Wola
+
+#Bank
+
+Cyfrowa Księgowość
+Szkolna 91
+05-152 Sowia Wola
+
+Sklep Spożywczo-Przemyslowy
+Wierzbowa
+05-152 Sowia Wola
+
+#Policja
+
+#Klub
+
+Altana
+Wierzbowa 10
+05-152 Sowia Wola
+
+Stajnia Bobrowy Staw
+Spacerowa 47
+05-152 Sowia Wola
+
+#Emerytów
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+punkt apteczny
+Szkolna
+05-152 Sowia Wola
+
+#Czerwony Krzyż
+
+#Seniorów
+
+#Uniwersytet Trzeciego Wieku
+
+#Emerytów
+
+#Jeździecki
+
+======================================================================
+05-084 ROZTOKA
+
+#Dom kultury
+
+#Szkoła
+
+#Biblioteka
+
+#Bank
+
+#Agencja
+
+#Poczta
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+======================================================================
+05-084 ŁUBIEC
+
+#Urząd
+
+#Ośrodek
+
+Środowiskowy Dom Samopomocy
+Łubiec 45
+05-084 Łubiec
+
+#Dom kultury
+
+Świetlica w Łubcu
+Łubiec 29
+05-084 Łubiec
+
+#Przedszkole
+
+#Biblioteka
+
+#Bank
+
+#Policja
+
+#Związek
+
+#Stowarzyszenie
+
+#Towarzystwo
+
+#Fundacja
+
+#Poczta
+
+Ochotnicza Straż Pożarna w Łubcu
+Łubiec 21
+05-084 Łubiec
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#muzeum
+
+#Fundacja
+
+======================================================================
+05-084 JULINEK
+
+#Ośrodek
+
+Park Rozrywki Julinek
+Julinek 1
+05-084 Julinek
+
+#Dom kultury
+
+#Szkoła
+
+Państwowa Szkoła Sztuki Cyrkowej w Julinku
+05-084 Julinek
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Poczta
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#muzeum
+
+WYSTAWA SZTUKI CYRKOWEJ
+Julinek 1
+05-084 Julinek
+
+======================================================================
+05-084 LESZNO
+
+#Urząd
+
+Urząd Gminy
+Aleja Wojska Polskiego 21
+05-084 Leszno
+
+#Ośrodek
+
+Specjalny Ośrodek Szkolno - Wychowawczy
+Sochaczewska 4
+05-084 Leszno
+
+#Dom kultury
+
+Gminny Ośrodek Kultury i Sportu
+Szkolna 10
+05-084 Leszno
+
+#Szkoła
+
+Internat SOSW Leszno
+05-084 Leszno
+
+Szkolenie Leszno
+Fabryczna 1
+05-084 Leszno
+
+#Przedszkole
+
+Przedszkole nr 1
+Polna 22
+05-084 Leszno
+
+#Biblioteka
+
+Biblioteka Publiczna
+Polna 22A
+05-084 Leszno
+
+#Szpital
+
+#Przychodnia
+
+Medicor. Centrum Zdrowia. NZOZ
+Błońska 62
+05-084 Leszno
+
+#Bank
+
+Bank Spółdzielczy w Sochaczewie
+Sochaczewska 22
+05-084 Leszno
+
+Bank Pekao S.A.
+Sochaczewska 66
+05-084 Leszno
+
+Polski Bank Spółdzielczy W Wyszkowie Filia Leszno
+Aleja Wojska Polskiego 7
+05-084 Leszno
+
+#Policja
+
+Policja. Komenda Powiatowa dla Powiatu Warszawskiego Zachodniego. Komisariat
+Aleja Wojska Polskiego 23
+05-084 Leszno
+
+#Wojsko
+
+#Produkcja
+
+Dawtona Sp z o.o. (zakład produkcyjny).
+Lipowa 5
+05-084 Leszno
+
+#Zakład
+
+Gminny Zakład Wodociągów i Kanalizacji
+Aleja Wojska Polskiego 21
+05-084 Leszno
+
+Zakład pogrzebowy Leszno usługi pogrzebowe leszno pogrzeby Leszno trumny i nagrobki
+Błońska 6
+05-084 Leszno
+
+#Zakłady
+
+#Agencja
+
+Wigro Groszyk AGR. Nieruchomości
+Błońska 7
+05-084 Leszno
+
+#Klub
+
+Klub Przystan - Noclegi, Przyjecia, Imprezy
+Krótka 2
+05-084 Leszno
+
+#Poczta
+
+Urząd Pocztowy
+Błońska 20
+05-084 Leszno
+
+#Instytut
+
+Instytut Biotechnologii Przemysłu Rolno - Spożywczego. Oddział Cukrownictwa
+Inżynierska
+05-084 Leszno
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+PZU Ubezpieczenia Leszno (Wieś) - Agent Agnieszka Dmoch
+Sochaczewska 3
+05-084 Leszno
+
+#muzeum
+
+Schabowy Sp. z o. o.
+Stefana Żeromskiego 5
+05-084 Leszno
+
+#Czerwony Krzyż
+
+#Koło gospodyń wiejskich
+
+======================================================================
+05-870 RADONICE
+
+#Dom kultury
+
+#Szkoła
+
+#Przedszkole
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#Produkcja
+
+Fanex Sp. z o.o.
+Radonice 5a
+05-870 Radonice
+
+#Spółka
+
+Ejko Spółka z ograniczoną odpowiedzialnością Sp. komandytowa
+Radonice 44a
+05-870 Radonice
+
+#Spółdzielnia
+
+#Poczta
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+Okręgowa Stacja Kontroli Pojazdów
+Radonice 5B
+05-870 Radonice
+
+#muzeum
+
+#Czerwony Krzyż
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+05-870 PASS
+
+#Dom kultury
+
+#Szkoła
+
+#Przedszkole
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Oddział
+
+Raben Logistics Polska
+Stefana Batorego 6
+05-870 Pass
+
+#Policja
+
+#Produkcja
+
+#Spółka
+
+Katcon Polska Sp. z o.o.
+05-870 Pass
+
+#Spółdzielnia
+
+#Poczta
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#muzeum
+
+======================================================================
+05-870 BIENIEWICE
+
+#Dom kultury
+
+#Szkoła
+
+Szkoła im. Jana Pawła II w Bieniewicach
+Błońska 62
+05-870 Bieniewice
+
+Gimnazjum Zespołu Szkół
+Błońska 62
+05-870 Bieniewice
+
+#Przedszkole
+
+Przedszkole nr 6. Iskierka
+Błońska 62
+05-870 Bieniewice
+
+#Biblioteka
+
+#Bank
+
+#Policja
+
+#Produkcja
+
+Staport
+Stanisława Purzyckiego 4
+05-870 Bieniewice
+
+#Zakłady
+
+Tab Koncentraty Sp. z o.o.
+Świętego Jana 3
+05-870 Bieniewice
+
+#Agencja
+
+Nettdom. Agencja Nieruchomości w Błoniu
+Błońska 149
+05-870 Bieniewice
+
+#Spółdzielnia
+
+#Związek
+
+Ochotnicza Straż Pożarna w Bieniewicach
+Błońska 92
+05-870 Bieniewice
+
+#Stowarzyszenie
+
+#Towarzystwo
+
+#Organizacja
+
+#Poczta
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#muzeum
+
+Lukasz Kreski
+Stanisława Purzyckiego 3A
+05-870 Bieniewice
+
+#Czerwony Krzyż
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+05-084 PLEWNIAK
+
+#Szkoła
+
+#Przedszkole
+
+#Biblioteka
+
+#Bank
+
+#Poczta
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#muzeum
+
+#Klub Seniora
+
+======================================================================
+05-155 WILKÓW
+
+#Urząd
+
+#Dom kultury
+
+#Szkoła
+
+#Przedszkole
+
+#Biblioteka
+
+#Bank
+
+#Produkcja
+
+#Spółka
+
+Vilpol Sp. z o.o. Poligrafia, drukarnia
+74
+05-155 Wilków Polski
+
+#Poczta
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#Centrum
+
+Vilpol Sp. z o.o. Poligrafia, drukarnia (Vilpol Sp. o.o. Printing, printing)
+74
+05-155 Wilków Polski
+
+======================================================================
+05-155 NOWE GROCHALE
+
+#Dom kultury
+
+#Szkoła
+
+Zespół Szkół w Głusku
+05-155 Nowe Grochale; 40
+05-155
+
+#Przedszkole
+
+#Uniwersytet
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#Produkcja
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+05-155 LEONCIN
+
+#Urząd
+
+Urząd Gminy Leoncin
+Partyzantów 3
+05-155 Leoncin
+
+#Dom kultury
+
+Gminny Ośrodek Kultury
+Partyzantów 12
+05-155 Leoncin
+
+#Szkoła
+
+#Przedszkole
+
+#Biblioteka
+
+Biblioteka Publiczna
+Singera 3
+05-155 Leoncin
+
+#Szpital
+
+#Przychodnia
+
+Zdrowie s.c. NZOZ
+05-155 Leoncin; Partyzantów 3
+05-085
+
+#Bank
+
+Bank Spółdzielczy w Nowym Dworze Mazowieckim
+Partyzantów 16
+05-155 Leoncin
+
+#Produkcja
+
+#Agencja
+
+#Klub
+
+#Koło
+
+#Poczta
+
+Urząd Pocztowy Leoncin
+Partyzantów 28
+05-155 Leoncin
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+Agencja Ubezpieczeniowa Krzysztof Gruszka
+Cicha 4
+05-155 Leoncin
+
+#muzeum
+
+#Czerwony Krzyż
+
+#Klub Seniora
+
+#Seniorzy
+
+Dom dziennego pobytu "Senior-Wigor"
+Plac Kobendzy 4
+05-155 Leoncin
+
+#Seniora
+
+#Seniorów
+
+#Uniwersytet Trzeciego Wieku
+
+#Jeździecki
+
+======================================================================
+05-155 TEOFILE
+
+#Szkoła
+
+#Przedszkole
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#Poczta
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#Klub Seniora
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+05-870 BRAMKI
+
+#Dom kultury
+
+Dom Kultury w Bramkach, Filia Centrum Kultury w Błoniu
+Długa 75
+05-870 Bramki
+
+#Szkoła
+
+Krasnalowa Akademia Punkt Przedszkolny
+Długa 91B
+05-870 Bramki
+
+IKS. Szkoła jęz. angielskiego
+Bajeczna 12
+05-870 Bramki
+
+#Przedszkole
+
+#Akademia
+
+#Biblioteka
+
+#Bank
+
+#Policja
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#muzeum
+
+#Uniwersytet Trzeciego Wieku
+
+#Niepełnosprawni
+
+Przyłącz się do Nas. Krajowe Stowarzyszenie Wspierania Inicjatyw na Rzecz Ludzi Niepełnosprawnych
+Milenijna 18
+05-870 Bramki
+
+======================================================================
+96-515 SEROKI – PARCELA
+
+#Dom kultury
+
+#Szkoła
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#Czerwony Krzyż
+
+======================================================================
+05-870 CHOLEWY
+
+#Szkoła
+
+#Przedszkole
+
+#Uniwersytet
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#Poczta
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#muzeum
+
+======================================================================
+05-085 WIEJCA
+
+#Szkoła
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Organizacja
+
+Dwór pod Kasztanowcami
+Wiejca 74
+05-085 Wiejca
+
+#Firma
+
+Top-Ekobud Mariusz Filipiak
+Wiejca 90a
+05-085 Wiejca
+
+#Poczta
+
+#ZUS
+
+#PZU
+
+#Klub Seniora
+
+======================================================================
+05-155 NOWE POLESIE
+
+#Dom kultury
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#ZUS
+
+#PZU
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+05-085 KAMPINOS
+
+#Urząd
+
+Urząd Gminy Kampinos
+Niepokalanowska 3
+05-085 Kampinos
+
+#Dom kultury
+
+#Szkoła
+
+Zespół Szkolno - Przedszkolny z Oddziałami Integracyjnymi
+Szkolna 5
+05-085 Kampinos
+
+Ranczo Oregon - nauka jazdy konnej dla dzieci i dorosłych
+Kampinos A 36
+05-085 Kampinos
+
+#Przedszkole
+
+#Biblioteka
+
+Biblioteka Publiczna Gminy Kampinos
+Szkolna 2
+05-085 Kampinos
+
+#Szpital
+
+#Policja
+
+Posterunek POLICJI w Kampinosie
+Szkolna 1A
+05-085 Kampinos
+
+#Produkcja
+
+FERNIKO Sp. z o.o.
+Niepokalanowska 5
+05-085 Kampinos
+
+#Spółka
+
+#Firma
+
+#Poczta
+
+Poczta Polska
+ul
+Fryderyka Chopina 1
+05-085 Kampinos
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#muzeum
+
+Muzeum Puszczy Kampinoskiej
+Granica
+05-085 Kampinos
+
+#Czerwony Krzyż
+
+#Klub Seniora
+
+Urząd Stanu Cywilnego
+Niepokalanowska 3
+05-085 Kampinos
+
+#Seniorów
+
+Ośrodek Pomocy Społecznej
+Niepokalanowska 3
+05-085 Kampinos
+
+======================================================================
+96-515 MASZNA
+
+#Dom kultury
+
+#Szkoła
+
+#Przedszkole
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#Poczta
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#muzeum
+
+#Czerwony Krzyż
+
+#Klub Seniora
+
+======================================================================
+05-085 GRANICA
+
+#Dom kultury
+
+#Szkoła
+
+#Przychodnia
+
+#Koło
+
+#Poczta
+
+#muzeum
+
+#Klub Seniora
+
+======================================================================
+05-155 NOWY SECYMIN
+
+#Dom kultury
+
+#Szkoła
+
+Agroturystyka.Stajnia Dorado-Puszcza Kampinoska
+Nowy Secymin 42a
+05-155 Nowy Secymin
+
+#Przedszkole
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+nowy secymin
+05-155 Nowy Secymin
+
+#Policja
+
+#Sąd
+
+#Firma
+
+GLAZ-BUD
+Nowy Secymin 26
+05-155 Nowy Secymin
+
+#Poczta
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#muzeum
+
+#Czerwony Krzyż
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+05-088 PIASKI DUCHOWNE
+
+#Dom kultury
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Stowarzyszenie
+
+#Klub
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#Czerwony Krzyż
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+05-085 ZAWADY
+
+#Dom kultury
+
+#Szkoła
+
+#Przedszkole
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#Czerwony Krzyż
+
+#Klub Seniora
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+96-515 PAPROTNIA
+
+#Urząd
+
+#Dom kultury
+
+#Szkoła
+
+SZKOŁA PODSTAWOWA IM. JANA PAWŁA II W PAPROTNI
+Sochaczewska 112
+96-515 Paprotnia
+
+#Przedszkole
+
+#Uniwersytet
+
+Centrum Studiów Mariologicznych UKSW "Kolbianum" w Niepokalanowie
+Świętego Maksymiliana Kolbego 5
+96-515 Paprotnia
+
+#Biblioteka
+
+#Przychodnia
+
+Marimed. NZOZ
+Spacerowa 4a
+96-515 Paprotnia
+
+#Bank
+
+#Policja
+
+#Fundacja
+
+Fundacja Wędkarze Bez Barier
+Generała Władysława Andersa 1
+96-515 Paprotnia
+
+#Poczta
+
+Poczta Polska
+ul.Ojca
+Świętego Maksymiliana Kolbego 6
+96-515 Paprotnia
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#muzeum
+
+Muzeum Papieskie
+Świętego Maksymiliana Kolbego 5
+96-515 Paprotnia
+
+#Fundacja
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+00-001 AUGUSTÓW
+
+#Dom kultury
+
+#Szkoła
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Poczta
+
+#ZUS
+
+#Izba lekarska
+
+#ZNP
+
+#PZU
+
+======================================================================
+05-270 MARKI
+
+#Urząd
+
+Urząd Miasta
+Piłsudskiego 95
+05-270 Marki
+
+#Dom kultury
+
+Marecki Ośrodek Kultury im. Tadeusza Lużyńskiego
+Fabryczna 2
+05-270 Marki
+
+#Szkoła
+
+Szkoła Podstawowa nr 1
+Okólna 14
+05-270 Marki
+
+Szkoła Podstawowa nr 2 im. Żołnierzy AK II Rejonu
+Szkolna 9
+05-270 Marki
+
+Prywatna Szkoła Podstawowa AD ASTRA
+Piłsudskiego 93
+05-270 Marki
+
+#Przedszkole
+
+Niepubliczne Przedszkola i Żłobek Smerfy i Smerfusie
+Szpitalna 3B
+05-270 Marki
+
+Przedszkole Miejskie nr 1 "Wesoły Skrzat"
+Piłsudskiego 77
+05-270 Marki
+
+Domowe Przedszkole
+Wilcza 30A
+05-270 Marki
+
+#Biblioteka
+
+Biblioteka Publiczna
+Leopolda Lisa-Kuli 3
+05-270 Marki
+
+#Szpital
+
+Centrum Medyczne Marki
+Kasztanowa 8
+05-270 Marki
+
+#Przychodnia
+
+Przychodnia ESCULAP
+Fabryczna 1
+05-270 Marki
+
+#Bank
+
+Warszawski Bank Spółdzielczy (WBS Bank) Filia Marki
+Piłsudskiego 95
+05-270 Marki
+
+PKO Bank Polski S.A.-Oddział 1 w Markach
+Promienna 4 B
+05-270 Marki
+
+Bankomat
+Piłsudskiego 1
+05-270 Marki
+
+#Wydział
+
+#Policja
+
+Komisariat Policji w Markach
+Sportowa 5
+05-270 Marki
+
+#Prokuratura
+
+#Spółdzielnia
+
+#Klub
+
+Memoriał Bercika Marki
+Duża 3
+05-270 Marki
+
+#Koło
+
+Tutek - wózki dziecięce
+Generała Józefa Zajączka 26
+05-270 Marki koło Warszawy
+
+Mistral
+Słoneczna 1
+05-270 Marki
+
+Kwatery Robotnicze Warszawa Marki
+Fabryczna 80A
+05-270 Marki
+
+#Towarzystwo
+
+Ogólnopolskie Towarzystwo Ochrony Ptaków
+Odrowąża 24
+05-270 Marki
+
+#Fundacja
+
+#Poczta
+
+Poczta Polska
+Piłsudskiego 119
+05-270 Marki
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+PZU Ubezpieczenia Marki - Agent Maksim Zamyslau
+Piłsudskiego 123
+05-270 Marki
+
+PZU Życie S.A.
+Kwiatowa 2
+05-270 Marki
+
+Tanie Ubezpieczenia Marki Radzymin PZU Warta Hestia Proama Liberty AXA TUZ
+Stanisława Moniuszki 1
+05-270 Marki
+
+#muzeum
+
+#Czerwony Krzyż
+
+#Klub Seniora
+
+#Fundacja
+
+#Centrum
+
+M1 Marki
+Piłsudskiego 1
+05-270 Marki
+
+CH Prima Park Marki
+Piłsudskiego 200A
+05-270 Marki
+
+#Seniora
+
+Dom Opieki "Pałac"
+Leśna 27
+05-270 Marki
+
+#Seniorów
+
+#Niepełnosprawni
+
+======================================================================
+05-091 ZĄBKI
+
+#Urząd
+
+Urząd Miasta Ząbki
+Wojska Polskiego 10
+05-091 Ząbki
+
+#Ośrodek
+
+Ośrodek Pomocy Społecznej
+Wojska Polskiego 1
+05-091 Ząbki
+
+Miejski Ośrodek Kultury W Ząbkach
+Juliusza Słowackiego 10
+05-091 Ząbki
+
+Miejski Ośrodek Sportu i Rekreacji
+Juliusza Słowackiego 21
+05-091 Ząbki
+
+#Dom kultury
+
+#Szkoła
+
+Szkoła Podstawowa nr 1
+Piłsudskiego 35
+05-091 Ząbki
+
+Szkoła Podstawowa Nr 3 im. Małego Powstańca
+Kościelna 2
+05-091 Ząbki
+
+Publiczna Katolicka Szkoła Podstawowa im. Ks. Jana Twardowskiego w Ząbkach
+11 Listopada 4
+05-091 Ząbki
+
+#Przedszkole
+
+Przystań Elfów. Przedszkole Źłobek Publiczne
+ul. Kuleszy 24 05-091 Ząbki
+Księdza Wacława Kuleszy 24
+05-093 Ząbki
+
+Bezpieczny Przedszkolak. Przedszkole Niepubliczne
+Ignacego Krasickiego 14
+05-091 Ząbki
+
+Publiczne Przedszkole Zozoland
+Powstańców 70A
+05-091 Ząbki
+
+#Akademia
+
+Publiczne Przedszkole i Niepubliczny Żłobek Akademia Fantazji
+Piłsudskiego 46
+05-091 Ząbki
+
+#Biblioteka
+
+Miejska Biblioteka Publiczna w Ząbkach
+Orla 6/lok. 75
+05-091 Ząbki
+
+#Szpital
+
+Mazowiecki Szpital Wojewódzki Drewnica Sp. z o.o.
+Rychlińskiego 1
+05-091 Ząbki
+
+Centrum Medyczne Fundamenti
+Księdza Ignacego Skorupki 37A
+05-091 Ząbki
+
+#Przychodnia
+
+Centrum Medyczne LeczyMed NZOZ
+Krasickiego 14/lok. 2
+05-091 Ząbki
+
+NZOZ "Na Powstańców"
+Powstańców 70A
+05-091 Ząbki
+
+Beta-Med Przychodnia
+Księdza Ignacego Skorupki 71
+05-091 Ząbki
+
+#Bank
+
+PKO Bank Polski S.A.-Oddział 1 w Ząbkach
+Piłsudskiego 47
+05-091 Ząbki
+
+Bank Pekao S.A.
+Piłsudskiego 2
+05-091 Ząbki
+
+ING Bank Śląski Oddział w Ząbkach
+Orla 8
+05-091 Ząbki
+
+#Oddział
+
+BNP Paribas Bank Polska S.A. Oddział w Ząbkach
+Powstańców 27/lok. 3U
+05-091 Ząbki
+
+#Wydział
+
+#Policja
+
+#Prokuratura
+
+#Sąd
+
+Komornik Sądowy przy Sądzie Rejonowym w Wołominie Dariusz Wiercigroch
+lok. 24
+Księdza Ignacego Skorupki 62
+05-091 Ząbki
+
+#Wojsko
+
+#Przedsiębiorstwo
+
+Przedsiębiorstwo Wodociągów i Kanalizacji w Ząbkach Sp. z o.o.
+Hubalczyków 1
+05-091 Ząbki
+
+#Produkcja
+
+Opaski Antypoślizgowe - Dozbud Easy Drive
+Mikołaja Kopernika 38/lok. 1-2
+05-091 Ząbki
+
+smc89
+Stefczyka 10
+05-091 Ząbki
+
+Chojnex Barbara Chojecka
+Łąkowa 17
+05-091 Ząbki
+
+#Zakład
+
+#Agencja
+
+Tower-House - Agencja nieruchomości Ząbki
+Dzika 45/Lokal 5
+05-091 Ząbki
+
+#Spółdzielnia
+
+Spółdzielnia Mieszkaniowa Wspólny Trud W Ząbkach
+Wojska Polskiego 3
+05-091 Ząbki
+
+Wspolnota Mieszkaniowa Tetmajera 4
+Kazimierza Tetmajera 4
+05-091 Ząbki
+
+#Stowarzyszenie
+
+Stowarzyszenie Rozwoju Przedsiębiorczości i Inicjatyw Lokalnych
+Piłsudskiego 176
+05-091 Ząbki
+
+Stowarzyszenie SZTAB ZĄBKI
+Kochanowskiego 19
+05-091 Ząbki
+
+Ekozlot.pl
+Szkolna 33
+05-091 Ząbki
+
+#Klub
+
+Orla Residence
+Wiosenna 12
+05-091 Ząbki
+
+Dozbud Arena
+Juliusza Słowackiego 21
+05-091 Ząbki
+
+Klub Tenisowy Rakietą Ząbki
+Juliusza Słowackiego 21
+05-091 Ząbki
+
+#Koło
+
+#Fundacja
+
+Dom Adaptacyjny Fundacji Dzieci Ulicy
+Kolejowa 31D
+05-091 Ząbki
+
+#Poczta
+
+Poczta Polska
+Orla 8
+05-091 Ząbki
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+PZU Ubezpieczenia Ząbki - Agent Marcin Wytrykus
+Piłsudskiego 11 b
+05-091 Ząbki
+
+PZU Ubezpieczenia Ząbki - Agent Katarzyna Piotrowska
+Powstańców 2/lok. 1
+05-091 Ząbki
+
+Agencja PZU S.A. - Ubezpieczenia Majewski Paweł
+Powstańców 40
+05-091 Ząbki
+
+#muzeum
+
+#Czerwony Krzyż
+
+#Seniorzy
+
+Oaza Seniora. Rodzinny dom opieki
+Gajowa 4
+05-091 Ząbki
+
+#Fundacja
+
+#Centrum
+
+Miejskie Centrum Sportu
+Juliusza Słowackiego 21
+05-091 Ząbki
+
+#Seniora
+
+#Seniorów
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+05-220 ZIELONKA
+
+#Urząd
+
+Urząd Miasta
+Lipowa 5
+05-220 Zielonka
+
+#Ośrodek
+
+Ośrodek Pomocy Społecznej
+Literacka 20
+05-220 Zielonka
+
+#Dom kultury
+
+Ośrodek Kultury i Sportu w Zielonce (Center for Culture and Sport in Zielonka)
+Waleriana Łukasińskiego 1/3
+05-220 Zielonka
+
+#Szkoła
+
+Zespół Szkół im. Ignacego Mościckiego
+Inżynierska 1
+05-220 Zielonka
+
+Szkoła Podstawowa nr4 w Zielonce
+Waleriana Łukasińskiego 1/3
+05-220 Zielonka
+
+Niepubliczna Szkoła Podstawowa Nr 48 i Gimnazjum Aktywności Twórczej
+Krzywa 10
+05-220 Zielonka
+
+#Przedszkole
+
+Przedszkole nr 3
+Prosta 24
+05-220 Zielonka
+
+Miejskie Przedszkole nr 5 w Zielonce
+Prymasa Stefana Wyszyńskiego 7B
+05-220 Zielonka
+
+Przedszkole nr 4
+Stanisława Staszica 16
+05-220 Zielonka
+
+#Akademia
+
+Akademia Fryzur, M.Kappy Boguszewska
+Prymasa Stefana Wyszyńskiego 21
+05-220 Zielonka
+
+#Biblioteka
+
+Miejska Biblioteka Publiczna w Zielonce
+Długa 18[14]
+05-220 Zielonka
+
+#Szpital
+
+Centrum Medyczne "Zdrowie" w Zielonce
+Kolejowa 5B
+05-220 Zielonka
+
+Centrum Angiologii i Flebologii
+Jagiellońska 6
+05-220 Zielonka
+
+#Przychodnia
+
+Centrum Multi-Medica Sp. z o.o.
+Józefa Poniatowskiego 97
+05-220 Zielonka
+
+#Bank
+
+Oddział Millennium
+Prymasa Stefana Wyszyńskiego 15
+05-220 Zielonka
+
+PKO Bank Polski - obsługa klientów indywidualnych
+Księdza Zygmunta Abramskiego 6
+05-220 Zielonka
+
+Bank Spółdzielczy w Ostrowi Mazowieckiej Oddział w Zielonce
+Kolejowa 9
+05-220 Zielonka
+
+#Policja
+
+Policja. Komenda Powiatowa w Wołominie. Komisariat w Zielonce.
+Piastowska 17
+05-220 Zielonka
+
+#Sąd
+
+#Wojsko
+
+Wojskowy Instytut Techniczny Uzbrojenia
+Prymasa Stefana Wyszyńskiego 7
+05-220 Zielonka
+
+Wojskowe Zakłady Elektroniczne Spółka Akcyjna
+1 Maja 1
+05-220 Zielonka
+
+#Przedsiębiorstwo
+
+Przedsiębiorstwo Gospodarki Komunalnej w Zielonce Sp. z o.o.
+Krzywa 18
+05-220 Zielonka
+
+#Produkcja
+
+#Zakłady
+
+#Agencja
+
+Zielonka. Agencja nieruchomości. Olejniczak J.
+Lipowa 5
+05-220 Zielonka
+
+#Spółka
+
+TRUMPF Huettinger Sp. z o.o.
+Marecka 47
+05-220 Zielonka
+
+#Spółdzielnia
+
+Zielonka. Spółdzielnia Budowlano - Mieszkaniowa
+Henryka Dąbrowskiego 5
+05-220 Zielonka
+
+Spółdzielnia Mieszkaniowa W Zielonce
+Przemysłowa 4
+05-220 Zielonka
+
+Leśna. Spółdzielnia Mieszkaniowa
+Młodzieżowa 1
+05-220 Zielonka
+
+#Stowarzyszenie
+
+Wspólnota Mieszkaniowa Wyszyńskiego 7 blok 5 w Zielonce
+Prymasa Stefana Wyszyńskiego 7/blok 5
+05-220 Zielonka
+
+Urząd Stanu Cywilnego
+Lipowa 5
+05-220 Zielonka
+
+Fundacja Kocia Strefa Adopcyjna
+Ossowska 40B
+05-220 Zielonka
+
+#Klub
+
+Garaże Osiedle Długa
+Długa 20A
+05-220 Zielonka
+
+UKS ORŁY ZIELONKA
+Powstańców 3
+05-220 Zielonka
+
+Sport Bar Zielonka
+Prymasa Stefana Wyszyńskiego 7M
+05-220 Zielonka
+
+#Koło
+
+#Fundacja
+
+Fundacja Wychowania przez Sztukę
+Krzywa 10
+05-220 Zielonka
+
+#Organizacja
+
+Dobry adres
+Wiejska 2A
+05-220 Zielonka
+
+#Poczta
+
+Poczta Polska
+Jagiellońska 11
+05-220 Zielonka
+
+Urząd Pocztowy
+Prymasa Stefana Wyszyńskiego 7
+05-220 Zielonka
+
+Poczta Polska
+Prymasa Stefana Wyszyńskiego 7
+05-220 Zielonka
+
+#Instytut
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+PZU Ubezpieczenia Zielonka - Agent Maciej Doncer
+Księdza Zygmunta Abramskiego 4
+05-220 Zielonka
+
+#muzeum
+
+Muzeum Zielonki
+Kolejowa
+05-220 Zielonka
+
+fortyfikacje antytomonowe
+Literacka
+05-220 Zielonka
+
+Grób Zdzisława Barańskiego ps. JUR
+Unnamed Road
+05-220 Zielonka
+
+#Czerwony Krzyż
+
+#Klub Seniora
+
+Babie Lato. Klub seniora
+Prymasa Stefana Wyszyńskiego 7D
+05-220 Zielonka
+
+#Fundacja
+
+#Centrum
+
+Ośrodek Kultury i Sportu w Zielonce
+Waleriana Łukasińskiego 1/3
+05-220 Zielonka
+
+#Seniora
+
+#Seniorów
+
+#Jeździecki
+
+======================================================================
+05-230 KOBYŁKA
+
+#Urząd
+
+Urząd Miasta Kobyłka
+Wołomińska 1
+05-230 Kobyłka
+
+#Ośrodek
+
+Ośrodek Pomocy Społecznej
+Generała Franciszka Żymirskiego 2
+05-230 Kobyłka
+
+Miejski Ośrodek Kultury Teatralne Atrakcje Spektakle
+aleja Jana Pawła II 22
+05-230 Kobyłka
+
+#Dom kultury
+
+#Szkoła
+
+Publiczna Szkoła Podstawowa z Oddziałami Sportowymi nr 3 im. Karola Wojtyły w Kobyłce
+Księdza Marcina Załuskiego 57
+05-230 Kobyłka
+
+Publiczna Szkoła Podstawowa z Oddziałami Dwujęzycznymi Nr 1 im. Zofii Nałkowskiej
+Jezuicka 1
+05-230 Kobyłka
+
+Słoneczna Szkoła Podstawowa w Kobyłce
+Jana Brzechwy 5
+05-230 Kobyłka
+
+#Przedszkole
+
+Przedszkole Zielony Wiatraczek
+Mieszka I 51
+05-230 Kobyłka
+
+Publiczne Przedszkole numer 2
+Elizy Orzeszkowej 3/5
+05-230 Kobyłka
+
+Przedszkole "DOMINIŚ"
+Przemysłowa 5
+05-230 Kobyłka
+
+#Akademia
+
+Przedszkole i Żłobek - Akademia Dzieci Twórczych
+Zagłoby 3
+05-230 Kobyłka
+
+#Biblioteka
+
+Biblioteka Publiczna Miejska
+Juliana Fałata 4A
+05-230 Kobyłka
+
+#Szpital
+
+Krengarz
+Księdza Marcina Załuskiego 58
+05-230 Kobyłka
+
+Centrum Medyczne „Poprzeczna”
+Poprzeczna 18
+05-230 Kobyłka
+
+#Przychodnia
+
+Miejski Samodzielny Publiczny Zakład Opieki Zdrowotnej
+Generała Franciszka Żymirskiego 2
+05-230 Kobyłka
+
+#Bank
+
+Warszawski Bank Spółdzielczy (WBS Bank) Oddział w Kobyłce
+Ręczajska 5
+05-230 Kobyłka
+
+Millennium Partner
+Ręczajska 6
+05-230 Kobyłka
+
+Agencja PKO Banku Polskiego
+ul
+aleja Jana Pawła II 24
+05-230 Kobyłka
+
+#Policja
+
+Policja. Komisariat Policji w Kobyłce
+Księdza Franciszka Marmo 13A
+05-230 Kobyłka
+
+#Prokuratura
+
+#Produkcja
+
+AGD Pasterski sp.j.
+Nadmeńska 4
+05-230 Kobyłka
+
+Pack-Center
+Nadmeńska 17
+05-230 Kobyłka
+
+Stefański. Producent mebli
+Krechowiecka 23
+05-230 Kobyłka
+
+#Zakład
+
+Mareta sp.j. Zakład masarski. Kołbuk T.A., Kacprzak E.W.
+Gospodarcza 4A
+05-230 Kobyłka
+
+#Zakłady
+
+#Agencja
+
+Agencja Nieruchomości "Property Sector" Robert Gula
+Żymirskiego 18/ wejście od ul. Pieniążka
+05-230 Kobyłka
+
+Ad-Vert. Agencja reklamowa
+Ręczajska 3
+05-230 Kobyłka
+
+Pronov. Sobaszek A.
+Napoleona 65[3]
+05-230 Kobyłka
+
+#Spółka
+
+Przemysłowy Instytut Maszyn Budowlanych Sp. z o.o.
+Napoleona 2
+05-230 Kobyłka
+
+#Spółdzielnia
+
+Wspólnota Mieszkaniowa
+Rumuńska 4
+05-230 Kobyłka
+
+Spółdzielnia Budownictwa Mieszkaniowego. Administracja
+Osiedlowa 3
+05-230 Kobyłka
+
+#Stowarzyszenie
+
+"Razem Możemy Więcej"
+Juliana Ursyna Niemcewicza 7a
+05-230 Kobyłka
+
+REALIZACJA FRB PAZIEWSKI
+Henryka Sienkiewicza 2
+05-230 Kobyłka
+
+#Klub
+
+MKS Wicher Kobyłka
+Napoleona 2A
+05-230 Kobyłka
+
+Wołomiński Klub Shorin - Ryu Karate
+Księdza Ignacego Skorupki 12
+05-230 Kobyłka
+
+TORSTAR Fitness Kobyłka
+Nadmeńska 9
+05-230 Kobyłka
+
+#Firma
+
+#Poczta
+
+Poczta Polska
+ul
+Antoniego Orszagha 14
+05-230 Kobyłka
+
+Skrzynka Pocztowa
+05-230 Kobyłka
+
+#Instytut
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+Oddział PZU S.A
+Ręczajska 5
+05-230 Kobyłka
+
+#muzeum
+
+Fundacja EKSPONAT
+Leszka 23
+05-230 Kobyłka
+
+Basen pod chmurką
+Szwedzka 12A
+05-230 Kobyłka
+
+#Czerwony Krzyż
+
+#Klub Seniora
+
+#Centrum
+
+Centrum Ogrodnicze Kalisiak
+Księdza Teodora Zagańczyka 16A
+05-230 Kobyłka
+
+Przychodnia MARVIT
+Bartosza Głowackiego 4
+05-230 Kobyłka
+
+#Seniorów
+
+Dom Seniora Jędruś
+Nadmeńska 10
+05-230 Kobyłka
+
+#Uniwersytet Trzeciego Wieku
+
+#Jeździecki
+
+Internetowy Sklep Jeździecki Horsepol
+Spacerowa 4
+05-230 Kobyłka
+
+======================================================================
+05-200 WOŁOMIN
+
+#Urząd
+
+Urząd Miejski w Wołominie
+Ogrodowa 4
+05-200 Wołomin
+
+Urząd Skarbowy
+Przejazd 2
+05-200 Wołomin
+
+Mazowiecki Urząd Wojewódzki. Terenowy punkt paszportowy w Starostwie Powiatowym
+Ignacego Prądzyńskiego 3/26
+05-200 Wołomin
+
+#Ośrodek
+
+Ośrodek Sportu i Rekreacji "Huragan"
+Korsaka 4
+05-200 Wołomin
+
+Ośrodek Profilaktyki i Terapii Uzależnień
+Powstańców 12
+05-200 Wołomin
+
+Miejski Samodzielny Publiczny Zakład Opieki Zdrowotnej nr 1
+Ignacego Prądzyńskiego 11
+05-200 Wołomin
+
+#Dom kultury
+
+Miejski Dom Kultury w Wołominie
+Mariańska 7
+05-200 Wołomin
+
+#Szkoła
+
+Zespół Szkół w Wołominie
+Legionów 85
+05-200 Wołomin
+
+Szkoła Podstawowa nr 4 im. Marynarki Wojennej
+1 Maja 19
+05-200 Wołomin
+
+#Przedszkole
+
+#Uniwersytet
+
+Wyższa Szkoła Współpracy Międzynarodowej i Regionalnej im. Zygmunta Glogera
+Laskowa 4
+05-200 Wołomin
+
+#Biblioteka
+
+Miejska Biblioteka Publiczna im. Zofii Nałkowskiej w Wołominie
+Wileńska 32
+05-200 Wołomin
+
+#Szpital
+
+Szpital Matki Bożej Nieustającej Pomocy w Wołominie
+Gdyńska 1/3
+05-200 Wołomin
+
+#Przychodnia
+
+Przychodnia Dekamed
+Lipińska 99
+05-200 Wołomin
+
+N.Z.O.Z. Przychodnia Medycyny Rodzinnej
+Mikołaja Kopernika 8
+05-200 Wołomin
+
+#Placówka
+
+Kasa Rolniczego Ubezpieczenia Społecznego. Placówka terenowa
+Ignacego Prądzyńskiego 1
+05-200 Wołomin
+
+#Bank
+
+Wołomin Oddział Partnerski Santander Consumer Bank
+Ogrodowa 14/lok 3
+05-200 Wołomin
+
+Alior Bank - Oddział
+Kościelna 4
+05-200 Wołomin
+
+PKO Bank Polski S.A.-Oddział 2 w Wołominie
+ul
+Mieszka I 1
+05-200 Wołomin
+
+#Oddział
+
+ZUS inspektorat w Wołominie
+Mieszka I 9
+05-200 Wołomin
+
+#Wydział
+
+Starostwo Powiatowe w Wołominie
+Ignacego Prądzyńskiego 3
+05-200 Wołomin
+
+#Policja
+
+Komenda Powiatowa Policji
+Wileńska 43A
+05-200 Wołomin
+
+#Prokuratura
+
+Prokuratura Rejonowa w Wołominie
+Ignacego Prądzyńskiego 3A
+05-200 Wołomin
+
+#Sąd
+
+Sąd Rejonowy w Wołominie
+Ignacego Prądzyńskiego 3a
+05-200 Wołomin
+
+#Przedsiębiorstwo
+
+Przedsiębiorstwo Wodociągów i Kanalizacji Sp. z o.o.
+Graniczna 1
+05-200 Wołomin
+
+#Zakłady
+
+Zakład Energetyki Cieplnej w Wołominie Sp. z o.o.
+Szosa Jadowska 49
+05-200 Wołomin
+
+Zych Zakłady Organowe
+Lipińska 110
+05-200 Wołomin
+
+#Spółdzielnia
+
+Spółdzielnia Budownictwa Mieszkaniowego
+aleja Niepodległości 17
+05-200 Wołomin
+
+Gwarek. Spółdzielnia Mieszkaniowa
+aleja Armii Krajowej 64[1]
+05-200 Wołomin
+
+Kobyłkowska. Administracja osiedla. Spółdzielnia Budownictwa Mieszkaniowego
+Kobyłkowska 30
+05-200 Wołomin
+
+#Klub
+
+Huragan. Piłkarski Wołomiński klub sportowy
+Korsaka 4
+05-200 Wołomin
+
+Fitness Klub Forma BASEN
+Korsaka 4
+05-200 Wołomin
+
+Od Zmierzchu Do Świtu
+aleja Armii Krajowej 28B
+05-200 Wołomin
+
+#Koło
+
+Paul Dental
+Legionów 68
+05-200 Wołomin
+
+Polski Związek Niewidomych. Okręg mazowiecki. Koło
+Kościelna 43
+05-200 Wołomin
+
+#Fundacja
+
+Fundacja Zwierzaki w Potrzebie
+Warszawska 22/lok.1 piętro I
+05-200 Wołomin
+
+Fundacja Ogarnij Emocje
+Żelazna paw. 1
+05-200 Wołomin
+
+Fundacja Słyszę-Mówię-Czuję
+Mieszka I 8
+05-200 Wołomin
+
+#Poczta
+
+Urząd Pocztowy Nr 1
+Ogrodowa 3
+05-200 Wołomin
+
+Poczta Polska
+aleja Armii Krajowej
+05-200 Wołomin
+
+#Emerytów
+
+ZUS
+Mikołaja Reja 20
+05-200 Wołomin
+
+#ZUS
+
+#ZNP
+
+Związek Nauczycielstwa Polskiego
+Marszałka Józefa Piłsudskiego 15
+05-200 Wołomin
+
+#PZU
+
+PZU Ubezpieczenia Warszawa,Wołomin,Ząbki - Agent Marcin Wytrykus
+Marszałka Józefa Piłsudskiego 17
+05-200 Wołomin
+
+PZU Ubezpieczenia Wołomin - Agent Jan Krzysztof Białek
+Stanisława Moniuszki 8
+05-200 Wołomin
+
+PZU Ubezpieczenia Wołomin - Agent Teresa i Tadeusz Kłusek
+1 Maja 5A/13
+05-200 Wołomin
+
+#muzeum
+
+#Czerwony Krzyż
+
+#Seniorzy
+
+Ośrodek Pomocy Społecznej
+aleja Armii Krajowej 34
+05-200 Wołomin
+
+#Fundacja
+
+#Centrum
+
+Centrum Medyczne PRO-MED
+aleja Armii Krajowej 64/13
+05-200 Wołomin
+
+GPS CENTRUM
+Legionów 11
+05-200 Wołomin
+
+Centrum Medyczne PRO-MED - Kościelna
+Kościelna 69
+05-200 Wołomin
+
+#Seniora
+
+#Seniorów
+
+#Uniwersytet Trzeciego Wieku
+
+#Emerytów
+
+#Niepełnosprawnych
+
+#Niepełnosprawni
+
+#Jeździecki
+
+Stajnia HUMOREK
+3
+Leśniakowizna
+05-200 Wołomin
+
+======================================================================
+05-230 OSSÓW
+
+#Dom kultury
+
+#Szkoła
+
+Szkoła Podstawowa im. ks. Ignacego Skorupki
+Matarewicza 148
+05-230 Ossów
+
+Школа
+Matarewicza 40
+05-230 Ossów
+
+#Przedszkole
+
+#Biblioteka
+
+Miejska Biblioteka Publiczna im. Zofii Nałkowskiej w Wołominie, filia w Ossowie
+Matarewicza 148
+05-230 Ossów
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#Sąd
+
+#Produkcja
+
+Aks sp. j.
+Generała Jordan-Rozwadowskiego 134
+05-230 Ossów
+
+#Organizacja
+
+Zamalinowani.pl Wynajem zamków dmuchanych, dmuchańców, atrakcji dla dzieci. Organizacja eventów dla dzieci. Wypożyczalnia strojów karnawałowych. Animacje.
+Ossów
+ul
+Generała Jordan-Rozwadowskiego 14a
+05-230 Ossów
+
+#Firma
+
+NAKOR Ziemia Ogrodowa Warszawa i Okolice Kora Sosnowa Ogrodowa Drewno Kominkowe Warszawa i Okolice
+Matarewicza 245A
+05-230 Ossów
+
+#Poczta
+
+Ochotnicza Straż Pożarna w Ossowie
+Matarewicza 156
+05-230 Ossów
+
+#Instytucja
+
+Samorządowa Instytucja Kultury "Park Kulturowy - Ossów - Wrota Bitwy Warszawskiej 1920 roku"
+Matarewicza 148
+05-230 Ossów
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#muzeum
+
+#Czerwony Krzyż
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+05-462 WIĄZOWNA
+
+#Urząd
+
+Urząd Gminy
+Lubelska 59
+05-462 Wiązowna
+
+#Ośrodek
+
+Gminny Ośrodek Kultury w Wiązownie
+Kościelna 41
+05-462 Wiązowna
+
+#Dom kultury
+
+Gminny Ośrodek Kultury w Wiązownie (Municipal Cultural Center in Wiązowna)
+Kościelna 41
+05-462 Wiązowna
+
+#Szkoła
+
+Szkoła Podstawowa Im. Bohaterskich Lotników Polskich w Wiązownie.
+Kościelna 20
+05-462 Wiązowna
+
+#Przedszkole
+
+Przedszkole im. Misia Uszatka
+osiedle Parkowe 17
+05-462 Wiązowna
+
+#Biblioteka
+
+Biblioteka Publiczna Gminy Wiązowna
+Kościelna 41
+05-462 Wiązowna
+
+#Szpital
+
+Szpital dla uczniów pani Krauze
+Kościelna 20
+05-462 Wiązowna
+
+Mazowieckie Centrum Neuropsychiatrii Sp. z o.o.
+Zagórze
+05-462 Wiązowna
+
+klinika rehabilitacyjna marianna
+Lubelska 13
+05-462 Wiązowna
+
+#Przychodnia
+
+Zespołowa Praktyka Lekarzy Rodzinnych w Wiązownie
+Lubelska 36
+05-462 Wiązowna
+
+#Bank
+
+Bank Spółdzielczy w Otwocku Oddział w Wiązownie
+Lubelska 47
+05-462 Wiązowna
+
+#Oddział
+
+#Policja
+
+Policja
+Kościelna 9
+05-462 Wiązowna
+
+#Sąd
+
+#Produkcja
+
+Dakoma Sp. z o.o.
+Turystyczna 12
+05-462 Wiązowna
+
+#Fabryka
+
+F.K. Madex - Producent miedzianych kabli telekomunikacyjnych oraz teleinformatycznych
+Żurawia 96
+05-462 Wiązowna
+
+#Klub
+
+KANGUREK-Przedszkole Niepubliczne i Klub Malucha Wiązowna
+Boryszewska 19
+05-462 Wiązowna
+
+#Towarzystwo
+
+Peltron Sp. z o.o. Towarzystwo produkcyjno - handlowe
+Turystyczna 4
+05-462 Wiązowna Kościelna
+
+#Poczta
+
+Poczta Polska
+Lubelska 45
+05-462 Wiązowna
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+HAGAT Agencja Ubezpieczeniowa PZU Dojazd do klienta
+Polna 7
+05-462 Wiązowna
+
+Agent PZU mobilny Aleksander Gałkowski
+Polna 7
+05-462 Wiązowna
+
+#muzeum
+
+Galeria Więzy
+Lubelska 29
+05-462 Wiązowna
+
+#Seniorzy
+
+Senior Med. Opieka pelna troski i szacunku
+Chabrowa 10
+05-462 Wiązowna
+
+#Seniora
+
+#Seniorów
+
+======================================================================
+05-462 GÓRASZKA
+
+#Dom kultury
+
+#Szkoła
+
+#Przedszkole
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#Sąd
+
+#Klub
+
+#Poczta
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#Klub Seniora
+
+#Seniora
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+05-077 ZAKRĘT
+
+#Dom kultury
+
+Ｒｅｚｙｄｅｎｃｊａ ＲＪＲ
+Sosnowa 1F
+05-077 Zakręt
+
+#Szkoła
+
+Dwujęzyczna Szkoła Podstawowa Smart School
+Trakt Brzeski 75D
+05-077 Zakręt
+
+Szkoła Podstawowa
+Szkolna 11
+05-077 Zakręt
+
+Gminne Przedszkole w Zakręcie
+Szkolna 13
+05-077 Zakręt
+
+#Przedszkole
+
+Przedszkole Terapeutyczne Progress Place
+Szkolna 18
+05-077 Zakręt
+
+#Szpital
+
+ｓａｎａｔｏｒｉｕｍ ｚａｋｒｅｔ
+Sosnowa
+05-077 Zakręt
+
+#Bank
+
+#Policja
+
+#Sąd
+
+#Produkcja
+
+NTT System S.A.
+ul
+Trakt Brzeski 89
+05-077 Zakręt
+
+#Fabryka
+
+Fabryka Stolarzy
+Piękna 1
+05-077 Zakręt
+
+#Zakład
+
+Zakład Pielęgnacyjno - Opiekuńczo - Rehabilitacyjny "MARIA"
+Piękna 6
+05-077 Zakręt
+
+#Klub
+
+Klub Sportowy ZAKRĘT Jolanta Rawska
+Sportowa 7
+05-077 Zakręt
+
+#Firma
+
+WATERSYSTEM
+ul
+Trakt Brzeski 127
+05-077 Zakręt
+
+#Poczta
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#Czerwony Krzyż
+
+======================================================================
+05-200 LEŚNIAKOWIZNA
+
+#Urząd
+
+#Dom kultury
+
+#Szkoła
+
+Zespół Szkolno-przedszkolny w Leśniakowiźnie
+Kasprzykiewicza 153
+05-200 Leśniakowizna
+
+#Przedszkole
+
+#Akademia
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#Sąd
+
+#Produkcja
+
+KIK Ziemskie Produkty. Producent ziemi, torfu, kory, substratów dachowych i profesjonalnych
+Kasprzykiewicza 34
+05-200 Leśniakowizna
+
+#Poczta
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#muzeum
+
+#Czerwony Krzyż
+
+#Jeździecki
+
+======================================================================
+05-074 NOWY KONIK
+
+#Dom kultury
+
+#Szkoła
+
+#Przedszkole
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#Sąd
+
+#Produkcja
+
+Froz-System. Producent drzwi chłodniczych, automatycznych
+Terespolska 25
+05-074 Nowy Konik
+
+SIATMET.PL - Nowoczesne Ogrodzenie Twojej posesji - producent ogrodzeń
+Terespolska 168
+05-074 Nowy Konik
+
+#Agencja
+
+Umo-2 Sp. z o.o. Agencja celna, skład celny
+Terespolska 109
+05-074 Nowy Konik
+
+#Spółka
+
+Metal Forms Sp. z o.o. Konstrukcje stalowe. Michalski M.
+Terespolska 7
+05-074 Nowy Konik
+
+#Firma
+
+#Poczta
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#Czerwony Krzyż
+
+#Centrum
+
+Amg Auto Sp. z o.o. Mazowieckie centrum sprzedaży samochodów
+Terespolska 138
+05-074 Nowy Konik
+
+Timex S.A.
+E30 58
+05-074 Nowy Konik
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+05-079 OKUNIEW
+
+#Urząd
+
+Urząd Pocztowy
+Rynek 10
+05-079 Okuniew
+
+#Dom kultury
+
+#Szkoła
+
+Szkoła Podstawowa
+Szkolna 4
+05-079 Okuniew
+
+#Przedszkole
+
+Przedszkole w Okuniew
+1 Maja 5
+05-079 Okuniew
+
+#Biblioteka
+
+Biblioteka Publiczna
+Rynek 82
+05-079 Okuniew
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#Zakład
+
+Czerwińscy T.M. Zakład szklarski - Obróbka Szkła i Luster, Hartowanie, Laminowanie Szkła
+Sadowa 4
+05-079 Okuniew
+
+#Zakłady
+
+#Spółdzielnia
+
+#Klub
+
+Klub Jeździecki "DWOREK
+Warszawska 67
+05-079 Okuniew
+
+#Poczta
+
+#ZNP
+
+#muzeum
+
+Kirkut Stary Cmentarz Żydowski Okuniew
+Cmentarna
+05-079 Okuniew
+
+#Czerwony Krzyż
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+05-074 HALINÓW
+
+#Urząd
+
+Urząd Miejski w Halinowie
+Spółdzielcza 1
+05-074 Halinów
+
+#Ośrodek
+
+Miejski Ośrodek Pomocy Społecznej
+Adama Mickiewicza 23
+05-074 Halinów
+
+#Dom kultury
+
+Dworek Skruda, Dom Kultury Halinów
+3 Maja 8
+05-074 Halinów
+
+#Przedszkole
+
+Zespół Szkolno-Przedszkolny w Halinowie
+Okuniewska 115
+05-074 Halinów
+
+#Biblioteka
+
+Biblioteka Publiczna Gminna
+Spółdzielcza 1
+05-074 Halinów
+
+#Przychodnia
+
+Centrum Medyczne ZANMED
+Józefa Piłsudskiego 33
+05-074 Halinów
+
+#Wydział
+
+#Policja
+
+Komisariat Policji
+Józefa Piłsudskiego 39
+05-074 Halinów
+
+#Sąd
+
+#Produkcja
+
+KONAR rzezbiarstwo w drewnie,meble ogrodowe,kapliczki,altany
+Stanisława Okrzei
+05-074 Halinów
+
+#Zakład
+
+Zakład Komunalny w Halinowie sp. z o.o.
+Józefa Piłsudskiego 77
+05-074 Halinów
+
+#Zakłady
+
+#Spółdzielnia
+
+Spółdzielnia Kółek Rolniczych
+Powstania Styczniowego 30
+05-074 Halinów
+
+#Stowarzyszenie
+
+#Klub
+
+Imperium Paftryka Kosmoskiego
+Okuniewska 115
+05-074 Halinów
+
+#Poczta
+
+Poczta Polska
+ul
+Jana Pawła II 30
+05-074 Halinów
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#Seniora
+
+OPTIMA Dom Opieki Tylko 20km od Centrum Warszawy
+Marii Konopnickiej 14
+05-074 Halinów
+
+#Seniorów
+
+#Koło gospodyń wiejskich
+
+======================================================================
+05-079 ZAGÓRZE
+
+#Ośrodek
+
+#Przedszkole
+
+#Biblioteka
+
+#Szpital
+
+#Policja
+
+#Sąd
+
+#ZUS
+
+#PZU
+
+#muzeum
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+05-079 ZABRANIEC
+
+#Szkoła
+
+Szkoła Podstawowa
+ks. Skonieckiego 8
+05-079 Zabraniec
+
+#Biblioteka
+
+#Policja
+
+#Sąd
+
+#Produkcja
+
+Viki Family Produkcja Opakowań Tekturowych
+Okuniewska 3
+05-079 Zabraniec
+
+#Spółka
+
+#ZUS
+
+#ZNP
+
+#muzeum
+
+#Czerwony Krzyż
+
+======================================================================
+05-362 TRZCINKA
+
+#Przedszkole
+
+#Biblioteka
+
+#Szpital
+
+#Przychodnia
+
+#Spółdzielnia
+
+#Poczta
+
+#ZUS
+
+#muzeum
+
+======================================================================
+05-362 NOWE RĘCZAJE
+
+#Dom kultury
+
+#Szkoła
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+05-074 DESNO
+
+#Przedszkole
+
+#Biblioteka
+
+#Policja
+
+#Sąd
+
+#ZNP
+
+#Czerwony Krzyż
+
+#Koło gospodyń wiejskich
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+05-362 WOLA RĘCZAJSKA
+
+#ZUS
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+05-362 NOWY CYGÓW
+
+#Bank
+
+#ZUS
+
+#ZNP
+
+#Czerwony Krzyż
+
+======================================================================
+05-362 POŚWIĘTNE
+
+#Urząd
+
+#Szkoła
+
+#Bank
+
+#Poczta
+
+#ZNP
+
+#PZU
+
+======================================================================
+05-311 DĘBE WIELKIE
+
+#Urząd
+
+Urząd Gminy
+Strażacka 3
+05-311 Dębe Wielkie
+
+#Ośrodek
+
+Przychodnia w Dębem
+Szkolna 40
+05-311 Dębe Wielkie
+
+#Dom kultury
+
+Gminny Ośrodek Kultury w Dębem Wielkim
+Strażacka 3
+05-311 Dębe Wielkie
+
+#Szkoła
+
+Szkoła Podstawowa im. Wołyńskiej Brygady Kawalerii w Dębem Wielkim
+Warszawska 78
+05-311 Dębe Wielkie
+
+#Przedszkole
+
+Przedszkole Gminne
+Strażacka 3
+05-311 Dębe Wielkie
+
+#Akademia
+
+Akademia Sztuk Walki
+Marii Konopnickiej 9
+05-311 Dębe Wielkie
+
+#Uniwersytet
+
+#Biblioteka
+
+Gminna Biblioteka Publiczna w Dębem Wielkim
+Strażacka 1
+05-311 Dębe Wielkie
+
+#Przychodnia
+
+#Bank
+
+Bank Spółdzielczy w Mińsku Mazowieckim. Oddział
+Strażacka 3
+05-311 Dębe Wielkie
+
+#Oddział
+
+#Policja
+
+#Produkcja
+
+BluePOS Sp. z o.o.
+Kobierne 40b
+05-311 Dębe Wielkie
+
+#Zakład
+
+Samodzielny Publiczny Zakład Opieki Zdrowotnej
+Szkolna 17
+05-311 Dębe Wielkie
+
+#Klub
+
+#Organizacja
+
+#Poczta
+
+Poczta Polska
+Strażacka 3
+05-311 Dębe Wielkie
+
+#Emerytów
+
+#PZU
+
+#muzeum
+
+Muzeum Techniki Militarnej w Dębe Wielkie (w organizacji)
+Polna 15c
+05-311 Dębe Wielkie
+
+#Centrum
+
+#Seniora
+
+#Seniorów
+
+#Uniwersytet Trzeciego Wieku
+
+#Emerytów
+
+#Inwalidów
+
+======================================================================
+05-304 PUSTELNIK
+
+#Szkoła
+
+Szkoła Podstawowa im. Armii Krajowej w Pustelniku
+Szkolna 16
+05-304 Pustelnik Minski
+
+#Przedszkole
+
+Przedszkole Promyczek
+Szkolna 05-304
+05-304 Pustelnik
+
+#Biblioteka
+
+#Przychodnia
+
+#Policja
+
+#Sąd
+
+#Związek
+
+Stowarzyszenie „Wspieranie Rozwoju Dziecka”
+Szkolna 16
+05-304 Pustelnik
+
+#Stowarzyszenie
+
+#Towarzystwo
+
+#ZNP
+
+#muzeum
+
+Rów im. Nikołaja Grzegorowicza
+Polna
+05-304 Pustelnik Minski
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+05-311 RYSIE
+
+#Ośrodek
+
+RedBall
+Rysie 3
+05-311 Rysie
+
+#Szkoła
+
+#Bank
+
+#Produkcja
+
+STALOWY WRÓBEL Cięcie Plazmowe , Gięcie Blach , Spawanie
+Rysie 25 c
+05-311 Rysie
+
+#ZUS
+
+#Uniwersytet Trzeciego Wieku

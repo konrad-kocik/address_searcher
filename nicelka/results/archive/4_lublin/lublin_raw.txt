@@ -1,0 +1,6803 @@
+======================================================================
+22-235 KULCZYN
+
+#Dom kultury
+
+#Szkoła
+
+#Uniwersytet
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#Poczta
+
+#ZUS
+
+#PZU
+
+#muzeum
+
+======================================================================
+22-244 LUBOWIERZ
+
+#Dom kultury
+
+#Uniwersytet
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#ZUS
+
+#PZU
+
+======================================================================
+22-244 KOŁACZE
+
+#Dom kultury
+
+#Szkoła
+
+#Bank
+
+#Spółka
+
+Zenmar Sp. z o.o. PW. Stacja paliw
+Kołacze 83
+22-244 Kołacze
+
+#Poczta
+
+Leśnictwo Brus Nadleśnictwo Włodawa
+Kołacze 86
+22-244 Kołacze
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+22-244 STARY BRUS
+
+#Dom kultury
+
+#Szkoła
+
+#Przedszkole
+
+#Biblioteka
+
+#Bank
+
+#Poczta
+
+Urząd Gminy Stary Brus
+Stary Brus 47A
+22-244 Stary Brus
+
+======================================================================
+22-244 KAMIEŃ
+
+#Dom kultury
+
+#Szkoła
+
+#Szpital
+
+#Poczta
+
+======================================================================
+22-244 DOMINICZYN
+
+#Dom kultury
+
+#Szkoła
+
+#Uniwersytet
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#Poczta
+
+#ZUS
+
+#PZU
+
+#Klub Seniora
+
+======================================================================
+22-150 WÓLKA TARNOWSKA
+
+#Dom kultury
+
+#Uniwersytet
+
+#Biblioteka
+
+#Bank
+
+#Policja
+
+======================================================================
+22-234 SĘKÓW
+
+#Biblioteka
+
+#Bank
+
+#Policja
+
+#Spółdzielnia
+
+#ZUS
+
+#PZU
+
+#muzeum
+
+======================================================================
+22-234 WYTYCZNO
+
+#Szkoła
+
+#Uniwersytet
+
+Szkoła Podstawowa im. Korpusu Ochrony Pogranicza
+22-234 Wytyczno; 143
+
+#Biblioteka
+
+#Bank
+
+#Policja
+
+#PZU
+
+#muzeum
+
+Miejsce Pamięci Bitwy O Wytyczno Żołnierzy Zgrupowania Korpusu Ochrony Pogranicza
+Wytyczno 151A
+22-234 Wytyczno
+
+======================================================================
+21-421 ZASTAWIE
+
+#Szkoła
+
+#Uniwersytet
+
+#Biblioteka
+
+#Szpital
+
+#Policja
+
+#muzeum
+
+#Czerwony Krzyż
+
+#Klub Seniora
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+21-070 BEKIESZA
+
+#Dom kultury
+
+#Szkoła
+
+Szkoła Podstawowa. Filia
+21-070 Bekiesza; 31
+
+#Uniwersytet
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#Poczta
+
+#ZUS
+
+#muzeum
+
+======================================================================
+22-234 WERESZCZYN
+
+#Szkoła
+
+#Uniwersytet
+
+#Biblioteka
+
+#Policja
+
+#Organizacja
+
+Klasztor Braci Faustynów
+Wereszczyn 73
+22-234 Wereszczyn
+
+#PZU
+
+#muzeum
+
+======================================================================
+22-244 WOŁOSKOWOLA
+
+#Szkoła
+
+Biblioteka Publiczna. Filia
+22-244 Wołoskowola; 83
+
+#Uniwersytet
+
+#Biblioteka
+
+#Bank
+
+#Policja
+
+#Zakład
+
+USŁUGOWY ZAKŁAD TAPICERSKI LESZEK CHOJNACKI
+Wołoskowola 111
+22-244 Wołoskowola
+
+#Zakłady
+
+#Poczta
+
+Poczta Polska
+Wołoskowola 63
+22-244 Wołoskowola
+
+#ZUS
+
+#PZU
+
+#muzeum
+
+#Klub Seniora
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+21-070 ŚWIERSZCZÓW
+
+#Dom kultury
+
+#Szkoła
+
+#Przedszkole
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#Spółdzielnia
+
+#Poczta
+
+======================================================================
+22-234 URSZULIN
+
+#Urząd
+
+Urząd Gminy Urszulin
+Kwiatowa 35
+22-234 Urszulin
+
+#Ośrodek
+
+Animed. NZOZ. Przychodnia medycyny rodzinnej
+Nowa 2
+22-234 Urszulin
+
+#Uniwersytet
+
+#Biblioteka
+
+Biblioteka Publiczna Gminna
+Lubelska 32
+22-234 Urszulin
+
+#Szpital
+
+#Przychodnia
+
+#Bank
+
+Bank Spółdzielczy w Cycowie O. Urszulin
+Lubelska 35
+22-234 Urszulin
+
+#Oddział
+
+#Policja
+
+Posterunek Policji
+Lubelska 31
+22-234 Urszulin
+
+#Zakład
+
+Gminny Zakład Usług Komunalnych Sp. z o.o. w Urszulinie
+Szkolna 17
+22-234 Urszulin
+
+#Zakłady
+
+#Spółdzielnia
+
+Spółdzielnia Mieszkaniowa Pojezierze W Urszulinie
+Chełmska 8
+22-234 Urszulin
+
+#Poczta
+
+Poczta Polska
+Pocztowa 3
+22-234 Urszulin
+
+#ZNP
+
+======================================================================
+22-244 HOLA
+
+#Dom kultury
+
+Skansen w Holi
+Hola 63
+22-244 Hola
+
+#muzeum
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+22-604 SUMIN
+
+#Szkoła
+
+#Uniwersytet
+
+#Biblioteka
+
+#Policja
+
+#Poczta
+
+#ZUS
+
+======================================================================
+22-234 OLSZOWO
+
+#Szkoła
+
+#Biblioteka
+
+#Bank
+
+#Policja
+
+#Spółdzielnia
+
+#ZUS
+
+#muzeum
+
+======================================================================
+21-070 CYCÓW
+
+#Urząd
+
+Urząd Gminy Cyców
+Chełmska 42
+21-070 Cyców
+
+#Dom kultury
+
+Gminny Dom Kultury w Cycowie (Municipal House of Culture in Cycowie)
+DW841 21
+21-070 Cyców
+
+#Szkoła
+
+Zespół Szkół z Oddziałami Integracyjnymi im. 7 Pułku Ułanów Lubelskich w Cycowie
+Chełmska 44
+21-070 Cyców
+
+#Przedszkole
+
+Przedszkole
+Chełmska 44
+21-070 Cyców
+
+#Uniwersytet
+
+#Politechnika
+
+#Biblioteka
+
+Gminna Biblioteka Publiczna w Cycowie
+Chełmska 19
+21-070 Cyców
+
+#Szpital
+
+#Przychodnia
+
+#Bank
+
+Bank Spółdzielczy W Cycowie
+DW841 24
+21-070 Cyców
+
+#Policja
+
+#Spółdzielnia
+
+Centrum. Spółdzielnia mieszkaniowa
+Słowackiego 3/12A
+21-070 Cyców
+
+#Fundacja
+
+FUNDACJA CENTRUM POZYTYWNYCH PRZEMIAN
+Chełmska 4
+21-070 Cyców
+
+#Poczta
+
+Poczta Polska
+Chełmska 1 G
+21-070 Cyców
+
+#ZUS
+
+#muzeum
+
+#Fundacja
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+21-070 SZCZUPAK
+
+#Dom kultury
+
+#Szkoła
+
+#Biblioteka
+
+#Bank
+
+======================================================================
+21-210 KOPINA
+
+#Dom kultury
+
+#Szkoła
+
+#Przedszkole
+
+#Uniwersytet
+
+#Biblioteka
+
+#muzeum
+
+#Klub Seniora
+
+======================================================================
+22-234 GRABNIAK
+
+#Ośrodek
+
+Ośrodek Wypoczynkowy GRABNIAK
+Grabniak 57
+22-234 Grabniak
+
+#Szkoła
+
+#Biblioteka
+
+#Policja
+
+#muzeum
+
+======================================================================
+22-234 STARE ZAŁUCZE
+
+#Ośrodek
+
+Ośrodek Dydaktyczno-Muzealny Poleskiego Parku Narodowego w Starym Załuczu
+Stare Załucze 8
+22-234 Stare Załucze
+
+#Biblioteka
+
+#Szpital
+
+#Policja
+
+#ZUS
+
+#ZNP
+
+#muzeum
+
+#Czerwony Krzyż
+
+======================================================================
+22-234 JAMNIKI
+
+#Szkoła
+
+#Bank
+
+#ZUS
+
+#PZU
+
+======================================================================
+21-230 ZIENKI
+
+#Urząd
+
+#Dom kultury
+
+#Przedszkole
+
+#Uniwersytet
+
+#Biblioteka
+
+#Produkcja
+
+Agronom Berries Group
+Zienki 14
+21-230 Zienki
+
+#Spółdzielnia
+
+Spółdzielnia Mieszkaniowa
+12
+21-230 Zienki
+
+#muzeum
+
+======================================================================
+21-230 SOSNOWICA
+
+#Urząd
+
+Urząd Gminy Sosnowica
+Spokojna 10
+21-230 Sosnowica
+
+#Dom kultury
+
+Gminny Ośrodek Kultury
+21-230 Sosnowica
+
+#Szkoła
+
+#Biblioteka
+
+Biblioteka Publiczna Gminna
+Wyzwolenia 5
+21-230 Sosnowica
+
+#Szpital
+
+Samodzielny Publiczny Zakład Podstawowej Opieki Zdrowotnej
+Wyzwolenia 3
+21-230 Sosnowica
+
+#Bank
+
+Bank Spółdzielczy w Parczewie O. Sosnowica
+Wojska Polskiego 37A
+21-230 Sosnowica
+
+#Policja
+
+#Poczta
+
+Poczta Polska
+ul.Wojska Polskiego 39
+21-230 Sosnowica
+
+#ZUS
+
+======================================================================
+21-013 BOGDANKA
+
+#Politechnika
+
+Lubelski Węgiel „Bogdanka”
+21-013 Bogdanka
+
+#Biblioteka
+
+#Szpital
+
+#Policja
+
+#Przedsiębiorstwo
+
+#Zakład
+
+#Stowarzyszenie
+
+Związek Zawodowy "PRZERÓBKA" Lubelski Węgiel "Bogdanka" S.A.
+21-013 Bogdanka
+
+#Organizacja
+
+#Firma
+
+#ZUS
+
+#PZU
+
+PZU Życie S.a.
+21-013 Bogdanka
+
+#Koło gospodyń wiejskich
+
+======================================================================
+21-013 NADRYBIE – WIEŚ
+
+#Dom kultury
+
+#Szkoła
+
+#Przedszkole
+
+#Szpital
+
+#Poczta
+
+#ZUS
+
+#muzeum
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+21-075 KANIWOLA
+
+#Szkoła
+
+#Szpital
+
+#Bank
+
+#Poczta
+
+#ZUS
+
+#PZU
+
+======================================================================
+21-300 BIAŁKA
+
+#Dom kultury
+
+#Szkoła
+
+Zespół Szkół Im. Św. Jana Pawła II w Białce
+Białka 49A
+21-300 Białka
+
+#Przedszkole
+
+#Biblioteka
+
+Biblioteka
+Białka 48A
+21-300 Białka
+
+#Szpital
+
+#Policja
+
+#Produkcja
+
+#Instytucja
+
+#ZUS
+
+#Czerwony Krzyż
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+JEDLANKA
+
+#Szkoła
+
+Zespół Oświatowy w Jedlance
+Warszawska 13
+21-450 Jedlanka
+
+#Szpital
+
+#Czerwony Krzyż
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+21-013 PUCHACZÓW
+
+#Urząd
+
+Urząd Gminy
+21-013 Puchaczów
+
+#Ośrodek
+
+Gminny Ośrodek Kultury
+Rynek 3
+21-013 Puchaczów
+
+#Dom kultury
+
+Gminny Ośrodek Kultury (municipal Cultural Center)
+Rynek 3
+21-013 Puchaczów
+
+#Szkoła
+
+#Przedszkole
+
+#Biblioteka
+
+Biblioteka gminna
+Rynek 3
+21-013 Puchaczów
+
+#Szpital
+
+Przychodnia
+Partyzantów 9
+21-013 Puchaczów
+
+#Przychodnia
+
+Samodzielny Publiczny Zakład Opieki Zdrowotnej Gminny Ośrodek Zdrowia W Puchaczowie
+Partyzantów 9
+21-013 Puchaczów
+
+#Wydział
+
+#Policja
+
+#Spółka
+
+Urząd gminy Puchaczów
+Lubelska 22
+21-013 Puchaczów
+
+#Koło
+
+#Poczta
+
+Urząd Pocztowy - Puchaczów
+Rynek 3
+21-013 Puchaczów
+
+#ZUS
+
+#ZNP
+
+#muzeum
+
+#Klub Seniora
+
+======================================================================
+22-600 ROGOŹNO
+
+#Szkoła
+
+#Przedszkole
+
+#Biblioteka
+
+#Policja
+
+#Produkcja
+
+#Zakłady
+
+#Stowarzyszenie
+
+#Poczta
+
+#ZUS
+
+#PZU
+
+#muzeum
+
+#Czerwony Krzyż
+
+======================================================================
+21-075 DRATÓW
+
+#Dom kultury
+
+#Szkoła
+
+#Szpital
+
+#Bank
+
+#Poczta
+
+Cerkiew św. Mikołaja w Dratowie
+91,075
+Dratów-Kolonia 21
+21-075 Dratów-Kolonia
+
+#ZUS
+
+======================================================================
+KRASNE
+
+#Urząd
+
+Urząd Gminy Krasne
+Krasne 121
+36-007 Krasne
+
+#Ośrodek
+
+Riviera Krasne. Ośrodek wypoczynkowy
+81 723 22 00
+
+#Przedszkole
+
+Zespół Szkolno-Przedszkolny w Krasnem.
+Krasne 742
+35-001 Krasne
+
+#Politechnika
+
+hexapack.pl
+Krasne 994
+36-007 Krasne
+
+#Biblioteka
+
+Gminny Ośrodek Kultury i Biblioteka w Krasnem
+Krasne 743
+36-007 Krasne
+
+#Szpital
+
+Centrum Medyczne SABAMED (Medical Center SABAMED)
+Krasne 33
+36-007 Krasne
+
+#Przychodnia
+
+Niepubliczny Zakład Opieki Zdrowotnej AGAMED
+Krasne 746A
+36-007 Krasne
+
+#Policja
+
+#Zakłady
+
+#Klub
+
+Crasnovia Krasne
+36-007 Krasne
+
+#Fundacja
+
+#Organizacja
+
+#Firma
+
+#Poczta
+
+Poczta Polska
+Krasne 175
+36-007 Krasne
+
+#Instytut
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#Fundacja
+
+#Seniora
+
+#Seniorów
+
+======================================================================
+21-109 MAŚLUCHY
+
+#Szkoła
+
+#Szpital
+
+#Bank
+
+#Poczta
+
+#ZUS
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+21-109 STARY UŚCIMÓW
+
+#Urząd
+
+Urząd Gminy Uścimów
+Stary Uścimów 37
+21-109 Stary Uścimów
+
+#Ośrodek
+
+Ośrodek Pomocy Społecznej
+Uścimów 37
+21-109 Stary Uścimów
+
+#Szkoła
+
+Szkoła Podstawowa Zespołu Szkół
+Stary Uścimów 43
+21-109 Stary Uścimów
+
+#Bank
+
+Bank Spółdzielczy w Łęcznej. Oddział w Uścimowie
+Stary Uścimów 37
+Stary Uścimów 109
+21-109 Stary Uścimów
+
+#Policja
+
+#Sąd
+
+Poczta Polska
+Stary Uścimów 109
+21-109 Stary Uścimów
+
+#Zakłady
+
+Zakład Przemysłu Drzewnego Mariusz Sidor
+Stary Uścimów 40
+21-109 Stary Uścimów
+
+#Poczta
+
+#Emeryci
+
+#Instytut
+
+#ZUS
+
+#Amazonki
+
+Parafia św. Apostołów Piotra i Pawła w Uścimowie
+Stary Uścimów 35
+21-109 Stary Uścimów
+
+#Czerwony Krzyż
+
+#Seniorów
+
+#Uniwersytet Trzeciego Wieku
+
+#Emeryci
+
+#Niepełnosprawnych
+
+#Niepełnosprawni
+
+#Inwalidów
+
+======================================================================
+21-109 DROZDÓWKA
+
+#Szkoła
+
+#Biblioteka
+
+#Bank
+
+#Poczta
+
+#muzeum
+
+======================================================================
+21-075 KRZCZEŃ
+
+#Szkoła
+
+#Uniwersytet
+
+#Biblioteka
+
+#Szpital
+
+#Policja
+
+#Poczta
+
+#muzeum
+
+======================================================================
+21-109 RYCZKA
+
+#Urząd
+
+#Szkoła
+
+#Przedszkole
+
+#Biblioteka
+
+#Bank
+
+#Policja
+
+#Koło
+
+#PZU
+
+#muzeum
+
+======================================================================
+21-109 NOWA JEDLANKA
+
+#Szkoła
+
+Szkoła Podstawowa w Nowej Jedlance
+21-109 Nowa Jedlanka
+
+#Politechnika
+
+AGROSTAR
+Nowa Jedlanka 87
+21-109 Nowa Jedlanka
+
+#Bank
+
+#Produkcja
+
+#Fabryka
+
+#Zakład
+
+#Grupa
+
+#Firma
+
+#Emerytów
+
+#Emerytów
+
+#Inwalidów
+
+======================================================================
+21-109 STARA JEDLANKA
+
+#Szkoła
+
+#Biblioteka
+
+#Produkcja
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+21-010 ŁĘCZNA
+
+#Dom kultury
+
+#Przedszkole
+
+#Politechnika
+
+Centrum Kultury
+Obrońców Pokoju 1
+21-010 Łęczna
+
+#Placówka
+
+Credit Agricole Bank Polska S.A. - Placówka Bankowa
+Aleja Jana Pawła II 111
+21-010 Łęczna
+
+#Wydział
+
+Starostwo Powiatowe w Łęcznej
+Aleja Jana Pawła II 95A
+21-010 Łęczna
+
+#Policja
+
+Komenda Powiatowa Policji w Łęcznej
+Księży Wrześniewskich 10
+21-010 Łęczna
+
+#Grupa
+
+Grupa Carbon Sp. z o.o.
+ul. Stefanii
+Pawlak 30
+21-010 Łęczna
+
+#Agencja
+
+Agencja Restrukturyzacji i Modernizacji Rolnictwa. Biuro powiatowe
+Przedsiębiorstwo Gospodarki Komunalnej i Mieszkaniowej. Sp. z o.o.
+Krasnystawska 54
+21-010 Łęczna
+
+#Spółdzielnia
+
+#Instytut
+
+Samodzielny Publiczny Zakład Opieki Zdrowotnej w Łęcznej
+Krasnystawska 52
+21-010 Łęczna
+
+#ZUS
+
+ZUS Biuro Terenowe w Łęcznej
+Obrońców Pokoju 5
+21-010 Łęczna
+
+#muzeum
+
+Synagoga
+Bożnicza 19
+21-010 Łęczna
+
+#Klub Seniora
+
+#Centrum
+
+#Seniora
+
+POGODNY SENIOR USŁUGI OPIEKUŃCZE
+Stanisława Staszica 7
+21-010 Łęczna
+
+#Seniorów
+
+#Niepełnosprawnych
+
+ŁĘCZYŃSKA SPÓŁDZIELNIA SOCJALNA "POD DOBRYM ADRESEM"
+Stanisława Staszica 9
+21-010 Łęczna
+
+======================================================================
+21-075 LUDWIN
+
+#Urząd
+
+Urząd Gminy Ludwin
+Ludwin 51
+21-075 Ludwin
+
+#Dom kultury
+
+#Szkoła
+
+Zespół Szkół
+30 a
+21-075 Ludwin
+
+#Uniwersytet
+
+#Biblioteka
+
+Gminna biblioteka
+Ludwin 52
+21-075 Ludwin
+
+#Przychodnia
+
+#Bank
+
+Bank
+Ludwin 50
+21-075 Ludwin
+
+#Policja
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+======================================================================
+21-075 ZEZULIN PIERWSZY
+
+#Szkoła
+
+#Przedszkole
+
+#Uniwersytet
+
+#Produkcja
+
+Ogrodzenia BRAMAX, sklep ogrodniczy, sklep budowlany, węgiel.
+Zezulin Pierwszy 21B
+21-075 Zezulin Pierwszy
+
+#Fabryka
+
+#Firma
+
+#ZUS
+
+#ZNP
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+GOŚCINIEC
+
+#Ośrodek
+
+Gościniec Sudecki Hotel Pensjonat Agroturystyka Noclegi Pokoje
+Wysoka 6c
+58-260 Bielawa
+
+#Dom kultury
+
+Gościniec Donatowo
+Donatowo 3A
+64-020 Donatowo
+
+#Przedszkole
+
+Przedszkole nr 281 "Stokrotka"
+Gościniec 53
+00-001 Warszawa
+
+#Agencja
+
+Gościniec u Gwarka
+Czarnohucka 24
+42-600 Tarnowskie Góry
+
+#Koło
+
+#muzeum
+
+#Czerwony Krzyż
+
+#Klub Seniora
+
+#Centrum
+
+Gościniec graf
+Wiosenna 6A
+58-540 Karpacz
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+21-110 KOLECHOWICE
+
+#Szkoła
+
+Szkoła Podstawowa
+Kolechowice 125
+21-110 Kolechowice
+
+#Uniwersytet
+
+#Biblioteka
+
+#Szpital
+
+#Policja
+
+#Poczta
+
+#muzeum
+
+======================================================================
+KOLOCHOWICE – FOLWARK
+
+#Szkoła
+
+#Przedszkole
+
+#Biblioteka
+
+#Policja
+
+#Fundacja
+
+#Czerwony Krzyż
+
+#Fundacja
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+21-110 OSTRÓW LUBELSKI
+
+#Urząd
+
+Urząd Miejski Ostrów Lubelski
+Partyzantów 1
+21-110 Ostrów Lubelski
+
+#Dom kultury
+
+Centrum Kultury
+Partyzantów 14
+21-110 Ostrów Lubelski
+
+#Szkoła
+
+Szkoła Podstawowa im. Jana Pawła II
+Partyzantów 26
+21-110 Ostrów Lubelski
+
+#Przedszkole
+
+Przedszkole Samorządowe
+21-110 Ostrów Lubelski; Stefana Batorego 4
+21-110
+
+#Uniwersytet
+
+Zespół Szkół
+Unicka 5
+21-110 Ostrów Lubelski
+
+#Politechnika
+
+#Biblioteka
+
+Biblioteka Ostrów Lubelski, Samorządowa Biblioteka Publiczna
+ul. Stefana Batorego 4
+21-110 Ostrów Lubelski
+
+#Przychodnia
+
+Przychodnia Rejonowa
+Partyzantów 12
+21-110 Ostrów Lubelski
+
+#Wydział
+
+#Policja
+
+Komisariat Policji
+Partyzantów 14
+21-110 Ostrów Lubelski
+
+#Prokuratura
+
+#Sąd
+
+#Przedsiębiorstwo
+
+"Witex" Przedsiębiorstwo Handlowo-Usługowe Witold Barszcz
+Żabia 2
+21-110 Ostrów Lubelski
+
+#Zakłady
+
+#Spółdzielnia
+
+Metalowo - Usługowa Spółdzielnia Pracy
+Lubartowska 5
+21-110 Ostrów Lubelski
+
+#Związek
+
+#Stowarzyszenie
+
+#Towarzystwo
+
+#Organizacja
+
+Dom Pomocy Społecznej
+Unicka 7
+21-110 Ostrów Lubelski
+
+#Poczta
+
+Poczta Polska
+Partyzantów 1 A
+21-110 Ostrów Lubelski
+
+#Emeryci
+
+#Emerytów
+
+#Instytucja
+
+#Instytut
+
+#Amazonki
+
+#ZNP
+
+#PZU
+
+#Klub Seniora
+
+#Seniorzy
+
+#Seniora
+
+#Seniorów
+
+#Koło gospodyń wiejskich
+
+#Uniwersytet Trzeciego Wieku
+
+#Emeryci
+
+#Emerytów
+
+#Niepełnosprawnych
+
+#Niepełnosprawni
+
+#Inwalidów
+
+======================================================================
+21-110 BÓJKI
+
+======================================================================
+21-077 NOWY RADZIC
+
+#Szkoła
+
+Koinonia Jan Chrzciciel. Stowarzyszenie Ewangelizacyjne
+Nowy Radzic 9
+21-077 Nowy Radzic
+
+#Uniwersytet
+
+#Biblioteka
+
+#Policja
+
+#Zakład
+
+#Związek
+
+#Stowarzyszenie
+
+#Klub
+
+#Towarzystwo
+
+#Fundacja
+
+Fundacja Błogosławieni Ubodzy
+Nowy Radzic 9
+21-077 Nowy Radzic
+
+#Organizacja
+
+#Emeryci
+
+#Emerytów
+
+#ZNP
+
+#PZU
+
+#Klub Seniora
+
+#Seniorzy
+
+#Fundacja
+
+#Centrum
+
+#Seniorów
+
+#Emeryci
+
+#Emerytów
+
+======================================================================
+21-110 JAMY
+
+#Urząd
+
+#Dom kultury
+
+#Szkoła
+
+#Biblioteka
+
+#Poczta
+
+#ZUS
+
+#ZNP
+
+======================================================================
+21-107 BRZOSTÓWKA
+
+#Dom kultury
+
+#Szpital
+
+#Bank
+
+#Produkcja
+
+Kamieniarstwo Choreń
+Brzostówka 61
+21-107 Brzostówka
+
+#Spółka
+
+Brzost-Eko Sp. z o.o.
+21-107 Brzostówka; 124
+
+#PZU
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+21-077 SPICZYN
+
+#Urząd
+
+Urząd Gminy Spiczyn
+21-077 Spiczyn; 10c
+
+#Ośrodek
+
+Gminny Ośrodek Pomocy Społecznej
+21-077 Spiczyn; 10c
+
+#Dom kultury
+
+#Przedszkole
+
+Przedszkole Gminne
+Spiczyn 8a
+21-077 Spiczyn
+
+#Biblioteka
+
+Gminna Biblioteka Publiczna w Spiczynie
+Spiczyn 8A
+21-077 Spiczyn
+
+#Szpital
+
+#Przychodnia
+
+Niepubliczny Zakład Opieki Zdrowotnej Kijany
+ul. Kijany
+DW829 4
+21-077 Spiczyn
+
+#Bank
+
+Bank Spółdzielczy w Niemcach. Oddział
+Spiczyn 10C
+21-077 Spiczyn
+
+#Oddział
+
+#Wydział
+
+#Policja
+
+#Spółka
+
+Szkoła Podstawowa
+21-077 Spiczyn; 8
+
+#Związek
+
+#Poczta
+
+Urząd Pocztowy
+Spiczyn 23
+21-077 Spiczyn
+
+#ZUS
+
+#PZU
+
+#Czerwony Krzyż
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+21-077 JAWIDZ
+
+#Szkoła
+
+#Szpital
+
+#Policja
+
+Ochotnicza Straż Pożarna
+21-077 Jawidz
+
+#Poczta
+
+#ZUS
+
+#PZU
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+21-110 KAZNÓW
+
+#Poczta
+
+======================================================================
+21-104 BRZEŹNICA BYCHAWSKA
+
+#Uniwersytet
+
+Szkoła Podstawowa im. Bohaterów Powstania Warszawskiego
+Brzeźnica Bychawska 123
+21-104 Brzeźnica Bychawska
+
+#Politechnika
+
+#Szpital
+
+#Bank
+
+#Stowarzyszenie
+
+Kościół pw. Matki Bożej Królowej Aniołów
+Brzeźnica Bychawska 8
+21-104 Brzeźnica Bychawska
+
+#Poczta
+
+#Emeryci
+
+#Emerytów
+
+#Instytucja
+
+#ZUS
+
+#Amazonki
+
+#PZU
+
+#muzeum
+
+Muzeum Parafialne im. Ks. Jana Szczepańskiego
+Brzeźnica Bychawska 7
+21-104 Brzeźnica Bychawska
+
+#Czerwony Krzyż
+
+#Seniorów
+
+#Uniwersytet Trzeciego Wieku
+
+#Emeryci
+
+#Emerytów
+
+======================================================================
+21-104 BAREJÓW
+
+#Szkoła
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Poczta
+
+#PZU
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+21-107 WÓLKA ZABŁOCKA
+
+#Uniwersytet
+
+#Biblioteka
+
+#Policja
+
+#ZUS
+
+#PZU
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+21-077 CHARLĘZ
+
+#Urząd
+
+#Szkoła
+
+#Przedszkole
+
+#Uniwersytet
+
+#Biblioteka
+
+#Bank
+
+#Policja
+
+#Sąd
+
+#Spółka
+
+#Związek
+
+#Stowarzyszenie
+
+#Towarzystwo
+
+#ZNP
+
+#PZU
+
+#muzeum
+
+======================================================================
+21-107 NOWA WOLA
+
+#Szkoła
+
+Szkoła Podstawowa im. Jana Kochanowskiego
+21-107 Nowa Wola; 95
+95-041
+
+#Uniwersytet
+
+#Biblioteka
+
+#Policja
+
+#Poczta
+
+#ZUS
+
+#muzeum
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+21-504 ROKITNO
+
+#Urząd
+
+Urząd Gminy Rokitno
+Rokitno 39A
+21-504 Rokitno
+
+#Politechnika
+
+#Szpital
+
+#Bank
+
+Bank Spółdzielczy w Łomazach. Oddział w Rokitnie
+Rokitno 43
+21-504 Rokitno
+
+#Oddział
+
+#Wydział
+
+#Policja
+
+#Sąd
+
+#Koło
+
+#Firma
+
+#Poczta
+
+Poczta Polska
+Rokitno 55
+21-504 Rokitno
+
+#Instytucja
+
+#ZUS
+
+#PZU
+
+#Centrum
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+21-100 WÓLKA ROKICKA
+
+#Ośrodek
+
+Pływalnia kryta ORKA
+Wólka Rokicka 90
+21-100 Wólka Rokicka
+
+#Szkoła
+
+Szkoła Podstawowa im Bolesława Prusa
+Wólka Rokicka 90
+21-100 Wólka Rokicka
+
+#Uniwersytet
+
+#Biblioteka
+
+#Bank
+
+#Policja
+
+#Spółka
+
+#Klub
+
+#ZNP
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+21-104 TARŁO
+
+#Dom kultury
+
+#Szkoła
+
+Szkoła Podstawowa im. Marii Konopnickiej w Tarle
+Tarło-Kolonia
+Tarło 103
+21-104 Tarło
+
+#Przedszkole
+
+#Uniwersytet
+
+#Szpital
+
+#Produkcja
+
+#Poczta
+
+#ZNP
+
+======================================================================
+21-107 WOLA SERNICKA
+
+#Szkoła
+
+#Szpital
+
+#Bank
+
+#Poczta
+
+#PZU
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+21-107 SERNIKI
+
+#Urząd
+
+Urząd Gminy Serniki
+Serniki 1 A
+21-107 Serniki
+
+#Uniwersytet
+
+#Biblioteka
+
+#Szpital
+
+#Policja
+
+#Sąd
+
+#Poczta
+
+Poczta Polska
+Serniki 76
+21-107 Serniki
+
+#ZNP
+
+#Czerwony Krzyż
+
+#Klub Seniora
+
+======================================================================
+21-104 PAŁECZNICA
+
+#Urząd
+
+#Szkoła
+
+Szkoła Podstawowa
+Pałecznica 81
+21-104 Pałecznica
+
+#Przedszkole
+
+#Uniwersytet
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Produkcja
+
+Firma Handlowa Anna Iwanek - zakład produkcyjny
+Pałecznica 7A
+21-104 Pałecznica
+
+#Spółka
+
+#Poczta
+
+#Emerytów
+
+#ZNP
+
+#PZU
+
+#Uniwersytet Trzeciego Wieku
+
+#Emerytów
+
+======================================================================
+21-003 BASZKI
+
+#Przedszkole
+
+#Uniwersytet
+
+#Biblioteka
+
+#Policja
+
+#Sąd
+
+#ZUS
+
+#ZNP
+
+#muzeum
+
+======================================================================
+21-025 NIEMCE
+
+#Urząd
+
+Urząd Gminy Niemce
+Lubelska 121
+21-025 Niemce
+
+#Ośrodek
+
+Samodzielny Publiczny ZOZ w Niemcach
+Zielona 1
+21-025 Niemce
+
+#Szkoła
+
+Szkoła Podstawowa w Niemcach
+Szkolna 23
+21-025 Niemce
+
+#Przedszkole
+
+Przedszkole Publiczne w Niemcach
+Różana 14
+21-025 Niemce
+
+#Uniwersytet
+
+#Biblioteka
+
+GMINNA BIBLIOTEKA PUBLICZNA W NIEMCACH
+Lubelska 182
+21-025 Niemce
+
+#Bank
+
+#Policja
+
+Komisariat Policji
+Różana 18
+21-025 Niemce
+
+#Przedsiębiorstwo
+
+Przedsiębiorstwo Produkcji Materiałów Budowlanych Niemce Spółka Akcyjna
+Ceramiczna 6
+21-025 Niemce
+
+#Produkcja
+
+#Zakład
+
+Zakład Gospodarki Komunalnej, piętro 3
+Lubelska 121
+21-025 Niemce
+
+#Zakłady
+
+POL-SKONE - Zakład Produkcyjny nr 2 w Niemcach
+Lubelska 204
+21-025 Niemce
+
+#Agencja
+
+Agencja Rezerw Materiałowych. Składnica
+Niemce
+21-025 Niemce
+
+#Klub
+
+GKS Niemce
+Różana
+21-025 Niemce
+
+#Poczta
+
+Poczta Polska (Post Office - Niemce)
+Lubelska 119
+21-025 Niemce
+
+#ZNP
+
+#muzeum
+
+======================================================================
+21-100 TRZCINIEC
+
+#Szkoła
+
+#Przedszkole
+
+#Biblioteka
+
+#Policja
+
+#Sąd
+
+#ZNP
+
+#muzeum
+
+#Czerwony Krzyż
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+21-100 SZCZEKARKÓW
+
+#Dom kultury
+
+#Szkoła
+
+#Przedszkole
+
+#Uniwersytet
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#Sąd
+
+#Produkcja
+
+Tomaszewski Henryk. PPHU. Zakład meblowy
+21-100 Szczekarków
+
+#ZNP
+
+#muzeum
+
+#Czerwony Krzyż
+
+#Seniorów
+
+======================================================================
+21-100 LUBARTÓW
+
+#Szkoła
+
+#Uniwersytet
+
+#Biblioteka
+
+Biblioteka Publiczna Miejska. Filia nr 1
+3 Maja 24A
+21-100 Lubartów
+
+#Szpital
+
+Samodzielny Publiczny Zakład Opieki Zdrowotnej w Lubartowie (Independent Public Health Care Center in Lubartow)
+Cicha 14
+21-100 Lubartów
+
+#Przychodnia
+
+Samodzielny Publiczny Zakład Opieki Zdrowotnej w Lubartowie
+Cicha 14
+21-100 Lubartów
+
+#Placówka
+
+Kasa Rolniczego Ubezpieczenia Społecznego. Placówka terenowa
+Lipowa 2a
+21-100 Lubartów
+
+#Policja
+
+Komenda Powiatowa Policji w Lubartowie
+Lubelska 57A
+21-100 Lubartów
+
+#Prokuratura
+
+Prokuratura Rejonowa w Lubartowie
+Aleja 1000-lecia 4
+21-100 Lubartów
+
+#Sąd
+
+Sąd Rejonowy
+Lubelska 57
+21-100 Lubartów
+
+#Zakłady
+
+#Grupa
+
+Lokalna Grupa Rybacka "W dolinie Tyśmienicy i Wieprza"
+Legionów 16
+21-100 Lubartów
+
+#Agencja
+
+Agencja Restrukturyzacji i Modernizacji Rolnictwa. Biuro powiatowe
+1 Maja 82
+21-100 Lubartów
+
+#Spółdzielnia
+
+Spółdzielnia Mieszkaniowa
+Cicha 6
+21-100 Lubartów
+
+#Towarzystwo
+
+Stowarzyszenie Inicjawtyw Lokalnych SIL
+Szaniawskiego 64
+21-100 Lubartów
+
+#Fundacja
+
+#ZNP
+
+#PZU
+
+#muzeum
+
+Muzeum Ziemi Lubartowskiej w Lubartowie
+Kościuszki 28
+21-100 Lubartów
+
+#Czerwony Krzyż
+
+Polski Czerwony Krzyż. Zarząd Rejonowy
+3 Maja 22A
+21-100 Lubartów
+
+======================================================================
+21-102 LESZKOWICE
+
+#Dom kultury
+
+#Szkoła
+
+Szkoła Podstawowa
+Leszkowice 12
+21-102 Leszkowice
+
+#Przedszkole
+
+#Szpital
+
+#Bank
+
+#Poczta
+
+#PZU
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+21-100 BRZEZINY
+
+#Szpital
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+21-100 WANDZIN
+
+#Szkoła
+
+Szkoła Podstawowa w Wandzinie
+21-100 Wandzin
+
+#Przedszkole
+
+#Uniwersytet
+
+#Biblioteka
+
+#Bank
+
+#Policja
+
+#Sąd
+
+#ZNP
+
+#muzeum
+
+======================================================================
+21-025 RUDKA KOZŁOWIECKA
+
+#Urząd
+
+#Ośrodek
+
+Szkoła Podstawowa im. Twórców Ludowych Lubelszczyzny w Rudce Kozłowieckiej
+Rudka Kozłowiecka 30B
+21-025 Rudka Kozłowiecka
+
+#Szkoła
+
+#Przedszkole
+
+#Uniwersytet
+
+#Politechnika
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#Prokuratura
+
+#Przedsiębiorstwo
+
+#Produkcja
+
+#Zakład
+
+#Grupa
+
+#Agencja
+
+#Spółka
+
+#Firma
+
+#Emerytów
+
+#Instytucja
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#Diabetycy
+
+#Seniorów
+
+#Koło gospodyń wiejskich
+
+#Emerytów
+
+#Inwalidów
+
+======================================================================
+21-136 PRZYPISÓWKA
+
+#Szkoła
+
+Szkoła Podstawowa
+Przypisówka 18
+21-136 Przypisówka
+
+#Przedszkole
+
+#Szpital
+
+#Bank
+
+#Poczta
+
+#PZU
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+21-025 NOWY STAW
+
+#Ośrodek
+
+Bogdanka. Ośrodek Szkoleniowo-Wypoczynkowy Lubelski Węgiel S.A.
+21-025 Nowy Staw
+
+#Szkoła
+
+#Przedszkole
+
+#Biblioteka
+
+#Bank
+
+#Policja
+
+#ZNP
+
+======================================================================
+21-100 SKROBÓW
+
+#Ośrodek
+
+#Szkoła
+
+#Przedszkole
+
+Przedszkole w Skrobowie
+21-100 Skrobów
+
+#Uniwersytet
+
+#Biblioteka
+
+Gminna Biblioteka Publiczna w Lubartowie Filia w Skrobowie
+Skrobów Kolonia 22
+21-100 Skrobów-Kolonia
+
+#Szpital
+
+#Policja
+
+#Sąd
+
+#Produkcja
+
+ŚWIERSZCZ SP. Z O.O.
+21-100 Skrobów-Kolonia; 104
+21-100 Lubartów
+
+#Firma
+
+Konstal. S.C. Wykonawstwo i montaż konstrukcji stalowych
+21-100 Skrobów-Kolonia
+
+#ZNP
+
+#muzeum
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+21-100 NOWODWÓR
+
+#Urząd
+
+#Szkoła
+
+Szkoła Podstawowa Im. Kard. Stefana Wyszyńskiego
+Nowodwór 60
+21-100 Nowodwór
+
+#Przedszkole
+
+#Biblioteka
+
+#Szpital
+
+#Policja
+
+#Stowarzyszenie
+
+STOWARZYSZENIE KOPALNIA
+Nowodwór 3
+21-100 Nowodwór
+
+#Instytucja
+
+#PZU
+
+#muzeum
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+21-003 JAKUBOWICE KONIŃSKIE
+
+#Dom kultury
+
+#Szkoła
+
+#Przedszkole
+
+#Uniwersytet
+
+#Biblioteka
+
+#Policja
+
+#Sąd
+
+#Fabryka
+
+PPHU Fabryka Reklam
+Lubelska 45
+21-003 Jakubowice Konińskie
+
+======================================================================
+21-025 NASUTÓW
+
+#Urząd
+
+#Ośrodek
+
+#Dom kultury
+
+#Szkoła
+
+Szkoła Podstawowa Nasutów
+Nasutów 209a
+21-025 Nasutów
+
+#Przedszkole
+
+Oddział Zamiejscowy Przedszkola w Nasutowie
+21-025 Nasutów
+
+#Uniwersytet
+
+#Biblioteka
+
+#Policja
+
+#Produkcja
+
+Proxim
+21-025 Nasutów
+
+#Zakład
+
+Ryjek sp.j. Zakład przetwórstwa mięsnego. Woźniak E.M.
+21-025 Nasutów; 173
+21-025
+
+#Zakłady
+
+#Spółka
+
+#Spółdzielnia
+
+#Klub
+
+#Poczta
+
+#Instytut
+
+#ZNP
+
+#PZU
+
+#muzeum
+
+======================================================================
+21-025 STOCZEK- KOLONIA
+
+#Dom kultury
+
+#Szkoła
+
+#Przedszkole
+
+#Uniwersytet
+
+#Biblioteka
+
+#Szpital
+
+#Policja
+
+#Sąd
+
+#muzeum
+
+#Uniwersytet Trzeciego Wieku
+
+#Jeździecki
+
+======================================================================
+21-002 SMUGI
+
+#Dom kultury
+
+#Szkoła
+
+#Uniwersytet
+
+#Szpital
+
+#Bank
+
+#Produkcja
+
+JHM Przyprawy Sp. Z o.o. Sp. Komandytowa
+Smugi 51A
+21-002 Smugi
+
+#Poczta
+
+#ZUS
+
+#muzeum
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+21-132 KOZŁÓWKA
+
+#Dom kultury
+
+#Szkoła
+
+#Przedszkole
+
+#Uniwersytet
+
+#Biblioteka
+
+Biblioteka Publiczna Gminna. Filia
+21-132 Kozłówka
+
+#Policja
+
+#Sąd
+
+#ZNP
+
+#Klub Seniora
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+21-025 KRASIENIN
+
+#Dom kultury
+
+#Szkoła
+
+#Przedszkole
+
+KRASMEDIC - przychodnia i Przedszkole Krasnalek
+nr 23/A
+21-025 Krasienin-Kolonia
+
+#Uniwersytet
+
+#Szpital
+
+#Przychodnia
+
+#Bank
+
+#Policja
+
+#Spółka
+
+#Poczta
+
+#ZUS
+
+#PZU
+
+======================================================================
+21-132 BRATNIK
+
+#Biblioteka
+
+#Bank
+
+#Policja
+
+#Sąd
+
+#Koło
+
+Leśnictwo Bratnik. Nadleśnictwo Lubartów
+21-132 Bratnik; 30
+
+#Poczta
+
+#ZNP
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+21-132 KAMIONKA
+
+#Urząd
+
+Urząd Gminy Kamionka
+Lubartowska 1
+21-132 Kamionka
+
+#Dom kultury
+
+Gminny Ośrodek Kultury
+Grobelna 14
+21-132 Kamionka
+
+#Szkoła
+
+Zespół Szkół w Kamionce im. Księdza Kardynała Stefana Wyszyńskiego
+Lubartowska 53
+21-132 Kamionka
+
+#Przedszkole
+
+Przedszkole Samorządowe
+Kościelna 6
+21-132 Kamionka
+
+#Uniwersytet
+
+#Biblioteka
+
+Biblioteka Publiczna Gminna
+21-132 Kamionka
+
+#Bank
+
+Powiatowy Bank Spółdzielczy z siedzibą w Lubartowie O. w Kamionce
+Lubartowska 38
+21-132 Kamionka
+
+#Policja
+
+#Sąd
+
+#Koło
+
+#Poczta
+
+Urząd Pocztowy
+Rynek 16
+21-132 Kamionka
+
+#ZNP
+
+#PZU
+
+======================================================================
+21-136 SOBOLEW
+
+#Urząd
+
+#Dom kultury
+
+#Szkoła
+
+#Biblioteka
+
+Filia Biblioteczna
+Sobolew-Kolonia 18a
+21-136 Sobolew-Kolonia
+
+#Szpital
+
+#Policja
+
+#Produkcja
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+21-132 CIEMNO
+
+#Szkoła
+
+#Przedszkole
+
+#Uniwersytet
+
+#Biblioteka
+
+#Sąd
+
+#Poczta
+
+======================================================================
+21-002 PIOTRAWIN
+
+#Szkoła
+
+#Uniwersytet
+
+#Biblioteka
+
+#Szpital
+
+#Policja
+
+#Sąd
+
+#Przedsiębiorstwo
+
+Komercyjne Przedsiębiorstwo Robót Budowlanych Sp. z o.o.
+Piotrawin 12 D
+21-002 Piotrawin
+
+#Produkcja
+
+Grancolor
+Piotrawin 12A
+21-002 Piotrawin
+
+#Spółka
+
+#Poczta
+
+#ZUS
+
+#PZU
+
+#muzeum
+
+======================================================================
+21-132 SAMOKLĘSKI
+
+#Dom kultury
+
+#Szkoła
+
+Szkoła Podstawowa
+21-132 Samoklęski; 6
+
+#Przedszkole
+
+#Uniwersytet
+
+#Biblioteka
+
+#Bank
+
+#Policja
+
+#Sąd
+
+#Spółka
+
+#ZUS
+
+#PZU
+
+#Uniwersytet Trzeciego Wieku
+
+#Inwalidów
+
+======================================================================
+21-132 KIERZKÓWKA
+
+#Szkoła
+
+#Przedszkole
+
+#Uniwersytet
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Policja
+
+======================================================================
+21-132 SYRY
+
+#Dom kultury
+
+#Szkoła
+
+#Przedszkole
+
+#Biblioteka
+
+#Bank
+
+#Policja
+
+#ZNP
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+POPRZECZKI
+
+#Dom kultury
+
+#Szkoła
+
+#Uniwersytet
+
+#Biblioteka
+
+#Szpital
+
+#Spółdzielnia
+
+#ZUS
+
+#Czerwony Krzyż
+
+======================================================================
+21-100 WANDZIN
+
+#Szkoła
+
+#Przedszkole
+
+#Uniwersytet
+
+#Biblioteka
+
+#Bank
+
+#Policja
+
+#Sąd
+
+#ZNP
+
+#PZU
+
+#muzeum
+
+======================================================================
+21-220 AMELIN
+
+#Dom kultury
+
+#Przedszkole
+
+#Bank
+
+#ZUS
+
+#PZU
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+21-210 RUDNO
+
+#Oddział
+
+SOBIANEK Oddział Rudno
+Rudno Trzecie 15
+21-210 Rudno
+
+#Policja
+
+#Koło
+
+#ZUS
+
+#ZNP
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+21-140 RAWA
+
+#Szkoła
+
+#Przedszkole
+
+#Biblioteka
+
+#Policja
+
+#ZUS
+
+#PZU
+
+#muzeum
+
+======================================================================
+21-080 BOGUCIN
+
+#Urząd
+
+#Szkoła
+
+#Przedszkole
+
+#Uniwersytet
+
+#Biblioteka
+
+#Bank
+
+#Produkcja
+
+#Zakład
+
+Full-Kam. Usługowy zakład kamieniarski. Kosior Waldemar
+Bogucin 21
+21-080 Bogucin
+
+#Zakłady
+
+#Poczta
+
+#ZNP
+
+#PZU
+
+#muzeum
+
+======================================================================
+21-080 GARBÓW
+
+#Urząd
+
+Urząd Gminy Garbów
+Krakowskie Przedmieście 50
+21-080 Garbów
+
+#Ośrodek
+
+Gminny Ośrodek Zdrowia w Garbowie
+Parkowa 1
+21-080 Garbów
+
+#Szkoła
+
+Szkoła Podstawowa w Garbowie
+Szkolna 25
+21-080 Garbów
+
+#Uniwersytet
+
+#Szpital
+
+#Przychodnia
+
+#Oddział
+
+Bank Spółdzielczy w Niemcach Oddział w Garbowie
+Młyńska 5
+21-080 Garbów
+
+#Wydział
+
+#Produkcja
+
+File Sp. z o.o.
+Warszawska 136
+21-080 Garbów
+
+#Zakład
+
+Zakład Remontowo-Budowlany ROZPĘD
+Warszawska 88
+21-080 Garbów
+
+#Klub
+
+#Fundacja
+
+#Poczta
+
+Poczta Polska
+Krakowskie Przedmieście 52
+21-080 Garbów
+
+#ZUS
+
+#PZU
+
+#Fundacja
+
+======================================================================
+24-150 ŁUGÓW
+
+#Szkoła
+
+Szkoła Podstawowa w Ożarowie
+24-150 Ługów
+
+#Uniwersytet
+
+#Biblioteka
+
+#Policja
+
+#Fundacja
+
+#Poczta
+
+#ZNP
+
+#muzeum
+
+#Fundacja
+
+======================================================================
+21-143 ABRAMÓW
+
+#Urząd
+
+Urząd Gminy Abramów
+Szkolna 2
+21-143 Abramów
+
+#Szkoła
+
+Szkoła Podstawowa
+21-143 Abramów; 22 Lipca 31
+
+#Przedszkole
+
+#Uniwersytet
+
+Gimnazjum im. Jana Pawła II
+Szkolna 31
+21-143 Abramów
+
+#Szpital
+
+#Wydział
+
+#Policja
+
+#PZU
+
+======================================================================
+21-140 MICHÓW
+
+#Urząd
+
+Urząd Gminy Michów
+Rynek I 16
+21-140 Michów
+
+#Ośrodek
+
+Ośrodek Pomocy Społecznej
+Tysiąclecia 2
+21-140 Michów
+
+#Szkoła
+
+Gimnazjum
+Szkolna II 2B
+21-140 Michów
+
+#Przedszkole
+
+Przedszkole
+Strażacka 3
+21-140 Michów
+
+#Biblioteka
+
+Gminna Biblioteka Publiczna
+21-140 Michów
+
+#Przychodnia
+
+Michów-Kamionka Sp. z o.o. NZOZ
+Rynek II 1a
+21-140 Michów
+
+#Oddział
+
+Bank Spółdzielczy w Cycowie. Oddział
+Partyzancka 20
+21-140 Michów
+
+#Policja
+
+Posterunek Policji Michów
+Rynek I 14
+21-140 Michów
+
+#Sąd
+
+#Spółdzielnia
+
+Michowianka. Spółdzielnia Mleczarska
+Tysiąclecia 19
+21-140 Michów
+
+#Poczta
+
+Poczta Polska (Post Office - Michów)
+Strażacka 4/3
+21-140 Michów
+
+#ZNP
+
+#PZU
+
+#muzeum
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+21-080 GUTANÓW
+
+#Szkoła
+
+#Przedszkole
+
+#Uniwersytet
+
+#Biblioteka
+
+#Policja
+
+#Sąd
+
+#ZNP
+
+#muzeum
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+21-080 ZAGRODY
+
+#Szkoła
+
+#Uniwersytet
+
+#Biblioteka
+
+#Szpital
+
+#Przychodnia
+
+#Policja
+
+#Spółka
+
+Rozpedowscy Sp. z o.o. Sp.k. I Auto Kasacja Pojazdów I Skup aut I Złomowanie aut
+Zagrody 115c
+21-080 Zagrody
+
+#Spółdzielnia
+
+#Fundacja
+
+#ZUS
+
+#muzeum
+
+#Fundacja
+
+======================================================================
+21-143 GLINNIK
+
+#Szkoła
+
+#Uniwersytet
+
+#Biblioteka
+
+#Bank
+
+#Policja
+
+#Fundacja
+
+#ZUS
+
+#PZU
+
+#Klub Seniora
+
+#Fundacja
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+21-143 WIELKIE
+
+#Urząd
+
+#Dom kultury
+
+#Szkoła
+
+Szkoła Podstawowa Kazimierza III Wielkiego
+Wielkie 66
+21-143 Wielkie
+
+#Przedszkole
+
+#Biblioteka
+
+#Bank
+
+#Policja
+
+#Sąd
+
+#Poczta
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+21-002 NATALIN
+
+#Szkoła
+
+#Przedszkole
+
+#Uniwersytet
+
+#Biblioteka
+
+#Policja
+
+#Sąd
+
+#Stowarzyszenie
+
+Zgromadzenie Misjonarzy Afryki
+Ziemska 37
+21-002 Natalin
+
+#ZUS
+
+#ZNP
+
+#muzeum
+
+Meta
+Kosmiczna 7
+21-002 Natalin
+
+======================================================================
+21-143 WIELKOLAS
+
+#Szkoła
+
+Szkoła Podstawowa im. J. Janczarskiego
+21-143 Wielkolas; 27c
+21-143
+
+#Uniwersytet
+
+#Biblioteka
+
+#Szpital
+
+#Policja
+
+#PZU
+
+#Klub Seniora
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+24-150 BRONICE
+
+#Uniwersytet
+
+#Biblioteka
+
+#Policja
+
+#Fundacja
+
+#muzeum
+
+#Fundacja
+
+======================================================================
+24-170 ŁĄKOĆ
+
+#Dom kultury
+
+#Szkoła
+
+#Przedszkole
+
+#Uniwersytet
+
+#Biblioteka
+
+#Produkcja
+
+Anmar - Meble kuchenne na wymiar
+Łąkoć 5A
+24-170 Łąkoć
+
+#Zakład
+
+KMM AUTO Marek Maruszak STAG
+Łąkoć 28
+24-170 Łąkoć
+
+#Firma
+
+KRUSZ-MIX
+Łąkoć 39
+24-170 Łąkoć
+
+#Poczta
+
+#PZU
+
+#muzeum
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+21-143 WOLICA
+
+#Szkoła
+
+#Uniwersytet
+
+#Biblioteka
+
+#Szpital
+
+#Policja
+
+#Poczta
+
+#muzeum
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+24-150 DRZEWCE
+
+#Dom kultury
+
+#Przedszkole
+
+Szkoła Podstawowa im. Ewy Szelburg-Zarembiny
+Drzewce 82a
+24-150 Drzewce
+
+#Biblioteka
+
+#Szpital
+
+#Przychodnia
+
+#Bank
+
+#Produkcja
+
+Czarna Malina
+Drzewce-Kolonia 18
+24-150 Drzewce-Kolonia
+
+#Zakład
+
+Nałęczów-Zdrój Sp. z o.o. Zakład produkcyjny
+Drzewce 35
+24-150 Drzewce
+
+#Zakłady
+
+#Spółka
+
+#Stowarzyszenie
+
+#Fundacja
+
+#ZUS
+
+#Fundacja
+
+======================================================================
+24-170 PŁONKI
+
+#Szkoła
+
+#Przedszkole
+
+#Uniwersytet
+
+#Biblioteka
+
+#Policja
+
+#Sąd
+
+#Fundacja
+
+#muzeum
+
+#Fundacja
+
+======================================================================
+24-170 KURÓW
+
+#Urząd
+
+Urząd Gminy Kurów
+Lubelska 35
+24-170 Kurów
+
+#Szkoła
+
+#Przedszkole
+
+Przedszkole
+24-170 Kurów; ks. Piramowicza 1
+24-170
+
+#Biblioteka
+
+Biblioteka Publiczna Gminna
+Jana Kilińskiego 2
+24-170 Kurów
+
+#Przychodnia
+
+Gminny Ośrodek Zdrowia SPZOZ
+Lubelska 14
+24-170 Kurów
+
+#Placówka
+
+#Policja
+
+Komisariat Policji
+Lubelska 45
+24-170 Kurów
+
+#Produkcja
+
+P.W.ROMAR Roman Rymkiewicz
+I Armii Wojska Polskiego 68
+24-170 Kurów
+
+#Zakłady
+
+Zakład Usług Komunalnych
+Głowackiego 43
+24-170 Kurów
+
+#Klub
+
+Kurowski Klub Sportowy Garbarnia Kurów
+Warszawska 15
+24-170 Kurów
+
+#Poczta
+
+Poczta Polska
+Lubelska 8
+24-170 Kurów
+
+#ZNP
+
+#PZU
+
+PZU Ubezpieczenia Kurów - Agent Marianna Duro
+Lubelska 21
+24-170 Kurów
+
+#muzeum
+
+Cmentarz Żydowski w Kurowie
+24-170 Kurów
+
+#Klub Seniora
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+24-170 DĘBA
+
+#Szkoła
+
+#Przedszkole
+
+#Uniwersytet
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#muzeum
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+24-170 CHOSZCZÓW
+
+#Szkoła
+
+SZKÓŁKA BOGUCCY
+Choszczów 26
+24-170 Choszczów
+
+#Przedszkole
+
+#Uniwersytet
+
+#Biblioteka
+
+#muzeum
+
+======================================================================
+24-103 KOTLINY
+
+#Dom kultury
+
+#Biblioteka
+
+#Poczta
+
+======================================================================
+KLIN
+
+#Przedszkole
+
+#Uniwersytet
+
+#Biblioteka
+
+#Szpital
+
+#Produkcja
+
+KLIN pracownia mebli
+Stawowa 42
+55-080 Mokronos Dolny
+
+#Izba lekarska
+
+#Klub Seniora
+
+#Seniora
+
+======================================================================
+24-105 ŚNIADÓWKA
+
+#Dom kultury
+
+#Przedszkole
+
+#Uniwersytet
+
+#Biblioteka
+
+#Policja
+
+#Sąd
+
+#ZUS
+
+#muzeum
+
+#Klub Seniora
+
+======================================================================
+24-170 KLEMENTOWICE
+
+#Ośrodek
+
+Ośrodek Zdrowia w Klementowicach ( filia: Samodzielny Publiczny Zakład Opieki Zdrowotnej w Kurowie)
+Klementowice 314
+24-170 Klementowice
+
+#Dom kultury
+
+#Szkoła
+
+#Przedszkole
+
+Szkoła podstawowa w Klementowicach
+Klementowice 230
+24-170 Klementowice
+
+#Uniwersytet
+
+#Szpital
+
+#Przychodnia
+
+#Spółka
+
+Klasa sp. z o.o
+Kolonia Klementowice
+Klementowice 137
+24-170 Klementowice
+
+#ZUS
+
+#Centrum
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+KULKI
+
+#Dom kultury
+
+#Szkoła
+
+#Przedszkole
+
+#Uniwersytet
+
+#Biblioteka
+
+#Policja
+
+#Sąd
+
+#Klub
+
+#Izba lekarska
+
+#muzeum
+
+======================================================================
+24-103 ŻERDŻ
+
+#Policja
+
+#Sąd
+
+#Poczta
+
+#PZU
+
+#muzeum
+
+#Klub Seniora
+
+======================================================================
+24-103 WILCZANKA
+
+#Szkoła
+
+#Uniwersytet
+
+#Biblioteka
+
+#Szpital
+
+#Policja
+
+#ZUS
+
+======================================================================
+24-130 MŁYNKI
+
+#Szkoła
+
+#Biblioteka
+
+#Bank
+
+#Poczta
+
+#ZUS
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+24-130 KOŃSKOWOLA
+
+#Urząd
+
+Urząd Gminy Końskowola
+Pożowska 3A
+24-130 Końskowola
+
+#Ośrodek
+
+#Dom kultury
+
+Gminny Ośrodek Kultury w Końskowoli (municipal Cultural Center)
+Lubelska 93
+24-130 Końskowola
+
+#Szkoła
+
+#Przedszkole
+
+Przedszkole Gminne W Końskowoli
+Lubelska 91A
+24-130 Końskowola
+
+#Uniwersytet
+
+#Biblioteka
+
+Biblioteka Publiczna Gminna
+Lubelska 93
+24-130 Końskowola
+
+#Przychodnia
+
+Pro Family Med dr n. med. Iwona Pytlak
+Józefa Bema 5
+24-130 Końskowola
+
+#Policja
+
+#Sąd
+
+#Agencja
+
+Lubelski Ośrodek Doradztwa Rolniczego w Końskowoli
+Pożowska 8
+24-130 Końskowola
+
+#Poczta
+
+Poczta Polska
+Pożowska 3
+24-130 Końskowola
+
+#Instytut
+
+#ZNP
+
+#muzeum
+
+#Czerwony Krzyż
+
+#Niepełnosprawnych
+
+Środowiskowy Dom Samopomocy
+Lubelska 81
+24-130 Końskowola
+
+#Niepełnosprawni
+
+======================================================================
+24-103 PARAFIANKA
+
+#Szkoła
+
+#Przedszkole
+
+#Uniwersytet
+
+#Biblioteka
+
+#Policja
+
+#Sąd
+
+#Poczta
+
+#muzeum
+
+#Klub Seniora
+
+======================================================================
+24-103 BAŁTÓW
+
+#Dom kultury
+
+#Biblioteka
+
+#Policja
+
+#Poczta
+
+#ZNP
+
+#Czerwony Krzyż
+
+======================================================================
+24-120 BOCHOTNICA
+
+#Szkoła
+
+Szkoła Podstawowa
+Zamłynie 1
+24-120 Bochotnica
+
+#Biblioteka
+
+Biblioteka publiczna. Filia
+Kazimierska 16
+24-120 Bochotnica
+
+#Bank
+
+Bank Spółdzielczy
+Kazimierska 16
+24-120 Bochotnica
+
+#Policja
+
+#Sąd
+
+#Stowarzyszenie
+
+Bochotnickie Stowarzyszenie Wspierania Rozwoju Lokalnego
+Kazimierska 16
+24-120 Bochotnica
+
+#Klub
+
+UKS Bystra Bochotnica
+Zamłynie 1
+24-120 Bochotnica
+
+#Fundacja
+
+Fundacja Mars, Wenus i Zdrowie
+Kazimierska 75
+24-120 Bochotnica
+
+#Emeryci
+
+Polski Związek Emerytów, Rencistów i Inwalidów
+Kazimierska 16
+24-120 Bochotnica
+
+#muzeum
+
+Muzeum Torebek i Misiów
+Puławska 10
+24-120 Bochotnica
+
+#Fundacja
+
+#Emeryci
+
+======================================================================
+24-120 PARCHATKA
+
+#Ośrodek
+
+Stok Narciarski PARCHATKA
+Parchatka 187
+24-120 Parchatka
+
+#Szkoła
+
+#Biblioteka
+
+#Policja
+
+#Sąd
+
+#ZUS
+
+#muzeum
+
+======================================================================
+24-103 KOŚMIN
+
+#Szkoła
+
+Zielony Pierścień. Lokalna Grupa Działania
+Kośmin 7
+24-103 Kośmin
+
+#Przedszkole
+
+#Uniwersytet
+
+#Biblioteka
+
+#Bank
+
+#Policja
+
+#Sąd
+
+#Grupa
+
+#Związek
+
+#Stowarzyszenie
+
+#Towarzystwo
+
+#Fundacja
+
+#Organizacja
+
+#Poczta
+
+#PZU
+
+#muzeum
+
+#Fundacja
+
+======================================================================
+24-120 KAZIMIERZ DOLNY
+
+#Urząd
+
+Urząd Miasta w Kazimierzu Dolnym
+Senatorska 5
+24-120 Kazimierz Dolny
+
+#Przedszkole
+
+Przedszkole z Oddziałami Integracyjnymi im. M. Konopnickiej
+Lubelska 24A
+24-120 Kazimierz Dolny
+
+#Uniwersytet
+
+Gminny Zespół Szkół w Kazimierzu Dolnym
+Szkolna 1
+24-120 Kazimierz Dolny
+
+#Politechnika
+
+Dom Pracy Twórczej Politechniki Lubelskiej
+Kwaskowa Góra 2
+24-120 Kazimierz Dolny
+
+#Biblioteka
+
+Biblioteka Publiczna Miejska
+Lubelska 32/34
+24-120 Kazimierz Dolny
+
+#Przychodnia
+
+Przychodnia Rejonowa SPZOZ
+Lubelska 32/34
+24-120 Kazimierz Dolny
+
+#Wydział
+
+#Policja
+
+Posterunek Policji
+Nadrzeczna 30
+24-120 Kazimierz Dolny
+
+#Produkcja
+
+AMD Chłodnictwo i Klimatyzacja Anna Dołęga
+Góry 91
+24-120 Kazimierz Dolny
+
+#Zakład
+
+Miejski Zakład Komunalny
+Filtrowa 8
+24-120 Kazimierz Dolny
+
+#Spółka
+
+#Spółdzielnia
+
+Zgoda. Rejonowa Spółdzielnia Zaopatrzenia i Zbytu
+Podzamcze 2
+24-120 Kazimierz Dolny
+
+#Związek
+
+Dom Pracy Twórczej Stowarzyszenia Dziennikarzy Polskich
+Juliusza Małachowskiego 17
+24-120 Kazimierz Dolny
+
+#Towarzystwo
+
+Parafia św. Jana Chrzciciela i św. Bartłomieja Apostoła w Kazimierzu Dolnym
+Zamkowa 6
+24-120 Kazimierz Dolny
+
+#Fundacja
+
+Fundacja za 7 górami
+Góry II 5 d
+24-120 Kazimierz Dolny
+
+#Poczta
+
+Poczta Polska
+ul
+Doktora Tadeusza Tyszkiewicza 2
+24-120 Kazimierz Dolny
+
+#Emerytów
+
+#Instytucja
+
+#ZUS
+
+#ZNP
+
+Arkadia
+Czerniawy 1
+24-120 Kazimierz Dolny
+
+#muzeum
+
+#Fundacja
+
+#Uniwersytet Trzeciego Wieku
+
+Stowarzyszenie Kazimierski Uniwersytet Trzeciego Wieku
+Lubelska 12
+24-120 Kazimierz Dolny
+
+#Emerytów
+
+#Inwalidów
+
+======================================================================
+24-123 NASIŁÓW
+
+#Szkoła
+
+#Przedszkole
+
+#Uniwersytet
+
+#Biblioteka
+
+#Szpital
+
+#Policja
+
+#Sąd
+
+#Koło
+
+Leśnictwo Sadłowice. Nadleśnictwo Puławy. Lasy Państwowe
+24-123 Nasiłów; 79
+24-123
+
+#Poczta
+
+#ZUS
+
+#muzeum
+
+======================================================================
+24-100 PUŁAWY
+
+#Urząd
+
+Urząd Miasta Puławy
+Lubelska 5
+24-100 Puławy
+
+#Przedszkole
+
+#Uniwersytet
+
+Wydział Zamiejscowy Uniwersytetu Marii Curie Skłodowskiej w Puławach
+4 Pułku Piechoty WP 18
+24-100 Puławy
+
+#Placówka
+
+#Oddział
+
+Szpital Puławy - Samodzielny Publiczny Zakład Opieki Zdrowotnej
+Józefa Bema 1
+24-100 Puławy
+
+#Wydział
+
+#Policja
+
+Komenda Powiatowa Policji
+Wojska Polskiego 6
+24-100 Puławy
+
+#Prokuratura
+
+Prokuratura Rejonowa w Puławach
+Lubelska 7
+24-100 Puławy
+
+#Sąd
+
+Sąd Rejonowy w Puławach
+Lubelska 7
+24-100 Puławy
+
+#Wojsko
+
+Wojskowa Komenda Uzupełnień w Puławach
+Marszałka Józefa Piłsudskiego 93
+24-100 Puławy
+
+#Zakłady
+
+#Grupa
+
+#Agencja
+
+Agencja Restrukturyzacji i Modernizacji Rolnictwa. Lubelski Oddział Regionalny. Biuro powiatowe
+Czartoryskich 8
+24-100 Puławy
+
+#Spółka
+
+#Klub
+
+#Firma
+
+#Poczta
+
+#Instytut
+
+Państwowy Instytut Weterynaryjny
+Aleja Partyzantów 57
+24-100 Puławy
+
+#ZUS
+
+ZUS Inspektorat w Puławach
+Lubelska 20 b
+24-100 Puławy
+
+#PZU
+
+#muzeum
+
+Muzeum Czartoryskich w Puławach
+Czartoryskich 8
+24-100 Puławy
+
+#Fundacja
+
+#Uniwersytet Trzeciego Wieku
+
+PUŁAWSKI UNIWERSYTET TRZECIEGO WIEKU
+Marszałka Józefa Piłsudskiego 74
+24-100 Puławy
+
+#Niepełnosprawnych
+
+Powiatowe Centrum Pomocy Rodzinie
+Aleja Królewska 3
+24-100 Puławy
+
+#Inwalidzi
+
+Międzywojewódzka Handlowa Spółdzielnia Inwalidów. Oddział
+Hugona Kołłątaja 18
+24-100 Puławy
+
+#Inwalidów
+
+#Jeździecki
+
+======================================================================
+24-100 BOROWNIKI
+
+#Urząd
+
+#Szkoła
+
+#Przedszkole
+
+#Biblioteka
+
+#Policja
+
+#ZNP
+
+#muzeum
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+24-100 NACIECZ
+
+#Dom kultury
+
+#Szkoła
+
+#Przedszkole
+
+#Biblioteka
+
+#Szpital
+
+#Policja
+
+#Koło
+
+#Poczta
+
+#ZUS
+
+======================================================================
+24-100 WÓLKA GOŁĘBSKA
+
+#Dom kultury
+
+#Przedszkole
+
+Przedszkole. Filia
+24-100 Wólka Gołębska
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#Poczta
+
+#ZUS
+
+#PZU
+
+======================================================================
+24-123 JANOWIEC
+
+#Urząd
+
+Urząd Gminy Janowiec
+Radomska 2
+24-123 Janowiec
+
+#Ośrodek
+
+Gminny Ośrodek Zdrowia
+24-123 Janowiec; Lubelska 21
+24-120
+
+#Dom kultury
+
+Gminny Ośrodek Kultury w Janowcu
+Plac Wolności 1
+24-123 Janowiec
+
+#Szkoła
+
+Zespół Szkół w Janowcu
+Osiedle Szkolne 5B
+24-123 Janowiec
+
+#Uniwersytet
+
+#Przychodnia
+
+#Bank
+
+#Oddział
+
+Muzeum Nadwiślańskie w Kazimierzu Dolnym
+Lubelska 20
+24-123 Janowiec
+
+#Policja
+
+#Sąd
+
+#PZU
+
+#muzeum
+
+======================================================================
+24-123 OBLASY
+
+#Ośrodek
+
+#Dom kultury
+
+#Szkoła
+
+#Biblioteka
+
+#Szpital
+
+#Policja
+
+#Sąd
+
+#Poczta
+
+#ZUS
+
+======================================================================
+24-123 TRZCIANKI
+
+#Dom kultury
+
+#Szkoła
+
+#Szpital
+
+#Bank
+
+#Produkcja
+
+Greenland Technologia EM sp. z o.o.
+Trzcianki 6
+24-123 Trzcianki
+
+#Spółka
+
+#Firma
+
+#ZUS
+
+#PZU
+
+#Seniorzy
+
+MedicA Senior Trzcianki
+Trzcianki 71
+24-123 Trzcianki
+
+#Centrum
+
+Paintball Pulawy Janowiec Castle Coach - Poligon Trzcianki (Paintball Pulawy Janowiec Castle Coach)
+Trzcianki 122
+24-123 Trzcianki
+
+#Seniora
+
+#Seniorów
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+24-100 TOMASZÓW
+
+#Bank
+
+#Policja
+
+#Wojsko
+
+#Poczta
+
+#ZUS
+
+#muzeum
+
+#Czerwony Krzyż
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+24-100 GOŁĄB
+
+#Dom kultury
+
+#Szkoła
+
+Szkoła Podstawowa im. Stefana Czarnieckiego
+Puławska 32
+24-100 Gołąb
+
+#Przedszkole
+
+Przedszkole im. Bohaterów 3-go Pułku Piechoty I Dywizji Wojska Polskiego
+Puławska 31
+24-100 Gołąb
+
+#Biblioteka
+
+Gminna Biblioteka Publiczna
+Folwarki 1
+24-100 Gołąb
+
+#Przychodnia
+
+Niepubliczny Zakład Opieki Zdrowotnej
+Folwarki 2
+24-100 Gołąb
+
+#Policja
+
+#Sąd
+
+#Stowarzyszenie
+
+#Towarzystwo
+
+Towarzystwo Przyjaciół Gołębia
+Folwarki 1
+24-100 Gołąb
+
+#ZUS
+
+#muzeum
+
+Muzeum Nietypowych Rowerów
+Puławska 1
+24-100 Gołąb
+
+======================================================================
+08-530 DĘBLIN
+
+#Urząd
+
+Urząd Miasta Dęblin
+Rynek 12
+08-530 Dęblin
+
+#Ośrodek
+
+Specjalny Ośrodek Szkolno - Wychowawczy
+Niepodległości 8
+08-530 Dęblin
+
+#Przedszkole
+
+Przedszkole nr 3
+Michalinowska 1A
+08-530 Dęblin
+
+#Akademia
+
+#Uniwersytet
+
+#Wydział
+
+#Policja
+
+Komisariat Policji
+Niepodległości 5
+08-530 Dęblin
+
+#Sąd
+
+#Spółka
+
+Miejski Zakład Gospodarki Komunalnej Sp. z o.o.
+Towarowa 2D
+08-530 Dęblin
+
+#Spółdzielnia
+
+Spółdzielnia Mieszkaniowa
+Stanisława Staszica 15
+08-530 Dęblin
+
+#Koło
+
+#Emerytów
+
+Polski Związek Emerytów, Rencistów i Inwalidów. Oddział Miejski
+Rynek 12
+08-530 Dęblin
+
+#Instytut
+
+Samodzielny Publiczny Zakład Opieki Zdrowotnej
+Rynek 14
+08-530 Dęblin
+
+#ZUS
+
+#Amazonki
+
+Amazonki. Stowarzyszenie Klub Kobiet po Mastektomii
+Rynek 14
+08-530 Dęblin
+
+#PZU
+
+#Czerwony Krzyż
+
+Polski Czerwony Krzyż. Zarząd Rejonowy
+Niepodległości 10B
+08-530 Dęblin
+
+#Emerytów
+
+#Inwalidów
+
+======================================================================
+WYSOKIE KOŁO
+
+#Ośrodek
+
+Sanktuarium w Wysokim Kole
+Gniewoszów 23
+26-920 Wysokie Koło
+
+#Dom kultury
+
+#Szkoła
+
+Publiczna Szkoła Podstawowa w Wysokim Kole
+Wysokie Koło 22
+26-920 Wysokie Koło
+
+#Przedszkole
+
+#Szpital
+
+#Wydział
+
+#Organizacja
+
+#Firma
+
+#ZUS
+
+#PZU
+
+#Centrum
+
+======================================================================
+24-100 LEOKADIÓW
+
+#Szkoła
+
+#Przedszkole
+
+#Uniwersytet
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#Sąd
+
+#Spółdzielnia
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#muzeum
+
+#Jeździecki
+
+STAJNIA BAJKA
+Leokadiów 9
+24-100 Leokadiów
+
+======================================================================
+26-920 GNIEWOSZÓW
+
+#Urząd
+
+Urząd Gminy Gniewoszów
+Lubelska 16
+26-920 Gniewoszów
+
+#Dom kultury
+
+#Szkoła
+
+Publiczne Gimnazjum w Gniewoszowie
+Konopnickiej 19
+26-920 Gniewoszów
+
+#Uniwersytet
+
+#Biblioteka
+
+#Przychodnia
+
+Przychodnia ZOZ
+Sarnowska 14
+26-920 Gniewoszów
+
+#Bank
+
+Nadwiślański Bank Spółdzielczy w Puławach O. w Gniewoszowie
+Marii Konopnickiej 6
+26-920 Gniewoszów
+
+#Policja
+
+Policja. Komenda Powiatowa w Kozienicach. Posterunek
+Lubelska 39
+26-920 Gniewoszów
+
+#Sąd
+
+#Związek
+
+Stowarzyszenie Lepsza Gmina Gniewoszów
+ul. Konopnickiej 19
+26-920 Gniewoszów
+
+#Stowarzyszenie
+
+#Towarzystwo
+
+#Poczta
+
+Poczta Polska
+Rynek 42
+26-920 Gniewoszów
+
+#ZNP
+
+#Seniora
+
+#Seniorów
+
+======================================================================
+26-920 OLEKSÓW
+
+#Urząd
+
+#Szkoła
+
+#Uniwersytet
+
+#Biblioteka
+
+#Policja
+
+#Klub
+
+Dos Gringos
+DW738 31
+26-920 Oleksów
+
+#Poczta
+
+#PZU
+
+#muzeum
+
+Synagoga Gniewoszów
+Oleksów 53
+26-920 Oleksów
+
+======================================================================
+26-922 ZAJEZIERZE
+
+#Szkoła
+
+Zespół Szkolno - Przedszkolny
+26-922 Zajezierze; 28 Pułku Artylerii Lekkiej 18
+26-922
+
+#Przedszkole
+
+#Uniwersytet
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#Sąd
+
+#Produkcja
+
+Projektowanie i Budowa Maszyn Artur Kania
+28 Pułku Artylerii Lekkiej 26
+26-922 Zajezierze
+
+#PZU
+
+#muzeum
+
+#Klub Seniora
+
+======================================================================
+23-107 BYSTRZYCA NOWA
+
+#Ośrodek
+
+Sosnowy Dworek
+Bystrzyca Nowa 9B
+23-107 Bystrzyca Nowa
+
+#Dom kultury
+
+#Szkoła
+
+#Grupa
+
+#Agencja
+
+#Spółka
+
+#Klub
+
+#Organizacja
+
+#Poczta
+
+#PZU
+
+#Uniwersytet Trzeciego Wieku
+
+#Inwalidów
+
+======================================================================
+23-107 BYSTRZYCA STARA
+
+#Szkoła
+
+#Przedszkole
+
+#Uniwersytet
+
+#Politechnika
+
+#Biblioteka
+
+#Policja
+
+#Stowarzyszenie
+
+Parafia pw. Najświętszej Marii Panny Królowej Polski
+Bystrzyca Stara 92b
+23-107 Bystrzyca Stara
+
+#Towarzystwo
+
+#Fundacja
+
+#Amazonki
+
+#ZNP
+
+#PZU
+
+#Fundacja
+
+#Koło gospodyń wiejskich
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+23-107 PIOTROWICE
+
+#Dom kultury
+
+Centrum Kultury i Promocji Gminy Strzyżewice
+Piotrowice 94A
+23-107 Piotrowice
+
+#Szkoła
+
+Zespół Szkół Techniki Rolniczej im. W. Witosa
+Piotrowice 183
+23-107 Piotrowice
+
+#Biblioteka
+
+#Bank
+
+#Produkcja
+
+EDBAK
+Piotrowice 186
+23-107 Piotrowice
+
+#Firma
+
+#Poczta
+
+#ZUS
+
+#PZU
+
+#Centrum
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+23-107 OSMOLICE PIERWSZE
+
+#Dom kultury
+
+#Szkoła
+
+Szkoła Podstawowa
+Osmolice Pierwsze 165
+23-107 Osmolice Pierwsze
+
+#Przedszkole
+
+#Uniwersytet
+
+#Szpital
+
+#Produkcja
+
+#Zakład
+
+Dom Seniora Osmolice/ Lublin
+Osmolice Pierwsze 20
+23-107 Osmolice Pierwsze
+
+#Agencja
+
+#ZUS
+
+#Czerwony Krzyż
+
+#Diabetycy
+
+#Seniora
+
+#Seniorów
+
+======================================================================
+20-515 KRĘŻNICA JARA
+
+#Szkoła
+
+Szkoła Podstawowa im. Żołnierzy Bohaterów Armii Krajowej
+Krężnica Jara 321
+20-515 Krężnica Jara
+
+#Przedszkole
+
+#Uniwersytet
+
+Instytut technologii sanitarnej i odnawialnych źródeł energii
+20-515 Lublin
+Krężnica Jara 419
+20-515 Krężnica Jara
+
+#Biblioteka
+
+Biblioteka
+Krężnica Jara 330
+20-515 Krężnica Jara
+
+#Szpital
+
+#Policja
+
+#Sąd
+
+#Produkcja
+
+Stolmar. Producent palet drewnianych, palety nietypowe
+Krężnica Jara 334
+20-515 Krężnica Jara
+
+#Agencja
+
+Agencja Pocztowa Krężnica Jara
+Krężnica Jara 89
+20-515 Krężnica Jara
+
+#Spółka
+
+#Spółdzielnia
+
+#Związek
+
+#Stowarzyszenie
+
+#Towarzystwo
+
+#Fundacja
+
+#Organizacja
+
+#ZNP
+
+#muzeum
+
+Pomnik Rozstrzelanych 22 Lipca 1944
+20-515 Krężnica Jara
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+21-030 STASIN
+
+#Szkoła
+
+#Uniwersytet
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#ZUS
+
+#PZU
+
+======================================================================
+21-002 DĄBROWICA
+
+#Ośrodek
+
+Gminny Ośrodek Kultury i Sportu (Community Center for Culture and Sport)
+21-002 Dąbrowica
+
+#Dom kultury
+
+#Przedszkole
+
+#Akademia
+
+POLSKA AKADEMIA RESTAURATORÓW
+Dąbrowica 67H
+21-002 Dąbrowica
+
+#Uniwersytet
+
+#Biblioteka
+
+Biblioteka Gminna. Filia w Dąbrowicy
+21-002 Dąbrowica
+
+#Sąd
+
+#Spółka
+
+#Stowarzyszenie
+
+#Fundacja
+
+#Poczta
+
+#ZUS
+
+#ZNP
+
+#muzeum
+
+#Fundacja
+
+#Centrum
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+21-008 DĄBROWICA
+
+#Dom kultury
+
+#Szkoła
+
+#Przedszkole
+
+#Uniwersytet
+
+#Biblioteka
+
+#Klub
+
+Relax
+Dąbrowica 175A
+21-008 Dąbrowica
+
+#Fundacja
+
+#ZUS
+
+#ZNP
+
+#muzeum
+
+#Fundacja
+
+#Centrum
+
+======================================================================
+21-030 KONOPNICA
+
+#Urząd
+
+#Ośrodek
+
+Ośrodek Działań Twórczych Gminy Konopnica
+Konopnica 33
+21-030 Konopnica
+
+#Szkoła
+
+#Przedszkole
+
+Mistrzowie Zabawy
+Konopnica 86C
+21-030 Konopnica
+
+#Uniwersytet
+
+#Biblioteka
+
+#Przychodnia
+
+Przychodnia weterynaryjna Cor-vet
+Konopnica 245G
+21-030 Konopnica
+
+#Policja
+
+#Sąd
+
+#Produkcja
+
+Medi-Sept Sp. z o.o.
+Konopnica 159
+21-030 Konopnica
+
+#Firma
+
+#Poczta
+
+#ZUS
+
+#ZNP
+
+#muzeum
+
+#Centrum
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+21-030 ZĘBORZYCE TERESZCZYŃSKIE
+
+#Szkoła
+
+======================================================================
+24-220 ZALUCZE
+
+#Ośrodek
+
+#Dom kultury
+
+#Szkoła
+
+#Przedszkole
+
+#Uniwersytet
+
+#Biblioteka
+
+#ZNP
+
+#muzeum
+
+======================================================================
+24-220 Niedrzwica Duża
+
+#Urząd
+
+Urząd Gminy Niedrzwica Duża
+Lubelska 30
+24-220 Niedrzwica Duża
+
+#Ośrodek
+
+Gminny Ośrodek Kultury, Sportu i Rekreacji
+Lubelska 10
+24-220 Niedrzwica Duża
+
+#Dom kultury
+
+#Szkoła
+
+Szkoła Podstawowa im. Bohaterów 7. Kołobrzeskiego Półkó Piechoty
+Lubelska 21
+24-220 Niedrzwica Duża
+
+#Biblioteka
+
+Biblioteka Publiczna Gminna
+Kraśnicka 53
+24-220 Niedrzwica Duża
+
+#Wydział
+
+#Policja
+
+#Sąd
+
+#Produkcja
+
+WEREMCZUK FMR - kombajny do malin, porzeczek, otrząsarki do wiśni, kombajny do marchwi, siewniki
+Bełżycka 73
+24-220 Niedrzwica Duża
+
+#Agencja
+
+Biuro Obsługi Nieruchomości
+Górki 4
+24-220 Niedrzwica Duża
+
+#Spółka
+
+#Spółdzielnia
+
+Spółdzielnia transportu handlu i usług
+Kolejowa 10
+24-220 Niedrzwica Duża
+
+#Klub
+
+#Towarzystwo
+
+Ośrodek Pomocy Społecznej
+Kraśnicka 51
+24-220 Niedrzwica Duża
+
+#Poczta
+
+Poczta Polska
+Krótka 12
+24-220 Niedrzwica Duża
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+PolisoMania Marta Wójcik-Szczawińska Ubezpieczenia
+Partyzancka 21
+24-220 Niedrzwica Duża
+
+#muzeum
+
+Kapliczka w Borkowiźnie
+24-220 Niedrzwica Duża
+
+#Czerwony Krzyż
+
+Parafia Podwyższenia Krzyża Świętego w Niedrzwicy Dużej
+Partyzancka 28
+24-220 Niedrzwica Duża
+
+#Klub Seniora
+
+#Seniorzy
+
+#Seniorów
+
+======================================================================
+21-030 RADAWCZYK
+
+#Dom kultury
+
+#Przedszkole
+
+#Uniwersytet
+
+#Biblioteka
+
+#Policja
+
+#Sąd
+
+#Produkcja
+
+#Poczta
+
+#Instytut
+
+#ZUS
+
+#ZNP
+
+#muzeum
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+21-030 RADAWIEC DUŻY
+
+#Dom kultury
+
+#Szkoła
+
+#Przedszkole
+
+Niepubliczne Przedszkole "Honoratka"
+Radawiec Duży 250c
+21-030 Radawiec Duży
+
+#Uniwersytet
+
+#Biblioteka
+
+Biblioteka Gminna. Filia
+21-030 Radawiec Duży
+
+#Policja
+
+Ochotnicza Straż Pożarna
+Radawiec Duży 154
+21-030 Radawiec Duży
+
+#Sąd
+
+#Produkcja
+
+#Zakład
+
+Mazurek Aleksander. Zakład stolarski
+Radawiec Duży 145
+21-030 Radawiec Duży
+
+#Spółka
+
+#ZUS
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+21-030 MOTYCZ
+
+#Urząd
+
+Urząd Gminy Konopnica
+Kozubszczyzna 127a
+21-030 Motycz
+
+#Ośrodek
+
+Centrum Dobrego Wychowania Fundacji Szczęśliwe Dzieciństwo
+Motycz Leśny 51
+21-030 Motycz Leśny
+
+#Dom kultury
+
+#Biblioteka
+
+#Bank
+
+#Policja
+
+#Produkcja
+
+Wytwórnia Koncentratów i Mieszanek Paszowych AGROPOL
+Marynin
+Motycz 1
+21-030 Motycz
+
+#Fabryka
+
+BOCIAN - FABRYKA MEBLI Tadeusz Bocian
+Uniszowice 97g
+21-030 Motycz
+
+#Poczta
+
+#ZUS
+
+#ZNP
+
+#Czerwony Krzyż
+
+#Centrum
+
+======================================================================
+21-008 TOMASZOWICE
+
+#Urząd
+
+#Ośrodek
+
+Almed. NZOZ. Przychodnia zdrowia w Dąbrowicy
+Tomaszowice-Kolonia 42
+21-008 Tomaszowice-Kolonia
+
+#Szkoła
+
+Szkoła Podstawowa im. Jana Pawła II w Tomaszowicach
+Tomaszowice-Kolonia 39
+21-008 Tomaszowice-Kolonia
+
+#Przedszkole
+
+Przedszkole niepubliczne SMYK
+Dąbrowica 181
+21-008 Tomaszowice
+
+#Uniwersytet
+
+#Przychodnia
+
+#Bank
+
+Bank Spółdzielczy
+Tomaszowice-Kolonia 48
+21-008 Tomaszowice-Kolonia
+
+#Policja
+
+#Produkcja
+
+Castel Engineering Polska Sp. z o.o.
+21-008 Tomaszowice-Kolonia; dz.363
+21-008
+
+#ZUS
+
+#ZNP
+
+#muzeum
+
+Kaplica rodziny Goździów
+Tomaszowice-Kolonia 58B
+21-008 Tomaszowice-Kolonia
+
+#Czerwony Krzyż
+
+======================================================================
+24-220 WARSZAWIAKI
+
+#Szkoła
+
+#Przedszkole
+
+#Uniwersytet
+
+#Biblioteka
+
+#Policja
+
+#ZNP
+
+#muzeum
+
+#Klub Seniora
+
+======================================================================
+24-220 CZUŁNA
+
+#Szkoła
+
+#Przedszkole
+
+#Uniwersytet
+
+#Biblioteka
+
+#Policja
+
+#Spółka
+
+#ZNP
+
+#muzeum
+
+======================================================================
+24-200 BABIN
+
+#Dom kultury
+
+#Szkoła
+
+#Przedszkole
+
+#Uniwersytet
+
+#Biblioteka
+
+#Policja
+
+#Grupa
+
+Spółdzielcza Grupa Producentów ATUT
+Babin 2
+24-200 Babin
+
+#Spółdzielnia
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#muzeum
+
+======================================================================
+24-150 MIŁOCIN
+
+#Szkoła
+
+#Biblioteka
+
+#Fundacja
+
+#ZUS
+
+#ZNP
+
+#muzeum
+
+#Klub Seniora
+
+#Fundacja
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+24-224 BORZECHÓW
+
+#Urząd
+
+Urząd Gminy Borzechów
+8
+24-224 Borzechów
+
+#Ośrodek
+
+Gminny Ośrodek Pomocy Społecznej
+Borzechów 1
+24-224 Borzechów
+
+#Przedszkole
+
+#Uniwersytet
+
+#Biblioteka
+
+Biblioteka Publiczna Gminna
+Borzechów 1
+24-224 Borzechów
+
+#Przychodnia
+
+Gminny Ośrodek Zdrowia
+Borzechów-Kolonia 231
+24-224 Borzechów-Kolonia
+
+#Bank
+
+Bank Spółdzielczy w Niedrzwicy Dużej. Oddział w Borzechowie
+Borzechów 2 A
+24-224 Borzechów
+
+#Oddział
+
+#Wydział
+
+#Policja
+
+#Poczta
+
+Urząd Pocztowy
+Borzechów 1
+24-224 Borzechów
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#Klub Seniora
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+24-200 BEŁŻYCE
+
+#Urząd
+
+Urząd Miejski w Bełżycach
+Lubelska 3
+24-200 Bełżyce
+
+#Ośrodek
+
+Miejski Ośrodek Zdrowia w Bełżycach
+Bednarska 2
+24-200 Bełżyce
+
+#Dom kultury
+
+Miejski Dom Kultury
+Tysiąclecia 26
+24-200 Bełżyce
+
+#Szkoła
+
+Szkoła Podstawowa nr 1 im. Jana Pawła II w Bełżycach
+62
+Biskupa Wilczyńskiego
+24-200 Bełżyce
+
+Szkoła Podstawowa nr 2 im. Królowej Jadwigi
+Kościuszki 148
+24-200 Bełżyce
+
+Zespół Szkół im. Mikołaja Kopernika
+Bychawska 4
+24-200 Bełżyce
+
+#Przedszkole
+
+Przedszkole Publiczne Samorządowe
+Bychawska 15
+24-200 Bełżyce
+
+#Biblioteka
+
+Miejsko-Gminna Biblioteka Publiczna w Bełżycach
+1000-lecia 26
+24-200 Bełżyce
+
+#Szpital
+
+Szpital Powiatowy im. dr. Wojciecha Oczki
+Lubelska 90
+24-200 Bełżyce
+
+#Przychodnia
+
+#Bank
+
+#Wydział
+
+Starostwo Powiatowe w Lublinie. Filia Wydziału Geodezji w Bełżycach
+Fabryczna 2b
+24-200 Bełżyce
+
+#Policja
+
+Komisariat Policji w Bełżycach
+Lubelska 82
+24-200 Bełżyce
+
+#Przedsiębiorstwo
+
+Magchem. Przedsiębiorstwo chemiczne
+Lubelska 144
+24-200 Bełżyce
+
+#Produkcja
+
+"SPOMASZ" Bełżyce S.A.
+Fabryczna 2
+24-200 Bełżyce
+
+#Fabryka
+
+#Zakład
+
+Zakład zagospodarowania odpadów komunalnych w bełżycach
+Przemysłowa 35A
+24-200 Bełżyce
+
+#Grupa
+
+#Agencja
+
+Bednarczyk Monika, mgr. Ubezpieczenia
+Fabryczna 2B
+24-200 Bełżyce
+
+#Spółdzielnia
+
+Rozwój. Spółdzielnia mieszkaniowa
+Biskupa Wilczyńskiego 79
+24-200 Bełżyce
+
+#Związek
+
+Proekob. Celowy Związek Gmin
+Przemysłowa 26
+24-200 Bełżyce
+
+#Stowarzyszenie
+
+#Klub
+
+#Towarzystwo
+
+BTN
+Lubelska 38
+24-200 Bełżyce
+
+#Emeryci
+
+Związek Emerytów i Rencistów
+Fabryczna 2
+24-200 Bełżyce
+
+#Emerytów
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+PZU Ubezpieczenia Bełżyce - Agent Cecylia Sidor
+Rynek 3
+24-200 Bełżyce
+
+#muzeum
+
+#Uniwersytet Trzeciego Wieku
+
+#Emeryci
+
+#Emerytów
+
+======================================================================
+24-200 KRĘŻNICA OKRĄGŁA
+
+#Dom kultury
+
+#Szkoła
+
+#Biblioteka
+
+#Szpital
+
+#Poczta
+
+#ZUS
+
+#PZU
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+24-204 WOJCIECHÓW
+
+#Urząd
+
+Urząd Gminy Wojciechów
+Wojciechów 24-204
+24-204 Wojciechów
+
+#Ośrodek
+
+Gminny Ośrodek Kultury
+9
+24-204 Wojciechów
+
+#Dom kultury
+
+#Uniwersytet
+
+#Biblioteka
+
+#Bank
+
+#Policja
+
+#Związek
+
+Stowarzyszenie Kowali Polskich
+9
+24-204 Wojciechów
+
+#Stowarzyszenie
+
+#ZNP
+
+#muzeum
+
+Muzeum Kowalstwa w Wojciechowie
+Wojciechów 9
+24-204 Wojciechów
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+24-224 ŁOPIENNIK
+
+#Szkoła
+
+#Uniwersytet
+
+#Biblioteka
+
+#Szpital
+
+#Policja
+
+#Poczta
+
+#PZU
+
+#muzeum
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+24-150 NAŁĘCZÓW
+
+#Urząd
+
+#Biblioteka
+
+#Szpital
+
+#Przychodnia
+
+#Wydział
+
+#Policja
+
+#Zakłady
+
+#Spółdzielnia
+
+#Związek
+
+Lubelski Związek Stowarzyszeń Agroturystycznych
+aleja Kasztanowa 2
+24-150 Nałęczów
+
+#Klub
+
+#Instytucja
+
+Bank Spółdzielczy w Nałęczowie
+1 Maja 16
+24-150 Nałęczów
+
+#ZNP
+
+Sanatorium Uzdrowiskowe Związku Nauczycielstwa Polskiego w Nałęczowie
+ul. Głowackiego 7
+24-150 Nałęczów
+
+#PZU
+
+PZU Ubezpieczenia Nałęczów - Agent Robert Dorotiak
+Fortunata Nowickiego 2
+24-150 Nałęczów
+
+#muzeum
+
+#Klub Seniora
+
+Senior Home Nałęczów
+Henryka Wiercieńskiego 62A
+24-150 Nałęczów
+
+#Seniorzy
+
+#Seniora
+
+#Seniorów
+
+#Niepełnosprawni
+
+Warsztaty Terapii Zajęciowej
+Spółdzielcza 17a
+24-150 Nałęczów
+
+======================================================================
+24-400 CUPLE
+
+#Dom kultury
+
+#Szkoła
+
+#Biblioteka
+
+#Szpital
+
+#Poczta
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+24-350 RATOSZYN DRUGI
+
+#Szkoła
+
+#Uniwersytet
+
+Zespół Szkół
+24-350 Ratoszyn Drugi; 192
+24-350
+
+#Biblioteka
+
+#Policja
+
+#Zakład
+
+#Agencja
+
+#Spółka
+
+#ZUS
+
+#muzeum
+
+======================================================================
+24-350 RATOSZYN PIERWSZY
+
+#Szkoła
+
+#Uniwersytet
+
+#Biblioteka
+
+#Policja
+
+#Zakład
+
+Saab Home & Go
+Ratoszyn Pierwszy 127
+24-350 Ratoszyn Pierwszy
+
+#PZU
+
+#muzeum
+
+#Inwalidów
+
+======================================================================
+24-204 SZCZUCZKI
+
+#Ośrodek
+
+#Dom kultury
+
+#Szkoła
+
+#Uniwersytet
+
+#Biblioteka
+
+Biblioteka. Filia
+24-204 Szczuczki
+
+#Szpital
+
+#Przychodnia
+
+#Policja
+
+#PZU
+
+#muzeum
+
+#Klub Seniora
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+24-204 ŁUBKI
+
+#Szkoła
+
+#Uniwersytet
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#Spółka
+
+#ZNP
+
+#muzeum
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+24-350 CHODEL
+
+#Urząd
+
+Urząd Gminy Chodel
+Partyzantów
+24-350 Chodel
+
+#Dom kultury
+
+Gok Chodel
+Rynek 45
+24-350 Chodel
+
+#Szkoła
+
+#Przedszkole
+
+Zespół Szkoły Podstawowej i Przedszkola
+Szkolna 19
+24-350 Chodel
+
+#Uniwersytet
+
+Szkoła Podstawowa w Chodlu
+Szkolna 19
+24-350 Chodel
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+Powiatowy Bank Spółdzielczy w Opolu Lubelskim. Oddział
+Rynek 40
+24-350 Chodel
+
+#Policja
+
+#Poczta
+
+Poczta Polska
+Rynek 30
+24-350 Chodel
+
+#Instytut
+
+Zakład Gospodarki Komunalnej I Mieszkaniowej W Chodlu
+Józefa Piłsudskiego 13
+24-350 Chodel
+
+#ZNP
+
+#PZU
+
+#muzeum
+
+Soldatenfriedhof nr 165 Chodel
+Godowska 18
+24-350 Chodel
+
+======================================================================
+24-350 ADELINA
+
+#Szkoła
+
+#Uniwersytet
+
+#Biblioteka
+
+#Policja
+
+#ZNP
+
+#PZU
+
+#muzeum
+
+======================================================================
+24-130 WRONÓW
+
+#Szkoła
+
+#Przedszkole
+
+#Biblioteka
+
+#Policja
+
+#Sąd
+
+#Produkcja
+
+Ubrankadlalalek.pl - ubranka dla lalek Baby Born i innych
+Wronów 71a
+24-130 Wronów
+
+#ZUS
+
+#PZU
+
+#muzeum
+
+======================================================================
+24-320 PONIATOWA
+
+#Urząd
+
+Urząd Miasta
+Młodzieżowa 2
+24-320 Poniatowa
+
+#Ośrodek
+
+#Dom kultury
+
+Centrum Kultury, Promocji i Turystyki
+Fabryczna 1
+24-320 Poniatowa
+
+#Szkoła
+
+#Przedszkole
+
+Przedszkole Miejskie
+Szkolna 7
+24-320 Poniatowa
+
+#Uniwersytet
+
+#Biblioteka
+
+Biblioteka Publiczna
+Fabryczna 1
+24-320 Poniatowa
+
+#Szpital
+
+Szpital Powiatowy SPZOZ w Opolu Lubelskim
+Fabryczna 18
+24-320 Poniatowa
+
+#Policja
+
+Komisariat Policji
+1 Maja 12
+24-320 Poniatowa
+
+#Sąd
+
+#Przedsiębiorstwo
+
+GMINNE PRZEDSIĘBIORSTWO GOSPODARKI KOMUNALNEJ SP. Z O.O.
+Młodzieżowa 4
+24-320 Poniatowa
+
+#Produkcja
+
+#Agencja
+
+DOMIGO Agencja Ubezpieczeniowa Dominika Górniak
+Fabryczna 16F
+24-320 Poniatowa
+
+#Spółka
+
+Wentworth Tech Sp. z o.o.
+Przemysłowa 19
+24-320 Poniatowa
+
+#Stowarzyszenie
+
+Stowarzyszenie na Rzecz Osób z Niepełnosprawnością Intelektualną
+Młodzieżowa 6
+24-320 Poniatowa
+
+#Klub
+
+Miejski Klub Sportowy STAL Poniatowa
+11 Listopada 21
+24-320 Poniatowa
+
+#Towarzystwo
+
+#Organizacja
+
+#Emerytów
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+PZU Ubezpieczenia Poniatowa - Agent Zbigniew Grabczak
+Brzozowa 7/6
+24-320 Poniatowa
+
+#muzeum
+
+#Uniwersytet Trzeciego Wieku
+
+#Emerytów
+
+#Niepełnosprawnych
+
+#Niepełnosprawni
+
+#Inwalidzi
+
+#Inwalidów
+
+======================================================================
+24-160 WĄWOLNICA
+
+#Urząd
+
+Urząd Gminy Wąwolnica
+Lubelska 39
+24-160 Wąwolnica
+
+#Ośrodek
+
+Gminny Ośrodek Pomocy Społecznej
+Lubelska 39
+24-160 Wąwolnica
+
+#Dom kultury
+
+#Szkoła
+
+#Przedszkole
+
+Przedszkole
+Zamkowa 4a
+24-160 Wąwolnica
+
+#Uniwersytet
+
+#Biblioteka
+
+#Przychodnia
+
+NZOZ Nasze Zdrowie
+Lubelska 37
+24-160 Wąwolnica
+
+#Bank
+
+#Policja
+
+#Sąd
+
+#Produkcja
+
+Materne Polska Sp. z o.o.
+Łopatki 37a
+24-160 Wąwolnica
+
+#Klub
+
+KS Wawel Wąwolnica
+3-go Maja
+24-160 Wąwolnica
+
+#Poczta
+
+Poczta Polska
+Zamkowa 1
+24-160 Wąwolnica
+
+#ZNP
+
+#PZU
+
+#Klub Seniora
+
+======================================================================
+24-350 PRZYTYKI
+
+#Szkoła
+
+#Uniwersytet
+
+#Biblioteka
+
+#Policja
+
+#ZUS
+
+#muzeum
+
+======================================================================
+24-350 GRANICE
+
+#Dom kultury
+
+#Bank
+
+#muzeum
+
+Cmentarz partyzantcki z okresu II Wojny Światowej
+24-350 Granice
+
+#Klub Seniora
+
+======================================================================
+24-320 NIEZABITÓW
+
+#Szkoła
+
+#Uniwersytet
+
+#Biblioteka
+
+#Policja
+
+#Poczta
+
+Poczta Polska
+Niezabitów 76
+24-320 Niezabitów
+
+======================================================================
+24-160 KĘBŁO
+
+#Ośrodek
+
+Specjalny Ośrodek Szkolno - Wychowawczy im. św. Franciszka z Asyżu
+Kębło 7
+24-160 Kębło
+
+#Szkoła
+
+#Przedszkole
+
+#Uniwersytet
+
+#Biblioteka
+
+#Policja
+
+#Sąd
+
+#Stowarzyszenie
+
+#ZNP
+
+#muzeum
+
+#Klub Seniora
+
+#Niepełnosprawni
+
+#Inwalidów
+
+======================================================================
+24-300 PUSZNO GODOWSKIE
+
+#Dom kultury
+
+#Przedszkole
+
+#Biblioteka
+
+#Policja
+
+#Sąd
+
+#ZUS
+
+#ZNP
+
+======================================================================
+24-320 KOWALA DRUGA
+
+#Dom kultury
+
+#Szkoła
+
+Szkoła podstawowa im. Henryka Sienkiewicza w Kowali Drugiej
+Kowala Druga 29
+24-320 Kowala Druga
+
+#Przedszkole
+
+#Uniwersytet
+
+#Politechnika
+
+#Biblioteka
+
+#Policja
+
+#Spółka
+
+#Emerytów
+
+#ZUS
+
+#muzeum
+
+#Uniwersytet Trzeciego Wieku
+
+#Emerytów
+
+======================================================================
+24-300 SKOKÓW
+
+#Przedszkole
+
+#Uniwersytet
+
+#Biblioteka
+
+#Policja
+
+#Sąd
+
+#Spółdzielnia
+
+#Klub
+
+Brand Music Club
+Skoków 83B
+24-300 Skoków
+
+#Poczta
+
+#ZUS
+
+#ZNP
+
+======================================================================
+24-130 SŁOTWINY
+
+#Szkoła
+
+#Biblioteka
+
+#ZUS
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+24-300 WANDALIN
+
+#Biblioteka
+
+#Policja
+
+#Sąd
+
+#ZNP
+
+#Klub Seniora
+
+======================================================================
+24-300 OPOLE LUBELSKIE
+
+#Urząd
+
+#Dom kultury
+
+Opolskie Centrum Kultury w Opolu Lubelskim
+Lubelska 30
+24-300 Opole Lubelskie
+
+#Przedszkole
+
+Przedszkole Miejskie
+Przemysłowa 3
+24-300 Opole Lubelskie
+
+#Uniwersytet
+
+Zespół Szkół Nr 2 w Opolu Lubelskim
+Fabryczna 28
+24-300 Opole Lubelskie
+
+#Politechnika
+
+Urząd Miejski w Opolu Lubelskim
+Lubelska 4
+24-300 Opole Lubelskie
+
+#Biblioteka
+
+Biblioteka Publiczna Powiatowa
+Stary Rynek 46
+24-300 Opole Lubelskie
+
+#Szpital
+
+Szpital Powiatowy w Opolu Lubelskim
+Szpitalna 9
+24-300 Opole Lubelskie
+
+#Przychodnia
+
+#Placówka
+
+Kasa Rolniczego Ubezpieczenia Społecznego. Placówka terenowa
+Fabryczna 27
+24-300 Opole Lubelskie
+
+#Bank
+
+#Oddział
+
+#Wydział
+
+Sąd Rejonowy
+Stary Rynek 46
+24-300 Opole Lubelskie
+
+#Policja
+
+Komenda Powiatowa Policji
+Morwowa 4
+24-300 Opole Lubelskie
+
+#Prokuratura
+
+Prokuratura Rejonowa w Opolu Lubelskim
+Lubelska 4
+24-300 Opole Lubelskie
+
+#Sąd
+
+#Przedsiębiorstwo
+
+#Produkcja
+
+FORESTA Ogrodzenia Bramy Siatka
+Podzamcze 79
+24-300 Opole Lubelskie
+
+#Zakład
+
+#Agencja
+
+Agencja Restrukturyzacji i Modernizacji Rolnictwa. Biuro powiatowe
+aleja 600-lecia 8
+24-300 Opole Lubelskie
+
+#Spółka
+
+Samodzielny Publiczny Zakład Opieki Zdrowotnej
+Przemysłowa 4A
+24-300 Opole Lubelskie
+
+#Spółdzielnia
+
+Spółdzielnia Mieszkaniowa Lokatorsko-Własnościowa
+Morwowa 3
+24-300 Opole Lubelskie
+
+#Towarzystwo
+
+#Emerytów
+
+#Instytucja
+
+#ZUS
+
+ZUS Biuro Terenowe w Opolu Lubelskim
+Józefa Piłsudskiego 12
+24-300 Opole Lubelskie
+
+#Amazonki
+
+Powiatowy Urząd Pracy
+Stary Rynek 14-16
+24-300 Opole Lubelskie
+
+#ZNP
+
+Związek Nauczycielstwa Polskiego
+Szkolna 5
+24-300 Opole Lubelskie
+
+#muzeum
+
+Muzeum Multimedialne
+Strażacka 1
+24-300 Opole Lubelskie
+
+#Czerwony Krzyż
+
+Polski Czerwony Krzyż. Zarząd Rejonowy
+Szkolna 9
+24-300 Opole Lubelskie
+
+#Seniorów
+
+#Uniwersytet Trzeciego Wieku
+
+#Emerytów
+
+#Niepełnosprawnych
+
+#Niepełnosprawni
+
+#Inwalidów
+
+======================================================================
+24-300 WOLA RUDZKA
+
+#Przedszkole
+
+#Uniwersytet
+
+#Biblioteka
+
+#Policja
+
+#Sąd
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+24-310 KARCZMISKA PIERWSZE
+
+#Urząd
+
+Urząd Gminy Karczmiska
+Centralna 17
+24-310 Karczmiska Pierwsze
+
+#Ośrodek
+
+Ośrodek Pomocy Społecznej
+Opolska 33
+24-310 Karczmiska Pierwsze
+
+#Dom kultury
+
+Gminny Ośrodek Kultury
+Centralna 6
+24-310 Karczmiska Pierwsze
+
+#Przedszkole
+
+Zespół Szkół
+24-310 Karczmiska Pierwsze; Szkolna 1
+
+#Uniwersytet
+
+Szkoła
+Szkolna 1
+24-310 Karczmiska Pierwsze
+
+#Biblioteka
+
+Biblioteka Publiczna Gminna
+Centralna
+24-310 Karczmiska Pierwsze
+
+#Policja
+
+#Sąd
+
+#Poczta
+
+Urząd Pocztowy
+Centralna 17
+24-310 Karczmiska Pierwsze
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+======================================================================
+24-300 WRZELOWIEC
+
+#Dom kultury
+
+#Szkoła
+
+#Przedszkole
+
+#Uniwersytet
+
+#Biblioteka
+
+#Szpital
+
+#Policja
+
+#Sąd
+
+#Klub
+
+Zilion Club Wrzelowiec
+Opolska 3
+24-300 Wrzelowiec
+
+#Towarzystwo
+
+#Poczta
+
+Agencja Pocztowa Wrzelowiec
+Kościelna 1
+24-300 Wrzelowiec
+
+Nadleśnictwo Kraśnik. Lasy Państwowe
+24-300 Wrzelowiec
+
+Parafia Rzymskokatolicka pw. Świętej Trójcy Kluczkowice-Wrzelowiec
+ul
+Kościelna 4
+24-300 Wrzelowiec
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#muzeum
+
+======================================================================
+24-300 KLUCZKOWICE
+
+#Dom kultury
+
+#Uniwersytet
+
+Szkoła Podstawowa im. bł. Jana Pawła II
+Kluczkowice 128
+24-300 Kluczkowice
+
+#Politechnika
+
+#Biblioteka
+
+#Policja
+
+#Sąd
+
+#Zakład
+
+#Agencja
+
+Poczta Polska
+Kluczkowice 121
+24-300 Kluczkowice
+
+#Poczta
+
+#ZUS
+
+#ZNP
+
+#muzeum
+
+Muzeum Regionalne
+Kluczkowice 7
+24-300 Kluczkowice
+
+======================================================================
+24-300 POMORZE
+
+#Dom kultury
+
+#Przedszkole
+
+#Uniwersytet
+
+#Biblioteka
+
+#Policja
+
+#Sąd
+
+#Spółdzielnia
+
+#ZUS
+
+#ZNP
+
+#PZU
+
