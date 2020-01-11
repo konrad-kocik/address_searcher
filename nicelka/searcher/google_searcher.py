@@ -13,12 +13,11 @@ class GoogleSearcher(Searcher):
                                              skip_indirect_matches=skip_indirect_matches,
                                              skip_duplicates=skip_duplicates)
 
-        self._keys_file = self._assemble_data_file_path('keys.txt')
-        self._keys = self._get_keys()
         self._engine = EngineFactory.get_engine('google_page')
+        self._keys = self._source.get_keys()
 
     def search(self):
-        self._results_file_path = self._assemble_result_file_path()
+        self._reporter.generate_new_report_file_path()
         self._engine.start()
 
         for city in self._cities:
@@ -32,16 +31,12 @@ class GoogleSearcher(Searcher):
                     pass
                 finally:
                     self._add_results(results, city, key)
-                    self._save_results()
+                    self._reporter.save_report(self._results)
 
         self._add_results_count()
-        self._save_results()
+        self._reporter.save_report(self._results)
 
         self._engine.stop()
-
-    def _get_keys(self):
-        with open(self._keys_file, encoding=self._FILE_ENCODING) as file:
-            return [key.strip() for key in file.readlines()]
 
     def _add_results(self, results, city, key):
         if results:
