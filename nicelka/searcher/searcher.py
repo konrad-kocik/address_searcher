@@ -1,9 +1,8 @@
 from abc import abstractmethod
 from os import path
-from datetime import datetime
 
+from nicelka.reporter.reporter import Reporter
 
-# TODO: move all files activities to separate class
 # TODO: handle multiple result pages in KrkgwPage
 # TODO: write functional tests
 # TODO: google_page should return more then max 3 results
@@ -25,6 +24,8 @@ class Searcher:
                  skip_indirect_matches=True,
                  skip_duplicates=True):
         self._engine = None
+        self._reporter = Reporter(results_dir_path, self.engine_name)
+
         self._data_dir_path = data_dir_path
         self._cities_file = self._assemble_data_file_path('cities.txt')
         self._cities = self._get_cities()
@@ -34,8 +35,6 @@ class Searcher:
 
         self._results = []
         self._results_count = 0
-        self._results_dir_path = results_dir_path
-        self._results_file_path = None
 
     @property
     def engine_name(self):
@@ -43,7 +42,7 @@ class Searcher:
 
     @property
     def results_file_path(self):
-        return self._results_file_path
+        return self._reporter.report_file_path
 
     @abstractmethod
     def search(self):
@@ -58,9 +57,6 @@ class Searcher:
     def _get_cities(self):
         with open(self._cities_file, encoding=self._FILE_ENCODING) as file:
             return [city.strip() for city in file.readlines()]
-
-    def _assemble_result_file_path(self):
-        return path.join(self._results_dir_path, '{}_{}.txt'.format(datetime.now(), self.engine_name).replace(' ', '_').replace(':', '.'))
 
     def _add_city_header(self, city):
         self._results.append('=' * 70 + '\n')
@@ -87,10 +83,3 @@ class Searcher:
 
     def _add_results_count(self):
         self._results.append('Liczba znalezionych adresow: {}'.format(self._results_count))
-
-    def _save_results(self):
-        try:
-            with open(path.join(self._results_file_path), mode='w', encoding=self._FILE_ENCODING) as file:
-                file.writelines(self._results)
-        except Exception:
-            pass

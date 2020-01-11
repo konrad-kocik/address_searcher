@@ -18,7 +18,7 @@ class GoogleSearcher(Searcher):
         self._engine = EngineFactory.get_engine('google_page')
 
     def search(self):
-        self._results_file_path = self._assemble_result_file_path()
+        self._reporter.generate_new_report_file_path()
         self._engine.start()
 
         for city in self._cities:
@@ -32,10 +32,10 @@ class GoogleSearcher(Searcher):
                     pass
                 finally:
                     self._add_results(results, city, key)
-                    self._save_results()
+                    self._reporter.save_report(self._results)
 
         self._add_results_count()
-        self._save_results()
+        self._reporter.save_report(self._results)
 
         self._engine.stop()
 
