@@ -10,7 +10,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 
 
 class WebPage:
-    def __init__(self, executable_path='D:\\Program Files\\chromedriver.exe'):
+    def __init__(self, executable_path):
         self._name = 'unknown_engine'
         self._url = None
         self._executable_path = executable_path
