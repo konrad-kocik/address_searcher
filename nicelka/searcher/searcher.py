@@ -5,9 +5,7 @@ from datetime import datetime
 
 # TODO: handle multiple result pages in KrkgwPage
 # TODO: write functional tests
-# TODO: unhardcode D:\\Program Files\\chromedriver.exe
 # TODO: narrow all Exceptions into more specific classes
-# TODO: extract Engine class
 # TODO: google_page should return more then max 3 results
 # TODO: move all files activities to separate class
 # TODO: add unit tests
