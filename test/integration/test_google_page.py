@@ -19,7 +19,8 @@ def test_cases():
             'single_result_indirect_match_by_zip_code_tail_allowed',
             'single_result_duplicate_skipped',
             'single_result_duplicate_allowed',
-            'single_result_twice']
+            'single_result_twice',
+            'multiple_results_not_on_top']
 
 
 @fixture(scope='module')
@@ -236,6 +237,27 @@ def test_searcher_when_single_result_twice(create_results_dir, remove_results_di
     _assert_result_file_content_equals(expected_result, searcher.results_file_path)
 
 
+def test_searcher_when_multiple_results_not_on_top(create_results_dir, remove_results_dir):
+    expected_result = \
+        '======================================================================' + '\n' + \
+        '33-300 NOWY SĄCZ' + '\n\n' + \
+        '#Fundacja' + '\n\n' + \
+        'Fundacja Renovo' + '\n' + \
+        'Krakowska 92/5' + '\n' + \
+        '33-300 Nowy Sącz' + '\n\n' + \
+        'Fundacja Tarcza' + '\n' + \
+        'Jeremiego Wiśniowieckiego 125' + '\n' + \
+        '33-300 Nowy Sącz' + '\n\n' + \
+        'Fundacja im. dra Jerzego Masiora w Nowym Sączu' + '\n' + \
+        'Tarnowska 25' + '\n' + \
+        '33-300 Nowy Sącz' + '\n\n' + \
+        'Liczba znalezionych adresow: 3'
+
+    data_dir_path, results_dir_path = _get_io_dir_paths(test_case='multiple_results_not_on_top')
+    searcher = _run_searcher(data_dir_path, results_dir_path)
+    _assert_result_file_content_equals(expected_result, searcher.results_file_path)
+
+
 def _get_io_dir_paths(test_case):
     return os.path.join('data', 'google_page', test_case), os.path.join('results', 'google_page', test_case)
 
@@ -255,7 +277,6 @@ def _assert_result_file_content_equals(expected_result, results_file_path):
 '''
 multiple results - three
 multiple results - two
-multiple results - results not on top
 multiple results skip all not direct match
 multiple results skip one not direct match
 multiple results allow one not direct match
