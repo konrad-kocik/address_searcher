@@ -3,10 +3,12 @@ from abc import abstractmethod
 from nicelka.gateway.gateway import Gateway
 from nicelka.reporter.reporter import Reporter
 
-# TODO: handle multiple result pages in KrkgwPage
-# TODO: write functional tests
+# TODO: fix bug in google_page when multiple results are not on top
+# TODO: write integration tests
 # TODO: google_page should return more then max 3 results
+# TODO: handle multiple result pages in KrkgwPage
 # TODO: narrow all Exceptions into more specific classes
+# TODO: refactor integration tests
 # TODO: add unit tests
 # TODO: store results in custom classes
 # TODO: use REST API instead of Selenium
