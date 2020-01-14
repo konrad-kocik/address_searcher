@@ -237,7 +237,7 @@ def test_searcher_when_single_result_twice(create_results_dir, remove_results_di
     _assert_result_file_content_equals(expected_result, searcher.results_file_path)
 
 
-def test_searcher_when_multiple_results_not_on_top(create_results_dir, remove_results_dir):
+def test_searcher_when_multiple_results_not_on_top(create_results_dir):  # remove_results_dir
     expected_result = \
         '======================================================================' + '\n' + \
         '33-300 NOWY SĄCZ' + '\n\n' + \

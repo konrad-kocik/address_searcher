@@ -2,7 +2,7 @@ from time import sleep
 
 from exceptbool import except_to_bool
 from selenium.webdriver.common.keys import Keys
-from selenium.common.exceptions import NoSuchElementException
+from selenium.common.exceptions import NoSuchElementException, TimeoutException
 
 from nicelka.engine.web_page import WebPage
 
@@ -37,35 +37,54 @@ class GooglePage(WebPage):
         return [name_output.text + '\n' + self._format_address(address_output.text) + '\n']
 
     def _get_multiple_results(self):
-        max_results_count = 3
         results = []
 
-        for i in range(max_results_count):
-            try:
-                try:
-                    xpath = '//*[@id="rso"]/div[1]/div/div/div[2]/div/div[4]/div[1]/div[1]/div/div/a[1]/div/div/span' if i == 0 else \
-                            '//*[@id="rso"]/div[1]/div/div/div[2]/div/div[4]/div[1]/div[{}]/div[2]/div/a[1]/div/div/span'.format(i + 1)
-                    name, address = self._get_one_of_multiple_results(xpath)
-                except NoSuchElementException:
-                    xpath = '//*[@id="rso"]/div[2]/div/div/div[2]/div/div[4]/div[1]/div[1]/div[2]/div/a[1]/div/div/span' if i == 0 else \
-                            '//*[@id="rso"]/div[2]/div/div/div[2]/div/div[4]/div[1]/div[{}]/div/div/a[1]/div/div/span'.format(i + 1)
-                    name, address = self._get_one_of_multiple_results(xpath)
+        # try:
+        try:
+            map_link_xpath = '//*[@id="rso"]/div[1]/div/div/div[2]/div/div[4]/div[1]/div[1]/div/div/a[1]/div/div/span'
+            self._wait_for_visibility_by_xpath(map_link_xpath, timeout=0.1)
+            map_link = self._driver.find_element_by_xpath(map_link_xpath)
+            map_link.click()
+        except TimeoutException:
+            map_link_xpath = '//*[@id="rso"]/div[2]/div/div/div[2]/div/div[4]/div[1]/div[1]/div/div/a[1]/div/div/span'
+            self._wait_for_visibility_by_xpath(map_link_xpath, timeout=0.1)
+            map_link = self._driver.find_element_by_xpath(map_link_xpath)
+            map_link.click()
 
-                results.append(name + '\n' + address + '\n')
-                self._back()
-            except Exception:
-                pass
+        i = 0
+        while True:
+            i += 1
+            # try:
+            details_link_xpath = '//*[@id="rl_ist0"]/div[1]/div[4]/div[{}]/div/div[2]/div/a[1]/div/span'.format(i)
+            sleep(1)
+            # self._wait_for_visibility_by_xpath(details_link_xpath, timeout=0.1)
+            details_link = self._driver.find_element_by_xpath(details_link_xpath)
+            details_link.click()
+
+            name_output_xpath = '//*[@id="akp_tsuid8"]/div/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/div/div[1]/div/div[1]/div/span'
+            # self._wait_for_visibility_by_xpath(name_output_xpath, timeout=0.1)
+            name_output = self._driver.find_element_by_xpath(name_output_xpath)
+
+            address_output_xpath = '//*[@id="akp_tsuid8"]/div/div[1]/div/div/div/div[1]/div/div[1]/div/div[2]/div/div[2]/div/div/span[2]'
+            # self._wait_for_visibility_by_xpath(address_output_xpath, timeout=0.1)
+            address_output = self._driver.find_element_by_xpath(address_output_xpath)
+
+            results.append(name_output.text + '\n' + self._format_address(address_output.text) + '\n')
+            # except (TimeoutException, NoSuchElementException):
+            #     break
+        # except Exception:
+        #     pass
 
         return results
 
-    def _get_one_of_multiple_results(self, xpath):
-        name_output = self._driver.find_element_by_xpath(xpath)
-        name = name_output.text
-        name_output.click()
-        sleep(1)
-        address_output = self._wait_for_element_by_class_name('LrzXr')
-        address = self._format_address(address_output.text)
-        return name, address
+    # def _get_one_of_multiple_results(self, xpath):
+    #     name_output = self._driver.find_element_by_xpath(xpath)
+    #     name = name_output.text
+    #     name_output.click()
+    #     sleep(1)
+    #     address_output = self._wait_for_element_by_class_name('LrzXr')
+    #     address = self._format_address(address_output.text)
+    #     return name, address
 
     @staticmethod
     def _format_address(address):

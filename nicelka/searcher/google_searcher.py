@@ -27,8 +27,8 @@ class GoogleSearcher(Searcher):
                 results = []
                 try:
                     results = self._engine.search(city, key)
-                except Exception:
-                    pass
+                # except Exception:
+                #     pass
                 finally:
                     self._add_results(results, city, key)
                     self._reporter.save_report(self._results)
