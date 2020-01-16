@@ -1,5 +1,6 @@
-from nicelka.searcher.searcher import Searcher
 from nicelka.engine.engine_factory import EngineFactory
+from nicelka.reporter.reporter import Reporter
+from nicelka.searcher.searcher import Searcher
 
 
 class KrkgwSearcher(Searcher):
@@ -14,6 +15,7 @@ class KrkgwSearcher(Searcher):
                                             skip_duplicates=skip_duplicates)
 
         self._engine = EngineFactory.get_engine('krkgw_page')
+        self._reporter = Reporter(results_dir_path, self.engine_name)
 
     def search(self):
         self._reporter.generate_new_report_file_path()
@@ -26,7 +28,7 @@ class KrkgwSearcher(Searcher):
             try:
                 results = self._engine.search(self._get_city_name(city))
             except Exception:
-                raise
+                pass
             finally:
                 self._add_results(results, city)
                 self._reporter.save_report(self._results)
