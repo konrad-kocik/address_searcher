@@ -28,7 +28,7 @@ class KrkgwSearcher(Searcher):
             try:
                 results = self._engine.search(self._get_city_name(city))
             except Exception:
-                raise
+                pass
             finally:
                 self._add_results(results, city)
                 self._reporter.save_report(self._results)
