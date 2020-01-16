@@ -3,11 +3,13 @@ from abc import abstractmethod
 from nicelka.gateway.gateway import Gateway
 from nicelka.reporter.reporter import Reporter
 
+# TODO: when no result skip pasting empty key into results
 # TODO: fix bug in google_page when multiple results are not on top
 # TODO: write integration tests
 # TODO: google_page should return more then max 3 results
 # TODO: handle multiple result pages in KrkgwPage
 # TODO: narrow all Exceptions into more specific classes
+# TODO: add progress bar
 # TODO: refactor integration tests
 # TODO: add unit tests
 # TODO: store results in custom classes
