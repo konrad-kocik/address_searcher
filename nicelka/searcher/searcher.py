@@ -8,13 +8,13 @@ from nicelka.reporter.reporter import Reporter
 # TODO: write integration tests
 # TODO: google_page should return more then max 3 results
 # TODO: handle multiple result pages in KrkgwPage
-# TODO: narrow all Exceptions into more specific classes
+# TODO: add logger
+# TODO: narrow all Exceptions into more specific classes (report exceptions into logger)
 # TODO: add progress bar
 # TODO: refactor integration tests
 # TODO: add unit tests
 # TODO: store results in custom classes
 # TODO: use REST API instead of Selenium
-# TODO: add logger
 # TODO: add AI to evaluate results found
 # TODO: add docs, type hints etc.
 
