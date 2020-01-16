@@ -1,0 +1,5759 @@
+======================================================================
+GDAŃSK
+
+#Urząd
+
+Urząd Miejski w Gdańsku
+Nowe Ogrody 8/12
+80-803 Gdańsk
+
+Urząd miejski w Gdańsku Wydział Rozwoju Społecznego
+Kartuska 5
+80-103 Gdańsk
+
+Urząd Miejski w Gdańsku Wydział Ochrony Środowiska
+Piekarnicza 16
+80-126 Gdańsk
+
+#Ośrodek
+
+Miejski Ośrodek Pomocy Rodzinie w Gdańsku
+Konrada Leczkowa 1A
+80-432 Gdańsk
+
+#Dom kultury
+
+Dom Kultury
+Pilotów 3
+80-460 Gdańsk
+
+Miejski Dom Kultury
+Dworcowa 9
+80-026 Gdańsk
+
+Dom Kultury Powszechnej Spółdzielni Mieszkaniowej Przymorze
+Śląska 66
+80-394 Gdańsk
+
+#Szkoła
+
+Morska Szkoła Podstawowa w Gdańsku
+Rogalińska 17
+80-809 Gdańsk
+
+Pozytywna Szkoła Podstawowa im. Arkadiusza Arama Rybickiego
+Azaliowa 18
+80-177 Gdańsk
+
+Autonomiczna Szkoła Podstawowa
+Osiek 11
+80-842 Gdańsk
+
+#Przedszkole
+
+Przedszkole Gdańsk
+80-980 Gdańsk
+
+Przedszkole publiczne
+Damroki
+80-125 Gdańsk
+
+Publiczne Pozytywne Przedszkole nr 3 w Gdańsku
+trakt świętego Wojciecha 143
+80-043 Gdańsk
+
+#Akademia
+
+Gdański Uniwersytet Medyczny
+Marii Skłodowskiej-Curie 3a
+80-210 Gdańsk
+
+#Politechnika
+
+Politechnika Gdańska
+Gabriela Narutowicza 11/12
+80-233 Gdańsk
+
+Wydział Chemiczny Politechniki Gdańskiej
+Gabriela Narutowicza 11/12
+80-233 Gdańsk
+
+Politechnika Gdańska, Wydział Elektroniki, Telekomunikacji i Informatyki
+Politechnika Gdańska
+Gabriela Narutowicza 11/12
+80-980 Gdańsk
+
+#Biblioteka
+
+Polska Akademia Nauk Biblioteka Gdańska
+Wałowa 15
+80-858 Gdańsk
+
+Biblioteka dla Dzieci (Filia nr 25) WIMBP w Gdańsku
+Targ Rakowy 5/6
+80-806 Gdańsk
+
+Pedagogiczna Biblioteka Wojewódzka im. Gdańskiej Macierzy Szkolnej
+Aleja Generała Józefa Hallera 14
+80-401 Gdańsk
+
+#Szpital
+
+Uniwersyteckie Centrum Kliniczne GUMed
+Dębinki 7
+80-952 Gdańsk
+
+COPERNICUS Podmiot Leczniczy Sp. z o.o.
+Nowe Ogrody 1-6
+80-803 Gdańsk
+
+COPERNICUS Podmiot Leczniczy Sp. z o.o.: Szpital św. Wojciecha
+aleja Jana Pawła II 50
+80-462 Gdańsk
+
+#Placówka
+
+Dom im. J.Korczaka - Regionalna Placówka Opiekuńczo-Terapeutyczna w Gdańsku
+Abrahama 56
+80-307 Gdańsk
+
+#Bank
+
+Nest Bank - oddział w Gdańsku
+aleja Grunwaldzka 45/47
+80-236 Gdańsk
+
+Bank DnB NORD - Oddział Gdańsk
+aleja Grunwaldzka 32
+80-229 Gdańsk
+
+Bank Millennium
+aleja Grunwaldzka 141
+80-236 Gdańsk
+
+#Policja
+
+Komisariat Policji VIII w Gdańsku
+Kartuska 245B
+80-122 Gdańsk
+
+Komisariat Policji III Gdańsk
+Biała 1a
+80-435 Gdańsk
+
+Komenda Miejska Policji
+Nowe Ogrody 27
+80-803 Gdańsk
+
+#Prokuratura
+
+Prokuratura Okręgowa w Gdańsku
+Wały Jagiellońskie 36
+80-853 Gdańsk
+
+Prokuratura Rejonowa Gdańsk-Śródmieście w Gdańsku
+Piekarnicza 10c
+80-126 Gdańsk
+
+#Sąd
+
+Sąd Okręgowy w Gdańsku
+Nowe Ogrody 30/34
+80-803 Gdańsk
+
+Sąd Rejonowy Gdańsk-Południe w Gdańsku
+3 Maja 9A
+80-802 Gdańsk
+
+Sąd Rejonowy Gdańsk-Północ
+Piekarnicza 10
+80-126 Gdańsk
+
+#Wojsko
+
+Wojskowa Komenda Uzupełnień (WKU) w Gdańsku
+trakt świętego Wojciecha 253
+80-018 Gdańsk
+
+#Produkcja
+
+Amazon Development Center Poland
+aleja Grunwaldzka 472
+80-309 Gdańsk
+
+Elewator 3/4 Gdańsk
+Mariana Chodackiego
+80-555 Gdańsk
+
+LPP SA
+Łąkowa 39/44
+80-769 Gdańsk
+
+#Fabryka
+
+Gdańska Fabryka Mebli City Meble
+aleja Grunwaldzka 211
+80-266 Gdańsk
+
+Królewska Fabryka Karabinów
+Łąkowa 35/38
+80-769 Gdańsk
+
+Gdańska Fabryka Okien Sp. z o.o.
+Słupska 54
+80-392 Gdańsk
+
+#Zakłady
+
+Fosfory Sp. z o.o. Gdańskie Zakłady Nawozów Fosforowych
+Kujawska 2
+80-550 Gdańsk
+
+Zakłady Naprawcze Taboru Kolejowego i Miejskiego Sp. z o.o.
+Siennicka 25
+80-758 Gdańsk
+
+Gdańskie Zakłady Remontowo - Montażowe GZRM Sp. z o.o.
+Marynarki Polskiej 98
+80-557 Gdańsk
+
+#Grupa
+
+Grupa LOTOS
+Elbląska 135
+80-718 Gdańsk
+
+#Agencja
+
+ITC Gdańsk - Agencja Pracy Tymczasowej
+Grunwaldzka 100
+80-244 Gdańsk
+
+Agencja pracy Gdańsk - Jobhouse
+aleja Grunwaldzka 31
+80-241 Gdańsk
+
+Grupa Progres Gdańsk - Agencja pracy
+aleja Grunwaldzka 79/81/1 Piętro 1
+80-243 Gdańsk
+
+#Spółdzielnia
+
+Gdańska Spółdzielnia Mieszkaniowa
+80-101
+Powstańców Warszawskich 3
+80-152 Gdańsk
+
+Spółdzielnia Mieszkaniowa Rozstaje
+Leszczyńskich 4
+80-464 Gdańsk
+
+Chełm. Spółdzielnia Mieszkaniowa
+Stanisława Worcella 33
+80-809 Gdańsk
+
+#Stowarzyszenie
+
+Stowarzyszenie Kulturalne Wspierania Edukacji i Rozwoju
+Startowa 4
+80-461 Gdańsk
+
+Stowarzyszenie Księgowych w Polsce. Oddział Okręgowy
+Jaśkowa Dolina 93
+80-286 Gdańsk
+
+Stowarzyszenie Pomocy Osobom Autystycznym Adres biura: Plac Wybickiego 18, 80-440 Gdańsk
+Prezydenta Lecha Kaczyńskiego 28
+80-365 Gdańsk
+
+#Klub
+
+Klub B90
+Elektryków
+80-980 Gdańsk
+
+Klub muzyczny Parlament
+Świętego Ducha 2
+80-836 Gdańsk
+
+"Miasto Aniołów" Klub Muzyczny
+Chmielna 26
+80-748 Gdańsk
+
+#Towarzystwo
+
+Gdańskie Towarzystwo Naukowe (Gdańsk Scientific Society)
+Bielańska 5/41
+80-894 Gdańsk
+
+#Fundacja
+
+Fundacja Gdańska
+Ul
+Długi Targ 28/29
+80-830 Gdańsk
+
+Gdańska Fundacja Innowacji Społecznej
+Gościnna 14
+80-032 Gdańsk
+
+Gdańska Fundacja Dobroczynności. Biuro
+Wita Stwosza 73
+80-308 Gdańsk
+
+#Poczta
+
+Poczta Polska
+Długa 23/28
+80-801 Gdańsk
+
+Poczta Polska
+plac Obrońców Poczty Polskiej 1/2
+80-800 Gdańsk
+
+Poczta Polska
+aleja Grunwaldzka 108
+80-206 Gdańsk
+
+#Emerytów
+
+Solidarni. Stowarzyszenie na rzecz emerytów i rencistów
+Niepodległości 9
+83-000 Pruszcz Gdański
+
+ZUS Inspektorat Gdańsk-Śródmieście
+Chlebnicka 3/8
+80-830 Gdańsk
+
+#Instytut
+
+Instytut Morski w Gdańsku
+Długi Targ 41/42
+80-831 Gdańsk
+
+#ZUS
+
+ZUS Oddział w Gdańsku
+Chmielna 27/33
+80-748 Gdańsk
+
+ZUS Inspektorat Gdańsk-Wrzeszcz
+Juliana Tuwima 9
+80-210 Gdańsk
+
+#Izba lekarska
+
+Okręgowa Izba Lekarska w Gdańsku
+Śniadeckich 33
+80-204 Gdańsk
+
+#ZNP
+
+Związek Nauczycielstwa Polskiego. Zarząd okręgu pomorskiego
+Wały Jagiellońskie 24
+80-853 Gdańsk
+
+Związek Nauczycielstwa Polskiego. Zarząd oddziału
+Uphagena 26
+80-237 Gdańsk
+
+#PZU
+
+PZU Ubezpieczenia Gdańsk - Agent Aneta Krzyża
+Kartuska 120
+80-104 Gdańsk
+
+Oddział PZU
+Targ Drzewny 1
+80-958 Gdańsk
+
+Oddział PZU - Gdańsk
+Obrońców Wybrzeża 27
+80-398 Gdańsk
+
+#muzeum
+
+Muzeum Gdańska
+Długa 46
+80-831 Gdańsk
+
+Muzeum Narodowe w Gdańsku
+Toruńska 1
+80-822 Gdańsk
+
+Narodowe Muzeum Morskie w Gdańsku
+Ołowianka 9-13
+80-751 Gdańsk
+
+#Czerwony Krzyż
+
+Polski Czerwony Krzyż Pomorski Oddział Okręgowy w Gdańsku
+Kurkowa 8
+80-803 Gdańsk
+
+#Diabetycy
+
+Polskie Stowarzyszenie Diabetyków. Zarząd wojewódzki
+Aleja Generała Józefa Hallera 10
+80-401 Gdańsk
+
+#Klub Seniora
+
+Klub seniora Politechniki Gdańskiej
+Gmach Główny Politechniki Gdańskiej
+Gabriela Narutowicza 11/12
+80-233 Gdańsk
+
+Maciuś I. Klub osiedlowy
+Opolska 2
+80-395 Gdańsk
+
+Klub Seniora Motława
+Ogarna 30
+80-826 Gdańsk
+
+#Fundacja
+
+#Centrum
+
+Hotel Novotel Gdańsk Centrum
+Pszenna 1
+80-749 Gdańsk
+
+Hevelianum
+Gradowa 6
+80-802 Gdańsk
+
+NOCLEGI GDAŃSK CENTRUM - QUATTRO TOWERS
+Partyzantów 14
+80-254 Gdańsk
+
+#Seniora
+
+Bursztynowy Dom Seniora Sobieszewo Gdańsk
+Wiosłowa 59
+80-690 Gdańsk
+
+Dom Seniora Marzenie
+aleja Grunwaldzka 578
+80-337 Gdańsk
+
+#Emerytów
+
+#Niepełnosprawnych
+
+Miejski Zespół ds. Orzekania o Niepełnosprawności
+Dyrekcyjna 5
+80-852 Gdańsk
+
+#Niepełnosprawni
+
+#Jeździecki
+
+Sklep jeździecki ZABOOKUJ Gdańsk
+Zjazd z Obwodnicy Trójmiejskiej na Kartuzy
+Lubczykowa 5
+80-177 Gdańsk
+
+======================================================================
+GDYNIA
+
+#Urząd
+
+Urząd Miasta Gdyni
+aleja Marszałka Piłsudskiego 52/54
+81-382 Gdynia
+
+#Ośrodek
+
+Ośrodek Wypoczynkowy Kropeczka
+Doktora Teofila Zegarskiego 8
+81-524 Gdynia
+
+Ośrodek wypoczynkowy "Razem nad morzem"
+Szyprów 26
+Gdynia
+
+Ośrodek Profilaktyki i Terapii Uzależnień. Przychodnia terapii uzależnień
+Bernarda Chrzanowskiego 3
+81-338 Gdynia
+
+#Dom kultury
+
+Młodzieżowy Dom Kultury
+Grabowo 2
+81-265 Gdynia
+
+Młodzieżowy Dom Kultury
+Generała Józefa Bema 33
+81-381 Gdynia
+
+Konsulat Kultury
+Śródmieście
+81-001 Gdynia Ul
+Jana z Kolna 25
+Gdynia
+
+#Szkoła
+
+Szkoła Podstawowa nr 26
+Tatrzańska 40
+81-313 Gdynia
+
+Szkoła Morska w Gdyni Sp. z o.o.
+Szkoła Morska w Gdyni
+Sekretariat
+Polska
+ul
+Polska 13A
+81-339 Gdynia
+
+Szkoła Podstawowa nr 34 z Oddziałami Integracyjnymi w Gdyni im. Leonida Teligi
+Cylkowskiego 5
+81-461 Gdynia
+
+#Przedszkole
+
+Przedszkole nr 4
+Tatrzańska 18
+81-313 Gdynia
+
+Promyczek. Przedszkole Niepubliczne
+Merkurego 6
+81-601 Gdynia
+
+Przedszkole nr 50 Samorządowe
+Wiczlińska 31
+81-578 Gdynia
+
+#Akademia
+
+Wydział Nawigacyjny Uniwersytetu Morskiego w Gdyni
+Aleja Jana Pawła II 3
+81-345 Gdynia
+
+Uniwersytet Morski w Gdyni
+Morska 81/87
+81-225 Gdynia
+
+#Uniwersytet
+
+#Biblioteka
+
+Biblioteka Wiedzy
+Świętojańska 141
+81-404 Gdynia
+
+Mediateka Pogórze
+Admirała Kazimierza Porębskiego 21
+81-001 Gdynia
+
+MBP F15 Kamienna Góra
+aleja Marszałka Piłsudskiego 18
+81-378 Gdynia
+
+#Szpital
+
+Szpital Miejski im. Św. Wincentego a Paulo
+Wójta Radtkego 1
+81-348 Gdynia
+
+Szpital Morski im. PCK
+Powstania Styczniowego 1
+81-519 Gdynia
+
+Uniwersyteckie Centrum Medycyny Morskiej i Tropikalnej
+Powstania Styczniowego 9B
+81-519 Gdynia
+
+#Przychodnia
+
+Śródmieście. Specjalistyczna przychodnia lekarska
+Armii Krajowej 44
+81-366 Gdynia
+
+Centrum Medyczne Dąbrowa-Dąbrówka Sp. z o.o.
+Sojowa 22
+81-589 Gdynia
+
+Niepubliczny Zakład Opieki Zdrowotnej Śródmieście
+Antoniego Abrahama 57
+81-366 Gdynia
+
+#Bank
+
+PKO Bank Polski S.A.-Oddział 2 w Gdyni
+ul. Wójta J. Radtkego 53
+81-355 Gdynia
+
+Bank Rumia Spółdzielczy, Oddział Gdynia
+Kartuska 13A
+81-044 Gdynia
+
+Santander Consumer Bank
+Świętojańska 87
+81-389 Gdynia
+
+#Policja
+
+Komenda Miejska Policji
+Portowa 15/6
+81-350 Gdynia
+
+#Prokuratura
+
+Prokuratura Rejonowa w Gdyni
+10 Lutego 39
+81-364 Gdynia
+
+#Sąd
+
+Sąd Rejonowy w Gdyni
+plac Konstytucji 5
+81-354 Gdynia
+
+#Wojsko
+
+13. Dywizjon Trałowców w Gdyni im. admirała floty Andrzeja Karwety
+Inżyniera Jana Śmidowicza 48
+81-106 Gdynia
+
+#Przedsiębiorstwo
+
+PEWIK GDYNIA Sp. z o.o.
+Siedziba Zarządu Spółki – ul. Witomińska 29
+Biuro Obsługi Klienta – ul. Witomińska 21
+81-311 Gdynia
+
+#Produkcja
+
+Zakład Produkcji Znaków Drogowych
+Morska 306A
+81-002 Gdynia
+
+Enamor Sp. z o.o. Przedsiębiorstwo badawczo - produkcyjne
+Morska 85
+81-225 Gdynia
+
+Orion Gdynia Guma Węże Uszczelki Tworzywa konstrukcyjne
+Przemysłowa 5
+81-029 Gdynia
+
+#Zakład
+
+Portowy Zakład Techniczny S.A.
+Warsztatowa 10C
+81-341 Gdynia
+
+ORSZAK Zakład Pogrzebowy Gdynia - usługi pogrzebowe
+Witomińska 42
+81-311 Gdynia
+
+Róża Usługi Pogrzebowe Gdynia - Pogrzeby
+Witomińska 17A
+81-311 Gdynia
+
+#Zakłady
+
+Zakłady Odzieżowe "WYBRZEŻE" S.I.
+Spółdzielcza 1
+81-545 Gdynia
+
+Stol-Tap. Zakład Usług Stolarskich Aleksandra Zielke . Meble Na Zamówienie
+Poleska 20
+81-321 Gdynia
+
+#Agencja
+
+MAG Morska Agencja Gdynia Sp. z o.o.
+Tadeusza Wendy 15
+81-341 Gdynia
+
+Grupa Progres Gdynia - Agencja pracy
+2
+Władysława IV 43/501
+81-356 Gdynia
+
+Agencja Rozwoju Gdyni Sp. z o.o.
+Armii Krajowej 24
+81-372 Gdynia
+
+#Spółdzielnia
+
+Gdyńska Spółdzielnia Mieszkaniowa
+Helska 8
+81-056 Gdynia
+
+Spółdzielnia Mieszkaniowa "Karwiny"
+Korzenna 15
+81-587 Gdynia
+
+Robotnicza Spółdzielnia Mieszkaniowa im. Komuny Paryskiej
+Podgórska 14
+81-166 Gdynia
+
+#Związek
+
+Związek Kynologiczny w Polsce. Oddział w Gdyni.
+Bohaterów Starówki Warszawskiej 6
+81-455 Gdynia
+
+#Klub
+
+Klub Pokład
+al. Jana Pawła II 11
+81-345 Gdynia
+
+Ucho
+Świętego Piotra 2
+81-347 Gdynia
+
+Blues Club Gdynia
+Portowa 9
+81-350 Gdynia
+
+#Koło
+
+Koło Widokowe w Gdyni
+81-001 Gdynia
+
+#Towarzystwo
+
+Towarzystwo Miłośników Gdyni
+Władysława IV 51
+81-384 Gdynia
+
+#Poczta
+
+Poczta Polska
+10 Lutego 10
+81-301 Gdynia
+
+Urząd Pocztowy Nr 1 Filia
+Atlasa 3
+81-980 Gdynia
+
+FUP Gdynia 1
+Kcyńska 27
+81-005 Gdynia
+
+#Emerytów
+
+Polski Związek Emerytów, Rencistów i Inwalidów. Oddział rejonowy
+Świętojańska 5
+81-368 Gdynia
+
+#Instytut
+
+Ośrodek Badawczo - Rozwojowy Centrum Techniki Morskiej S.A.
+Arenda Dickmana 62
+81-109 Gdynia
+
+#ZUS
+
+ZUS w Gdyni
+Władysława IV 24
+81-364 Gdynia
+
+#Izba lekarska
+
+#ZNP
+
+Związek Nauczycielstwa Polskiego. Zarząd Oddziału
+Poznańska 1/3
+81-305 Gdynia
+
+#PZU
+
+Oddział PZU - Gdynia, Abrahama
+Antoniego Abrahama 84
+81-387 Gdynia
+
+Oddział PZU - Gdynia, Kartuska
+Kartuska 20
+81-002 Gdynia
+
+PZU Agent Krystian Kurzyński
+Rdestowa 25/pawilon 3
+81-577 Gdynia
+
+#muzeum
+
+Muzeum Miasta Gdyni
+Zawiszy Czarnego 1
+81-374 Gdynia
+
+#Czerwony Krzyż
+
+Polski Czerwony Krzyż Zarząd Rejonowy w Gdyni
+Zgoda 6/11
+81-361 Gdynia
+
+#Klub Seniora
+
+Miejski Klub Seniora "Witomino"
+81-649
+Widna 8
+81-001 Gdynia
+
+Centrum Aktywności Seniora
+3 Maja 27
+81-364 Gdynia
+
+Miejski Klub Seniora Orłowo
+Orłowska 66
+81-542 Gdynia
+
+#Centrum
+
+Gdynia Centrum
+10 Lutego 37
+81-364 Gdynia
+
+Mercure Gdynia Centrum
+Armii Krajowej 22
+81-372 Gdynia
+
+Centrum Riviera
+Kazimierza Górskiego 2
+81-304 Gdynia
+
+#Seniora
+
+#Seniorów
+
+#Emerytów
+
+#Jeździecki
+
+Django Sklep Jeździecki
+Afrodyty 45
+81-601 Gdynia
+
+======================================================================
+SOPOT
+
+#Urząd
+
+Urząd Miasta Sopotu
+Tadeusza Kościuszki 25/27
+81-704 Sopot
+
+Urząd Skarbowy w Sopocie
+23 Marca 9/11
+81-808 Sopot
+
+Urząd Pocztowy Sopot
+Tadeusza Kościuszki 2
+81-701 Sopot
+
+#Ośrodek
+
+Ośrodek Sportowo Wypoczynkowy Baltic
+Bitwy pod Płowcami 62
+81-731 Sopot
+
+Sopocki Zdrój
+61
+Bitwy pod Płowcami
+81-731 Sopot
+
+Ośrodek wypoczynkowy
+81-761 Sopot; Jana III Sobieskiego
+
+#Dom kultury
+
+Młodzieżowy Dom Kultury (Youth Culture)
+Aleja Niepodległości 763
+81-838 Sopot
+
+#Szkoła
+
+Sopocka Autonomiczna Szkoła Podstawowa
+Aleja Niepodległości 739A
+81-838 Sopot
+
+Szkoła Podstawowa z Oddziałami Sportowymi nr 7 im. T. Kościuszki
+Jana Jerzego Haffnera 55
+81-715 Sopot
+
+Szkoła Podstawowa z Oddziałami Integracyjnymi nr 8 im. Jana Matejki
+Józefa Golca 3
+81-743 Sopot
+
+#Przedszkole
+
+Niepubliczne Przedszkole Anglojęzyczne Sopot
+Marii Skłodowskiej-Curie 10
+81-703 Sopot
+
+Przedszkole nr 8
+Jana z Kolna 3
+81-746 Sopot
+
+Przedszkole nr 5
+Jana Jerzego Haffnera 72
+81-715 Sopot
+
+#Akademia
+
+Instytut Oceanologii PAN
+Powstańców Warszawy 55
+81-712 Sopot
+
+#Uniwersytet
+
+Uniwersytet SWPS Sopot
+Polna 16/20
+81-745 Sopot
+
+Uniwersytet Gdański - Wydział Ekonomiczny w Sopocie
+Armii Krajowej 119
+81-824 Sopot
+
+Uniwersytet Gdański, Wydział Zarządzania
+Armii Krajowej 101
+81-824 Sopot
+
+#Biblioteka
+
+Biblioteka Sopocka - Sopoteka
+Sopot Centrum
+poziom +2
+Tadeusza Kościuszki 14
+81-704 Sopot
+
+Biblioteka Sopocka im. Józefa Wybickiego
+Obrońców Westerplatte 16
+81-706 Sopot
+
+Biblioteka Sopocka - Filia 6 im.Ireny Suchorzewskiej
+23 Marca 77C
+81-820 Sopot
+
+#Szpital
+
+Pomorskie Centrum Reumatologiczne im. dr Jadwigi Titz-Kosko w Sopocie Sp. z o.o.
+23 Marca 93
+81-820 Sopot
+
+PCR Sopot Oddział
+Grunwaldzka 1-3
+81-759 Sopot
+
+Sopmed Sp. z o.o. NZOZ. Centrum medyczne
+Bolesława Chrobrego 6/8
+81-756 Sopot
+
+#Przychodnia
+
+#Bank
+
+PKO Bank Polski S.A.-Oddział 2 w Sopocie
+ul
+Bohaterów Monte Cassino 32/34
+81-759 Sopot
+
+PKO Bank Polski S.A.-Oddział 1 w Sopocie
+Grunwaldzka 45
+81-754 Sopot
+
+Bank Pekao S.A.
+Mikołaja Reja 13/15
+81-874 Sopot
+
+#Policja
+
+Komenda Miejska Policji (Municipal Police Headquarters in Sopot)
+Armii Krajowej 112A
+81-824 Sopot
+
+#Prokuratura
+
+Prokuratura Rejonowa w Sopocie
+Artura Grottgera 3-5
+81-809 Sopot
+
+#Sąd
+
+Sąd Rejonowy w Sopocie (District Court in Sopot)
+1 Maja 10
+81-828 Sopot
+
+#Przedsiębiorstwo
+
+Przedsiębiorstwo Dróg i Zieleni Sp. z o.o.
+Aleja Niepodległości 931
+81-861 Sopot
+
+#Zakłady
+
+Sopockie Zakłady Przemysłu Maszynowego
+Kujawska 29/62
+81-862 Sopot
+
+Millennium zakłady bukmacherskie
+Aleja Niepodległości 769
+81-838 Sopot
+
+Obol. Zakład pogrzebowy
+Bolesława Chrobrego 34
+81-783 Sopot
+
+#Grupa
+
+Grupa NDI
+Powstańców Warszawy 19
+81-718 Sopot
+
+#Spółdzielnia
+
+Sopot Dolny. Nauczycielska Spółdzielnia Mieszkaniowa
+Aleja Niepodległości 702
+81-853 Sopot
+
+Nauczycielska Spółdzielnia Mieszkaniowa
+Oskara Kolberga 9
+81-881 Sopot
+
+Spółdzielnia Mieszkaniowa im. J. Kraszewskiego
+Józefa Kraszewskiego 31
+81-815 Sopot
+
+#Związek
+
+Związek Kynologiczny w Polsce. Oddział
+Aleja Niepodległości 825
+81-805 Sopot
+
+#Stowarzyszenie
+
+Stowarzyszenie Autorów ZAiKS - Dyrekcja Okręgowa
+Lipowa 12/1
+81-750 Sopot
+
+#Klub
+
+Sfinks 700
+Aleja Franciszka Mamuszki 1
+81-701 Sopot
+
+Unique Club Sopot
+Plac Zdrojowy 1
+81-720 Sopot
+
+Scena Events Sopot - Eventy, Imprezy firmowe, Bankiety, Konferencje
+Aleja Franciszka Mamuszki 2
+81-729 Sopot
+
+#Koło
+
+Koło molo
+Plac Zdrojowy
+81-720 Sopot
+
+Polski Związek Wędkarski. Koło nr 7 Sopot
+3 Maja 71
+81-850 Sopot
+
+#Fundacja
+
+Fundacja Grupy Ergo Hestia na rzecz integracji zawodowej osób niepełnosprawnych Integralia
+Hestii 1
+81-731 Sopot
+
+#Poczta
+
+Poczta Polska
+Tadeusza Kościuszki 2
+81-701 Sopot
+
+Poczta Polska
+Aleja Niepodległości 724
+81-701 Sopot
+
+Poczta Polska
+Grunwaldzka 78/80
+81-705 Sopot
+
+#Emerytów
+
+Polski Związek Emerytów, Rencistów i Inwalidów. Zarząd oddziału miejskiego
+Tadeusza Kościuszki 25/27
+81-704 Sopot
+
+#Instytucja
+
+Blue Media SA
+Powstańców Warszawy 6
+81-718 Sopot
+
+#Instytut
+
+Kosmetyczny Instytut Dr Irena Eris Sopot
+Grunwaldzka 12-16
+81-759 Sopot
+
+#ZUS
+
+ZUS Biuro Terenowe w Sopocie
+Aleja Niepodległości 796
+81-805 Sopot
+
+#Izba lekarska
+
+#ZNP
+
+Związek Nauczycielstwa Polskiego. Zarząd oddziału
+Tadeusza Kościuszki 64
+81-703 Sopot
+
+#PZU
+
+Oddział PZU
+Armii Krajowej 116
+81-824 Sopot
+
+#muzeum
+
+Muzeum Sopotu
+Księcia Józefa Poniatowskiego 8
+81-724 Sopot
+
+Skansen Archeologiczny - Grodzisko w Sopocie. Oddział Muzeum Archeologicznego w Gdańsku
+Jana Jerzego Haffnera 63
+81-715 Sopot
+
+Sopot Wax Museum
+Bohaterów Monte Cassino 63
+81-767 Sopot
+
+#Czerwony Krzyż
+
+Polski Czerwony Krzyż. Zarząd rejonowy
+Jana Jerzego Haffnera 27A
+81-717 Sopot
+
+#Klub Seniora
+
+Dzienny Dom Pomocy Społecznej
+Adama Mickiewicza 49
+81-866 Sopot
+
+Miejski Ośrodek Pomocy Społecznej w Sopocie
+Kolejowa 14
+80-001 Sopot
+
+Klub Atelier
+Aleja Franciszka Mamuszki 2
+81-729 Sopot
+
+#Fundacja
+
+#Centrum
+
+Sopot Centrum
+Tadeusza Kościuszki 14
+81-704 Sopot
+
+#Seniorów
+
+Centrum Medyczne SENIOR
+Rzemieślnicza 3
+81-855 Sopot
+
+#Emerytów
+
+#Inwalidów
+
+Spółdzielnia Inwalidów Współpraca
+Jana z Kolna 35
+81-859 Sopot
+
+#Jeździecki
+
+Sopocki Klub Jeździecki
+Polna 1
+81-745 Sopot
+
+======================================================================
+81-198 MECHELINKI
+
+#Urząd
+
+#Dom kultury
+
+Scena Plenerowa Mechelinki Kosakowskiego Centrum Kultury
+81-198 Mechelinki
+
+#Szkoła
+
+#Przedszkole
+
+#Uniwersytet
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#Sąd
+
+#Związek
+
+Stowarzyszenie Port Mechelinki
+Nadmorska 41
+81-198 Mechelinki
+
+#Stowarzyszenie
+
+#Klub
+
+Szkółka Żeglarska Yacht and Fun
+Nadmorska 28
+81-198 Mechelinki
+
+#Towarzystwo
+
+#Poczta
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#muzeum
+
+#Czerwony Krzyż
+
+#Klub Seniora
+
+======================================================================
+81-198 PIERWOSZYNO
+
+#Urząd
+
+#Dom kultury
+
+Kosakowskie Centrum Kultury
+81-198 Pierwoszyno
+
+#Szkoła
+
+#Przedszkole
+
+#Uniwersytet
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#Stowarzyszenie
+
+#Towarzystwo
+
+#Poczta
+
+Kościół pw. Podwyższenia Krzyża Świętego
+Kaszubska 31
+81-198 Pierwoszyno
+
+Kapliczka Św. Jana Chrzciciela
+Kaszubska 22
+81-198 Pierwoszyno
+
+#ZUS
+
+#PZU
+
+#muzeum
+
+12 Kompania Radiotechniczna
+81-198 Pierwoszyno
+
+======================================================================
+81-198 KOSAKOWO
+
+#Urząd
+
+#Ośrodek
+
+Gminny Ośrodek Pomocy Społecznej
+Fiołkowa 2B
+81-198 Kosakowo
+
+#Dom kultury
+
+#Szkoła
+
+#Przedszkole
+
+#Biblioteka
+
+BIBLIOTEKA PUBLICZNA GMINY KOSAKOWO
+Fiołkowa 2a
+81-198 Kosakowo
+
+#Szpital
+
+#Przychodnia
+
+NZOZ Kosakowo
+Stefana Żeromskiego 51
+81-198 Kosakowo
+
+#Bank
+
+Bank Spółdzielczy
+Stefana Żeromskiego 67
+81-198 Kosakowo
+
+PKO Bank Polski S.A.- Bankomat
+Chrzanowskiego 12
+81-198 Kosakowo
+
+Euronet Polska Sp z o. o.
+Polomarket
+Stefana Żeromskiego 85
+81-198 Kosakowo
+
+#Policja
+
+Policja Kosakowo
+Stefana Żeromskiego 71
+81-198
+
+#Przedsiębiorstwo
+
+Wielobranżowe Przedsiębiorstwo Robót Inżynieryjnych Sp. z o.o.
+Słonecznikowa 7A
+81-198 Kosakowo
+
+#Produkcja
+
+Classic Meble. Baltic Summer
+Stefana Żeromskiego 7
+81-198 Kosakowo
+
+#Agencja
+
+PRO-DOMI Biuro Nieruchomości
+Chrzanowskiego 12
+81-198 Kosakowo
+
+#Stowarzyszenie
+
+Stowarzyszenie Aktywne Kosakowo
+Żonkilowa 8
+81-198 Kosakowo
+
+#Towarzystwo
+
+#Firma
+
+#Poczta
+
+#ZUS
+
+#PZU
+
+PZU UBEZPIECZENIA Gdynia - Kosakowo, Suchy Dwór- Dojazd do klienta - Magdalena Hudak
+Bahdaja
+81-198 Suchy Dwór
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+81-198 REWA
+
+#Ośrodek
+
+Pensjonat "Rewa"
+Morska 53
+81-198 Rewa
+
+#Dom kultury
+
+#Szkoła
+
+#Przedszkole
+
+Przedszkole
+Koralowa 1
+81-198 Rewa
+
+#Uniwersytet
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#Stowarzyszenie
+
+Yacht Club Rewa
+Koralowa 5
+81-198 Rewa
+
+#Klub
+
+Yacht Club Rewa
+Morska 56
+81-198 Rewa
+
+#Poczta
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#muzeum
+
+#Klub Seniora
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+81-198 SUCHY DWÓR
+
+#Urząd
+
+#Ośrodek
+
+Ticada. Centrum nurkowania
+Stanisława Lema 20A
+81-198 Suchy Dwór
+
+#Dom kultury
+
+#Szkoła
+
+#Przedszkole
+
+Niepubliczne Przedszkole Tenisowe Jaworek
+Sowia 4
+81-198 Suchy Dwór
+
+#Uniwersytet
+
+#Biblioteka
+
+#Szpital
+
+#Przychodnia
+
+#Bank
+
+#Oddział
+
+Arsenal PL Sp. o.o. SK Oddział
+Szkolna 34
+81-198 Suchy Dwór
+
+#Policja
+
+#Sąd
+
+#Produkcja
+
+START SYSTEM
+Jana Brzechwy 14
+81-198 Suchy Dwór
+
+#Agencja
+
+#Spółka
+
+SPARTAN DOMY Sp. z o.o.
+Sowia 1
+81-198 Suchy Dwór
+
+#Spółdzielnia
+
+#Klub
+
+Jaworowy Klub Sportowy
+Szkolna 34
+81-198 Suchy Dwór
+
+#Poczta
+
+#ZUS
+
+#PZU
+
+#muzeum
+
+Sołecka Świetlica Regionalna w Suchym Dworze
+Jana Chryzostoma Paska 6
+81-198 Suchy Dwór
+
+#Czerwony Krzyż
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+84-122 RZUCEWO
+
+#Dom kultury
+
+#Szkoła
+
+Zespół Szkół Ponadgimnazjalnych
+Rzucewo 20
+84-122 Rzucewo
+
+#Przedszkole
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#Produkcja
+
+#ZUS
+
+#PZU
+
+#muzeum
+
+#Czerwony Krzyż
+
+#Uniwersytet Trzeciego Wieku
+
+#Jeździecki
+
+Stajnia Zamek nad Morzem Profesjonalna Nauka Jazdy Konnej
+Rzucewska 6
+84-100 Rzucewo
+
+======================================================================
+84-122 OSŁONINO
+
+#Dom kultury
+
+Wiejski Klub Kultury w Osłoninie
+Kasztanowa 14
+84-100 Osłonino
+
+#Szkoła
+
+Agrotka
+Kasztanowa 2/1
+84-122 Osłonino
+
+#Przedszkole
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#Klub
+
+#Poczta
+
+#ZUS
+
+#PZU
+
+#muzeum
+
+#Czerwony Krzyż
+
+======================================================================
+84-230 KAZIMIERZ
+
+#Dom kultury
+
+#Szkoła
+
+Szkoła Podstawowa nr 4 im. Kazimierza Pruszkowskiego w Redzie
+Łąkowa 36/38
+84-240
+84-240 Reda
+
+#Przedszkole
+
+Bajkowa Kraina
+Kazimierza Wielkiego 3/1
+84-230 Rumia
+
+#Uniwersytet
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#Spółdzielnia
+
+#Poczta
+
+#ZUS
+
+#PZU
+
+#muzeum
+
+Muzeum pod Dębową Górą
+Majowa 10
+84-230 Kazimierz
+
+======================================================================
+84-123 MRZEZINO
+
+#Dom kultury
+
+#Szkoła
+
+Szkoła Podstawowa im. Pawła Góry w Mrzezinie
+Dworcowa 54
+84-123 Mrzezino
+
+#Uniwersytet
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#Przedsiębiorstwo
+
+Przedsiębiorstwo Usługowo-Transportowe Ol-trans
+Lipowa 6
+84-100 Mrzezino
+
+#Produkcja
+
+Kolmeco. Meble, fronty meblowe. Producent
+Lipowa 10
+84-123 Mrzezino
+
+#Zakład
+
+SAGA. Zakład produkcyjny.
+Pucka 10
+84-123 Mrzezino
+
+#Zakłady
+
+#Związek
+
+Stowarzyszenie na rzecz Rozwoju Mrzezina
+Dworcowa
+84-123 Mrzezino
+
+#Stowarzyszenie
+
+#Klub
+
+KS Start Mrzezino
+Narcyzowa
+84-123 Mrzezino
+
+#Koło
+
+84-123
+Mrzezino
+
+#Towarzystwo
+
+#Organizacja
+
+#Firma
+
+#Poczta
+
+Paczkomat InPost
+Dworcowa 32
+84-123 Mrzezino
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#muzeum
+
+Mogiła zbiorowa
+Unnamed Road
+84-100 Mrzezino
+
+#Czerwony Krzyż
+
+#Uniwersytet Trzeciego Wieku
+
+#Jeździecki
+
+Polska Stajnia Kawaleryjska W Mrzezinie
+Pszenna 40
+84-123 Mrzezino
+
+======================================================================
+84-122 Żelistrzewo
+
+#Urząd
+
+Poczta Polska
+Kwiatowa 12
+84-122 Żelistrzewo
+
+#Dom kultury
+
+Wiejski Dom Kultury (House of Culture)
+Lipowa 17
+84-100 Żelistrzewo
+
+#Szkoła
+
+Zespół Szkół w Żelistrzewie im. Jana III Sobieskiego
+Szkolna 1
+84-122 Żelistrzewo
+
+#Akademia
+
+Akademia Piłkarska Orzełki
+Kwiatowa 12
+84-122 Żelistrzewo
+
+#Uniwersytet
+
+#Biblioteka
+
+#Szpital
+
+Niepubliczny Zakład Opieki Zdrowotnej s.c.
+Szkolna 2
+84-122 Żelistrzewo
+
+#Przychodnia
+
+Ośrodek Zdrowia w Żelistrzewie
+Szkolna 18
+84-122 Żelistrzewo
+
+#Policja
+
+#Sąd
+
+#Produkcja
+
+"WOLSZON" DESKA ELEWACYJNA
+,122 Żelistrzewo
+Rzucewska 87
+84-122 Żelistrzewo
+
+#Stowarzyszenie
+
+#Koło
+
+84-122
+Żelistrzewo
+Rzucewo
+Osłonino
+Sławutowo
+Sławutówko
+Smolno
+
+#Poczta
+
+#ZUS
+
+#ZNP
+
+#muzeum
+
+#Czerwony Krzyż
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+84-100 PUCK
+
+#Dom kultury
+
+Ośrodek Kultury Sportu i Turystyki w Gminie Puck
+10 Lutego 29
+84-100 Puck
+
+#Akademia
+
+Akademia Biznesu
+Mickiewicza 22
+84-100 Puck
+
+#Biblioteka
+
+Biblioteka Publiczna
+Sambora 16
+84-100 Puck
+
+#Szpital
+
+Szpital Pucki sp. z o.o. (Hospital Puck Ltd.)
+1 Maja 13A
+84-100 Puck
+
+#Przychodnia
+
+Puckie Centrum Medyczne
+Wojska Polskiego 22
+84-100 Puck
+
+#Placówka
+
+Zespół Obsługi Placówek Oświatowych
+10 Lutego 29
+84-100 Puck
+
+#Bank
+
+#Oddział
+
+Szpital Pucki sp. z o.o.
+1 Maja 13A
+84-100 Puck
+
+#Wydział
+
+Starostwo Powiatowe w Pucku Wydział Komunikacji
+Kolejowa 7b
+84-100 Puck
+
+#Policja
+
+Komenda Powiatowa Policji
+Dworcowa 5
+84-100 Puck
+
+#Prokuratura
+
+Prokuratura Rejonowa w Pucku
+Wejherowska 3
+84-100 Puck
+
+#Sąd
+
+Sąd Rejonowy
+1 Maja 15
+84-100 Puck
+
+#Produkcja
+
+Pomech Sp. z o.o. Projektowanie i produkcja maszyn budowlanych
+Wejherowska 43
+84-100 Puck
+
+#Zakład
+
+Hedez, usługi pogrzebowe Puck
+1 Maja 8
+84-100 Puck
+
+#Zakłady
+
+#Agencja
+
+Agencja Restrukturyzacji i Modernizacji Rolnictwa. Biuro powiatowe
+Kolejowa 7
+84-100 Puck
+
+#Spółka
+
+Pucka Gospodarka Komunalna Sp. z o.o.
+Nowy Świat 10a
+84-100 Puck
+
+#Związek
+
+Harcerski Ośrodek Morski
+Żeglarzy 1
+84-100 Puck
+
+#Klub
+
+#Towarzystwo
+
+#Fundacja
+
+Fundacja Centrum
+Wejherowska 32a
+84-100 Puck
+
+#Firma
+
+P.P.U.H. i T. MEKTAL
+Mestwina 43
+84-100 Puck
+
+#Poczta
+
+Poczta Polska
+Wałowa 1
+84-100 Puck
+
+#ZUS
+
+ZUS Inspektorat w Pucku
+Orzeszkowej 3
+84-100 Puck
+
+#ZNP
+
+Związek Nauczycielstwa Polskiego
+Zamkowa 5
+84-100 Puck
+
+#muzeum
+
+Muzeum Ziemi Puckiej im. Floriana Ceynowy w Pucku
+Stary Rynek 28
+84-100 Puck
+
+#Czerwony Krzyż
+
+Polski Czerwony Krzyż. Zarząd oddziału
+1 Maja 2
+84-100 Puck
+
+#Klub Seniora
+
+Dzienny Dom Seniora
+Żarnowiecka 13
+84-100 Puck
+
+#Seniorzy
+
+#Fundacja
+
+#Seniora
+
+#Seniorów
+
+#Niepełnosprawnych
+
+Razem. Puckie Stowarzyszenie Wspierające Osoby Niepełnosprawne Umysłowo
+Mestwina 32
+84-100 Puck
+
+#Niepełnosprawni
+
+#Inwalidów
+
+Powiatowe Centrum Pomocy Rodzinie
+Kolejowa 7
+84-100 Puck
+
+======================================================================
+84-230 RUMIA
+
+#Urząd
+
+Urząd Miasta Rumi
+Jana III Sobieskiego 7
+84-230 Rumia
+
+#Ośrodek
+
+Miejski Ośrodek Pomocy Społecznej
+Ślusarska 2
+84-230 Rumia
+
+#Szkoła
+
+#Uniwersytet
+
+Jaworznickiego Uniwersytetu Trzeciego Wieku
+Grunwaldzka 35
+84-230 Rumia
+
+#Przychodnia
+
+Niepubliczny Zakład Opieki Zdrowotnej
+Hieronima Derdowskiego 23
+84-230 Rumia
+
+#Placówka
+
+Credit Agricole Bank Polska S.A. - Placówka Bankowa
+Generała Henryka Dąbrowskiego 2
+84-230 Rumia
+
+#Oddział
+
+PKO Bank Polski S.A.-Oddział 1 w Rumi
+Jana III Sobieskiego 16
+84-230 Rumia
+
+#Wydział
+
+#Policja
+
+Komisariat Policji w Rumi
+Hieronima Derdowskiego 43
+84-230 Rumia
+
+#Przedsiębiorstwo
+
+Przedsiębiorstwo Usług Komunalnych Sp. z o.o.
+Dębogórska 148
+84-230 Rumia
+
+#Fabryka
+
+Fako S.A. Fabryka kotłów
+Stoczniowców 8
+84-230 Rumia
+
+#Zakład
+
+Zakład fryzjerski
+Wrocławska 31C
+84-230 Rumia
+
+#Agencja
+
+Lesmar. Biuro nieruchomości. Pośrednictwo w obrocie nieruchomościami
+Antoniego Abrahama 8
+84-230 Rumia
+
+#Spółka
+
+#Spółdzielnia
+
+Spółdzielnia Mieszkaniowa "Janowo"
+Generała Henryka Dąbrowskiego 56
+84-230 Rumia
+
+#Stowarzyszenie
+
+#Koło
+
+84-230
+Gdynia
+Reda
+Rumia
+
+#Fundacja
+
+Fundacja Dla Was
+Wileńska 58
+84-230 Rumia
+
+#Poczta
+
+#Emeryci
+
+Polski Związek Emerytów, Rencistów i Inwalidów. Oddział rejonowy
+Adama Mickiewicza 19
+84-230 Rumia
+
+#Emerytów
+
+#Instytut
+
+#ZUS
+
+ZUS Punkt Informacyjny w Rumi
+Starowiejska 9
+84-230 Rumia
+
+#Amazonki
+
+Amazonki. Klub Kobiet po Mastektomii
+Adama Mickiewicza 19
+84-230 Rumia
+
+#ZNP
+
+#muzeum
+
+#Klub Seniora
+
+#Seniorzy
+
+#Fundacja
+
+#Centrum
+
+#Uniwersytet Trzeciego Wieku
+
+#Emeryci
+
+#Emerytów
+
+#Inwalidów
+
+#Jeździecki
+
+Akademia Jeździecka J.J. Darboven
+Stoczniowców 2A
+84-230 Rumia
+
+======================================================================
+84-123 Połchowo
+
+#Uniwersytet
+
+#Biblioteka
+
+#Bank
+
+#Policja
+
+#Sąd
+
+#Klub
+
+#Koło
+
+#ZNP
+
+#PZU
+
+#muzeum
+
+#Czerwony Krzyż
+
+#Jeździecki
+
+Klub Jeździecki Jackiewiczów
+Polna 30
+84-123 Połchowo
+
+======================================================================
+84-207 ŁĘŻYCE
+
+#Ośrodek
+
+Pomerania. Ośrodek jeździecki
+Świerkowa 4
+84-207 Łężyce
+
+#Szkoła
+
+#Przedszkole
+
+#Uniwersytet
+
+#Biblioteka
+
+#Produkcja
+
+ZPUH Henzym
+Jarzębinowa 8-12
+84-207
+84-207 Łężyce
+
+#Związek
+
+Szansa dla Nas. Stowarzyszenie
+Aleja Parku Kajobrazowego 22
+84-200 Łężyce
+
+#Stowarzyszenie
+
+#Towarzystwo
+
+#Firma
+
+ALLTS SP. Z O.O.
+Aleja Parku Krajobrazowego 76
+84-207 Łężyce
+
+#ZUS
+
+#ZNP
+
+#muzeum
+
+BARS 206
+84-207 Łężyce
+
+#Czerwony Krzyż
+
+#Klub Seniora
+
+#Jeździecki
+
+======================================================================
+84-122 Sławutówko
+
+#Ośrodek
+
+Park Ewolucji
+Sławutówko 14
+84-122 Sławutówko
+
+#Dom kultury
+
+#Przedszkole
+
+#Biblioteka
+
+#Szpital
+
+#Policja
+
+#Sąd
+
+#Klub
+
+#PZU
+
+#muzeum
+
+#Czerwony Krzyż
+
+#Klub Seniora
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+84-100 POŁCZYNO
+
+#Przedszkole
+
+#Uniwersytet
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#Produkcja
+
+#Spółdzielnia
+
+#Organizacja
+
+#Poczta
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#muzeum
+
+Ś.p Góra Myszczy Szczyla
+Szkolna 11
+84-100 Połczyno
+
+#Czerwony Krzyż
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+84-122 SŁAWUTOWO
+
+#Dom kultury
+
+Wiejski Klub Kultury w Sławutowie
+Szkolna 65
+84-100 Sławutowo
+
+#Szkoła
+
+#Przedszkole
+
+#Uniwersytet
+
+#Biblioteka
+
+#Bank
+
+#Policja
+
+#Sąd
+
+#Klub
+
+#Koło
+
+#Poczta
+
+#muzeum
+
+Osada Średniowieczna Sławutowo
+Wejherowska 76
+84-100 Sławutowo
+
+#Czerwony Krzyż
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+84-240 REDA
+
+#Urząd
+
+Urząd Miasta Reda
+Gdańska 33
+84-240 Reda
+
+#Dom kultury
+
+Miejski Dom Kultury w Redzie
+Łąkowa 59 A
+84-240 Reda
+
+#Szkoła
+
+#Akademia
+
+Akademia Pana Kleksa. Przedszkole Niepubliczne
+Gniewowska 4
+84-240 Reda
+
+#Biblioteka
+
+Miejska Biblioteka Publiczna im Hieronima Derdowskiego
+Hieronima Derdowskiego 3
+84-240 Reda
+
+#Szpital
+
+#Bank
+
+#Oddział
+
+PKO Bank Polski S.A.-Oddział 1 w Redzie
+Łąkowa 35 A
+84-240 Reda
+
+#Wydział
+
+#Policja
+
+Policja. Komenda Powiatowa w Wejherowie. Komisariat
+Łąkowa 61
+84-240 Reda
+
+#Prokuratura
+
+#Sąd
+
+#Fabryka
+
+H+H Polska Sp. z o.o.
+Gniewowska 5
+84-240 Reda
+
+#Spółdzielnia
+
+SPÓŁDZIELNIA MIESZKANIOWA „REDA”
+Cypriana Kamila Norwida 47
+84-240 Reda
+
+#Związek
+
+Polski Związek Emerytów Rencistów i Inwalidów
+Łąkowa 59
+84-240 Reda
+
+#Klub
+
+Błyskawica Reda Rekowo
+Rekowska
+84-240 Reda
+
+#Koło
+
+84-240
+Reda
+Małe Trójmiasto Kaszubskie
+
+#Fundacja
+
+Fundacja Projekt KOSMA Pomagamy Psim Seniorom
+Ogrodników 2
+84-240 Reda
+
+#Firma
+
+Fhu PATRI PLEXI & PCW
+Żytnia 6
+84-240 Reda
+
+#Emeryci
+
+#Emerytów
+
+#Instytut
+
+Niepubliczny Zakład Opieki Zdrowotnej
+Łąkowa 1
+84-240 Reda
+
+#ZNP
+
+#PZU
+
+#Czerwony Krzyż
+
+#Fundacja
+
+#Centrum
+
+#Emeryci
+
+#Emerytów
+
+#Inwalidzi
+
+#Inwalidów
+
+#Jeździecki
+
+Bergo największy sklep jeździecki
+Wejherowska 56a
+84-240 Reda
+
+======================================================================
+84-207 KOLECZKOWO
+
+#Ośrodek
+
+Zielone Wzgórze Koleczkowo- Centrum Rehabilitacji
+ul
+Pod Lasem 1
+84-207 Koleczkowo
+
+#Przedszkole
+
+Szkoła Podstawowa im. Partyzantów Kaszubskich
+Wejherowska 24
+84-207 Koleczkowo
+
+#Uniwersytet
+
+#Biblioteka
+
+#Szpital
+
+#Przychodnia
+
+NZOZ Nasze Zdrowie
+Wejherowska 19
+84-207 Koleczkowo
+
+#Produkcja
+
+ABC FoliaPak
+Obrońców Wybrzeża 4
+84-207 Koleczkowo
+
+#Fundacja
+
+Fundacja La Buka
+Pod Lasem 7
+84-207 Koleczkowo
+
+#Firma
+
+#Poczta
+
+Poczta Polska
+Partyzantów Kaszubskich 3
+84-207 Koleczkowo
+
+#PZU
+
+#muzeum
+
+Pomnik ku czci Partyzantów Gryfu Pomorskiego
+Wejherowska 22
+84-207 Koleczkowo
+
+#Czerwony Krzyż
+
+#Seniorzy
+
+#Fundacja
+
+#Seniora
+
+Dom Seniora Bryza w Koleczkowie, Dom opieki pomorskie
+Wojska Polskiego 23
+84-207 Koleczkowo
+
+#Seniorów
+
+#Jeździecki
+
+Hipoterapia - Stowarzyszenie Drobnostki
+Jeziorna 1
+84-207 Koleczkowo
+
+======================================================================
+84-100 ZDRADA
+
+#Szkoła
+
+#Produkcja
+
+Jantar Ltd Sp. z o.o. Produkcja, handel rybami i przetworami rybnymi
+9
+84-100 Zdrada
+
+#Zakład
+
+ZHUP ZDRAMET
+Zdrada 8A
+84-100 Puck
+
+#Agencja
+
+Stajnia Bursztynowa
+Zdrada 19
+84-100 Zdrada
+
+#Spółka
+
+#Czerwony Krzyż
+
+#Jeździecki
+
+======================================================================
+84-206 ZBYCHOWO
+
+#Dom kultury
+
+#Szkoła
+
+#Przedszkole
+
+#Biblioteka
+
+#Szpital
+
+#Policja
+
+#Sąd
+
+#Produkcja
+
+Steindecor.pl - Panele ścienne,3d,gipsowe,dekoracyjne 3d i Kamień dekoracyjny
+Źródlana 25
+84-206 Zbychowo
+
+#ZNP
+
+#muzeum
+
+#Czerwony Krzyż
+
+#Klub Seniora
+
+======================================================================
+84-206 GNIEWOWO
+
+#Dom kultury
+
+#Szkoła
+
+Świetlica wiejska (dawna Szkoła)
+Spacerowa 2
+84-206 Gniewowo
+
+#Biblioteka
+
+#Bank
+
+#Policja
+
+#ZUS
+
+#ZNP
+
+#muzeum
+
+#Czerwony Krzyż
+
+#Klub Seniora
+
+======================================================================
+84-206 BIESZKOWICE
+
+#Szkoła
+
+#Przedszkole
+
+#Biblioteka
+
+Biblioteka i Centrum Kultury - Filia nr 3
+Szkolna 4
+84-206 Bieszkowice
+
+#Szpital
+
+#Policja
+
+#Sąd
+
+#Fabryka
+
+Interdrex Sp. z o.o.
+Gdańska 50
+84-206 Bieszkowice
+
+#Zakład
+
+#Spółka
+
+#Firma
+
+#ZNP
+
+#PZU
+
+#muzeum
+
+#Czerwony Krzyż
+
+#Klub Seniora
+
+======================================================================
+84-206 NOWY DWÓR WEJHEROWSKI
+
+#Szkoła
+
+Szkoła Podstawowa im. A. Nagla Samorządowa
+Szkolna 1
+84-206 Nowy Dwór Wejherowski
+
+#Przedszkole
+
+Niepubliczne Przedszkole PLUSZAK
+Zbychowska 1
+84-206 Nowy Dwór Wejherowski
+
+#Uniwersytet
+
+#Biblioteka
+
+#Bank
+
+Usługi Księgowe Katarzyna Jankuniec
+Zbychowska 19
+84-206 Nowy Dwór Wejherowski
+
+#Policja
+
+#Sąd
+
+#Przedsiębiorstwo
+
+PPHU PLEXI SYSTEM s.c.
+ul. Ks. dr Leona Heyke 11
+84-206 Nowy Dwór Wejherowski
+
+#Produkcja
+
+#Spółdzielnia
+
+#Stowarzyszenie
+
+Parafia rzymskokatolicka Stygmatów św. Franciszka
+84-206 Nowy Dwór Wejherowski; 42
+
+#Firma
+
+#Amazonki
+
+#ZNP
+
+#muzeum
+
+Leśna-Karczma Faltom
+Rekreacyjna 5
+84-206 Nowy Dwór Wejherowski
+
+#Czerwony Krzyż
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+84-106 MECHOWO
+
+#Dom kultury
+
+Wiejski Klub Kultury w Mechowie
+Ks. Zygmunta Treli 69
+84-106 Mechowo
+
+#Szkoła
+
+Osp Mechowo
+ks. Zygmunta Trelli 63
+84-106
+
+#Biblioteka
+
+#Szpital
+
+#Policja
+
+#Zakład
+
+ZAKŁAD USŁUGOWO - HANDLOWY "GOLONKA"
+Mechowo 57
+84-106 Mechowo
+
+#Klub
+
+#ZUS
+
+#muzeum
+
+Groty Mechowskie
+84-106 Mechowo
+
+#Czerwony Krzyż
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+84-200 WEJHEROWO
+
+#Ośrodek
+
+#Szkoła
+
+#Akademia
+
+Akademia Krasnala. Kliczykowska A.
+Kaszubska 12
+84-200 Wejherowo
+
+#Uniwersytet
+
+Kaszubsko-Pomorska Szkoła Wyższa
+Dworcowa 7
+84-200 Wejherowo
+
+#Politechnika
+
+Mała Politechnika
+Rzeźnicka 12e
+84-200 Wejherowo
+
+#Placówka
+
+Nest Bank - Wejherowo (placówka partnerska)
+3 Maja 1/1
+84-200 Wejherowo
+
+#Oddział
+
+18. Wojskowy Odział Gospodarczy
+Jana III Sobieskiego 277
+84-200 Wejherowo
+
+#Policja
+
+Komenda Powiatowa Policji
+Dworcowa 14
+84-200 Wejherowo
+
+#Prokuratura
+
+Prokuratura Rejonowa w Wejherowie
+Hallera 21
+84-200 Wejherowo
+
+#Sąd
+
+Sąd Rejonowy w Wejherowie
+Sobieskiego 302
+84-200 Wejherowo
+
+#Fabryka
+
+BUS FACTORY
+Przemysłowa 56
+84-200 Wejherowo
+
+#Zakład
+
+Areszt Śledczy
+Jana III Sobieskiego 302
+84-200 Wejherowo
+
+#Agencja
+
+MARSTA Biuro Obsługi Nieruchomości
+Rzeźnicka 3
+84-200 Wejherowo
+
+#Spółka
+
+Chopin Telewizja Kablowa
+Przemysłowa 3
+84-200 Wejherowo
+
+#Spółdzielnia
+
+Wejherowska Spółdzielnia Mieszkaniowa
+ul
+Generała Józefa Hallera 5
+84-200 Wejherowo
+
+#Związek
+
+#Koło
+
+#Towarzystwo
+
+Wejherowskie Towarzystwo Budownictwa Społecznego Sp. z o.o.
+Parkowa 2a/20
+84-200 Wejherowo
+
+#Fundacja
+
+Uśmiech Dziecka. Fundacja
+Tadeusza Kościuszki 9
+84-200 Wejherowo
+
+#Poczta
+
+#Emeryci
+
+Polski Związek Emerytów, Rencistów i Inwalidów. Oddział rejonowy
+Pucka 9
+84-200 Wejherowo
+
+#Instytut
+
+Instytut Urody Prestige
+Hallera 20A
+84-200 Wejherowo
+
+#ZUS
+
+ZUS Inspektorat w Wejherowie
+Jana III Sobieskiego 294
+84-200 Wejherowo
+
+#ZNP
+
+Związek Nauczycielstwa Polskiego. Zarząd oddziału
+Ofiar Piaśnicy 22
+84-200 Wejherowo
+
+#Czerwony Krzyż
+
+Polski Czerwony Krzyż. Pomorski Oddział Okręgowy, Oddział Rejonowy w Wejherowie
+Hallera 1
+84-200 Wejherowo
+
+#Klub Seniora
+
+Miejski Ośrodek Pomocy Społecznej
+Kusocińskiego 17
+84-200 Wejherowo
+
+#Seniorzy
+
+#Fundacja
+
+#Seniora
+
+#Seniorów
+
+#Uniwersytet Trzeciego Wieku
+
+Wejherowski Uniwersytet Trzeciego Wieku
+Mikołaja Kopernika 13
+84-200 Wejherowo
+
+#Emeryci
+
+#Niepełnosprawnych
+
+Powiatowe Centrum Pomocy Rodzinie
+Jana III Sobieskiego 279
+84-200 Wejherowo
+
+#Niepełnosprawni
+
+#Inwalidzi
+
+Auto Brudniewicz. Centrum Motoryzacji
+Inwalidów Wojennych 1
+84-200 Wejherowo
+
+#Inwalidów
+
+#Jeździecki
+
+======================================================================
+84-200 KĄPINO
+
+#Szkoła
+
+#Przedszkole
+
+#Uniwersytet
+
+#Biblioteka
+
+#Policja
+
+#Sąd
+
+#Produkcja
+
+MS Elektronik - Internetowy sklep oraz hurtownia elektroniczna
+Jaworowa 4
+84-200 Kąpino
+
+#Spółdzielnia
+
+#Fundacja
+
+#Poczta
+
+#ZUS
+
+#ZNP
+
+#muzeum
+
+#Czerwony Krzyż
+
+#Fundacja
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+84-215 SOPIESZYNO
+
+#Biblioteka
+
+#Bank
+
+#Policja
+
+#Czerwony Krzyż
+
+#Klub Seniora
+
+======================================================================
+84-217 SZEMUD
+
+#Urząd
+
+Urząd Gminy Szemud
+Kartuska 13
+84-217 Szemud
+
+#Ośrodek
+
+Gminne Centrum Kultury, Sportu i Rekreacji
+Szkolna 4a
+84-217 Szemud
+
+#Szkoła
+
+Szkoła Podstawowa im. mjr H. Sucharskiego
+Szkolna 4
+84-217 Szemud
+
+#Przedszkole
+
+Przedszkole Publiczne
+Szkolna 4
+84-217 Szemud
+
+#Biblioteka
+
+Biblioteka Publiczna Gminy Szemud
+84-217 Szemud; Kwidzińskiego 1
+84-217
+
+#Przychodnia
+
+Nasze Zdrowie. NZOZ
+Wejherowska 19
+84-217 Szemud
+
+#Policja
+
+Komisariat Policji W Szemudzie
+Wejherowska 29
+84-217 Szemud
+
+#Produkcja
+
+#Stowarzyszenie
+
+Gminny Ośrodek Pomocy Społecznej w Szemudzie
+2A
+Obrońców Szemuda 2
+84-217 Szemud
+
+#Towarzystwo
+
+#ZNP
+
+#PZU
+
+PZU Ubezpieczenia Szemud - Agent Krzysztof Ustarbowski
+Wejherowska 35
+84-241 Szemud
+
+#muzeum
+
+Miejsce Pamięci
+84-217 Szemud
+
+#Czerwony Krzyż
+
+#Klub Seniora
+
+#Seniorzy
+
+Centrum Seniora Barbara
+Szkolna 19
+84-217 Szemud
+
+#Seniorów
+
+======================================================================
+84-217 PRZETOCZYNO
+
+#Dom kultury
+
+#Szkoła
+
+#Przedszkole
+
+#Biblioteka
+
+#Szpital
+
+#Policja
+
+#Firma
+
+Tobi Floors Tobiasz Bieszk
+Małopolska 1
+84-217 Przetoczyno
+
+#muzeum
+
+#Czerwony Krzyż
+
+======================================================================
+84-200 MIGA
+
+#Dom kultury
+
+#Szkoła
+
+#Uniwersytet
+
+#Biblioteka
+
+#Szpital
+
+#Policja
+
+#Poczta
+
+#ZUS
+
+#ZNP
+
+#muzeum
+
+#Czerwony Krzyż
+
+======================================================================
+84-106 LEŚNIEWO
+
+#Ośrodek
+
+Puckie Centrum Medyczne Sp. z o.o. Sp.k.
+Kościelna 12
+84-106 Leśniewo
+
+#Przedszkole
+
+Pod Sosenką. Przedszkole niepubliczne
+Brzechwy 7
+84-106 Leśniewo
+
+#Biblioteka
+
+#Szpital
+
+#Przychodnia
+
+#Policja
+
+#Sąd
+
+#Poczta
+
+Paczkomat InPost
+Kościelna 4
+84-106 Leśniewo
+
+#ZUS
+
+#muzeum
+
+Dom Spotkań Socjalistycznych Republik Radzieckich
+Starowiejska 22
+84-106 Leśniewo
+
+#Czerwony Krzyż
+
+#Klub Seniora
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+84-106 MAŁA PIAŚNICA
+
+#Dom kultury
+
+#Szkoła
+
+#Biblioteka
+
+#Szpital
+
+#Policja
+
+#PZU
+
+#muzeum
+
+======================================================================
+54-106 DOMATOWO
+
+#Szkoła
+
+#Przedszkole
+
+#Poczta
+
+#Czerwony Krzyż
+
+======================================================================
+24-215 GOWINO
+
+#Szkoła
+
+#Szpital
+
+#Spółka
+
+#ZNP
+
+#PZU
+
+#Czerwony Krzyż
+
+======================================================================
+84-239 BOLSZEWO
+
+#Urząd
+
+Urząd Pocztowy
+Zamostna 39
+84-239 Bolszewo
+
+#Ośrodek
+
+NIEPUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ "Bukowa" Sp. z o.o.
+Zamostna 3a
+84-239 Bolszewo
+
+#Dom kultury
+
+#Szkoła
+
+#Akademia
+
+Akadamia Piłkarska Cassubian
+Ogrodowa 2
+84-239 Bolszewo
+
+#Biblioteka
+
+Biblioteka Publiczna Filia nr 1
+Reja 9
+84-239 Bolszewo
+
+#Szpital
+
+#Przychodnia
+
+#Oddział
+
+Kaszubski Bank Spółdzielczy w Bolszewie. Oddział
+Zamostna 3c
+84-239 Bolszewo
+
+#Policja
+
+#Sąd
+
+#Przedsiębiorstwo
+
+Przedsiębiorstwo Budowlane TEAM
+Polska
+Leśna 8a
+84-239 Bolszewo
+
+#Produkcja
+
+#Fabryka
+
+VRISTON sp. z o.o.
+Długa 1
+84-239 Bolszewo
+
+#Spółka
+
+#Związek
+
+STOWARZYSZENIE SPORTÓW WALKI I LEKKIEJ ATLETYKI "SHOTOKAN I L.A.
+Żeromskiego 5
+84-239 Bolszewo
+
+#Stowarzyszenie
+
+#Klub
+
+Akademia Sportów Walki i Fitness "Free Fight"
+Świerkowa 4
+84-239 Bolszewo
+
+#Koło
+
+84-239
+Bolszewo
+
+#Towarzystwo
+
+#Poczta
+
+#ZUS
+
+#ZNP
+
+#PZU
+
+#muzeum
+
+#Czerwony Krzyż
+
+#Klub Seniora
+
+#Centrum
+
+#Seniora
+
+#Seniorów
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+83-042 CZĄSTKOWO
+
+#Dom kultury
+
+#Szkoła
+
+#Przedszkole
+
+#Biblioteka
+
+#Policja
+
+#Klub
+
+#ZNP
+
+#muzeum
+
+#Czerwony Krzyż
+
+#Klub Seniora
+
+======================================================================
+84-242 ROBAKOWO
+
+#Szkoła
+
+#Przedszkole
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#muzeum
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+84-241 GOŚCICINO
+
+#Ośrodek
+
+Biblioteka I Centrum KULTURY Gminy Wejherowo
+Drzewiarza 2
+84-241 Gościcino
+
+#Dom kultury
+
+Biblioteka I Centrum KULTURY Gminy Wejherowo (Gminny Ośrodek Kultury 'Dworek Drzewiarza')
+Drzewiarza 2
+84-241 Gościcino
+
+#Szkoła
+
+#Przedszkole
+
+Niepubliczny Żłobek i Publiczne Przedszkole MegaMocni Gościcino
+Fabryczna 5
+84-241 Gościcino
+
+#Biblioteka
+
+#Szpital
+
+#Przychodnia
+
+Niepubliczny Zakład Opieki Zdrowotnej Sp. z o.o.
+Wejherowska 26
+84-241 Gościcino
+
+#Bank
+
+#Policja
+
+#Sąd
+
+#Przedsiębiorstwo
+
+Polipack sp.j. PPHU
+Handlowa 21
+84-241 Gościcino
+
+#Fabryka
+
+Gościcinska Fabryka Mebli Sp. z o.o.
+Fabryczna 1
+84-241 Gościcino
+
+#Zakład
+
+#Spółka
+
+Promeco Sp. z o.o.
+Cezarego Klimka 10
+84-241 Gościcino
+
+#Firma
+
+#Poczta
+
+Poczta Polska
+Brzozowa 1
+84-241 Gościcino
+
+#ZUS
+
+#PZU
+
+#muzeum
+
+#Czerwony Krzyż
+
+#Klub Seniora
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+84-252 PARADYŻ
+
+#Przedszkole
+
+#Szpital
+
+#Policja
+
+#ZUS
+
+#PZU
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+84-217 MILWINO
+
+#Dom kultury
+
+#Szkoła
+
+#Przedszkole
+
+#Biblioteka
+
+#Szpital
+
+#Policja
+
+#Poczta
+
+#ZUS
+
+#PZU
+
+#muzeum
+
+#Czerwony Krzyż
+
+#Klub Seniora
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+84-217 SMAŻYNO
+
+#Ośrodek
+
+Ośrodek Terapii Uzależnień w Smażynie
+Smażyno 9
+84-217 Szemud
+
+#Szkoła
+
+Ośrodek Terapii Uzależnień
+ul
+Szemud
+Smażyno 9
+84-217 Smażyno
+
+#Przedszkole
+
+#Politechnika
+
+#Biblioteka
+
+#Placówka
+
+#Bank
+
+#Oddział
+
+#Policja
+
+#Produkcja
+
+Młyn
+84-217 Smażyno
+
+#Zakład
+
+Bobrucki Eugeniusz. Zakład kominiarski, Kominiarz Wejherowo
+84-217 Smażyno
+
+#Zakłady
+
+#Agencja
+
+#Spółka
+
+#Związek
+
+Kościół Rzymskokatolicki Pw. św. Antoniego Padewskiego
+Smażyno 4
+84-217 Smażyno
+
+#Stowarzyszenie
+
+#Klub
+
+PZŁ Trop wiata imprezowa
+84-217 Smażyno
+
+#Towarzystwo
+
+#Poczta
+
+#Emerytów
+
+#Instytut
+
+#PZU
+
+#muzeum
+
+#Czerwony Krzyż
+
+#Uniwersytet Trzeciego Wieku
+
+#Emerytów
+
+#Inwalidów
+
+======================================================================
+84-242 LUZINO
+
+#Urząd
+
+Urząd Gminy Luzino
+Ofiar Stutthofu 11
+84-242 Luzino
+
+#Ośrodek
+
+Ośrodek Zdrowia
+Młyńska 7
+84-242 Luzino
+
+#Akademia
+
+Akademia Jazdy TEMPO
+Bankowa 8
+84-242 Luzino
+
+#Biblioteka
+
+Biblioteka Publiczna Gminna im. L. Roppla
+Ofiar Stutthofu 56
+84-242 Luzino
+
+#Szpital
+
+#Przychodnia
+
+#Bank
+
+#Oddział
+
+Bank Spółdzielczy w Krokowej Oddział w Luzinie
+Bankowa 2
+84-242 Luzino
+
+#Wydział
+
+#Policja
+
+Posterunek Policji w Luzinie
+Ofiar Stutthofu 58
+84-242 Luzino
+
+#Sąd
+
+#Przedsiębiorstwo
+
+Budrem. Przedsiębiorstwo robót energetyczno - budowlanych. Rybak R.
+Krótka 1
+84-242 Luzino
+
+#Produkcja
+
+BERTRAND okna i drzwi - Salon firmowy - Luzino
+Wejherowska 12
+84-242 Luzino
+
+#Zakład
+
+Zakład karny w Luzinie
+Mickiewicza
+84-242 Luzino
+
+#Grupa
+
+Kaszubska Droga. Lokalna Grupa Działania
+ul. Józefa Wilczka 7
+84-242 Luzino
+
+#Koło
+
+84-242
+Luzino
+Kębłowo
+Barłomino
+Sychowo
+Kochanowo
+WIĘCEJ
+
+#Towarzystwo
+
+Stowarzyszenie Samorządność
+Dobra 4
+84-242 Luzino
+
+#Organizacja
+
+#Poczta
+
+Poczta Polska
+ul
+Ofiar Stutthofu 7
+84-242 Luzino
+
+#ZUS
+
+#muzeum
+
+#Czerwony Krzyż
+
+#Klub Seniora
+
+KTS-K LUZINO
+84-242 Luzino
+
+#Seniorów
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+84-242 KĘBŁOWO
+
+#Urząd
+
+#Ośrodek
+
+#Szkoła
+
+Szkoła Podstawowa im. Jana Pawła II
+Wiejska 49
+84-242 Kębłowo
+
+#Przedszkole
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+Filia w Kębłowie Bank Spółdzielczy w Krokowej
+Perłowa 2
+84-242 Kębłowo
+
+#Policja
+
+#Fabryka
+
+BUSPRESTIGE
+Wejherowska 28
+84-242 Kębłowo
+
+#Klub
+
+Zajazd CHATA Kębłowo
+Gdańska 2
+84-242 Kębłowo
+
+#PZU
+
+#muzeum
+
+#Klub Seniora
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+84-252 KNIEWO
+
+#Ośrodek
+
+Salezjańskie Centrum Wychowania Młodzieży Wspólnoty Zwiastowania
+Aleja Lipowa 117
+84-252 Kniewo
+
+#Szkoła
+
+#Biblioteka
+
+#Szpital
+
+#Policja
+
+#Fundacja
+
+Salezjańska Fundacja Zwiastowanie
+Aleja Lipowa 117
+84-252 Kniewo
+
+#PZU
+
+#muzeum
+
+#Czerwony Krzyż
+
+#Fundacja
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+84-252 ZAMOSTNE
+
+#Szkoła
+
+Szkoła Podstawowa im. Jakuba Wejhera
+Szkolna 4
+84-252 Zamostne
+
+#Szpital
+
+#Bank
+
+#ZUS
+
+======================================================================
+84-251 OPALINO
+
+#Dom kultury
+
+#Poczta
+
+#ZUS
+
+#PZU
+
+#Czerwony Krzyż
+
+======================================================================
+84-220 STRZEBIELINO
+
+#Dom kultury
+
+Gminna Instytucja Kultury i Biblioteka w Łęczycach z siedzibą w Strzebielinie
+tuwima 4
+84-220 Strzebielino
+
+#Przedszkole
+
+Zespół Szkół i Przedszkola
+Marii Curie Skłodowskiej 1
+84-220 Strzebielino
+
+#Uniwersytet
+
+#Przychodnia
+
+Samodzielny Publiczny Zakład Opieki Zdrowotnej
+Leśna 18
+84-220 Strzebielino
+
+#Bank
+
+Kaszubski Bank Spółdzielczy
+Wejherowska 33
+84-220 Strzebielino
+
+#Policja
+
+#Sąd
+
+#Produkcja
+
+Eurocast Sp. z o.o.
+Wejherowska 9
+84-220 Strzebielino
+
+#Firma
+
+#Poczta
+
+Agencja Pocztowa
+Leśna 12/1
+84-220 Strzebielino
+
+#Instytucja
+
+#ZUS
+
+#ZNP
+
+#muzeum
+
+#Klub Seniora
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+84-242 RZEPECKA
+
+#Urząd
+
+#Ośrodek
+
+#Przedszkole
+
+#Uniwersytet
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#Sąd
+
+#Produkcja
+
+#Stowarzyszenie
+
+#Klub
+
+#Koło
+
+#Poczta
+
+#ZUS
+
+#muzeum
+
+#Klub Seniora
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+84-242 TĘPCZ
+
+#Szkoła
+
+Chit Chat
+Tartaczna 1
+84-242 Tępcz
+
+#Przedszkole
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#Produkcja
+
+Tadpol
+84-242 Tępcz; 25
+84-242
+
+#Firma
+
+#ZUS
+
+#muzeum
+
+#Klub Seniora
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+86-230 LISEWO
+
+#Urząd
+
+Urząd Gminy
+Chełmińska 2
+86-230 Lisewo
+
+#Ośrodek
+
+Gminny Ośrodek Zdrowia
+Toruńska 14
+86-230 Lisewo
+
+#Przedszkole
+
+Przedszkole Gminne
+Toruńska 15
+86-230 Lisewo
+
+#Biblioteka
+
+Gminna Biblioteka Publiczna
+Toruńska 15
+86-230 Lisewo
+
+#Przychodnia
+
+#Bank
+
+SGB Bank Spółdzielczy w Toruniu (Oddział w Lisewie)
+Chełmińska 30
+86-230 Lisewo
+
+#Policja
+
+#Zakłady
+
+Zakład Mięsny Ritter
+Wybudowanie Wąbrzeskie 20
+86-230 Lisewo
+
+#Spółka
+
+Smolbud. Spółka budowlano - handlowa
+86-230 Lisewo; Wybudowanie Wąbrzeskie 1
+86-230
+
+#Poczta
+
+Poczta Polska
+ul
+Wybudowanie Wąbrzeskie 2
+86-230 Lisewo
+
+#ZUS
+
+#Klub Seniora
+
+======================================================================
+84-214 BOŻEPOLE MAŁE
+
+#Dom kultury
+
+#Szkoła
+
+#Akademia
+
+Dorota Chołody Przedszkole I Klub Dziecięcy "Smyk"
+Wiejska 14
+84-214 Bożepole Małe
+
+#Biblioteka
+
+#Bank
+
+#Policja
+
+#Spółka
+
+Eko-Laser Sp. z o.o. Sp. K.
+Polna 1
+84-214 Bożepole Małe
+
+#Spółdzielnia
+
+#PZU
+
+#Czerwony Krzyż
+
+SKLEP SPOŻYWCZO-PRZEMYSŁOWY GRAŻYNA KONDRATKO
+Lotników 22
+84-214 Bożepole Małe
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+84-214 BOŻEPOLE WIELKIE
+
+#Szkoła
+
+#Przedszkole
+
+Bajka. Przedszkole Niepubliczne
+Chmieleniecka 3
+84-214 Bożepole Wielkie
+
+#Biblioteka
+
+Filia Gminnej Biblioteki Publicznej w Bożympolu Wielkim
+Chmieleniecka 13
+84-214 Bożepole Wielkie
+
+#Policja
+
+Pozostałości dawnej niemieckiej policji kryminalnej.
+Lęborska
+84-214 Bożepole Wielkie
+
+#Sąd
+
+#Spółka
+
+Aguas Limpias Sp.z o.o.
+Osiedlowa 17
+84-214 Bożepole Wielkie
+
+#Spółdzielnia
+
+Spółdzielnia Mieszkaniowa
+Osiedlowa 28
+84-214 Bożepole Wielkie
+
+#Firma
+
+Albet Producent Prefabrykatów Betonowych
+Szkolna 2
+84-214 Bożepole Wielkie
+
+#Poczta
+
+#Instytut
+
+Zakład Stolarski Edmund Dempc
+Lęborska 3
+84-214 Bożepole Wielkie
+
+#PZU
+
+#Czerwony Krzyż
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+84-251 CHYNOWIE
+
+#Dom kultury
+
+======================================================================
+84-251 PŁACZEWO
+
+#Dom kultury
+
+#Biblioteka
+
+#Policja
+
+#Koło
+
+Szymanka
+Płaczewo 1
+84-251 Płaczewo
+
+#Poczta
+
+#PZU
+
+#Czerwony Krzyż
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+84-250 GNIEWINO
+
+#Urząd
+
+Urząd Gminy w Gniewinie
+Pomorska 8
+84-250 Gniewino
+
+#Ośrodek
+
+Gminny Ośrodek Pomocy Społecznej
+84-250 Gniewino; Pomorska 40 1
+84-250
+
+#Dom kultury
+
+#Szkoła
+
+Szkoła Podstawowa im. G. Narutowicza
+Szkolna 1
+84-250 Gniewino
+
+#Szpital
+
+Puckie Centrum Medyczne (Puckie Medical Center)
+Pomorska 42
+84-250 Gniewino
+
+#Przychodnia
+
+Bik-med. NZOZ
+84-250 Gniewino; Pomorska 40/1
+84-250
+
+#Placówka
+
+#Bank
+
+#Oddział
+
+Kaszubski Bank Spółdzielczy w Wejherowie. Oddział Gniewino
+Pomorska 58
+84-250 Gniewino
+
+#Wydział
+
+#Policja
+
+Policja. Komenda Powiatowa w Wejherowie. Komisariat
+Nowa 2
+84-250 Gniewino
+
+#Produkcja
+
+Master Corgips. Producent sztukaterii gipsowej
+Słoneczna 1
+84-250 Gniewino
+
+#Grupa
+
+Bursztynowy Pasaż. Stowarzyszenie
+Szkolna 3
+84-250 Gniewino
+
+#Agencja
+
+Dorota Pieniążk Kaszubskie Biuro Nieruchomości
+Słoneczna 24a
+84-250 Gniewino
+
+#Spółka
+
+Thai Union Poland Sp. z o.o.
+Strzebielinko 22
+84-250 Gniewino
+
+#Związek
+
+#Stowarzyszenie
+
+#Towarzystwo
+
+#Fundacja
+
+Fundacja na Rzecz Rozwoju Gminy Gniewino „Wspólne Dobro”
+Szkolna 1
+84-250 Gniewino
+
+#Firma
+
+Profesjonalne usługi księgowe WGT Gniewino dla firm i osób indywidualnych
+Pomorska 63
+84-250 Gniewino
+
+#Poczta
+
+Urząd Pocztowy
+Pomorska 18
+84-250 Gniewino
+
+#Instytucja
+
+#ZUS
+
+#PZU
+
+Mielnik Julietta. Agencja ubezpieczeniowa PZU S.A.
+84-250 Gniewino; os. 30-Lecia 16
+84-250
+
+#Czerwony Krzyż
+
+#Fundacja
+
+#Niepełnosprawnych
+
+#Inwalidzi
+
+#Inwalidów
+
+======================================================================
+84-214 Chmieleniec
+
+#Szkoła
+
+#Przedszkole
+
+#Biblioteka
+
+#Policja
+
+#PZU
+
+#muzeum
+
+#Czerwony Krzyż
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+84-250 BRODNICA
+
+#Szkoła
+
+#Przedszkole
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#Sąd
+
+#Wojsko
+
+#Grupa
+
+#Agencja
+
+#Spółdzielnia
+
+#Związek
+
+#Stowarzyszenie
+
+#Towarzystwo
+
+#Fundacja
+
+#Organizacja
+
+#Firma
+
+#muzeum
+
+#Czerwony Krzyż
+
+#Fundacja
+
+#Centrum
+
+======================================================================
+84-218 ŚWIETLINO
+
+#Dom kultury
+
+Świetlica wiejska w Świetlinie
+Świetlino 7
+84-218 Świetlino
+
+#Biblioteka
+
+#Bank
+
+#Policja
+
+#Poczta
+
+#muzeum
+
+#Czerwony Krzyż
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+84-213 WYSOKIE
+
+#Szkoła
+
+#Czerwony Krzyż
+
+======================================================================
+84-218 KACZKOWO
+
+#Szkoła
+
+#Przedszkole
+
+#Biblioteka
+
+#Bank
+
+#Policja
+
+#ZUS
+
+#muzeum
+
+#Czerwony Krzyż
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+84-218 GODĘTOWO
+
+#Urząd
+
+#Dom kultury
+
+#Szkoła
+
+#Przedszkole
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#Produkcja
+
+Fokus s.c.
+Godętowo 3F
+84-218 Godętowo
+
+#Zakład
+
+Dominik sp.j. Masarnia, ubojnia, produkcja wędlin
+DK6 12
+84-218 Godętowo
+
+#Zakłady
+
+#Spółka
+
+#Firma
+
+#Poczta
+
+#ZUS
+
+#muzeum
+
+#Czerwony Krzyż
+
+#Klub Seniora
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+84-218 DĄBRÓWKA WIELKA
+
+#Dom kultury
+
+#Przedszkole
+
+#Stowarzyszenie
+
+Dom opieki "REZYDENCJA SENIORA"
+Spacerowa 34
+84-218 Dąbrówka Wielka
+
+#Klub
+
+#Poczta
+
+#ZUS
+
+#PZU
+
+#Czerwony Krzyż
+
+#Klub Seniora
+
+#Seniorzy
+
+#Seniora
+
+#Seniorów
+
+======================================================================
+84-218 ŁĘCZYCE
+
+#Urząd
+
+Urząd Gminy Łęczyce
+Długa 49
+84-218 Łęczyce
+
+#Ośrodek
+
+Ośrodek Pomocy Społecznej
+Długa 42
+84-218 Łęczyce
+
+#Dom kultury
+
+#Szkoła
+
+Zespół Szkół
+Topolowa 1
+84-218 Łęczyce
+
+#Przedszkole
+
+#Uniwersytet
+
+#Biblioteka
+
+Gminna Biblioteka Publiczna w Łęczycach
+Rzeczna 7
+84-218 Łęczyce
+
+#Szpital
+
+#Bank
+
+Kaszubski Bank Spółdzielczy
+Długa 42 B
+84-218 Łęczyce
+
+#Policja
+
+Posterunek Policji Łęczyce
+Brzozowa 4
+84-218 Łęczyce
+
+#Produkcja
+
+PPD Poltarex Sp. z o.o. Tartak Godętowo
+Długa 11
+84-218 Łęczyce
+
+#Spółka
+
+#Stowarzyszenie
+
+Nadzieja. Stowarzyszenie na Rzecz Osób Niepełnosprawnych
+Topolowa 1
+84-218 Łęczyce
+
+#Poczta
+
+Poczta Polska
+Długa 8
+84-218 Łęczyce
+
+#Emerytów
+
+#Czerwony Krzyż
+
+#Centrum
+
+#Uniwersytet Trzeciego Wieku
+
+#Emerytów
+
+#Niepełnosprawni
+
+======================================================================
+84-311 DZIECHNO
+
+#Szkoła
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#ZUS
+
+#Czerwony Krzyż
+
+======================================================================
+84-213 BRZEŻNO LĘBORSKIE
+
+#Szkoła
+
+#Przedszkole
+
+#Biblioteka
+
+#Szpital
+
+#Policja
+
+#Sąd
+
+#Produkcja
+
+#Związek
+
+#Stowarzyszenie
+
+#Towarzystwo
+
+#Firma
+
+#Emeryci
+
+#ZUS
+
+#Amazonki
+
+#ZNP
+
+#Czerwony Krzyż
+
+#Uniwersytet Trzeciego Wieku
+
+#Emeryci
+
+#Niepełnosprawni
+
+======================================================================
+84-353 LUBOWIDZ
+
+#Dom kultury
+
+#Szkoła
+
+Przedszkole. Filia
+Lubowidz; 1
+84-300
+
+#Przedszkole
+
+#Biblioteka
+
+#Szpital
+
+#Policja
+
+#Sąd
+
+#Produkcja
+
+Producent odlewów żeliwnych - odlewnia - kostka balastowa
+Lubowidz 35a
+84-300 Lębork
+
+#Koło
+
+84-353
+Lębork
+Pogorzele
+Lubowidz
+Wypichowo
+Nisko
+Jamy
+Rybnik
+
+#Poczta
+
+#ZUS
+
+#muzeum
+
+#Czerwony Krzyż
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+84-353 RYBNIK
+
+#Szkoła
+
+#Przedszkole
+
+#Biblioteka
+
+#Policja
+
+#Sąd
+
+#Czerwony Krzyż
+
+#Centrum
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+84-210 GOŚCIĘCINO
+
+#Dom kultury
+
+#Przedszkole
+
+#Uniwersytet
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Koło
+
+#Fundacja
+
+#Poczta
+
+#ZUS
+
+#PZU
+
+#muzeum
+
+#Czerwony Krzyż
+
+#Fundacja
+
+#Centrum
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+84-210 ZWARTOWO
+
+#Ośrodek
+
+Ośrodek Szkolenia Służby Więziennej w Suchej Oddział zamiejscowy Zwartowo
+Zwartowo 25
+84-210 Zwartowo
+
+#Przedszkole
+
+#Uniwersytet
+
+#Biblioteka
+
+#Szpital
+
+#Oddział
+
+#Koło
+
+#Fundacja
+
+#ZUS
+
+#muzeum
+
+Kościuł
+Zwartowo 15
+84-210 Zwartowo
+
+#Czerwony Krzyż
+
+#Klub Seniora
+
+#Fundacja
+
+#Centrum
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+84-210 ZWARTÓWKO
+
+#Dom kultury
+
+#Przedszkole
+
+#Uniwersytet
+
+#Biblioteka
+
+#Szpital
+
+#Koło
+
+#Fundacja
+
+#muzeum
+
+#Czerwony Krzyż
+
+#Fundacja
+
+#Centrum
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+84-351 TAWĘCINO
+
+#Dom kultury
+
+#Szkoła
+
+#Przedszkole
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Poczta
+
+#ZUS
+
+#muzeum
+
+#Czerwony Krzyż
+
+#Klub Seniora
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+84-315 RYBKI
+
+#Dom kultury
+
+#Szkoła
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Poczta
+
+#ZUS
+
+#ZNP
+
+======================================================================
+84-300 LĘBORK
+
+#Urząd
+
+Urząd Miejski w Lęborku
+Armii Krajowej 14
+84-300 Lębork
+
+#Ośrodek
+
+#Dom kultury
+
+Młodzieżowy Dom Kultury
+Różyckiego 2
+84-300 Lębork
+
+#Przedszkole
+
+#Akademia
+
+Akademia Juniora
+Kasztanowa 10
+84-351 Lębork
+
+#Uniwersytet
+
+Wyższa Szkoła Administracji i Biznesu im. Eugeniusza Kwiatkowskiego w Gdyni
+Marcinkowskiego 1
+84-300 Lębork
+
+#Biblioteka
+
+Miejska Biblioteka Publiczna im. Jarosława Iwaszkiewicza
+Armii Krajowej 16
+84-300 Lębork
+
+#Przychodnia
+
+Centrum Medyczne "Legionów" Lębork - NZOZ "Stary Browar"
+Legionów Polskich 18
+84-300 Lębork
+
+#Placówka
+
+Kasa Rolniczego Ubezpieczenia Społecznego. Placówka terenowa
+Władysława Łokietka 12
+84-300 Lębork
+
+#Oddział
+
+Samodzielny Publiczny Specjalistyczny Zakład Opieki Zdrowotnej
+Węgrzynowicza 13
+84-300 Lębork
+
+#Policja
+
+Policja. Komenda Powiatowa
+Toruńska 5
+84-300 Lębork
+
+#Prokuratura
+
+Prokuratura Rejonowa w Lęborku
+Przyzamcze 2
+84-300 Lębork
+
+#Produkcja
+
+#Fabryka
+
+Salon meblowy BODZIO
+aleja Niepodległości 8
+84-300 Lębork
+
+#Agencja
+
+Agencja Fima Nieruchomości Ubezpieczenia Katarzyna Tokarska
+Staromiejska 1/23
+84-300 Lębork
+
+#Spółka
+
+Malam Andrzej Malinowski i Michał Malinowski Sp. J.
+Abrahama 5
+84-300 Lębork
+
+#Instytut
+
+Instytut Oka - Optyk i okuliści
+Marcinkowskiego 4
+84-300 Lębork
+
+#ZUS
+
+ZUS Inspektorat w Lęborku
+Krzywoustego 15
+84-300 Lębork
+
+#ZNP
+
+Związek Nauczycielstwa Polskiego. Zarząd oddziału
+Krzywoustego 1
+84-351 Lębork
+
+#Czerwony Krzyż
+
+Polski Czerwony Krzyż. Pomorski Zarząd Okręgowy. Zarząd Rejonowy
+Krzywoustego 1
+84-351 Lębork
+
+#Klub Seniora
+
+Dom Seniora MAGNOLIA
+Poznańska 5
+84-300 Lębork
+
+#Seniorzy
+
+#Seniora
+
+#Seniorów
+
+#Niepełnosprawnych
+
+Powiatowe Centrum Pomocy Rodzinie w Lęborku
+Czołgistów 5
+84-300 Lębork
+
+#Inwalidzi
+
+#Inwalidów
+
+======================================================================
+84-352 STRZESZEWO
+
+#Urząd
+
+#Dom kultury
+
+#Szkoła
+
+#Biblioteka
+
+#Szpital
+
+#ZUS
+
+#muzeum
+
+#Czerwony Krzyż
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+84-351 NOWA WIEŚ LĘBORSKA
+
+#Urząd
+
+Urząd Gminy w Nowej Wsi Lęborskiej
+Grunwaldzka 24
+84-351 Nowa Wieś Lęborska
+
+#Ośrodek
+
+Gminny Osrodek Kultury
+ul Lęborska 20
+84-351 Nowa Wieś Lęborska
+
+#Dom kultury
+
+#Szkoła
+
+Zespół Szkół im Strażaków Polskich
+Polna 9A
+84-351 Nowa Wieś Lęborska
+
+#Uniwersytet
+
+#Politechnika
+
+#Bank
+
+#Policja
+
+#Sąd
+
+#Zakłady
+
+#Spółdzielnia
+
+#Organizacja
+
+#Poczta
+
+Poczta Polska
+Grunwaldzka 1A
+84-351 Nowa Wieś Lęborska
+
+#Emerytów
+
+#Instytut
+
+#ZUS
+
+#ZNP
+
+#Czerwony Krzyż
+
+#Diabetycy
+
+#Centrum
+
+#Seniorów
+
+#Uniwersytet Trzeciego Wieku
+
+#Emerytów
+
+#Inwalidów
+
+======================================================================
+84-350 OBLIWICE
+
+#Szpital
+
+#Bank
+
+#Poczta
+
+#ZUS
+
+======================================================================
+84-351 GARCZEGORZE
+
+#Dom kultury
+
+#Szkoła
+
+Zespól Szkół im. Męczenników Marszu Śmierci
+Garczegorze 24
+84-351 Garczegorze
+
+#Politechnika
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#Zakład
+
+#Stowarzyszenie
+
+Parafia św. Marii Magdaleny w Garczegorzu
+Garczegorze 27
+84-351 Garczegorze
+
+#Firma
+
+USŁUGI OGÓLNOBUDOWLANE "MABBUD"
+Garczegorze 19
+84-351 Garczegorze
+
+#Instytucja
+
+#ZUS
+
+#ZNP
+
+#muzeum
+
+#Czerwony Krzyż
+
+#Klub Seniora
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+84-350 ŁEBIEŃ
+
+#Szkoła
+
+Zespół Szkół im. Jana Pawła II w Łebieniu
+Łebień 93A
+84-350 Nowa Wieś Lęborska
+
+#Przedszkole
+
+Przedszkole
+93a
+84-351 Łebień
+
+#Uniwersytet
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#ZUS
+
+#muzeum
+
+#Czerwony Krzyż
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+84-353 KOPANIEWO
+
+#Dom kultury
+
+#Szkoła
+
+#Przedszkole
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#Sąd
+
+#Koło
+
+#Poczta
+
+#ZUS
+
+#ZNP
+
+#muzeum
+
+#Czerwony Krzyż
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+84-352 ROSZCZYCE
+
+#Dom kultury
+
+#Szkoła
+
+Nordmann plantacja choinek pomorskie Sp. z o.o.
+Roszczyce 29
+84-352 Wicko
+
+#Przedszkole
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#Spółka
+
+#Firma
+
+#Poczta
+
+#ZUS
+
+#Czerwony Krzyż
+
+#Klub Seniora
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+84-342 DZIECHLINO
+
+#Szkoła
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#ZUS
+
+#muzeum
+
+#Czerwony Krzyż
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+84-351 POGORSZEWO
+
+#Dom kultury
+
+#Szkoła
+
+#Przedszkole
+
+#Biblioteka
+
+#Szpital
+
+#Policja
+
+#ZUS
+
+#muzeum
+
+#Czerwony Krzyż
+
+#Klub Seniora
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+84-342 LEŚNICE
+
+#Szkoła
+
+Zespół Szkół w Leśnicach
+18a
+84-300 Leśnice
+
+#Przedszkole
+
+#Biblioteka
+
+#Szpital
+
+#Policja
+
+#ZUS
+
+#muzeum
+
+#Uniwersytet Trzeciego Wieku
+
+#Niepełnosprawni
+
+======================================================================
+84-351 KRĘPA KASZUBSKA
+
+#Dom kultury
+
+#Szkoła
+
+Koniczynka
+Krępa Kaszubska 73A
+84-351 Krępa Kaszubska
+
+#Szpital
+
+#Fundacja
+
+Fundacja "Końkretnie Pomagamy"
+Krępa Kaszubska 73 A
+84-351 Krępa Kaszubska
+
+#ZUS
+
+#muzeum
+
+#Czerwony Krzyż
+
+#Fundacja
+
+#Uniwersytet Trzeciego Wieku
+
+#Niepełnosprawni
+
+#Jeździecki
+
+======================================================================
+84-342 POGORZELICE
+
+#Dom kultury
+
+#Szkoła
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#Poczta
+
+#ZUS
+
+#muzeum
+
+#Czerwony Krzyż
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+84-351 CHOCIELEWKO
+
+#Dom kultury
+
+#Szkoła
+
+#Biblioteka
+
+#Szpital
+
+#Policja
+
+#Produkcja
+
+Z.P.H. PROFIL Łukasz i Sebastian Daniel Spółka Cywilna
+Chocielewko 35
+84-351 Chocielewko
+
+#Spółka
+
+#ZUS
+
+#ZNP
+
+#muzeum
+
+#Czerwony Krzyż
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+84-351 REDKOWICE
+
+#Dom kultury
+
+#Szkoła
+
+Szkoła Podstawowa im. Tajnej Organizacji Wojskowej "Gryf Pomorski " w Redkowicach
+Redkowice
+84-351
+
+#Przedszkole
+
+#Uniwersytet
+
+#Politechnika
+
+#Biblioteka
+
+#Szpital
+
+#Policja
+
+#Spółka
+
+#Organizacja
+
+#Emerytów
+
+#Instytucja
+
+#ZUS
+
+#ZNP
+
+#muzeum
+
+#Czerwony Krzyż
+
+#Seniorów
+
+#Uniwersytet Trzeciego Wieku
+
+#Emerytów
+
+#Inwalidów
+
+======================================================================
+84-351 JANOWICE
+
+#Szkoła
+
+#Produkcja
+
+#ZUS
+
+#Klub Seniora
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+84-351 JANOWICZKI
+
+#Szkoła
+
+#Przedszkole
+
+#Biblioteka
+
+#Szpital
+
+#Poczta
+
+#ZUS
+
+#ZNP
+
+#muzeum
+
+#Czerwony Krzyż
+
+#Klub Seniora
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+76-124 BRZEŚCIE
+
+#Szkoła
+
+#Uniwersytet
+
+#Biblioteka
+
+#Policja
+
+#Czerwony Krzyż
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+84-351 NIEBĘDZINO
+
+#Szkoła
+
+#Przedszkole
+
+#Biblioteka
+
+#Szpital
+
+#ZUS
+
+#ZNP
+
+#muzeum
+
+#Czerwony Krzyż
+
+#Klub Seniora
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+84-351 ŻELAZKOWO
+
+#Szkoła
+
+#Przedszkole
+
+#Biblioteka
+
+#Szpital
+
+#Poczta
+
+#ZUS
+
+#ZNP
+
+#muzeum
+
+#Czerwony Krzyż
+
+#Klub Seniora
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+84-352 WICKO
+
+#Urząd
+
+Urząd Gminy Wicko
+Słupska 9
+84-352 Wicko
+
+#Ośrodek
+
+Gminny Ośrodek Kultury i Sportu
+Parkowa 2
+84-352 Wicko
+
+#Dom kultury
+
+Gminny Ośrodek Kultury i Sportu (Community Center for Culture and Sport)
+Parkowa 2
+84-352 Wicko
+
+#Szkoła
+
+Szkoła Podstawowa im. Jana Brzechwy
+Wicko 37
+84-352 Wicko
+
+#Przedszkole
+
+Przedszkole Gminne w Wicku
+Słupska 11
+84-352 Wicko
+
+#Uniwersytet
+
+#Biblioteka
+
+#Szpital
+
+#Przychodnia
+
+Niepubliczny Zakład Opieki Zdrowotnej Zdrowie w Wicku
+Radosna 5
+84-352 Wicko
+
+#Bank
+
+#Policja
+
+#Zakład
+
+#Zakłady
+
+#Poczta
+
+Urząd Pocztowy
+Słupska 7
+84-352 Wicko
+
+#Instytut
+
+#ZUS
+
+#ZNP
+
+#muzeum
+
+#Czerwony Krzyż
+
+#Klub Seniora
+
+Ośrodek Pomocy Społecznej
+Radosna 9
+84-352 Wicko
+
+#Seniorzy
+
+#Centrum
+
+#Seniora
+
+#Seniorów
+
+#Uniwersytet Trzeciego Wieku
+
+#Niepełnosprawnych
+
+#Niepełnosprawni
+
+#Inwalidów
+
+======================================================================
+84-360 ŁEBIENIEC
+
+#Szkoła
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#Spółka
+
+Cartlander Sp. z o.o.
+Łebieniec 64
+84-360 Łebieniec
+
+#PZU
+
+#muzeum
+
+#Czerwony Krzyż
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+84-352 CHARBROWO
+
+#Dom kultury
+
+#Szkoła
+
+#Przedszkole
+
+Przedszkole Charbrowo
+Łebska 9
+84-352 Charbrowo
+
+#Uniwersytet
+
+#Biblioteka
+
+#Szpital
+
+#Policja
+
+#Produkcja
+
+Zakłady Metalowe Charbrowo Sp. z o.o.
+Przemysłowa 1
+84-352 Charbrowo
+
+#Zakład
+
+#Zakłady
+
+#Spółka
+
+#Stowarzyszenie
+
+Parafia św. Józefa Oblubieńca w Charbrowie
+Charbrowo 49
+84-352 Charbrowo
+
+#Klub
+
+Stadion Sportowy w Charbrowie
+Łebska 4
+84-352 Charbrowo
+
+#Firma
+
+#Poczta
+
+#ZUS
+
+#Czerwony Krzyż
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+84-352 PODRÓŻE
+
+#Poczta
+
+#ZUS
+
+#ZNP
+
+======================================================================
+84-352 KRAKULICE
+
+#Urząd
+
+#Dom kultury
+
+#Szkoła
+
+#Przedszkole
+
+#Biblioteka
+
+#Szpital
+
+#Policja
+
+#Produkcja
+
+Agaris Poland Sp. z o. o. (Krakulice)
+Krakulice 3
+84-352 Krakulice
+
+#Zakład
+
+#Zakłady
+
+#Spółka
+
+#Instytut
+
+#muzeum
+
+#Czerwony Krzyż
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+WOLINA
+
+#Urząd
+
+#Dom kultury
+
+#Szkoła
+
+#Przedszkole
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#Spółdzielnia
+
+#Poczta
+
+#ZUS
+
+#PZU
+
+#muzeum
+
+#Czerwony Krzyż
+
+======================================================================
+76-220 CECENOWO
+
+#Dom kultury
+
+#Szkoła
+
+#Biblioteka
+
+#Szpital
+
+#Policja
+
+#ZUS
+
+#muzeum
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+76-230 NIECKOWO
+
+#Szkoła
+
+#Przedszkole
+
+#Biblioteka
+
+#Bank
+
+#Policja
+
+#muzeum
+
+#Czerwony Krzyż
+
+#Klub Seniora
+
+#Uniwersytet Trzeciego Wieku
+
+======================================================================
+76-230 RADOSŁAW
+
+#Szkoła
+
+#Biblioteka
+
+#muzeum
+
+#Czerwony Krzyż
+
+======================================================================
+76-220 PODOLE WIELKIE
+
+#Szkoła
+
+#Biblioteka
+
+#Szpital
+
+#Bank
+
+#Policja
+
+#Sąd
+
+#ZUS
+
+#muzeum
+
+#Czerwony Krzyż
+
+#Uniwersytet Trzeciego Wieku
