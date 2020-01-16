@@ -28,13 +28,13 @@ class Searcher:
         self._engine = None
         self._source = Gateway(data_dir_path)
         self._cities = self._source.get_cities()
-        self._reporter = Reporter(results_dir_path, self.engine_name)
 
         self._skip_indirect_matches = skip_indirect_matches
         self._skip_duplicates = skip_duplicates
 
         self._results = []
         self._results_count = 0
+        self._reporter = Reporter(results_dir_path, self.engine_name)
 
     @property
     def engine_name(self):

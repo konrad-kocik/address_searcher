@@ -1,5 +1,6 @@
-from nicelka.searcher.searcher import Searcher
 from nicelka.engine.engine_factory import EngineFactory
+from nicelka.reporter.reporter import Reporter
+from nicelka.searcher.searcher import Searcher
 
 
 class GoogleSearcher(Searcher):
@@ -15,6 +16,7 @@ class GoogleSearcher(Searcher):
 
         self._engine = EngineFactory.get_engine('google_page')
         self._keys = self._source.get_keys()
+        self._reporter = Reporter(results_dir_path, self.engine_name)
 
     def search(self):
         self._reporter.generate_new_report_file_path()
