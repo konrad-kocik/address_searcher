@@ -362,3 +362,12 @@ def _run_searcher(data_dir_path, results_dir_path, skip_indirect_matches=True, s
 def _assert_result_file_content_equals(expected_result, results_file_path):
     with open(results_file_path, encoding='utf8') as file:
         assert file.read() == expected_result
+
+
+# TODO: scenarios
+'''
+multiple results - skip indirect match and duplicate
+multiple results - allow indirect match and duplicate
+multiple results - skip indirect match and allow duplicate
+multiple results - allow indirect match and skip duplicate
+'''
