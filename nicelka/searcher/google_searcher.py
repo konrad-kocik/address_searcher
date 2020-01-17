@@ -52,7 +52,7 @@ class GoogleSearcher(Searcher):
                 results = self._remove_duplicates(results)
 
             if results:
-                self._results.append('#' + key + '\n\n')  # TODO: write new/adjust existing tests for this case
+                self._results.append('#' + key + '\n\n')
 
             for result in results:
                 self._results.append(result + '\n')

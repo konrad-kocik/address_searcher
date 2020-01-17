@@ -3,10 +3,11 @@ from abc import abstractmethod
 from nicelka.gateway.gateway import Gateway
 from nicelka.reporter.reporter import Reporter
 
-# TODO: when no result skip pasting empty key into results
-# TODO: fix bug in google_page when multiple results are not on top
+# TODO: when no result skip pasting empty key into results - more tests
+# TODO: getting cities and keys - skip empty lines
+# TODO: more bugs on paper - problem with finding google addresses
+# TODO: fix bug in google_page when multiple results are not on top and google_page should return more then max 3 results
 # TODO: write integration tests
-# TODO: google_page should return more then max 3 results
 # TODO: handle multiple result pages in KrkgwPage
 # TODO: add logger
 # TODO: narrow all Exceptions into more specific classes (report exceptions into logger)
@@ -14,6 +15,7 @@ from nicelka.reporter.reporter import Reporter
 # TODO: refactor integration tests
 # TODO: add unit tests
 # TODO: store results in custom classes
+# TODO: save result count every time when saving results
 # TODO: use REST API instead of Selenium
 # TODO: add AI to evaluate results found
 # TODO: add docs, type hints etc.
