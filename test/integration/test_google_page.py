@@ -19,7 +19,9 @@ def test_cases():
             'single_result_indirect_match_by_zip_code_tail_allowed',
             'single_result_duplicate_skipped',
             'single_result_duplicate_allowed',
-            'single_result_twice']
+            'single_result_twice',
+            'multiple_results',
+            'multiple_results_not_on_top']
 
 
 @fixture(scope='module')
@@ -233,6 +235,104 @@ def test_searcher_when_single_result_twice(create_results_dir, remove_results_di
     _assert_result_file_content_equals(expected_result, searcher.results_file_path)
 
 
+def test_searcher_when_multiple_results(create_results_dir, remove_results_dir):
+    expected_result = \
+        '======================================================================' + '\n' + \
+        '33-300 NOWY SĄCZ' + '\n\n' + \
+        '#muzeum' + '\n\n' + \
+        'Muzeum Okręgowe w Nowym Sączu' + '\n' + \
+        'Lwowska 3' + '\n' + \
+        '33-300 Nowy Sącz' + '\n\n' + \
+        'Muzeum Okręgowe w Nowym Sączu - Gmach Głowny' + '\n' + \
+        'Jagiellońska 56' + '\n' + \
+        '33-300 Nowy Sącz' + '\n\n' + \
+        'Sądecki Park Etnograficzny' + '\n' + \
+        'Gen. Wieniawy-Długoszowskiego 83B' + '\n' + \
+        '33-300 Nowy Sącz' + '\n\n' + \
+        'Miasteczko Galicyjskie. Oddział Muzeum Okręgowego w Nowym Sączu' + '\n' + \
+        'Lwowska 226' + '\n' + \
+        '33-300 Nowy Sącz' + '\n\n' + \
+        'Galeria Marii Ritter. Oddział Muzeum Okręgowego' + '\n' + \
+        'Rynek 2' + '\n' + \
+        '33-300 Nowy Sącz' + '\n\n' + \
+        'Liczba znalezionych adresow: 5'
+
+    data_dir_path, results_dir_path = _get_io_dir_paths(test_case='multiple_results')
+    searcher = _run_searcher(data_dir_path, results_dir_path)
+    _assert_result_file_content_equals(expected_result, searcher.results_file_path)
+
+
+def test_searcher_when_multiple_results_not_on_top(create_results_dir, remove_results_dir):
+    expected_result = \
+        '======================================================================' + '\n' + \
+        '33-300 NOWY SĄCZ' + '\n\n' + \
+        '#Fundacja' + '\n\n' + \
+        'Fundacja Renovo' + '\n' + \
+        'Krakowska 92/5' + '\n' + \
+        '33-300 Nowy Sącz' + '\n\n' + \
+        'Fundacja Tarcza' + '\n' + \
+        'Jeremiego Wiśniowieckiego 125' + '\n' + \
+        '33-300 Nowy Sącz' + '\n\n' + \
+        'Fundacja im. dra Jerzego Masiora w Nowym Sączu' + '\n' + \
+        'Tarnowska 25' + '\n' + \
+        '33-300 Nowy Sącz' + '\n\n' + \
+        'Fundacja Inicjatyw Społeczno - Akademickich' + '\n' + \
+        'Nawojowska 95' + '\n' + \
+        '33-300 Nowy Sącz' + '\n\n' + \
+        'Fundacja Rozwoju Ziem Górskich' + '\n' + \
+        'Węgierska 33' + '\n' + \
+        '33-300 Nowy Sącz' + '\n\n' + \
+        'Fundacja Programów Pomocy Dla Rolnictwa' + '\n' + \
+        'Tadeusza Kościuszki 7' + '\n' + \
+        '33-300 Nowy Sącz' + '\n\n' + \
+        'Mada. Fundacja Pomocy Osobom z Autyzmem' + '\n' + \
+        'Al. Wolności 19' + '\n' + \
+        '33-300 Nowy Sącz' + '\n\n' + \
+        'Fundacja Instytut Państwa i Prawa' + '\n' + \
+        'Stefana Czarnieckiego 5' + '\n' + \
+        '33-300 Nowy Sącz' + '\n\n' + \
+        'Nox. Fundacja Pomocy Osobom Fizycznie Niepełnosprawnym' + '\n' + \
+        'Jana Kochanowskiego 17' + '\n' + \
+        '33-300 Nowy Sącz' + '\n\n' + \
+        'Stowarzyszenie Sursum Corda ("w górę serca")' + '\n' + \
+        'Lwowska 11' + '\n' + \
+        '33-300 Nowy Sącz' + '\n\n' + \
+        'Fundacja na rzecz Rozwoju Polskiego Rolnictwa. Biuro terenowe' + '\n' + \
+        'Tarnowska 28' + '\n' + \
+        '33-395 Nowy Sącz' + '\n\n' + \
+        'Nadzieja. Stowarzyszenie Rodziców i Przyjaciół Dzieci Niepełnosprawnych Ruchowo i Umysłowo' + '\n' + \
+        'Jana Freislera 10' + '\n' + \
+        '33-300 Nowy Sącz' + '\n\n' + \
+        'Europejski Instytut Rozwoju Obywatelskiego' + '\n' + \
+        'Jagiellońska 18' + '\n' + \
+        '33-300 Nowy Sącz' + '\n\n' + \
+        'Consilium' + '\n' + \
+        'ul' + '\n' + \
+        'Nadbrzeżna 3' + '\n' + \
+        '33-300 Nowy Sącz' + '\n\n' + \
+        'Fundacja Prawa Dzieci oddział Nowy Sącz' + '\n' + \
+        'Rynek 30' + '\n' + \
+        '33-300 Nowy Sącz' + '\n\n' + \
+        'Towarzystwo Przyjaciół Dzieci' + '\n' + \
+        'Świętej Kunegundy 16' + '\n' + \
+        '33-300 Nowy Sącz' + '\n\n' + \
+        'Fundacja SZOK' + '\n' + \
+        'Władysława Broniewskiego 20 E/13' + '\n' + \
+        '33-300 Nowy Sącz' + '\n\n' + \
+        'Humaneo' + '\n' + \
+        'biuro' + '\n' + \
+        'Nawojowska 12' + '\n' + \
+        '33-300 Nowy Sącz' + '\n\n' + \
+        'Wspólnota Emaus - Nowosądeckie Towarzystwa Pomocy im. św. Brata Alberta' + '\n' + \
+        'Szwedzka 18' + '\n' + \
+        '33-300 Nowy Sącz' + '\n\n' + \
+        'Liczba znalezionych adresow: 19'
+
+    data_dir_path, results_dir_path = _get_io_dir_paths(test_case='multiple_results_not_on_top')
+    searcher = _run_searcher(data_dir_path, results_dir_path)
+    _assert_result_file_content_equals(expected_result, searcher.results_file_path)
+
+
 def _get_io_dir_paths(test_case):
     return os.path.join('data', 'google_page', test_case), os.path.join('results', 'google_page', test_case)
 
@@ -255,9 +355,6 @@ multiple results - allow indirect match and duplicate
 multiple results - skip indirect match and allow duplicate
 multiple results - allow indirect match and skip duplicate
 
-multiple results - three
-multiple results - two
-multiple results - results not on top
 multiple results skip all not direct match
 multiple results skip one not direct match
 multiple results allow one not direct match
