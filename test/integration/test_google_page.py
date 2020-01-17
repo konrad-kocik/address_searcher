@@ -114,7 +114,6 @@ def test_searcher_when_single_result_indirect_match_by_city_skipped(create_resul
     expected_result = \
         '======================================================================' + '\n' + \
         '24-300 WOLA RUDZKA' + '\n\n' + \
-        '#Przedszkole' + '\n\n' + \
         'Liczba znalezionych adresow: 0'
 
     data_dir_path, results_dir_path = _get_io_dir_paths(test_case='single_result_indirect_match_by_city_skipped')
@@ -126,7 +125,6 @@ def test_searcher_when_single_result_indirect_match_by_zip_code_skipped(create_r
     expected_result = \
         '======================================================================' + '\n' + \
         '24-400 CUPLE' + '\n\n' + \
-        '#Biblioteka' + '\n\n' + \
         'Liczba znalezionych adresow: 0'
 
     data_dir_path, results_dir_path = _get_io_dir_paths(test_case='single_result_indirect_match_by_zip_code_skipped')
@@ -190,7 +188,6 @@ def test_searcher_when_single_result_duplicate_skipped(create_results_dir, remov
         '34-603' + '\n\n' + \
         '======================================================================' + '\n' + \
         '34-603 STRZESZYCE' + '\n\n' + \
-        '#Produkcja' + '\n\n' + \
         'Liczba znalezionych adresow: 1'
 
     data_dir_path, results_dir_path = _get_io_dir_paths(test_case='single_result_duplicate_skipped')
@@ -275,6 +272,11 @@ def _assert_result_file_content_equals(expected_result, results_file_path):
 
 # TODO: scenarios
 '''
+multiple results - skip indirect match and duplicate
+multiple results - allow indirect match and duplicate
+multiple results - skip indirect match and allow duplicate
+multiple results - allow indirect match and skip duplicate
+
 multiple results - three
 multiple results - two
 multiple results skip all not direct match

@@ -1,5 +1,6 @@
-from nicelka.searcher.searcher import Searcher
 from nicelka.engine.engine_factory import EngineFactory
+from nicelka.reporter.reporter import Reporter
+from nicelka.searcher.searcher import Searcher
 
 
 class GoogleSearcher(Searcher):
@@ -15,6 +16,7 @@ class GoogleSearcher(Searcher):
 
         self._engine = EngineFactory.get_engine('google_page')
         self._keys = self._source.get_keys()
+        self._reporter = Reporter(results_dir_path, self.engine_name)
 
     def search(self):
         self._reporter.generate_new_report_file_path()
@@ -40,16 +42,18 @@ class GoogleSearcher(Searcher):
 
     def _add_results(self, results, city, key):
         if results:
-            self._results.append('#' + key + '\n\n')
-
             zip_code_prefix = self._get_zip_code_prefix(city)
             city_name = self._get_city_name(city)
 
+            if self._skip_indirect_matches:
+                results = self._remove_indirect_matches(results, city_name, zip_code_prefix)
+
+            if self._skip_duplicates:
+                results = self._remove_duplicates(results)
+
+            if results:
+                self._results.append('#' + key + '\n\n')
+
             for result in results:
-                if self._skip_indirect_matches and self._is_indirect_match(result, city_name, zip_code_prefix):
-                    continue
-                if self._skip_duplicates and self._is_duplicate(result):
-                    continue
-                else:
-                    self._results.append(result + '\n')
-                    self._results_count += 1
+                self._results.append(result + '\n')
+                self._results_count += 1
