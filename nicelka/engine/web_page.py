@@ -27,15 +27,30 @@ class WebPage(Engine):
         self._driver.close()
         self._driver = None
 
-    def _wait_for_element_by_class_name(self, class_name):
-        try:
-            return self._driver.find_element_by_class_name(class_name)
-        except NoSuchElementException:
-            sleep(0.5)
-            return self._driver.find_element_by_class_name(class_name)
+    def _find_element_by_id(self, id):
+        return self._driver.find_element_by_id(id)
+
+    def _find_element_by_xpath(self, xpath):
+        return self._driver.find_element_by_xpath(xpath)
+
+    def _find_element_by_class_name(self, class_name):
+        return self._driver.find_element_by_class_name(class_name)
+
+    def _find_elements_by_class_name(self, class_name):
+        return self._driver.find_elements_by_class_name(class_name)
+
+    def _find_element_by_name(self, name):
+        return self._driver.find_element_by_name(name)
 
     def _wait_for_element_by_xpath(self, xpath, timeout=5):
         WebDriverWait(self._driver, timeout).until(EC.presence_of_element_located((By.XPATH, xpath)))
+
+    def _wait_for_element_by_class_name(self, class_name, timeout=0.5):
+        try:
+            return self._driver.find_element_by_class_name(class_name)
+        except NoSuchElementException:
+            sleep(timeout)
+            return self._driver.find_element_by_class_name(class_name)
 
     def _wait_for_visibility_by_xpath(self, xpath, timeout=5):
         WebDriverWait(self._driver, timeout).until(EC.visibility_of_element_located((By.XPATH, xpath)))

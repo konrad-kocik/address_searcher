@@ -17,17 +17,17 @@ class KrkgwPage(WebPage):
         return self._get_results()
 
     def _enter_query(self, city_name):
-        search_input = self._driver.find_element_by_id('kgw')
+        search_input = self._find_element_by_id('kgw')
         search_input.clear()
         search_input.send_keys(city_name)
-        search_button = self._driver.find_element_by_id('search')
+        search_button = self._find_element_by_id('search')
         search_button.click()
 
     def _close_cookies_info(self):
         close_button_xpath = '/html/body/div[1]/div/a'
         try:
             self._wait_for_clickability_by_xpath(close_button_xpath, timeout=0.2)
-            close_button = self._driver.find_element_by_xpath(close_button_xpath)
+            close_button = self._find_element_by_xpath(close_button_xpath)
             close_button.click()
         except (TimeoutException, NoSuchElementException):
             pass
@@ -45,16 +45,16 @@ class KrkgwPage(WebPage):
             try:
                 info_button_xpath = '//*[@id="kgwTable"]/tbody/tr[{}]/td[5]/button'.format(i)
                 self._wait_for_clickability_by_xpath(info_button_xpath, timeout=5)
-                info_button = self._driver.find_element_by_xpath(info_button_xpath)
+                info_button = self._find_element_by_xpath(info_button_xpath)
                 info_button.click()
 
                 name_output_xpath = '//*[@id="zawartosc"]/table[1]/tbody/tr[3]/td[2]'
                 self._wait_for_visibility_by_xpath(name_output_xpath, timeout=10)
-                name_output = self._driver.find_element_by_xpath(name_output_xpath)
+                name_output = self._find_element_by_xpath(name_output_xpath)
 
                 address_output_xpath = '//*[@id="zawartosc"]/table[1]/tbody/tr[4]/td[2]'
                 self._wait_for_visibility_by_xpath(address_output_xpath, timeout=10)
-                address_output = self._driver.find_element_by_xpath(address_output_xpath)
+                address_output = self._find_element_by_xpath(address_output_xpath)
 
                 results.append(name_output.text + '\n' + self._format_address(address_output.text) + '\n')
 
@@ -81,6 +81,6 @@ class KrkgwPage(WebPage):
     def _close_details(self):
         close_button_xpath = '//*[@id="myModal"]/div/div/div[1]/button'
         self._wait_for_clickability_by_xpath(close_button_xpath)
-        close_button = self._driver.find_element_by_xpath(close_button_xpath)
+        close_button = self._find_element_by_xpath(close_button_xpath)
         close_button.click()
         sleep(1)
