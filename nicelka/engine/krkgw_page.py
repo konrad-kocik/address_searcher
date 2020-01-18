@@ -4,6 +4,7 @@ from exceptbool import except_converter
 from selenium.common.exceptions import TimeoutException, NoSuchElementException
 
 from nicelka.engine.web_page import WebPage
+from nicelka.logger.logger import Logger
 
 
 class KrkgwPage(WebPage):
@@ -31,6 +32,8 @@ class KrkgwPage(WebPage):
             close_button.click()
         except (TimeoutException, NoSuchElementException):
             pass
+        except Exception as e:
+            Logger.error(self, e)
 
     def _get_results(self):
         results = []
@@ -60,6 +63,9 @@ class KrkgwPage(WebPage):
 
                 self._close_details()
             except TimeoutException:
+                break
+            except Exception as e:
+                Logger.error(self, e)
                 break
 
         return results

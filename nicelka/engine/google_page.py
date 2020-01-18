@@ -2,9 +2,9 @@ from time import sleep
 
 from exceptbool import except_to_bool
 from selenium.webdriver.common.keys import Keys
-from selenium.common.exceptions import NoSuchElementException, TimeoutException
 
 from nicelka.engine.web_page import WebPage
+from nicelka.logger.logger import Logger
 
 
 class GooglePage(WebPage):
@@ -45,8 +45,8 @@ class GooglePage(WebPage):
             for result_link in self._find_elements_by_class_name('dbg0pd'):
                 name, address = self._get_one_of_multiple_results(result_link)
                 results.append(name + '\n' + self._format_address(address) + '\n')
-        except Exception:
-            pass
+        except Exception as e:
+            Logger.error(self, e)
 
         return results
 

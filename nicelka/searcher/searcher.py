@@ -1,7 +1,7 @@
 from abc import abstractmethod
 
 from nicelka.gateway.gateway import Gateway
-from nicelka.reporter.reporter import Reporter
+from nicelka.logger.logger import Logger
 
 # TODO: add logger
 # TODO: narrow all Exceptions into more specific classes (report exceptions into logger)
@@ -22,7 +22,6 @@ class Searcher:
 
     def __init__(self,
                  data_dir_path='data',
-                 results_dir_path='results',
                  skip_indirect_matches=True,
                  skip_duplicates=True):
         self._engine = None
@@ -32,9 +31,12 @@ class Searcher:
         self._skip_indirect_matches = skip_indirect_matches
         self._skip_duplicates = skip_duplicates
 
+        Logger.info(self, 'Skipping indirect matches: {}'.format(self._skip_indirect_matches))
+        Logger.info(self, 'Skipping duplicates: {}'.format(self._skip_duplicates))
+
         self._results = []
         self._results_count = 0
-        self._reporter = Reporter(results_dir_path, self.engine_name)
+        self._reporter = None
 
     @property
     def engine_name(self):
