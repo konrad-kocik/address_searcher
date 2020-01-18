@@ -3,6 +3,10 @@ import os
 from pytest import fixture
 
 from nicelka import GoogleSearcher
+from .utilities.utilities import get_io_dir_paths, run_searcher, assert_report_file_content_equals
+
+
+test_suite = 'google_page'
 
 
 @fixture(scope='module')
@@ -21,13 +25,14 @@ def test_cases():
             'single_result_duplicate_allowed',
             'single_result_twice',
             'multiple_results',
-            'multiple_results_not_on_top']
+            'multiple_results_not_on_top'
+            ]
 
 
 @fixture(scope='module')
 def create_reports_dirs(test_cases):
     for test_case in test_cases:
-        _, report_dir_path = _get_io_dir_paths(test_case)
+        _, report_dir_path = get_io_dir_paths(test_suite, test_case)
         if not os.path.exists(report_dir_path):
             os.mkdir(report_dir_path)
 
@@ -36,7 +41,7 @@ def create_reports_dirs(test_cases):
 def remove_reports_dirs(test_cases, request):
     def teardown():
         for test_case in test_cases:
-            _, report_dir_path = _get_io_dir_paths(test_case)
+            _, report_dir_path = get_io_dir_paths(test_suite, test_case)
             if os.path.exists(report_dir_path):
                 os.system('cmd /k "rmdir /Q /S {}"'.format(report_dir_path))
     request.addfinalizer(teardown)
@@ -48,9 +53,9 @@ def test_searcher_when_no_result(create_reports_dirs, remove_reports_dirs):
         '24-200 BABIN' + '\n\n' + \
         'Results found: 0'
 
-    data_dir_path, report_dir_path = _get_io_dir_paths(test_case='no_result')
-    searcher = _run_searcher(data_dir_path, report_dir_path)
-    _assert_report_file_content_equals(expected_report, searcher.report_file_path)
+    data_dir_path, report_dir_path = get_io_dir_paths(test_suite, test_case='no_result')
+    searcher = run_searcher(GoogleSearcher, data_dir_path, report_dir_path)
+    assert_report_file_content_equals(expected_report, searcher.report_file_path)
 
 
 def test_searcher_when_no_result_twice(create_reports_dirs, remove_reports_dirs):
@@ -61,9 +66,9 @@ def test_searcher_when_no_result_twice(create_reports_dirs, remove_reports_dirs)
         '32-731 BYTOMSKO' + '\n\n' + \
         'Results found: 0'
 
-    data_dir_path, report_dir_path = _get_io_dir_paths(test_case='no_result_twice')
-    searcher = _run_searcher(data_dir_path, report_dir_path)
-    _assert_report_file_content_equals(expected_report, searcher.report_file_path)
+    data_dir_path, report_dir_path = get_io_dir_paths(test_suite, test_case='no_result_twice')
+    searcher = run_searcher(GoogleSearcher, data_dir_path, report_dir_path)
+    assert_report_file_content_equals(expected_report, searcher.report_file_path)
 
 
 def test_searcher_when_single_result(create_reports_dirs, remove_reports_dirs):
@@ -76,9 +81,9 @@ def test_searcher_when_single_result(create_reports_dirs, remove_reports_dirs):
         '21-030 Motycz' + '\n\n' + \
         'Results found: 1'
 
-    data_dir_path, report_dir_path = _get_io_dir_paths(test_case='single_result')
-    searcher = _run_searcher(data_dir_path, report_dir_path)
-    _assert_report_file_content_equals(expected_report, searcher.report_file_path)
+    data_dir_path, report_dir_path = get_io_dir_paths(test_suite, test_case='single_result')
+    searcher = run_searcher(GoogleSearcher, data_dir_path, report_dir_path)
+    assert_report_file_content_equals(expected_report, searcher.report_file_path)
 
 
 def test_search_when_single_result_with_two_lines(create_reports_dirs, remove_reports_dirs):
@@ -90,9 +95,9 @@ def test_search_when_single_result_with_two_lines(create_reports_dirs, remove_re
         '34-603 Ujanowice' + '\n\n' + \
         'Results found: 1'
 
-    data_dir_path, report_dir_path = _get_io_dir_paths(test_case='single_result_with_two_lines')
-    searcher = _run_searcher(data_dir_path, report_dir_path)
-    _assert_report_file_content_equals(expected_report, searcher.report_file_path)
+    data_dir_path, report_dir_path = get_io_dir_paths(test_suite, test_case='single_result_with_two_lines')
+    searcher = run_searcher(GoogleSearcher, data_dir_path, report_dir_path)
+    assert_report_file_content_equals(expected_report, searcher.report_file_path)
 
 
 def test_search_when_single_result_with_four_lines(create_reports_dirs, remove_reports_dirs):
@@ -106,9 +111,9 @@ def test_search_when_single_result_with_four_lines(create_reports_dirs, remove_r
         '32-862 Porąbka Iwkowska' + '\n\n' + \
         'Results found: 1'
 
-    data_dir_path, report_dir_path = _get_io_dir_paths(test_case='single_result_with_four_lines')
-    searcher = _run_searcher(data_dir_path, report_dir_path)
-    _assert_report_file_content_equals(expected_report, searcher.report_file_path)
+    data_dir_path, report_dir_path = get_io_dir_paths(test_suite, test_case='single_result_with_four_lines')
+    searcher = run_searcher(GoogleSearcher, data_dir_path, report_dir_path)
+    assert_report_file_content_equals(expected_report, searcher.report_file_path)
 
 
 def test_searcher_when_single_result_indirect_match_by_city_skipped(create_reports_dirs, remove_reports_dirs):
@@ -117,9 +122,9 @@ def test_searcher_when_single_result_indirect_match_by_city_skipped(create_repor
         '24-300 WOLA RUDZKA' + '\n\n' + \
         'Results found: 0'
 
-    data_dir_path, report_dir_path = _get_io_dir_paths(test_case='single_result_indirect_match_by_city_skipped')
-    searcher = _run_searcher(data_dir_path, report_dir_path)
-    _assert_report_file_content_equals(expected_report, searcher.report_file_path)
+    data_dir_path, report_dir_path = get_io_dir_paths(test_suite, test_case='single_result_indirect_match_by_city_skipped')
+    searcher = run_searcher(GoogleSearcher, data_dir_path, report_dir_path)
+    assert_report_file_content_equals(expected_report, searcher.report_file_path)
 
 
 def test_searcher_when_single_result_indirect_match_by_zip_code_skipped(create_reports_dirs, remove_reports_dirs):
@@ -128,9 +133,9 @@ def test_searcher_when_single_result_indirect_match_by_zip_code_skipped(create_r
         '24-400 CUPLE' + '\n\n' + \
         'Results found: 0'
 
-    data_dir_path, report_dir_path = _get_io_dir_paths(test_case='single_result_indirect_match_by_zip_code_skipped')
-    searcher = _run_searcher(data_dir_path, report_dir_path)
-    _assert_report_file_content_equals(expected_report, searcher.report_file_path)
+    data_dir_path, report_dir_path = get_io_dir_paths(test_suite, test_case='single_result_indirect_match_by_zip_code_skipped')
+    searcher = run_searcher(GoogleSearcher, data_dir_path, report_dir_path)
+    assert_report_file_content_equals(expected_report, searcher.report_file_path)
 
 
 def test_searcher_when_single_result_indirect_match_by_city_allowed(create_reports_dirs, remove_reports_dirs):
@@ -143,9 +148,9 @@ def test_searcher_when_single_result_indirect_match_by_city_allowed(create_repor
         '34-600 Limanowa' + '\n\n' + \
         'Results found: 1'
 
-    data_dir_path, report_dir_path = _get_io_dir_paths(test_case='single_result_indirect_match_by_city_allowed')
-    searcher = _run_searcher(data_dir_path, report_dir_path, skip_indirect_matches=False)
-    _assert_report_file_content_equals(expected_report, searcher.report_file_path)
+    data_dir_path, report_dir_path = get_io_dir_paths(test_suite, test_case='single_result_indirect_match_by_city_allowed')
+    searcher = run_searcher(GoogleSearcher, data_dir_path, report_dir_path, skip_indirect_matches=False)
+    assert_report_file_content_equals(expected_report, searcher.report_file_path)
 
 
 def test_searcher_when_single_result_indirect_match_by_zip_code_head_allowed(create_reports_dirs, remove_reports_dirs):
@@ -158,9 +163,9 @@ def test_searcher_when_single_result_indirect_match_by_zip_code_head_allowed(cre
         '34-600 Limanowa' + '\n\n' + \
         'Results found: 1'
 
-    data_dir_path, report_dir_path = _get_io_dir_paths(test_case='single_result_indirect_match_by_zip_code_head_allowed')
-    searcher = _run_searcher(data_dir_path, report_dir_path, skip_indirect_matches=False)
-    _assert_report_file_content_equals(expected_report, searcher.report_file_path)
+    data_dir_path, report_dir_path = get_io_dir_paths(test_suite, test_case='single_result_indirect_match_by_zip_code_head_allowed')
+    searcher = run_searcher(GoogleSearcher, data_dir_path, report_dir_path, skip_indirect_matches=False)
+    assert_report_file_content_equals(expected_report, searcher.report_file_path)
 
 
 def test_searcher_when_single_result_indirect_match_by_zip_code_tail_allowed(create_reports_dirs, remove_reports_dirs):
@@ -173,9 +178,9 @@ def test_searcher_when_single_result_indirect_match_by_zip_code_tail_allowed(cre
         '24-140 Nałęczów' + '\n\n' + \
         'Results found: 1'
 
-    data_dir_path, report_dir_path = _get_io_dir_paths(test_case='single_result_indirect_match_by_zip_code_tail_allowed')
-    searcher = _run_searcher(data_dir_path, report_dir_path)
-    _assert_report_file_content_equals(expected_report, searcher.report_file_path)
+    data_dir_path, report_dir_path = get_io_dir_paths(test_suite, test_case='single_result_indirect_match_by_zip_code_tail_allowed')
+    searcher = run_searcher(GoogleSearcher, data_dir_path, report_dir_path)
+    assert_report_file_content_equals(expected_report, searcher.report_file_path)
 
 
 def test_searcher_when_single_result_duplicate_skipped(create_reports_dirs, remove_reports_dirs):
@@ -191,9 +196,9 @@ def test_searcher_when_single_result_duplicate_skipped(create_reports_dirs, remo
         '34-603 STRZESZYCE' + '\n\n' + \
         'Results found: 1'
 
-    data_dir_path, report_dir_path = _get_io_dir_paths(test_case='single_result_duplicate_skipped')
-    searcher = _run_searcher(data_dir_path, report_dir_path)
-    _assert_report_file_content_equals(expected_report, searcher.report_file_path)
+    data_dir_path, report_dir_path = get_io_dir_paths(test_suite, test_case='single_result_duplicate_skipped')
+    searcher = run_searcher(GoogleSearcher, data_dir_path, report_dir_path)
+    assert_report_file_content_equals(expected_report, searcher.report_file_path)
 
 
 def test_searcher_when_single_result_duplicate_allowed(create_reports_dirs, remove_reports_dirs):
@@ -212,9 +217,9 @@ def test_searcher_when_single_result_duplicate_allowed(create_reports_dirs, remo
         '34-603 Ujanowice' + '\n\n' + \
         'Results found: 2'
 
-    data_dir_path, report_dir_path = _get_io_dir_paths(test_case='single_result_duplicate_allowed')
-    searcher = _run_searcher(data_dir_path, report_dir_path, skip_duplicates=False)
-    _assert_report_file_content_equals(expected_report, searcher.report_file_path)
+    data_dir_path, report_dir_path = get_io_dir_paths(test_suite, test_case='single_result_duplicate_allowed')
+    searcher = run_searcher(GoogleSearcher, data_dir_path, report_dir_path, skip_duplicates=False)
+    assert_report_file_content_equals(expected_report, searcher.report_file_path)
 
 
 def test_searcher_when_single_result_twice(create_reports_dirs, remove_reports_dirs):
@@ -230,9 +235,9 @@ def test_searcher_when_single_result_twice(create_reports_dirs, remove_reports_d
         '34-600' + '\n\n' + \
         'Results found: 2'
 
-    data_dir_path, report_dir_path = _get_io_dir_paths(test_case='single_result_twice')
-    searcher = _run_searcher(data_dir_path, report_dir_path)
-    _assert_report_file_content_equals(expected_report, searcher.report_file_path)
+    data_dir_path, report_dir_path = get_io_dir_paths(test_suite, test_case='single_result_twice')
+    searcher = run_searcher(GoogleSearcher, data_dir_path, report_dir_path)
+    assert_report_file_content_equals(expected_report, searcher.report_file_path)
 
 
 def test_searcher_when_multiple_results(create_reports_dirs, remove_reports_dirs):
@@ -257,9 +262,9 @@ def test_searcher_when_multiple_results(create_reports_dirs, remove_reports_dirs
         '33-300 Nowy Sącz' + '\n\n' + \
         'Results found: 5'
 
-    data_dir_path, report_dir_path = _get_io_dir_paths(test_case='multiple_results')
-    searcher = _run_searcher(data_dir_path, report_dir_path)
-    _assert_report_file_content_equals(expected_report, searcher.report_file_path)
+    data_dir_path, report_dir_path = get_io_dir_paths(test_suite, test_case='multiple_results')
+    searcher = run_searcher(GoogleSearcher, data_dir_path, report_dir_path)
+    assert_report_file_content_equals(expected_report, searcher.report_file_path)
 
 
 def test_searcher_when_multiple_results_not_on_top(create_reports_dirs, remove_reports_dirs):
@@ -328,41 +333,6 @@ def test_searcher_when_multiple_results_not_on_top(create_reports_dirs, remove_r
         '33-300 Nowy Sącz' + '\n\n' + \
         'Results found: 19'
 
-    data_dir_path, report_dir_path = _get_io_dir_paths(test_case='multiple_results_not_on_top')
-    searcher = _run_searcher(data_dir_path, report_dir_path)
-    _assert_report_file_content_equals(expected_report, searcher.report_file_path)
-
-
-def _get_io_dir_paths(test_case):
-    return os.path.join('data', 'google_page', test_case), os.path.join('reports', 'google_page', test_case)
-
-
-def _run_searcher(data_dir_path, report_file_path, skip_indirect_matches=True, skip_duplicates=True):
-    searcher = GoogleSearcher(data_dir_path, report_file_path, skip_indirect_matches=skip_indirect_matches, skip_duplicates=skip_duplicates)
-    searcher.search()
-    return searcher
-
-
-def _assert_report_file_content_equals(expected_report, report_file_path):
-    with open(report_file_path, encoding='utf8') as file:
-        assert file.read() == expected_report
-
-
-# TODO: scenarios
-'''
-multiple results - skip indirect match and duplicate
-multiple results - allow indirect match and duplicate
-multiple results - skip indirect match and allow duplicate
-multiple results - allow indirect match and skip duplicate
-
-multiple results skip all not direct match
-multiple results skip one not direct match
-multiple results allow one not direct match
-multiple results skip all duplicated
-multiple results skip one duplicated
-multiple results allow one duplicated
-multiple results twice
-multiple results - zip code prefix matched
-
-basic use case (mix of all scenarios)
-'''
+    data_dir_path, report_dir_path = get_io_dir_paths(test_suite, test_case='multiple_results_not_on_top')
+    searcher = run_searcher(GoogleSearcher, data_dir_path, report_dir_path)
+    assert_report_file_content_equals(expected_report, searcher.report_file_path)
