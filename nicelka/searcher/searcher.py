@@ -30,7 +30,7 @@ class Searcher:
         return None if self._engine is None else self._engine.name
 
     @property
-    def results_file_path(self):
+    def report_file_path(self):
         return self._reporter.report_file_path
 
     @abstractmethod

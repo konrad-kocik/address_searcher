@@ -7,7 +7,7 @@ from nicelka.searcher.searcher import Searcher
 class KrkgwSearcher(Searcher):
     def __init__(self,
                  data_dir_path='data',
-                 results_dir_path='results',
+                 report_dir_path='reports',
                  skip_indirect_matches=True,
                  skip_duplicates=True):
         super(KrkgwSearcher, self).__init__(data_dir_path=data_dir_path,
@@ -15,7 +15,7 @@ class KrkgwSearcher(Searcher):
                                             skip_duplicates=skip_duplicates)
 
         self._engine = EngineFactory.get_engine('krkgw_page')
-        self._reporter = Reporter(results_dir_path, self.engine_name)
+        self._reporter = Reporter(report_dir_path, self.engine_name)
 
     def search(self):
         Logger.info(self, 'Searching...')
