@@ -27,17 +27,6 @@ class KrkgwPage(WebPage):
         search_button = self._find_element_by_id('search')
         search_button.click()
 
-    def _close_cookies_info(self):
-        close_button_xpath = '/html/body/div[1]/div/a'
-        try:
-            self._wait_for_clickability_by_xpath(close_button_xpath, timeout=0.2)
-            close_button = self._find_element_by_xpath(close_button_xpath)
-            close_button.click()
-        except (TimeoutException, NoSuchElementException):
-            pass
-        except Exception as e:
-            Logger.error(self, e)
-
     def _get_results(self):
         results = []
 
