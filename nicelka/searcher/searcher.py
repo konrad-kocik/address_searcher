@@ -3,11 +3,14 @@ from abc import abstractmethod
 from nicelka.gateway.gateway import Gateway
 from nicelka.logger.logger import Logger
 
-# TODO: add logger
+# TODO: logger - add timestamp, remove root
+
+# TODO: fix KrkgwPage._enter_query.search_button.click() exception: ElementClickInterceptedException
 # TODO: narrow all Exceptions into more specific classes (report exceptions into logger)
+
+# TODO: refactor integration tests
 # TODO: write integration tests
 # TODO: handle multiple result pages in KrkgwPage
-# TODO: refactor integration tests
 # TODO: add progress bar
 # TODO: add unit tests
 # TODO: store results in custom classes
@@ -15,6 +18,7 @@ from nicelka.logger.logger import Logger
 # TODO: use REST API instead of Selenium
 # TODO: add AI to evaluate results found
 # TODO: add docs, type hints etc.
+# TODO: refactor and test find_duplicates
 
 
 class Searcher:

@@ -1,0 +1,546 @@
+======================================================================
+82-230 NOWY STAW
+
+#Urząd
+
+Urząd Miejski w Nowym Stawie
+gen. Józefa Bema 1
+82-230 Nowy Staw
+
+#Dom kultury
+
+Żuławy w Rytmie Disco
+Jana Pawła II 2
+82-230 Nowy Staw
+
+Ośrodek Sportu i Rekreacji
+Sportowa 5
+82-230 Nowy Staw
+
+Nowostawskie Centrum Kultury i Biblioteki
+Jana Pawła II 2
+82-230 Nowy Staw
+
+#Szkoła
+
+Zespół Szkolno-Przedszkolny, Szkoła Podstawowa nr 2 im. Wincentego Pola
+Gdańska 53
+82-230 Nowy Staw
+
+Zespół Szkolno-Przedszkolny Szkoła Podstawowa Nr 2
+Bankowa 2
+82-230 Nowy Staw
+
+Zespół Szkolno-Przedszkolny Przedszkole
+Gdańska 43 b
+82-230 Nowy Staw
+
+Budynek Zespołu Szkół Ponadgimnazjalnych nr 5
+Mickiewicza 51
+82-230 Nowy Staw
+
+#Biblioteka
+
+Biblioteka Publiczna Miejska
+Rynek Pułaskiego 2
+82-230 Nowy Staw
+
+#Przychodnia
+
+NZOZ NOVAMED
+gen. Józefa Bema 7
+82-230 Nowy Staw
+
+#Bank
+
+Bank Spółdzielczy w Nowym Stawie Centrala
+Rynek Kazimierza Pułaskiego 2
+82-230 Nowy Staw
+
+Agencja PKO Banku Polskiego
+ul. Rynek
+Tadeusza Kościuszki 14
+82-230 Nowy Staw
+
+Credit Agricole Bank Polska S.A. - Placówka CA Express
+Jana Pawła II 7/3
+82-230 Nowy Staw
+
+Monetia Sp. z o.o. Agencja bankowa
+Mickiewicza 6
+82-230 Nowy Staw
+
+#Oddział
+
+Herbanord-Gdańsk Sp. z o.o. Oddział
+Obrońców Westerplatte 28
+82-230 Nowy Staw
+
+#Produkcja
+
+4Plast - Skup plastiku samochodowego, tworzyw sztucznych
+Kolejowa 1
+82-230 Nowy Staw
+
+Herbanordpol-Gdańsk Sp. z o.o.
+Obrońców Westerplatte 28
+82-230 Nowy Staw
+
+Węglopex sp.j. Partyka J.P.
+Wiejska 7
+82-230 Nowy Staw
+
+Cukiernia Jędruś
+Rynek Pułaskiego 22
+82-230 Nowy Staw
+
+Star Scrap - Mobilny skup katalizatorów, monolitu oraz filtrów DPF
+Kolejowa 1/1
+82-230 Nowy Staw
+
+#Zakład
+
+Complex. Przedsiębiorstwo usług komunalnych.
+Wiejska 6
+82-230 Nowy Staw
+
+Usługi Pogrzebowe Karol Niedźwiecki
+Zwycięstwa 28
+82-230 Nowy Staw
+
+#Spółdzielnia
+
+Stawiec. Spółdzielnia Mieszkaniowa
+82-230 Nowy Staw
+
+#Związek
+
+Agape. Stowarzyszenie na Rzecz Bezdomnych
+Mickiewicza 32
+82-230 Nowy Staw
+
+#Stowarzyszenie
+
+Stowarzyszenie Miłośników Nowego Stawu
+Jana Pawła II 2
+82-230 Nowy Staw
+
+Parafia św. Mateusza Apostoła w Nowym Stawie
+Plac kard. Stefana Wyszyńskiego 1
+82-230 Nowy Staw
+
+Urząd Pocztowy
+Obrońców Westerplatte 8
+82-230 Nowy Staw
+
+#Firma
+
+Hurtownia Budowlana i Firma Budowlana Nowy Staw
+Bankowa 4
+82-230 Nowy Staw
+
+AMG Liquids
+Bankowa 9
+82-230 Nowy Staw
+
+Szałach sp.j. Transport ciężarowy, usługi rolnicze, wykopki buraków
+Bankowa 2
+82-230 Nowy Staw
+
+#Poczta
+
+Poczta Polska
+ul
+Obrońców Westerplatte 8
+82-230 Nowy Staw
+
+#PZU
+
+Agroturystyka
+Gdańska 16
+82-230 Nowy Staw
+
+Novotex. Kosiedowski Z.
+Obrońców Westerplatte 26
+82-230 Nowy Staw
+
+Galeria Żuławska
+Tadeusza Kościuszki
+82-230 Nowy Staw
+
+======================================================================
+82-112 OSTASZEWO
+
+#Urząd
+
+Urząd Gminy Ostaszewo
+Kościuszki 51
+82-112
+
+#Ośrodek
+
+Przychodnia ETER-MED filia nr 6 OSTASZEWO
+Kościuszki 37
+82-112
+
+#Szkoła
+
+Zespół Szkół w Ostaszewie Szkoła Podstawowa
+Kościuszki 22
+82-112 Ostaszewo
+
+#Bank
+
+Bank Spółdzielczy w Sztumie Oddział, Ostaszewo
+Ostaszewo 69
+82-112 Ostaszewo
+
+Poczta Polska
+Nowodworska 10
+82-100 Ostaszewo
+
+#Spółka
+
+Hydromechanika Sp. z o.o. Sp. k.
+Piaskowiec 38
+82-112 Ostaszewo
+
+#Spółdzielnia
+
+Spółdzielnia Mieszkaniowa Zgoda
+Ostaszewo 14
+82-112 Ostaszewo
+
+#Firma
+
+ostaszewo
+Żuławska
+82-112
+
+#Poczta
+
+Kościół pw. św. Jana Chrzciciela
+Ostaszewo 37
+82-112 Ostaszewo
+
+#PZU
+
+Apteka
+82-112 Ostaszewo; Kościuszki 87
+82-112
+
+======================================================================
+82-224 LICHNOWY
+
+#Urząd
+
+Urząd Gminy Lichnowy
+Tczewska 6
+82-224 Lichnowy
+
+#Ośrodek
+
+Gminny Ośrodek Kultury i Sportu
+Lachowicza 25a
+82-224 Lichnowy
+
+#Dom kultury
+
+Gminny Ośrodek Kultury i Sportu (Community Center for Culture and Sport)
+Lachowicza 25a
+82-224 Lichnowy
+
+#Szkoła
+
+Zespół Szkół w Lichnowach
+Zwycięstwa 15
+82-224 Lichnowy
+
+#Biblioteka
+
+Gminna Biblioteka Publiczna w Lichnowach
+Zwycięstwa 15
+82-224 Lichnowy
+
+#Bank
+
+Bank Spółdzielczy w Malborku Punkt Kasowy
+Tczewska 6
+82-224 Lichnowy
+
+#Spółdzielnia
+
+Rolnicza Spółdzielnia Produkcyjna "Zwycięstwo"
+Zwycięstwa 3c
+82-224 Lichnowy
+
+#Poczta
+
+Urząd Pocztowy
+Tczewska 6
+82-224 Lichnowy
+
+======================================================================
+82-213 MIŁORADZ
+
+#Urząd
+
+Urząd Gminy Miłoradz
+Żuławska
+82-213 Miłoradz
+
+#Ośrodek
+
+Gminny Ośrodek Kultury i Sportu
+Główna 54
+82-213 Miłoradz
+
+#Biblioteka
+
+Biblioteka Publiczna w Miłoradzu
+Główna 54
+82-213 Miłoradz
+
+#Przychodnia
+
+Primed. NZOZ. Ośrodek zdrowia
+82-213 Miłoradz
+
+#Bank
+
+Poczta Polska
+Żuławska 14
+82-213 Miłoradz
+
+#Produkcja
+
+Gminny Zakład Gospodarki Komunalnej w Miłoradzu
+Główna 5
+82-213 Miłoradz
+
+#Spółka
+
+Zespół Szkolno-Przedszkolny w Miłoradzu
+Szkolna 1
+82-213 Miłoradz
+
+#Klub
+
+GLKS Delta Miłoradz
+82-213 Miłoradz
+
+#Poczta
+
+Ochotnicza Straż Pożarna w Miłoradzu
+Główna 54
+82-213 Miłoradz
+
+Paczkomat InPost
+Osiedlowa
+82-213 Miłoradz
+
+Parafia rzymskokatolicka św. Michała Archanioła
+Cicha 3
+82-213 Miłoradz
+
+Dom Pielgrzyma W Mątowach Wielkich
+Mątowy Wielkie 74
+82-213 Miłoradz
+
+#muzeum
+
+Dawna Wozownia
+Polna 2
+82-213 Miłoradz
+
+======================================================================
+83-020 CEDRY WIELKIE
+
+#Dom kultury
+
+Żuławski Ośrodek Kultury i Sportu
+Osadników Wojskowych 41
+83-020 Cedry Wielkie
+
+#Szkoła
+
+Szkoła Podstawowa im. Henryka Sienkiewicza w Cedrach Wielkich
+Osadników Wojskowych 21
+83-020 Cedry Wielkie
+
+#Politechnika
+
+Urząd Gminy Cedry Wielkie
+Cedry Wielkie 16
+83-020 Cedry Wielkie
+
+#Biblioteka
+
+Gminna Bibioteka Publiczna
+Osadników Wojskowych 41
+83-020 Cedry Wielkie
+
+#Przychodnia
+
+Przychodnia Cedry Wielkie filia ETER-MED
+Macieja Płażyńskiego 18
+83-020 Cedry Wielkie
+
+#Policja
+
+Policja. Komenda Powiatowa w Pruszczu Gdańskim. Komisariat
+83-020 Cedry Wielkie; Krasickiego 10
+83-020
+
+Komisariat Policji.
+Macieja Płażyńskiego 10
+83-020 Cedry Wielkie
+
+Urząd Pocztowy Cedry Wielkie
+Krasickiego 8
+83-020 Cedry Wielkie
+
+#Spółka
+
+Achilles Polska Sp. z o.o.
+Płażyńskiego 6
+83-020 Cedry Wielkie
+
+#Spółdzielnia
+
+Spółdzielnia Mieszkaniowa Lokatorsko-Własnościowa "Żuławy"
+Leśna 32
+83-020 Cedry Wielkie
+
+#Koło
+
+83-020
+Wocławy
+Kiezmark
+Cedry Wielkie
+Cedry Małe
+Trutnowy
+WIĘCEJ
+
+#Firma
+
+UEGZ
+Pionierów Żuław 42c
+83-020 Cedry Wielkie
+
+#muzeum
+
+Przystanek
+83-020 Cedry Wielkie
+
+#Czerwony Krzyż
+
+Gminny Ośrodek Pomocy Społecznej
+83-020 Cedry Wielkie; Krasickiego 16
+83-020
+
+======================================================================
+83-022 SUCHY DĄB
+
+#Urząd
+
+Urząd Gminy Suchy Dąb
+Gdańska 17
+83-022 Suchy Dąb
+
+#Ośrodek
+
+Gminny Ośrodek Pomocy Społecznej w Suchym Dębie
+Gdańska 17a
+83-022 Suchy Dąb
+
+#Szkoła
+
+Szkoła Podstawowa im. Obrońców Westerplatte
+Sportowa 11
+83-022 Suchy Dąb
+
+#Szpital
+
+Medical Medycyna
+Gdańska 32
+83-022 Suchy Dąb
+
+#Bank
+
+Gospodarczy Bank Wielkopolski S.A. Bankomat
+Gdańska 32
+83-022 Suchy Dąb
+
+#Produkcja
+
+Horyzont-System Sp. z o.o.
+Gdańska 58
+83-022 Suchy Dąb
+
+#Zakład
+
+Oczyszczalnia Suchy Dąb
+83-022 Suchy Dąb
+
+#Firma
+
+Dariusz Gołąbko Logistics
+Podcieniowa 10
+83-022 Suchy Dąb
+
+#Poczta
+
+Poczta Polska
+Gdańska 31
+83-022 Suchy Dąb
+
+Ochotnicza Straż Pożarna
+Gdańska 19
+83-022 Suchy Dąb
+
+Paczkomat InPost
+Sportowa 6B
+83-022 Suchy Dąb
+
+Parafia rzymskokatolicka św. Anny i Joachima
+Sportowa 2
+83-022 Suchy Dąb
+
+#PZU
+
+PAXBUD PROFESSIONAL - Remonty, Wykończenia Wnętrz
+SPORTOWA 13B / 11
+83-022 Suchy Dąb
+
+#Centrum
+
+Boisko sportowe Suchy Dąb
+Sportowa
+83-022 Suchy Dąb
+
+Ochotnicza Straż Pożarna w Suchym Dębie
+Gdańska 19
+83-022 Suchy Dąb
+
+Wik Fabryka Okien
+Gdańska 58
+83-022 Suchy Dąb
+
+Sklep spożywczy KASKOM
+Gdańska 29
+83-022 Suchy Dąb
+
+Gigam-Bis Sp. z o.o.
+Gdańska 58
+83-022 Suchy Dąb
+
+Commodum Jan Perfikowski
+Żuławska 1
+83-022 Suchy Dąb
+
+Europak
+Żuławska 2
+83-022 Suchy Dąb
+
+Liczba znalezionych adresow: 99

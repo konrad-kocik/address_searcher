@@ -1,0 +1,766 @@
+======================================================================
+82-200 MALBORK
+
+#Urząd
+
+Urząd Miasta Malborka
+Plac Słowiański 5
+82-200 Malbork
+
+Urząd Skarbowy
+Mikołaja Kopernika 10
+82-200 Malbork
+
+Urząd Gminy Malbork
+Ceglana 7
+82-200 Malbork
+
+Powiatowy Urząd Pracy
+Aleja Armii Krajowej 70
+82-200 Malbork
+
+Urząd Miasta Malborka - Wydział Promocji, Turystyki i Współpracy z Zagranicą.
+82-200 Malbork
+
+#Szkoła
+
+Szkoła Podstawowa nr 1 im. Jana III Sobieskiego w Malborku
+Stefana Żeromskiego 45
+82-200 Malbork
+
+Szkoła Podstawowa nr 6 im. Jana Kochanowskiego w Malborku
+Tczewska 13
+82-200 Malbork
+
+Zespół Szkolno-Przedszkolny nr 1
+Józefa Wybickiego 32
+82-200 Malbork
+
+Szkoła Podstawowa nr 9 w Malborku
+plac Gabriela Narutowicza 15
+82-210 Malbork
+
+Zespół Szkół Katolickich im. św. Jana Pawła II
+Władysława Reymonta 24
+82-200 Malbork
+
+Zespół Szkół Ponadpodstawowych nr 2 w Malborku
+Aleja Wojska Polskiego 493
+82-200 Malbork
+
+Specjalny Ośrodek Szkolno - Wychowawczy
+Jagiellońska 79
+82-200 Malbork
+
+Szkoła Podstawowa nr 2 im. Ignacego Krasickiego w Malborku
+Aleja Wojska Polskiego 479
+82-200 Malbork
+
+Szkoła Podstawowa nr 8 im. Mikołaja Kopernika w Malborku
+Generała de Gaulle'a 91
+82-200 Malbork
+
+Szkoła Podstawowa nr 3 im. 2 Pułku Nocnych Bombowców "Kraków
+Stanisława Hadyny 18
+82-200 Malbork
+
+I Liceum Ogólnokształcące im. Henryka Sienkiewicza
+17 Marca 6
+82-200 Malbork
+
+Państwowa Szkoła Muzyczna I stopnia
+Plac Słowiański 18
+82-200 Malbork
+
+Zespół Szkół Ponadgimnazjalnych nr 3
+Aleja Wojska Polskiego 502
+82-200 Malbork
+
+Szkoła Podstawowa nr 2
+Aleja Wojska Polskiego 479
+82-200 Malbork
+
+Studium Pracowników Medycznych i Społecznych
+Aleja Wojska Polskiego 493
+82-200 Malbork
+
+YAMAHA Szkoła Muzyczna
+Adama Mickiewicza 26
+82-200 Malbork
+
+Wydział Zarządzania i Inżynierii w Malborku Wyższej Szkoły Gospodarki w Bydgoszczy
+Generała Władysława Sikorskiego 45
+82-200 Malbork
+
+Liceum Plastyczne Zespołu Szkół Ponadgimnazjalnych nr 2
+Aleja Wojska Polskiego 493
+82-200 Malbork
+
+Szkoła Podstawowa w Gminie Malbork
+Główna 5
+82-200 Malbork
+
+ZSP Nr.4 Malbork
+82-200 Malbork
+
+#Przedszkole
+
+Przedszkole nr 10
+Władysława Reymonta 3
+82-200 Malbork
+
+Przedszkole nr 5
+Wincentego Witosa 5
+82-200 Malbork
+
+Krasnal. Przedszkole niepubliczne
+Fryderyka Chopina 71
+82-200 Malbork
+
+Słoneczko. Punkt Przedszkolny. Polak-Całka A.
+Rolnicza 6/3-4
+82-200 Malbork
+
+Promyk. Przedszkole
+Kościelna 10
+82-200 Malbork
+
+Przedszkole nr 8
+Adama Mickiewicza 40
+82-200 Malbork
+
+Bratek Przedszkole niepubliczne
+Hieronima Derdowskiego 3
+82-200 Malbork
+
+Przedszkole Niepubliczne Czerwony Kapturek
+Generała Józefa Bema 13
+82-200 Malbork
+
+Przedszkole Bajka
+ul. Gałczyńskiego 5
+82-200 Malbork
+
+Bratek-Południe
+Kazimierza Michałowskiego 1
+82-200 Malbork
+
+Przedszkole Niepubliczne TĘCZA
+17 Marca 16
+82-200 Malbork
+
+Przedszkole
+Kazimierza Michałowskiego 14
+82-200 Malbork
+
+#Przychodnia
+
+noclegi malbork
+Wałowa 11
+82-200 Malbork
+
+Powiatowe Centrum Zdrowia Sp. z o.o. Szpital im. dr Jadwigi Obodzińskiej- Król
+Aleja Armii Krajowej 105/106
+82-200 Malbork
+
+Powiatowe Centrum Zdrowia w Malborku Sp. z o.o. Przychodnia POZ
+Marii Konopnickiej 4
+82-200 Malbork
+
+Mederi. Ośrodek medyczny
+Tadeusza Kotarbińskiego 10
+82-200 Malbork
+
+Niepubliczny Zakład Opieki Zdrowotnej ALMED
+Dworcowa 14
+82-200 Malbork
+
+Powiatowe Centrum Zdrowia Sp. z o.o. - Poradnia Położniczo-ginekologiczna
+4
+Juliusza Słowackiego 71
+82-200 Malbork
+
+AWIP Malbork
+500-lecia 98
+82-200 Malbork
+
+Niepubliczny Zakład Opieki Zdrowotnej "Malmed"
+ul. Solskiego 1
+82-200 Malbork
+
+Cukromed. NZOZ. Przychodnia medycyny pracy
+Władysława Reymonta 18
+82-200 Malbork
+
+Remedium. Poradnia dziecięca
+Juliusza Słowackiego 2
+82-200 Malbork
+
+Perfekt. sp. z o.o. Poradnia Rehabilitacyjna
+Nowowiejskiego 48
+82-200 Malbork
+
+Rybczyński Włodzimierz, lek. med. Spec. laryngolog
+aleja Sprzymierzonych 47
+82-200 Malbork
+
+Piasecka Bogumiła, lek. med. pediatra. Gabinet
+Marii Konopnickiej 23
+82-200 Malbork
+
+Woźny Iwona, lek. medycyny rodzinnej
+Aleja Wojska Polskiego 52
+82-200 Malbork
+
+Medix. Indywidualna praktyka lekarska. Kisielewska T.
+Józefa Wybickiego 32
+82-200 Malbork
+
+Poradnia alergologiczna dla dzieci i dorosłych
+Marii Konopnickiej 4
+82-200 Malbork
+
+NZOZ Centrum Medycyny Manualnej Rehabilitacji i Profilaktyki Zdrowotnej MED-ISO
+500-lecia 98
+82-200 Malbork
+
+Primed. NZOZ
+Aleja Wojska Polskiego 52
+82-200 Malbork
+
+Droga. Ośrodek edukacji psychologicznej i psychoterapii. Alicja Zborowska-Gordowy
+plac Gabriela Narutowicza 12b/8
+82-200 Malbork
+
+Medipunkt
+Mikołaja Kopernika 1
+82-200 Malbork
+
+#Bank
+
+Bank Spółdzielczy
+17 Marca 32
+82-200 Malbork
+
+Bank Spółdzielczy
+Aleja Rodła 4
+82-200 Malbork
+
+Bank Spółdzielczy w Malborku II Oddział w Malborku
+Generała Władysława Sikorskiego 13
+82-200 Malbork
+
+PKO Bank Polski S.A.-Oddział 1 w Malborku
+Mikołaja Kopernika 2
+82-200 Malbork
+
+Agencja PKO Banku Polskiego
+Henryka Sienkiewicza 15
+82-200 Malbork
+
+Oddział Millennium
+Tadeusza Kościuszki 48-53
+82-200 Malbork
+
+Bank Spółdzielczy w Sztumie. Punkt kasowy Kałdowo
+Ludwika Solskiego 1
+82-200 Malbork
+
+Santander Consumer Bank - Oddział Partnerski
+Tadeusza Kościuszki 6
+82-200 Malbork
+
+Bank Pekao S.A.
+Józefa Piłsudskiego 9
+82-200 Malbork
+
+Credit Agricole Bank Polska S.A. - Placówka Bankowa
+Tadeusza Kościuszki 17
+82-200 Malbork
+
+Bank Spółdzielczy
+Tadeusza Kotarbińskiego 14
+82-210 Malbork
+
+BNP Paribas Bank Polska S.A. Oddział w Malborku
+17 Marca 43
+82-200 Malbork
+
+Agencja PKO Banku Polskiego
+Józefa Wybickiego 10
+82-200 Malbork
+
+Bank Pocztowy S.A.
+17 Marca
+82-200 Malbork
+
+Nest Bank - Malbork (placówka partnerska)
+Plac Słowiański 9C
+82-200 Malbork
+
+Alior Bank Placówka Partnerska Malbork
+Tadeusza Kościuszki 23a
+82-200 Malbork
+
+Oddział Banku Millennium
+Tadeusza Kościuszki 20
+82-200 Malbork
+
+Oddział Millennium
+Plac Słowiański 17
+82-200 Malbork
+
+PKO Bank Polski S.A.- Bankomat
+Kazimierza Michałowskiego 14
+82-200 Malbork
+
+PKO Bank Polski S.A.- Bankomat
+Henryka Sienkiewicza 15
+82-200 Malbork
+
+#Produkcja
+
+Prino-Plast Sp. z o.o. JV Produkcja Artykułów Higienicznych
+Aleja Wojska Polskiego 48
+82-200 Malbork
+
+Oval Sp. z o.o.
+Aleja Wojska Polskiego 91
+82-200 Malbork
+
+Organika S.A. Malborskie zakłady chemiczne
+Boczna 10
+82-200 Malbork
+
+BGF
+Aleja Wojska Polskiego 90A
+82-200 Malbork
+
+Nyborg-Mawent S.A.
+Generała Stanisława Maczka 6
+82-200 Malbork
+
+Malborżanka sp.j. Grzesik D., Dera P.
+Henryka Sucharskiego 1
+82-200 Malbork
+
+Zakład Kamieniarski Malbork Daniel Kluka
+Bałtycka 5
+82-200 Malbork
+
+Krajowa Spółka Cukrowa SA Oddział Cukrownia Malbork
+Generała Władysława Sikorskiego 51
+82-200 Malbork
+
+Guzik i Pętelka
+Głogowa 6
+82-200 Malbork
+
+Sklep u Anglika
+Nowowiejskiego 48
+82-200 Malbork
+
+ARCONA producent wypełnień do poduszek i mebli |Pianka poliuretanowa |Włókno poliestrowe
+Daleka 122
+82-200 Malbork
+
+TECHJET - technologia WATERJET - oddział Malbork
+Aleja Wojska Polskiego 48
+82-200 Malbork
+
+Royal okna, drzwi, fasady
+Koszykowa 1
+82-200 Malbork
+
+Meble Stopa | Kuchnie | Szafy | Garderoby | Indeco
+Adama Mickiewicza 31b
+82-200 Malbork
+
+#Zakład
+
+Muzeum Zamkowe w Malborku
+Starościńska 1
+82-200 Malbork
+
+Zakład Gospodarki Komunalnej i Mieszkaniowej w Malborku Sp. z o.o.
+Generała de Gaulle'a 70
+82-200 Malbork
+
+PT Malbork
+82-200 Malbork
+
+Kodak Ekspress
+CH "Jagiełło"
+Tadeusza Kościuszki 5
+82-200 Malbork
+
+Fotograf Malbork - MITO STUDIO
+Adama Mickiewicza 35
+82-200 Malbork
+
+Zamek w Malborku
+Starościńska 1
+82-200 Malbork
+
+Fotomat
+CH "Jagiełło"
+Tadeusza Kościuszki 5
+82-200 Malbork
+
+Art Studio s.c. PHU. Studio fotograficzne
+Tadeusza Kościuszki 10
+82-200 Malbork
+
+Fotomat
+Adama Mickiewicza 36/2
+82-200 Malbork
+
+Zakład Karny Malbork
+Poczty Gdańskiej 19
+82-210 Malbork
+
+Usługi Krawieckie Malbork, krawcowa, krawiec
+ul kościuszki 14
+Galeria Malborska
+82-200 Malbork
+
+Szalone Nożyczki
+Aleja Wojska Polskiego 520
+82-200 Malbork
+
+Barkana. Zakład odzieżowy
+Rzemieślnicza 2
+82-200 Malbork
+
+Igiełka. Krawiec
+CH "Jagiełło"
+Tadeusza Kościuszki 5
+82-200 Malbork
+
+Miejski Zakład Komunikacji Sp. z o.o.
+Generała de Gaulle'a 71
+82-200 Malbork
+
+#Zakłady
+
+D & T Sp. z o.o. Zakład Tworzyw Sztucznych
+Zamkowa 13
+82-200 Malbork
+
+Leier Polska S.A. Zakład Malbork
+Aleja Wojska Polskiego 92
+82-200 Malbork
+
+Malborskie Zakłady Chemiczne „Organika” S.A.
+Boczna 10
+82-200 Malbork
+
+Skiba. Zakłady mięsne. Sklep firmowy
+Generała Władysława Sikorskiego 50
+82-200 Malbork
+
+Zakład Naprawy Pojazdów Szynowych
+82-200 Malbork
+
+Murawski Jerzy. Zakład kamieniarski
+Bałtycka 7
+82-200 Malbork
+
+Zwoliński J. PPHU. Zakład stolarski
+Zamkowa 11
+82-200 Malbork
+
+Polska Spółka Gazownictwa Sp. z o.o., Oddział Zakład Gazowniczy w Gdańsku, Gazownia w Malborku
+Bolesława Chrobrego 30
+82-200 Malbork
+
+Zakład Pogrzebowy WRZOS - Małgorzata Hermanowicz
+Aleja Armii Krajowej 32
+82-200 Malbork
+
+#Agencja
+
+Boa. Agencja promocyjno - marketingowa. Kamińska A.
+Tadeusza Kościuszki 23
+82-200 Malbork
+
+Onyx Advertising. Wzmacnia promocje twojej firmy
+Jagiellońska 2
+82-200 Malbork
+
+Agencja Reklamy Malbork
+Okopowa 57
+82-200 Malbork
+
+PRO Michał Płocharski
+Feliksa Nowowiejskiego 48
+82-200 Malbork
+
+HP-GRAF
+Jana Kochanowskiego 21
+82-200 Malbork
+
+Krajowy Ośrodek Wsparcia Rolnictwa Sekcja Zamiejscowa w Malborku
+Wołyńska 19
+82-200 Malbork
+
+AMJ Marketing. Gadżety reklamowe Malbork, artykuły reklamowe, kalendarze.
+Feliksa Stamma 24
+82-200 Malbork
+
+K.B. Nieruchomości
+Marii Konopnickiej 22
+82-200 Malbork
+
+PATROL. Agencja ochrony osób i MIENIA "Patrol" Krzysztof Łukowski
+Krótka 1
+82-200 Malbork
+
+Blokersi. Agencja reklamowa-usługowa. Tetkowski D.
+Daleka 67a
+82-200 Malbork
+
+PRO-ART P.H.U. Marcin Klaczyński
+Juliusza Słowackiego 64/1
+82-200 Malbork
+
+Herbowa. Firma. Branicka T.
+Maksymiliana Krajewskiego 4
+82-200 Malbork
+
+WGN - Mieszkania na sprzedaż w Malborku - Biuro Nieruchomości
+Piastowska 3
+82-200 Malbork
+
+BCSoft Usługi Informatyczno-Reklamowe inż. Piotr Chylewski
+Okopowa 57
+82-200 Malbork
+
+Gabo s.c. Agencja reklamowa. Gajek M., Borkowski A.
+Urocza 3
+82-200 Malbork
+
+Biuro Nieruchomości Freedom Malbork
+Adama Mickiewicza 20
+82-200 Malbork
+
+Bracia Rakowscy s.c. Rakowski P.A.
+Aleja Wojska Polskiego 42
+82-200 Malbork
+
+Ubezpieczenia Tomasz Falkiewicz
+Stare Miasto 21
+82-200 Malbork
+
+Hot Content Karolina Tomaszewska
+Kazimierza Michałowskiego 9b/3
+82-200 Malbork
+
+CUK Ubezpieczenia Malbork
+Plac Słowiański 9 B
+82-200 Malbork
+
+#Stowarzyszenie
+
+Dom Fides św. Faustyny. Stowarzyszenie
+Rolnicza 1
+82-200 Malbork
+
+Koło Przewodników Malborskich
+Starościńska 4
+82-200 Malbork
+
+Stowarzyszenie Wspierania Przedsiębiorczości
+Aleja Wojska Polskiego 499
+82-200 Malbork
+
+Stowarzyszenie Pomocy Osobom Autystycznym
+Jagiellońska 79/82
+82-200
+82-200 Malbork
+
+#Klub
+
+ALTERNATYWA KLUB
+Grunwaldzka 18-16
+82-200 Malbork
+
+Malborski Klub Sportowy NOGAT
+Wileńska 1
+82-200 Malbork
+
+City Club & Bowling
+200
+Tadeusza Kościuszki 14
+82-200 Malbork
+
+Olimpico. Kobiecy klub piłki nożnej
+Generała Władysława Sikorskiego 30
+82-200 Malbork
+
+MOP POMEZANIA MALBORK
+Toruńska 60
+82-200 Malbork
+
+Restauracja Alfa Club
+Daleka 125
+82-200 Malbork
+
+Restauracja & Club Panorama
+Tadeusza Kościuszki 5
+82-200 Malbork
+
+Hotel Centrum Malbork
+Aleja Rodła 7
+82-200 Malbork
+
+Orzeł
+Józefa Wybickiego 32
+82-200 Malbork
+
+Klub 22. Bazy Lotnictwa Taktycznego
+Generała Władysława Sikorskiego 33
+82-200 Malbork
+
+Villa Rosa
+Żuławska 17
+82-200 Malbork
+
+Akademia Piłkarska Malbork
+plac Gabriela Narutowicza 14
+82-200 Malbork
+
+News Bistro Flisak
+Tadeusza Kościuszki 14
+82-200 Malbork
+
+"O! JOGA" - Joga w Malborku
+Wybickiego 32
+82-200 Malbork
+
+#Poczta
+
+Poczta Polska
+17 Marca 38
+82-200 Malbork
+
+Poczta Polska
+Tczewska 8a
+82-200 Malbork
+
+Poczta Polska
+Starościńska 4
+82-200 Malbork
+
+Poczta Polska
+Dworcowa 21
+82-210 Malbork
+
+Poczta Polska
+Nogatowa 95 A
+82-201 Malbork
+
+Poczta Polska
+ul.Marii Konopnickiej 69 E
+Malbork 1
+82-204 Malbork
+
+Sąd Rejonowy w Malborku (Wydział I, III, IV)
+Poczty Gdańskiej 19
+82-200 Malbork
+
+Filia Urzędu Pocztowego - Malbork 1
+Jagiellońska 16
+82-200 Malbork
+
+Bank Pocztowy Malbork
+Marii Konopnickiej 69E/1
+82-200 Malbork
+
+Armia Zbawienia
+Poczty Gdańskiej 3
+82-200 Malbork
+
+Paczkomat InPost
+Kazimierza Michałowskiego 3
+82-200 Malbork
+
+Paczkomat InPost
+Stefana Żeromskiego 32
+82-200 Malbork
+
+Kurier EPAKA - Przesyłki kurierskie Malbork
+Henryka Sucharskiego 3
+82-200 Malbork
+
+Ship Center Malbork
+Henryka Sienkiewicza 26
+82-200 Malbork
+
+#Centrum
+
+Malborskie Centrum Kultury i Edukacji
+Aleja Armii Krajowej 68
+82-200 Malbork
+
+Galeria Dekada
+Aleja Rodła 9
+82-200 Malbork
+
+Karwan
+Starościńska 1
+82-200 Malbork
+
+Centrum Edukacji Zawodowej w Malborku
+Generała de Gaulle'a 75
+82-200 Malbork
+
+Malborskie Centrum Kultury i Edukacji "Szpital Jerozolimski"
+Aleja Armii Krajowej 68
+82-200 Malbork
+
+Centrum Aktywnego Wypoczynku w Malborku Sp. z o.o.
+Parkowa 3
+82-200 Malbork
+
+Centrum Informacji Turystycznej
+Tadeusza Kościuszki 54
+82-200 Malbork
+
+Malborskie Centrum Kultury i Edukacji w Malborku
+Stare Miasto 42
+82-200 Malbork
+
+Powiatowe Centrum Pomocy Rodzinie
+Plac Słowiański 6
+82-200 Malbork
+
+Centrum Animacji. Sala Zabaw LATAWIEC
+Tadeusza Kościuszki 5
+82-200 Malbork
+
+Teacher. Ośrodek szkolenia zawodowego kierowców, nauka jazdy
+Józefa Wybickiego 3
+82-200 Malbork
+
+Pozytywka Centrum Zabaw
+Feliksa Nowowiejskiego
+82-200 Malbork
+
+Regionalne Centrum Krwiodawstwa i Krwiolecznictwa. Oddział terenowy
+Aleja Armii Krajowej 105
+82-200 Malbork
+
+Centrum Helen Doron Malbork
+Hieronima Derdowskiego 3
+82-200 Malbork
+
+Villa Centrum
+Mazurów 8
+82-200 Malbork
+
+Miejski Ośrodek Pomocy Społecznej
+Juliusza Słowackiego 74
+82-200 Malbork
+
+Liczba znalezionych adresow: 183
