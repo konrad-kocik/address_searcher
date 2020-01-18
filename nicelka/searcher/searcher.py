@@ -1,24 +1,7 @@
 from abc import abstractmethod
 
 from nicelka.gateway.gateway import Gateway
-from nicelka.reporter.reporter import Reporter
-
-# TODO: logger - add timestamp, remove root
-
-# TODO: fix KrkgwPage._enter_query.search_button.click() exception: ElementClickInterceptedException
-# TODO: narrow all Exceptions into more specific classes (report exceptions into logger)
-
-# TODO: refactor integration tests
-# TODO: write integration tests
-# TODO: handle multiple result pages in KrkgwPage
-# TODO: add progress bar
-# TODO: add unit tests
-# TODO: store results in custom classes
-# TODO: save result count every time when saving results
-# TODO: use REST API instead of Selenium
-# TODO: add AI to evaluate results found
-# TODO: add docs, type hints etc.
-# TODO: refactor and test find_duplicates
+from nicelka.logger.logger import Logger
 
 
 class Searcher:
@@ -26,7 +9,6 @@ class Searcher:
 
     def __init__(self,
                  data_dir_path='data',
-                 results_dir_path='results',
                  skip_indirect_matches=True,
                  skip_duplicates=True):
         self._engine = None
@@ -36,9 +18,12 @@ class Searcher:
         self._skip_indirect_matches = skip_indirect_matches
         self._skip_duplicates = skip_duplicates
 
+        Logger.info(self, 'Skipping indirect matches: {}'.format(self._skip_indirect_matches))
+        Logger.info(self, 'Skipping duplicates: {}'.format(self._skip_duplicates))
+
         self._results = []
         self._results_count = 0
-        self._reporter = Reporter(results_dir_path, self.engine_name)
+        self._reporter = None
 
     @property
     def engine_name(self):

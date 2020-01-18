@@ -2,6 +2,8 @@ from datetime import datetime
 from os import path
 from contextlib import suppress
 
+from nicelka.logger.logger import Logger
+
 
 class Reporter:
     _FILE_ENCODING = 'utf8'
@@ -10,6 +12,8 @@ class Reporter:
         self._source = source
         self._report_dir_path = report_dir_path
         self._report_file_path = self._assemble_report_file_path()
+
+        Logger.info(self, 'Report file path: {}'.format(self._report_file_path))
 
     @property
     def report_file_path(self):

@@ -8,6 +8,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import WebDriverWait
 
 from nicelka.engine.engine import Engine
+from nicelka.logger.logger import Logger
 
 
 class WebPage(Engine):
@@ -22,10 +23,12 @@ class WebPage(Engine):
         self._driver.maximize_window()
         if self._url is not None:
             self._driver.get(self._url)
+        Logger.info(self, 'Engine started')
 
     def stop(self):
         self._driver.close()
         self._driver = None
+        Logger.info(self, 'Engine stopped')
 
     def _find_element_by_id(self, id):
         return self._driver.find_element_by_id(id)

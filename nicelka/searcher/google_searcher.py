@@ -1,4 +1,5 @@
 from nicelka.engine.engine_factory import EngineFactory
+from nicelka.logger.logger import Logger
 from nicelka.reporter.reporter import Reporter
 from nicelka.searcher.searcher import Searcher
 
@@ -10,7 +11,6 @@ class GoogleSearcher(Searcher):
                  skip_indirect_matches=True,
                  skip_duplicates=True):
         super(GoogleSearcher, self).__init__(data_dir_path=data_dir_path,
-                                             results_dir_path=results_dir_path,
                                              skip_indirect_matches=skip_indirect_matches,
                                              skip_duplicates=skip_duplicates)
 
@@ -19,6 +19,8 @@ class GoogleSearcher(Searcher):
         self._reporter = Reporter(results_dir_path, self.engine_name)
 
     def search(self):
+        Logger.info(self, 'Searching...')
+
         self._reporter.generate_new_report_file_path()
         self._engine.start()
 
@@ -29,8 +31,8 @@ class GoogleSearcher(Searcher):
                 results = []
                 try:
                     results = self._engine.search(city, key)
-                except Exception:
-                    pass
+                except Exception as e:
+                    Logger.error(self, e)
                 finally:
                     self._add_results(results, city, key)
                     self._reporter.save_report(self._results)

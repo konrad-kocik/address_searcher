@@ -4,6 +4,7 @@ from exceptbool import except_converter
 from selenium.common.exceptions import TimeoutException, NoSuchElementException
 
 from nicelka.engine.web_page import WebPage
+from nicelka.logger.logger import Logger
 
 
 class KrkgwPage(WebPage):
@@ -13,6 +14,7 @@ class KrkgwPage(WebPage):
         self._url = 'https://krkgw.arimr.gov.pl/'
 
     def search(self, city_name):
+        Logger.debug(self, "Searching for city name: '{}'".format(city_name))
         self._enter_query(city_name)
         return self._get_results()
 
@@ -31,6 +33,8 @@ class KrkgwPage(WebPage):
             close_button.click()
         except (TimeoutException, NoSuchElementException):
             pass
+        except Exception as e:
+            Logger.error(self, e)
 
     def _get_results(self):
         results = []
@@ -60,6 +64,9 @@ class KrkgwPage(WebPage):
 
                 self._close_details()
             except TimeoutException:
+                break
+            except Exception as e:
+                Logger.error(self, e)
                 break
 
         return results
