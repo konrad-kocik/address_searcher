@@ -78,4 +78,4 @@ class Searcher:
         self._raise_not_implemented_error('_add_results')
 
     def _add_results_count(self):
-        self._results.append('Liczba znalezionych adresow: {}'.format(self._results_count))
+        self._results.append('Results found: {}'.format(self._results_count))
