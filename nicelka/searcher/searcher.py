@@ -30,7 +30,7 @@ class Searcher:
         return None if self._engine is None else self._engine.name
 
     @property
-    def results_file_path(self):
+    def report_file_path(self):
         return self._reporter.report_file_path
 
     @abstractmethod
@@ -78,4 +78,4 @@ class Searcher:
         self._raise_not_implemented_error('_add_results')
 
     def _add_results_count(self):
-        self._results.append('Liczba znalezionych adresow: {}'.format(self._results_count))
+        self._results.append('Results found: {}'.format(self._results_count))

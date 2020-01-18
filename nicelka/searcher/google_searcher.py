@@ -7,7 +7,7 @@ from nicelka.searcher.searcher import Searcher
 class GoogleSearcher(Searcher):
     def __init__(self,
                  data_dir_path='data',
-                 results_dir_path='results',
+                 report_dir_path='reports',
                  skip_indirect_matches=True,
                  skip_duplicates=True):
         super(GoogleSearcher, self).__init__(data_dir_path=data_dir_path,
@@ -16,7 +16,7 @@ class GoogleSearcher(Searcher):
 
         self._engine = EngineFactory.get_engine('google_page')
         self._keys = self._source.get_keys()
-        self._reporter = Reporter(results_dir_path, self.engine_name)
+        self._reporter = Reporter(report_dir_path, self.engine_name)
 
     def search(self):
         Logger.info(self, 'Searching...')
