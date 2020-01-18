@@ -22,6 +22,7 @@ class KrkgwPage(WebPage):
         search_input = self._find_element_by_id('kgw')
         search_input.clear()
         search_input.send_keys(city_name)
+        sleep(0.3)
         search_button = self._find_element_by_id('search')
         search_button.click()
 
