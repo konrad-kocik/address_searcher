@@ -1,6 +1,7 @@
 from time import sleep
 
 from exceptbool import except_to_bool
+from selenium.common.exceptions import TimeoutException, NoSuchElementException, ElementClickInterceptedException
 from selenium.webdriver.common.keys import Keys
 
 from nicelka.engine.web_page import WebPage
@@ -33,9 +34,22 @@ class GooglePage(WebPage):
         self._find_element_by_class_name('LrzXr')
 
     def _get_single_result(self):
-        name_output = self._find_element_by_xpath('//*[@id="rhs"]/div/div[1]/div/div[1]/div/div[1]/div[2]/div[2]/div[1]/div/div/div[1]/span')
-        address_output = self._find_element_by_class_name('LrzXr')
-        return [name_output.text + '\n' + self._format_address(address_output.text) + '\n']
+        result = []
+
+        try:
+            name_output_xpath = '//*[@id="rhs"]/div/div[1]/div/div[1]/div/div[1]/div[2]/div[2]/div[1]/div/div/div[1]/span'
+            self._wait_for_element_by_xpath(name_output_xpath, timeout=2)
+            name_output = self._find_element_by_xpath(name_output_xpath)
+
+            address_output_class = 'LrzXr'
+            self._wait_for_element_by_class_name(address_output_class, timeout=2)
+            address_output = self._find_element_by_class_name(address_output_class)
+
+            result.append(name_output.text + '\n' + self._format_address(address_output.text) + '\n')
+        except (TimeoutException, NoSuchElementException, ElementClickInterceptedException):
+            pass
+
+        return result
 
     def _get_multiple_results(self):
         results = []
@@ -46,8 +60,8 @@ class GooglePage(WebPage):
             for result_link in self._find_elements_by_class_name('dbg0pd'):
                 name, address = self._get_one_of_multiple_results(result_link)
                 results.append(name + '\n' + self._format_address(address) + '\n')
-        except Exception as e:
-            Logger.error(self, e)
+        except (TimeoutException, NoSuchElementException, ElementClickInterceptedException):
+            pass
 
         return results
 
