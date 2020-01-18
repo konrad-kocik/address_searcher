@@ -14,6 +14,7 @@ class KrkgwPage(WebPage):
         self._url = 'https://krkgw.arimr.gov.pl/'
 
     def search(self, city_name):
+        Logger.debug(self, "Searching for city name: '{}'".format(city_name))
         self._enter_query(city_name)
         return self._get_results()
 

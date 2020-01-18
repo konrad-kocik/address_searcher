@@ -14,6 +14,7 @@ class GooglePage(WebPage):
         self._url = 'https://google.pl'
 
     def search(self, city, key):
+        Logger.debug(self, "Searching for city: '{}' key: '{}'".format(city, key))
         self._enter_query(city, key)
         return self._get_results()
 
