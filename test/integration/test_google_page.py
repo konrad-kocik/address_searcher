@@ -282,11 +282,11 @@ def test_searcher_when_multiple_results_not_on_top(create_results_dir, remove_re
         'Fundacja Rozwoju Ziem Górskich' + '\n' + \
         'Węgierska 33' + '\n' + \
         '33-300 Nowy Sącz' + '\n\n' + \
-        'Fundacja Programów Pomocy Dla Rolnictwa' + '\n' + \
-        'Tadeusza Kościuszki 7' + '\n' + \
-        '33-300 Nowy Sącz' + '\n\n' + \
         'Mada. Fundacja Pomocy Osobom z Autyzmem' + '\n' + \
         'Al. Wolności 19' + '\n' + \
+        '33-300 Nowy Sącz' + '\n\n' + \
+        'Fundacja Programów Pomocy Dla Rolnictwa' + '\n' + \
+        'Tadeusza Kościuszki 7' + '\n' + \
         '33-300 Nowy Sącz' + '\n\n' + \
         'Fundacja Instytut Państwa i Prawa' + '\n' + \
         'Stefana Czarnieckiego 5' + '\n' + \

@@ -1,7 +1,7 @@
 from time import sleep
 
 from exceptbool import except_converter
-from selenium.common.exceptions import TimeoutException, NoSuchElementException
+from selenium.common.exceptions import TimeoutException, NoSuchElementException, ElementClickInterceptedException
 
 from nicelka.engine.web_page import WebPage
 from nicelka.logger.logger import Logger
@@ -22,20 +22,10 @@ class KrkgwPage(WebPage):
         search_input = self._find_element_by_id('kgw')
         search_input.clear()
         search_input.send_keys(city_name)
+
         sleep(0.3)
         search_button = self._find_element_by_id('search')
         search_button.click()
-
-    def _close_cookies_info(self):
-        close_button_xpath = '/html/body/div[1]/div/a'
-        try:
-            self._wait_for_clickability_by_xpath(close_button_xpath, timeout=0.2)
-            close_button = self._find_element_by_xpath(close_button_xpath)
-            close_button.click()
-        except (TimeoutException, NoSuchElementException):
-            pass
-        except Exception as e:
-            Logger.error(self, e)
 
     def _get_results(self):
         results = []
@@ -64,10 +54,9 @@ class KrkgwPage(WebPage):
                 results.append(name_output.text + '\n' + self._format_address(address_output.text) + '\n')
 
                 self._close_details()
-            except TimeoutException:
-                break
-            except Exception as e:
-                Logger.error(self, e)
+            except ElementClickInterceptedException:
+                pass
+            except (TimeoutException, NoSuchElementException):
                 break
 
         return results
@@ -89,6 +78,7 @@ class KrkgwPage(WebPage):
     def _close_details(self):
         close_button_xpath = '//*[@id="myModal"]/div/div/div[1]/button'
         self._wait_for_clickability_by_xpath(close_button_xpath)
+        sleep(0.3)
         close_button = self._find_element_by_xpath(close_button_xpath)
         close_button.click()
         sleep(1)
