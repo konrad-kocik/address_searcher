@@ -1,2 +1,2 @@
 # nicelka
-Searches web for public institutions addresses
+Searches web for public institutions addresses.
