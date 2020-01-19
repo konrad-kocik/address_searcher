@@ -34,12 +34,53 @@ class KrkgwPage(WebPage):
             self._close_alert()
             return results
 
+        results.extend(self._get_results_from_current_page())
+        page_links = self._get_page_links()
+
+        if not page_links:
+            return results
+        else:
+            page_links.pop(0)
+
+        for page_number, page_link in enumerate(page_links, start=2):
+            try:
+                page_link = self._find_element_by_link_text(str(page_number))
+                page_link.click()
+            except (NoSuchElementException, ElementClickInterceptedException) as e:
+                Logger.error(self, e)
+                continue
+            else:
+                results.extend(self._get_results_from_current_page())
+
+        return results
+
+    def _is_result_present(self, timeout=10):
+        if self._is_alert_present():
+            return False
+        with except_converter(exc=TimeoutException) as result:
+            self._wait_for_element_by_xpath('//*[@id="kgwTable"]/tbody/tr/td[5]/button', timeout=timeout)
+            return result
+
+    def _close_alert(self):
+        self._driver.switch_to.alert.accept()
+
+    def _get_page_links(self):
+        page_links = []
+        try:
+            page_links = self._find_elements_by_class_name('page-link')
+        except NoSuchElementException as e:
+            Logger.error(self, e)
+        finally:
+            return [page_link for page_link in page_links if page_link.text not in ('<<', '<', '>', '>>')]
+
+    def _get_results_from_current_page(self):
+        results = []
         i = 0
         while True:
             i += 1
             try:
                 info_button_xpath = '//*[@id="kgwTable"]/tbody/tr[{}]/td[5]/button'.format(i)
-                self._wait_for_clickability_by_xpath(info_button_xpath, timeout=5)
+                self._wait_for_clickability_by_xpath(info_button_xpath, timeout=3)
                 info_button = self._find_element_by_xpath(info_button_xpath)
                 info_button.click()
 
@@ -58,18 +99,7 @@ class KrkgwPage(WebPage):
                 pass
             except (TimeoutException, NoSuchElementException):
                 break
-
         return results
-
-    def _is_result_present(self, timeout=10):
-        if self._is_alert_present():
-            return False
-        with except_converter(exc=TimeoutException) as result:
-            self._wait_for_element_by_xpath('//*[@id="kgwTable"]/tbody/tr/td[5]/button', timeout=timeout)
-            return result
-
-    def _close_alert(self):
-        self._driver.switch_to.alert.accept()
 
     @staticmethod
     def _format_address(address):
