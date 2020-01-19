@@ -1,49 +1,41 @@
-import os
-
 from pytest import fixture
 
 from nicelka import GoogleSearcher
-from tests.integration.utilities.utilities import get_io_dir_paths, run_searcher, assert_report_file_content_equals
+from tests.integration.utilities.utilities import get_io_dir_paths, create_dir, remove_dir, run_searcher, assert_report_file_content_equals
 
 
 test_suite = 'google_page'
+test_cases = ['no_result',
+              'no_result_twice',
+              'single_result',
+              'single_result_with_two_lines',
+              'single_result_with_four_lines',
+              'single_result_indirect_match_by_city_skipped',
+              'single_result_indirect_match_by_zip_code_skipped',
+              'single_result_indirect_match_by_city_allowed',
+              'single_result_indirect_match_by_zip_code_head_allowed',
+              'single_result_indirect_match_by_zip_code_tail_allowed',
+              'single_result_duplicate_skipped',
+              'single_result_duplicate_allowed',
+              'single_result_twice',
+              'multiple_results',
+              'multiple_results_not_on_top'
+              ]
 
 
 @fixture(scope='module')
-def test_cases():
-    return ['no_result',
-            'no_result_twice',
-            'single_result',
-            'single_result_with_two_lines',
-            'single_result_with_four_lines',
-            'single_result_indirect_match_by_city_skipped',
-            'single_result_indirect_match_by_zip_code_skipped',
-            'single_result_indirect_match_by_city_allowed',
-            'single_result_indirect_match_by_zip_code_head_allowed',
-            'single_result_indirect_match_by_zip_code_tail_allowed',
-            'single_result_duplicate_skipped',
-            'single_result_duplicate_allowed',
-            'single_result_twice',
-            'multiple_results',
-            'multiple_results_not_on_top'
-            ]
-
-
-@fixture(scope='module')
-def create_reports_dirs(test_cases):
+def create_reports_dirs():
     for test_case in test_cases:
         _, report_dir_path = get_io_dir_paths(test_suite, test_case)
-        if not os.path.exists(report_dir_path):
-            os.mkdir(report_dir_path)
+        create_dir(report_dir_path)
 
 
 @fixture(scope='module')
-def remove_reports_dirs(test_cases, request):
+def remove_reports_dirs(request):
     def teardown():
         for test_case in test_cases:
             _, report_dir_path = get_io_dir_paths(test_suite, test_case)
-            if os.path.exists(report_dir_path):
-                os.system('cmd /k "rmdir /Q /S {}"'.format(report_dir_path))
+            remove_dir(report_dir_path)
     request.addfinalizer(teardown)
 
 
