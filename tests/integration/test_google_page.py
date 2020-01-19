@@ -3,7 +3,7 @@ import os
 from pytest import fixture
 
 from nicelka import GoogleSearcher
-from .utilities.utilities import get_io_dir_paths, run_searcher, assert_report_file_content_equals
+from tests.integration.utilities.utilities import get_io_dir_paths, run_searcher, assert_report_file_content_equals
 
 
 test_suite = 'google_page'
