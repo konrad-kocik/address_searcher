@@ -14,6 +14,7 @@ class Gateway:
 
         Logger.info(self, 'Cities file path: {}'.format(self._cities_file_path))
         Logger.info(self, 'Keys file path: {}'.format(self._keys_file_path))
+        Logger.info(self, 'Black list file path: {}'.format(self._black_list_filer_path))
 
     def get_cities(self):
         Logger.info(self, 'Getting cities...')
