@@ -52,11 +52,8 @@ class WebPage(Engine):
         WebDriverWait(self._driver, timeout).until(EC.presence_of_element_located((By.XPATH, xpath)))
 
     def _wait_for_element_by_class_name(self, class_name, timeout=0.5):
-        try:
-            return self._driver.find_element_by_class_name(class_name)
-        except NoSuchElementException:
-            sleep(timeout)
-            return self._driver.find_element_by_class_name(class_name)
+        WebDriverWait(self._driver, timeout).until(EC.presence_of_element_located((By.CLASS_NAME, class_name)))
+        return self._driver.find_element_by_class_name(class_name)
 
     def _wait_for_visibility_by_xpath(self, xpath, timeout=5):
         WebDriverWait(self._driver, timeout).until(EC.visibility_of_element_located((By.XPATH, xpath)))
