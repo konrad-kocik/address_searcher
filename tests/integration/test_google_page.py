@@ -243,11 +243,11 @@ def test_searcher_when_multiple_results(create_reports_dirs, remove_reports_dirs
         'Muzeum Okręgowe w Nowym Sączu - Gmach Głowny' + '\n' + \
         'Jagiellońska 56' + '\n' + \
         '33-300 Nowy Sącz' + '\n\n' + \
-        'Sądecki Park Etnograficzny' + '\n' + \
-        'Gen. Wieniawy-Długoszowskiego 83B' + '\n' + \
-        '33-300 Nowy Sącz' + '\n\n' + \
         'Miasteczko Galicyjskie. Oddział Muzeum Okręgowego w Nowym Sączu' + '\n' + \
         'Lwowska 226' + '\n' + \
+        '33-300 Nowy Sącz' + '\n\n' + \
+        'Sądecki Park Etnograficzny' + '\n' + \
+        'Gen. Wieniawy-Długoszowskiego 83B' + '\n' + \
         '33-300 Nowy Sącz' + '\n\n' + \
         'Galeria Marii Ritter. Oddział Muzeum Okręgowego' + '\n' + \
         'Rynek 2' + '\n' + \
@@ -303,6 +303,10 @@ def test_searcher_when_multiple_results_not_on_top(create_reports_dirs, remove_r
         'Europejski Instytut Rozwoju Obywatelskiego' + '\n' + \
         'Jagiellońska 18' + '\n' + \
         '33-300 Nowy Sącz' + '\n\n' + \
+        'Humaneo' + '\n' + \
+        'biuro' + '\n' + \
+        'Nawojowska 12' + '\n' + \
+        '33-300 Nowy Sącz' + '\n\n' + \
         'Consilium' + '\n' + \
         'ul' + '\n' + \
         'Nadbrzeżna 3' + '\n' + \
@@ -315,10 +319,6 @@ def test_searcher_when_multiple_results_not_on_top(create_reports_dirs, remove_r
         '33-300 Nowy Sącz' + '\n\n' + \
         'Fundacja SZOK' + '\n' + \
         'Władysława Broniewskiego 20 E/13' + '\n' + \
-        '33-300 Nowy Sącz' + '\n\n' + \
-        'Humaneo' + '\n' + \
-        'biuro' + '\n' + \
-        'Nawojowska 12' + '\n' + \
         '33-300 Nowy Sącz' + '\n\n' + \
         'Wspólnota Emaus - Nowosądeckie Towarzystwa Pomocy im. św. Brata Alberta' + '\n' + \
         'Szwedzka 18' + '\n' + \
