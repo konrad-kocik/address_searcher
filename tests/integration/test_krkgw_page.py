@@ -1,7 +1,6 @@
 from pytest import fixture
 
-from nicelka import KrkgwSearcher
-from tests.integration.utilities.utilities import get_io_dir_paths, create_dir, remove_dir, run_searcher, assert_report_file_content_equals
+from tests.integration.utilities.utilities import get_io_dir_paths, create_dir, remove_dir, run_krkgw_searcher, assert_report_file_content_equals
 
 
 test_suite = 'krkgw_page'
@@ -48,7 +47,7 @@ def test_searcher_when_no_result(create_reports_dirs, remove_reports_dirs):
         'Results found: 0'
 
     data_dir_path, report_dir_path = get_io_dir_paths(test_suite, test_case='no_result')
-    searcher = run_searcher(KrkgwSearcher, data_dir_path, report_dir_path)
+    searcher = run_krkgw_searcher(data_dir_path, report_dir_path)
     assert_report_file_content_equals(expected_report, searcher.report_file_path)
 
 
@@ -61,7 +60,7 @@ def test_searcher_when_no_result_twice(create_reports_dirs, remove_reports_dirs)
         'Results found: 0'
 
     data_dir_path, report_dir_path = get_io_dir_paths(test_suite, test_case='no_result_twice')
-    searcher = run_searcher(KrkgwSearcher, data_dir_path, report_dir_path)
+    searcher = run_krkgw_searcher(data_dir_path, report_dir_path)
     assert_report_file_content_equals(expected_report, searcher.report_file_path)
 
 
@@ -75,7 +74,7 @@ def test_searcher_when_single_result(create_reports_dirs, remove_reports_dirs):
         'Results found: 1'
 
     data_dir_path, report_dir_path = get_io_dir_paths(test_suite, test_case='single_result')
-    searcher = run_searcher(KrkgwSearcher, data_dir_path, report_dir_path)
+    searcher = run_krkgw_searcher(data_dir_path, report_dir_path)
     assert_report_file_content_equals(expected_report, searcher.report_file_path)
 
 
@@ -86,7 +85,7 @@ def test_searcher_when_single_result_indirect_match_skipped(create_reports_dirs,
         'Results found: 0'
 
     data_dir_path, report_dir_path = get_io_dir_paths(test_suite, test_case='single_result_indirect_match_skipped')
-    searcher = run_searcher(KrkgwSearcher, data_dir_path, report_dir_path)
+    searcher = run_krkgw_searcher(data_dir_path, report_dir_path)
     assert_report_file_content_equals(expected_report, searcher.report_file_path)
 
 
@@ -100,7 +99,7 @@ def test_searcher_when_single_result_indirect_match_allowed(create_reports_dirs,
         'Results found: 1'
 
     data_dir_path, report_dir_path = get_io_dir_paths(test_suite, test_case='single_result_indirect_match_allowed')
-    searcher = run_searcher(KrkgwSearcher, data_dir_path, report_dir_path, skip_indirect_matches=False)
+    searcher = run_krkgw_searcher(data_dir_path, report_dir_path, skip_indirect_matches=False)
     assert_report_file_content_equals(expected_report, searcher.report_file_path)
 
 
@@ -116,7 +115,7 @@ def test_searcher_when_single_result_duplicate_skipped(create_reports_dirs, remo
         'Results found: 1'
 
     data_dir_path, report_dir_path = get_io_dir_paths(test_suite, test_case='single_result_duplicate_skipped')
-    searcher = run_searcher(KrkgwSearcher, data_dir_path, report_dir_path)
+    searcher = run_krkgw_searcher(data_dir_path, report_dir_path)
     assert_report_file_content_equals(expected_report, searcher.report_file_path)
 
 
@@ -135,7 +134,7 @@ def test_searcher_when_single_result_duplicate_allowed(create_reports_dirs, remo
         'Results found: 2'
 
     data_dir_path, report_dir_path = get_io_dir_paths(test_suite, test_case='single_result_duplicate_allowed')
-    searcher = run_searcher(KrkgwSearcher, data_dir_path, report_dir_path, skip_duplicates=False)
+    searcher = run_krkgw_searcher(data_dir_path, report_dir_path, skip_duplicates=False)
     assert_report_file_content_equals(expected_report, searcher.report_file_path)
 
 
@@ -154,7 +153,7 @@ def test_searcher_when_single_result_twice(create_reports_dirs, remove_reports_d
         'Results found: 2'
 
     data_dir_path, report_dir_path = get_io_dir_paths(test_suite, test_case='single_result_twice')
-    searcher = run_searcher(KrkgwSearcher, data_dir_path, report_dir_path)
+    searcher = run_krkgw_searcher(data_dir_path, report_dir_path)
     assert_report_file_content_equals(expected_report, searcher.report_file_path)
 
 
@@ -171,7 +170,7 @@ def test_searcher_when_multiple_results(create_reports_dirs, remove_reports_dirs
         'Results found: 2'
 
     data_dir_path, report_dir_path = get_io_dir_paths(test_suite, test_case='multiple_results')
-    searcher = run_searcher(KrkgwSearcher, data_dir_path, report_dir_path)
+    searcher = run_krkgw_searcher(data_dir_path, report_dir_path)
     assert_report_file_content_equals(expected_report, searcher.report_file_path)
 
 
@@ -191,7 +190,7 @@ def test_searcher_when_multiple_results_indirect_matches_skipped(create_reports_
         'Results found: 3'
 
     data_dir_path, report_dir_path = get_io_dir_paths(test_suite, test_case='multiple_results_indirect_matches_skipped')
-    searcher = run_searcher(KrkgwSearcher, data_dir_path, report_dir_path)
+    searcher = run_krkgw_searcher(data_dir_path, report_dir_path)
     assert_report_file_content_equals(expected_report, searcher.report_file_path)
 
 
@@ -208,7 +207,7 @@ def test_searcher_when_multiple_results_indirect_matches_allowed(create_reports_
         'Results found: 2'
 
     data_dir_path, report_dir_path = get_io_dir_paths(test_suite, test_case='multiple_results_indirect_matches_allowed')
-    searcher = run_searcher(KrkgwSearcher, data_dir_path, report_dir_path, skip_indirect_matches=False)
+    searcher = run_krkgw_searcher(data_dir_path, report_dir_path, skip_indirect_matches=False)
     assert_report_file_content_equals(expected_report, searcher.report_file_path)
 
 
@@ -227,7 +226,7 @@ def test_searcher_when_multiple_results_duplicate_skipped(create_reports_dirs, r
         'Results found: 2'
 
     data_dir_path, report_dir_path = get_io_dir_paths(test_suite, test_case='multiple_results_duplicate_skipped')
-    searcher = run_searcher(KrkgwSearcher, data_dir_path, report_dir_path)
+    searcher = run_krkgw_searcher(data_dir_path, report_dir_path)
     assert_report_file_content_equals(expected_report, searcher.report_file_path)
 
 
@@ -252,7 +251,7 @@ def test_searcher_when_multiple_results_duplicate_allowed(create_reports_dirs, r
         'Results found: 4'
 
     data_dir_path, report_dir_path = get_io_dir_paths(test_suite, test_case='multiple_results_duplicate_allowed')
-    searcher = run_searcher(KrkgwSearcher, data_dir_path, report_dir_path, skip_duplicates=False)
+    searcher = run_krkgw_searcher(data_dir_path, report_dir_path, skip_duplicates=False)
     assert_report_file_content_equals(expected_report, searcher.report_file_path)
 
 
@@ -280,7 +279,7 @@ def test_searcher_when_multiple_results_twice(create_reports_dirs, remove_report
         'Results found: 5'
 
     data_dir_path, report_dir_path = get_io_dir_paths(test_suite, test_case='multiple_results_twice')
-    searcher = run_searcher(KrkgwSearcher, data_dir_path, report_dir_path)
+    searcher = run_krkgw_searcher(data_dir_path, report_dir_path)
     assert_report_file_content_equals(expected_report, searcher.report_file_path)
 
 
@@ -399,7 +398,7 @@ def test_searcher_when_multiple_results_on_multiple_pages_all_allowed(create_rep
         'Results found: 36'
 
     data_dir_path, report_dir_path = get_io_dir_paths(test_suite, test_case='multiple_results_on_multiple_pages_all_allowed')
-    searcher = run_searcher(KrkgwSearcher, data_dir_path, report_dir_path, skip_indirect_matches=False, skip_duplicates=False)
+    searcher = run_krkgw_searcher(data_dir_path, report_dir_path, skip_indirect_matches=False, skip_duplicates=False)
     assert_report_file_content_equals(expected_report, searcher.report_file_path)
 
 
@@ -419,7 +418,7 @@ def test_searcher_when_multiple_results_on_multiple_pages_indirect_matches_skipp
         'Results found: 3'
 
     data_dir_path, report_dir_path = get_io_dir_paths(test_suite, test_case='multiple_results_on_multiple_pages_indirect_matches_skipped')
-    searcher = run_searcher(KrkgwSearcher, data_dir_path, report_dir_path)
+    searcher = run_krkgw_searcher(data_dir_path, report_dir_path)
     assert_report_file_content_equals(expected_report, searcher.report_file_path)
 
 
@@ -494,5 +493,5 @@ def test_searcher_basic_use_cases(create_reports_dirs, remove_reports_dirs):
         'Results found: 11'
 
     data_dir_path, report_dir_path = get_io_dir_paths(test_suite, test_case='basic_use_cases')
-    searcher = run_searcher(KrkgwSearcher, data_dir_path, report_dir_path)
+    searcher = run_krkgw_searcher(data_dir_path, report_dir_path)
     assert_report_file_content_equals(expected_report, searcher.report_file_path)

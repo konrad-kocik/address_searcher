@@ -1,7 +1,6 @@
 from pytest import fixture
 
-from nicelka import GoogleSearcher
-from tests.integration.utilities.utilities import get_io_dir_paths, create_dir, remove_dir, run_searcher, assert_report_file_content_equals
+from tests.integration.utilities.utilities import get_io_dir_paths, create_dir, remove_dir, run_google_searcher, assert_report_file_content_equals
 
 
 test_suite = 'google_page'
@@ -17,9 +16,13 @@ test_cases = ['no_result',
               'single_result_indirect_match_by_zip_code_tail_allowed',
               'single_result_duplicate_skipped',
               'single_result_duplicate_allowed',
+              'single_result_blacklisted_skipped',
+              'single_result_blacklisted_allowed',
               'single_result_twice',
               'multiple_results',
-              'multiple_results_not_on_top'
+              'multiple_results_not_on_top',
+              'multiple_results_blacklisted_skipped',
+              'multiple_results_blacklisted_allowed'
               ]
 
 
@@ -46,7 +49,7 @@ def test_searcher_when_no_result(create_reports_dirs, remove_reports_dirs):
         'Results found: 0'
 
     data_dir_path, report_dir_path = get_io_dir_paths(test_suite, test_case='no_result')
-    searcher = run_searcher(GoogleSearcher, data_dir_path, report_dir_path)
+    searcher = run_google_searcher(data_dir_path, report_dir_path)
     assert_report_file_content_equals(expected_report, searcher.report_file_path)
 
 
@@ -59,7 +62,7 @@ def test_searcher_when_no_result_twice(create_reports_dirs, remove_reports_dirs)
         'Results found: 0'
 
     data_dir_path, report_dir_path = get_io_dir_paths(test_suite, test_case='no_result_twice')
-    searcher = run_searcher(GoogleSearcher, data_dir_path, report_dir_path)
+    searcher = run_google_searcher(data_dir_path, report_dir_path)
     assert_report_file_content_equals(expected_report, searcher.report_file_path)
 
 
@@ -74,7 +77,7 @@ def test_searcher_when_single_result(create_reports_dirs, remove_reports_dirs):
         'Results found: 1'
 
     data_dir_path, report_dir_path = get_io_dir_paths(test_suite, test_case='single_result')
-    searcher = run_searcher(GoogleSearcher, data_dir_path, report_dir_path)
+    searcher = run_google_searcher(data_dir_path, report_dir_path)
     assert_report_file_content_equals(expected_report, searcher.report_file_path)
 
 
@@ -88,7 +91,7 @@ def test_search_when_single_result_with_two_lines(create_reports_dirs, remove_re
         'Results found: 1'
 
     data_dir_path, report_dir_path = get_io_dir_paths(test_suite, test_case='single_result_with_two_lines')
-    searcher = run_searcher(GoogleSearcher, data_dir_path, report_dir_path)
+    searcher = run_google_searcher(data_dir_path, report_dir_path)
     assert_report_file_content_equals(expected_report, searcher.report_file_path)
 
 
@@ -104,7 +107,7 @@ def test_search_when_single_result_with_four_lines(create_reports_dirs, remove_r
         'Results found: 1'
 
     data_dir_path, report_dir_path = get_io_dir_paths(test_suite, test_case='single_result_with_four_lines')
-    searcher = run_searcher(GoogleSearcher, data_dir_path, report_dir_path)
+    searcher = run_google_searcher(data_dir_path, report_dir_path)
     assert_report_file_content_equals(expected_report, searcher.report_file_path)
 
 
@@ -115,7 +118,7 @@ def test_searcher_when_single_result_indirect_match_by_city_skipped(create_repor
         'Results found: 0'
 
     data_dir_path, report_dir_path = get_io_dir_paths(test_suite, test_case='single_result_indirect_match_by_city_skipped')
-    searcher = run_searcher(GoogleSearcher, data_dir_path, report_dir_path)
+    searcher = run_google_searcher(data_dir_path, report_dir_path)
     assert_report_file_content_equals(expected_report, searcher.report_file_path)
 
 
@@ -126,7 +129,7 @@ def test_searcher_when_single_result_indirect_match_by_zip_code_skipped(create_r
         'Results found: 0'
 
     data_dir_path, report_dir_path = get_io_dir_paths(test_suite, test_case='single_result_indirect_match_by_zip_code_skipped')
-    searcher = run_searcher(GoogleSearcher, data_dir_path, report_dir_path)
+    searcher = run_google_searcher(data_dir_path, report_dir_path)
     assert_report_file_content_equals(expected_report, searcher.report_file_path)
 
 
@@ -141,7 +144,7 @@ def test_searcher_when_single_result_indirect_match_by_city_allowed(create_repor
         'Results found: 1'
 
     data_dir_path, report_dir_path = get_io_dir_paths(test_suite, test_case='single_result_indirect_match_by_city_allowed')
-    searcher = run_searcher(GoogleSearcher, data_dir_path, report_dir_path, skip_indirect_matches=False)
+    searcher = run_google_searcher(data_dir_path, report_dir_path, skip_indirect_matches=False)
     assert_report_file_content_equals(expected_report, searcher.report_file_path)
 
 
@@ -156,7 +159,7 @@ def test_searcher_when_single_result_indirect_match_by_zip_code_head_allowed(cre
         'Results found: 1'
 
     data_dir_path, report_dir_path = get_io_dir_paths(test_suite, test_case='single_result_indirect_match_by_zip_code_head_allowed')
-    searcher = run_searcher(GoogleSearcher, data_dir_path, report_dir_path, skip_indirect_matches=False)
+    searcher = run_google_searcher(data_dir_path, report_dir_path, skip_indirect_matches=False)
     assert_report_file_content_equals(expected_report, searcher.report_file_path)
 
 
@@ -171,7 +174,7 @@ def test_searcher_when_single_result_indirect_match_by_zip_code_tail_allowed(cre
         'Results found: 1'
 
     data_dir_path, report_dir_path = get_io_dir_paths(test_suite, test_case='single_result_indirect_match_by_zip_code_tail_allowed')
-    searcher = run_searcher(GoogleSearcher, data_dir_path, report_dir_path)
+    searcher = run_google_searcher(data_dir_path, report_dir_path)
     assert_report_file_content_equals(expected_report, searcher.report_file_path)
 
 
@@ -189,7 +192,7 @@ def test_searcher_when_single_result_duplicate_skipped(create_reports_dirs, remo
         'Results found: 1'
 
     data_dir_path, report_dir_path = get_io_dir_paths(test_suite, test_case='single_result_duplicate_skipped')
-    searcher = run_searcher(GoogleSearcher, data_dir_path, report_dir_path)
+    searcher = run_google_searcher(data_dir_path, report_dir_path)
     assert_report_file_content_equals(expected_report, searcher.report_file_path)
 
 
@@ -210,7 +213,33 @@ def test_searcher_when_single_result_duplicate_allowed(create_reports_dirs, remo
         'Results found: 2'
 
     data_dir_path, report_dir_path = get_io_dir_paths(test_suite, test_case='single_result_duplicate_allowed')
-    searcher = run_searcher(GoogleSearcher, data_dir_path, report_dir_path, skip_duplicates=False)
+    searcher = run_google_searcher(data_dir_path, report_dir_path, skip_duplicates=False)
+    assert_report_file_content_equals(expected_report, searcher.report_file_path)
+
+
+def test_searcher_when_single_result_blacklisted_skipped(create_reports_dirs, remove_reports_dirs):
+    expected_report = \
+        '======================================================================' + '\n' + \
+        '13-340 BIELICE' + '\n\n' + \
+        'Results found: 0'
+
+    data_dir_path, report_dir_path = get_io_dir_paths(test_suite, test_case='single_result_blacklisted_skipped')
+    searcher = run_google_searcher(data_dir_path, report_dir_path)
+    assert_report_file_content_equals(expected_report, searcher.report_file_path)
+
+
+def test_searcher_when_single_result_blacklisted_allowed(create_reports_dirs, remove_reports_dirs):
+    expected_report = \
+        '======================================================================' + '\n' + \
+        '13-340 BIELICE' + '\n\n' + \
+        '#Szkoła' + '\n\n' + \
+        'Zespół Szkół w Bielicach, Gimnazjum im. Narodów Zjednoczonej Europy' + '\n' + \
+        'Bielice 120' + '\n' + \
+        '13-330 Krotoszyny' + '\n\n' + \
+        'Results found: 1'
+
+    data_dir_path, report_dir_path = get_io_dir_paths(test_suite, test_case='single_result_blacklisted_allowed')
+    searcher = run_google_searcher(data_dir_path, report_dir_path, skip_blacklisted=False)
     assert_report_file_content_equals(expected_report, searcher.report_file_path)
 
 
@@ -228,7 +257,7 @@ def test_searcher_when_single_result_twice(create_reports_dirs, remove_reports_d
         'Results found: 2'
 
     data_dir_path, report_dir_path = get_io_dir_paths(test_suite, test_case='single_result_twice')
-    searcher = run_searcher(GoogleSearcher, data_dir_path, report_dir_path)
+    searcher = run_google_searcher(data_dir_path, report_dir_path)
     assert_report_file_content_equals(expected_report, searcher.report_file_path)
 
 
@@ -255,7 +284,7 @@ def test_searcher_when_multiple_results(create_reports_dirs, remove_reports_dirs
         'Results found: 5'
 
     data_dir_path, report_dir_path = get_io_dir_paths(test_suite, test_case='multiple_results')
-    searcher = run_searcher(GoogleSearcher, data_dir_path, report_dir_path)
+    searcher = run_google_searcher(data_dir_path, report_dir_path)
     assert_report_file_content_equals(expected_report, searcher.report_file_path)
 
 
@@ -326,5 +355,56 @@ def test_searcher_when_multiple_results_not_on_top(create_reports_dirs, remove_r
         'Results found: 19'
 
     data_dir_path, report_dir_path = get_io_dir_paths(test_suite, test_case='multiple_results_not_on_top')
-    searcher = run_searcher(GoogleSearcher, data_dir_path, report_dir_path)
+    searcher = run_google_searcher(data_dir_path, report_dir_path)
+    assert_report_file_content_equals(expected_report, searcher.report_file_path)
+
+
+def test_searcher_when_multiple_results_blacklisted_skipped(create_reports_dirs, remove_reports_dirs):
+    expected_report = \
+        '======================================================================' + '\n' + \
+        '88-140 GNIEWKOWO' + '\n\n' + \
+        '#Przedsiębiorstwo' + '\n\n' + \
+        'Gniewkowo Sp. z o.o. Przedsiębiorstwo komunalne' + '\n' + \
+        'Jana Kilińskiego 9' + '\n' + \
+        '88-140 Gniewkowo' + '\n\n' + \
+        'Przedsiębiorstwo Techniki Pompowej IMPELLER' + '\n' + \
+        'Zajezierze 8 B' + '\n' + \
+        '88-140 Gniewkowo' + '\n\n' + \
+        'Tinapol. PH. Lubańska T.' + '\n' + \
+        'Wojska Polskiego 23' + '\n' + \
+        '88-140 Gniewkowo' + '\n\n' + \
+        'Results found: 3'
+
+    data_dir_path, report_dir_path = get_io_dir_paths(test_suite, test_case='multiple_results_blacklisted_skipped')
+    searcher = run_google_searcher(data_dir_path, report_dir_path)
+    assert_report_file_content_equals(expected_report, searcher.report_file_path)
+
+
+def test_searcher_when_multiple_results_blacklisted_allowed(create_reports_dirs, remove_reports_dirs):
+    expected_report = \
+        '======================================================================' + '\n' + \
+        '88-140 GNIEWKOWO' + '\n\n' + \
+        '#Przedsiębiorstwo' + '\n\n' + \
+        'Gniewkowo Sp. z o.o. Przedsiębiorstwo komunalne' + '\n' + \
+        'Jana Kilińskiego 9' + '\n' + \
+        '88-140 Gniewkowo' + '\n\n' + \
+        'I.T.I. Poland Sp. z o.o.' + '\n' + \
+        'Przemysłowa 2' + '\n' + \
+        '88-140 Gniewkowo' + '\n\n' + \
+        'Przedsiębiorstwo Techniki Pompowej IMPELLER' + '\n' + \
+        'Zajezierze 8 B' + '\n' + \
+        '88-140 Gniewkowo' + '\n\n' + \
+        'Pipczyńska Katarzyna. Przedsiębiorstwo wielobranżowe' + '\n' + \
+        'Jana Kilińskiego 49' + '\n' + \
+        '88-140 Gniewkowo' + '\n\n' + \
+        'Tinapol. PH. Lubańska T.' + '\n' + \
+        'Wojska Polskiego 23' + '\n' + \
+        '88-140 Gniewkowo' + '\n\n' + \
+        'Przedsiębiorstwo Wielobranżowe "e-mir"' + '\n' + \
+        'Toruńska 33a' + '\n' + \
+        '88-140 Gniewkowo' + '\n\n' + \
+        'Results found: 6'
+
+    data_dir_path, report_dir_path = get_io_dir_paths(test_suite, test_case='multiple_results_blacklisted_allowed')
+    searcher = run_google_searcher(data_dir_path, report_dir_path, skip_blacklisted=False)
     assert_report_file_content_equals(expected_report, searcher.report_file_path)
