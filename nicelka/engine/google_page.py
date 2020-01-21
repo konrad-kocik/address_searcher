@@ -29,7 +29,7 @@ class GooglePage(WebPage):
     def _get_results(self):
         return self._get_single_result() if self._is_single_result() else self._get_multiple_results()
 
-    @except_to_bool(exc=Exception)
+    @except_to_bool(exc=NoSuchElementException)
     def _is_single_result(self):
         self._find_element_by_class_name('LrzXr')
 
