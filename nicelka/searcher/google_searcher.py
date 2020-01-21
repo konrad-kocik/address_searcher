@@ -9,10 +9,14 @@ class GoogleSearcher(Searcher):
                  data_dir_path='data',
                  report_dir_path='reports',
                  skip_indirect_matches=True,
-                 skip_duplicates=True):
+                 skip_duplicates=True,
+                 skip_blacklisted=True):
         super(GoogleSearcher, self).__init__(data_dir_path=data_dir_path,
                                              skip_indirect_matches=skip_indirect_matches,
                                              skip_duplicates=skip_duplicates)
+        self._skip_blacklisted = skip_blacklisted
+        Logger.info(self, 'Skipping blacklisted: {}'.format(self._skip_blacklisted))
+        self._black_list = self._source.get_black_list()
 
         self._engine = EngineFactory.get_engine('google_page')
         self._keys = self._source.get_keys()
@@ -47,6 +51,9 @@ class GoogleSearcher(Searcher):
             zip_code_prefix = self._get_zip_code_prefix(city)
             city_name = self._get_city_name(city)
 
+            if self._skip_blacklisted:
+                results = self._remove_blacklisted(results)
+
             if self._skip_indirect_matches:
                 results = self._remove_indirect_matches(results, city_name, zip_code_prefix)
 
@@ -59,3 +66,9 @@ class GoogleSearcher(Searcher):
             for result in results:
                 self._results.append(result + '\n')
                 self._results_count += 1
+
+    def _remove_blacklisted(self, results):
+        return list(filter(self._is_not_blacklisted, results))
+
+    def _is_not_blacklisted(self, result):
+        return not any([black_list_item.lower() in result.lower() for black_list_item in self._black_list])
