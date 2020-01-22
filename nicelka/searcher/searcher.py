@@ -53,11 +53,14 @@ class Searcher:
         city_split = city.split(' ', maxsplit=1)
         return city_split[1] if len(city_split) >= 2 else city
 
-    def _remove_indirect_matches(self, results, city_name, zip_code_prefix):
-        return [result for result in results if not self._is_indirect_match(result, city_name, zip_code_prefix)]
+    def _remove_indirect_matches(self, results, city):
+        return [result for result in results if not self._is_indirect_match(result, city)]
 
-    def _is_indirect_match(self, result, city_name, zip_code_prefix):
+    def _is_indirect_match(self, result, city):
+        zip_code_prefix = self._get_zip_code_prefix(city)
+        city_name = self._get_city_name(city)
         city_name_in_result = self._is_city_name_in_result(city_name, result)
+
         return city_name_in_result if zip_code_prefix is None else city_name_in_result or self._is_zip_code_prefix_in_result(zip_code_prefix, result)
 
     @staticmethod

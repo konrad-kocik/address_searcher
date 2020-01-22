@@ -42,11 +42,8 @@ class KrkgwSearcher(Searcher):
 
     def _add_results(self, results, city):
         if results:
-            zip_code_prefix = self._get_zip_code_prefix(city)
-            city_name = self._get_city_name(city)
-
             if self._skip_indirect_matches:
-                results = self._remove_indirect_matches(results, city_name, zip_code_prefix)
+                results = self._remove_indirect_matches(results, city)
 
             if self._skip_duplicates:
                 results = self._remove_duplicates(results)
