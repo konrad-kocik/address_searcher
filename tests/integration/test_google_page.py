@@ -42,7 +42,7 @@ def remove_reports_dirs(request):
     request.addfinalizer(teardown)
 
 
-def test_searcher_when_no_result(create_reports_dirs, remove_reports_dirs):
+def test_no_result(create_reports_dirs, remove_reports_dirs):
     expected_report = \
         '======================================================================' + '\n' + \
         '24-200 BABIN' + '\n\n' + \
@@ -53,7 +53,7 @@ def test_searcher_when_no_result(create_reports_dirs, remove_reports_dirs):
     assert_report_file_content_equals(expected_report, searcher.report_file_path)
 
 
-def test_searcher_when_no_result_twice(create_reports_dirs, remove_reports_dirs):
+def test_no_result_twice(create_reports_dirs, remove_reports_dirs):
     expected_report = \
         '======================================================================' + '\n' + \
         '24-200 BABIN' + '\n\n' + \
@@ -66,7 +66,7 @@ def test_searcher_when_no_result_twice(create_reports_dirs, remove_reports_dirs)
     assert_report_file_content_equals(expected_report, searcher.report_file_path)
 
 
-def test_searcher_when_single_result(create_reports_dirs, remove_reports_dirs):
+def test_single_result(create_reports_dirs, remove_reports_dirs):
     expected_report = \
         '======================================================================' + '\n' + \
         '21-030 KONOPNICA' + '\n\n' + \
@@ -81,7 +81,7 @@ def test_searcher_when_single_result(create_reports_dirs, remove_reports_dirs):
     assert_report_file_content_equals(expected_report, searcher.report_file_path)
 
 
-def test_search_when_single_result_with_two_lines(create_reports_dirs, remove_reports_dirs):
+def test_single_result_with_two_lines(create_reports_dirs, remove_reports_dirs):
     expected_report = \
         '======================================================================' + '\n' + \
         '34-603 UJANOWICE' + '\n\n' + \
@@ -95,7 +95,7 @@ def test_search_when_single_result_with_two_lines(create_reports_dirs, remove_re
     assert_report_file_content_equals(expected_report, searcher.report_file_path)
 
 
-def test_search_when_single_result_with_four_lines(create_reports_dirs, remove_reports_dirs):
+def test_single_result_with_four_lines(create_reports_dirs, remove_reports_dirs):
     expected_report = \
         '======================================================================' + '\n' + \
         '32-862 PORĄBKA IWKOWSKA' + '\n\n' + \
@@ -111,7 +111,7 @@ def test_search_when_single_result_with_four_lines(create_reports_dirs, remove_r
     assert_report_file_content_equals(expected_report, searcher.report_file_path)
 
 
-def test_searcher_when_single_result_indirect_match_by_city_skipped(create_reports_dirs, remove_reports_dirs):
+def test_single_result_indirect_match_by_city_skipped(create_reports_dirs, remove_reports_dirs):
     expected_report = \
         '======================================================================' + '\n' + \
         '24-300 WOLA RUDZKA' + '\n\n' + \
@@ -122,7 +122,7 @@ def test_searcher_when_single_result_indirect_match_by_city_skipped(create_repor
     assert_report_file_content_equals(expected_report, searcher.report_file_path)
 
 
-def test_searcher_when_single_result_indirect_match_by_zip_code_skipped(create_reports_dirs, remove_reports_dirs):
+def test_single_result_indirect_match_by_zip_code_skipped(create_reports_dirs, remove_reports_dirs):
     expected_report = \
         '======================================================================' + '\n' + \
         '24-400 CUPLE' + '\n\n' + \
@@ -133,7 +133,7 @@ def test_searcher_when_single_result_indirect_match_by_zip_code_skipped(create_r
     assert_report_file_content_equals(expected_report, searcher.report_file_path)
 
 
-def test_searcher_when_single_result_indirect_match_by_city_allowed(create_reports_dirs, remove_reports_dirs):
+def test_single_result_indirect_match_by_city_allowed(create_reports_dirs, remove_reports_dirs):
     expected_report = \
         '======================================================================' + '\n' + \
         '34-654 PISARZOWA' + '\n\n' + \
@@ -148,7 +148,7 @@ def test_searcher_when_single_result_indirect_match_by_city_allowed(create_repor
     assert_report_file_content_equals(expected_report, searcher.report_file_path)
 
 
-def test_searcher_when_single_result_indirect_match_by_zip_code_head_allowed(create_reports_dirs, remove_reports_dirs):
+def test_single_result_indirect_match_by_zip_code_head_allowed(create_reports_dirs, remove_reports_dirs):
     expected_report = \
         '======================================================================' + '\n' + \
         '32-725 RAJBRO' + '\n\n' + \
@@ -163,7 +163,7 @@ def test_searcher_when_single_result_indirect_match_by_zip_code_head_allowed(cre
     assert_report_file_content_equals(expected_report, searcher.report_file_path)
 
 
-def test_searcher_when_single_result_indirect_match_by_zip_code_tail_allowed(create_reports_dirs, remove_reports_dirs):
+def test_single_result_indirect_match_by_zip_code_tail_allowed(create_reports_dirs, remove_reports_dirs):
     expected_report = \
         '======================================================================' + '\n' + \
         '24-150 NAŁĘCZÓW' + '\n\n' + \
@@ -178,7 +178,7 @@ def test_searcher_when_single_result_indirect_match_by_zip_code_tail_allowed(cre
     assert_report_file_content_equals(expected_report, searcher.report_file_path)
 
 
-def test_searcher_when_single_result_duplicate_skipped(create_reports_dirs, remove_reports_dirs):
+def test_single_result_duplicate_skipped(create_reports_dirs, remove_reports_dirs):
     expected_report = \
         '======================================================================' + '\n' + \
         '34-603 STRZESZYCE' + '\n\n' + \
@@ -196,7 +196,7 @@ def test_searcher_when_single_result_duplicate_skipped(create_reports_dirs, remo
     assert_report_file_content_equals(expected_report, searcher.report_file_path)
 
 
-def test_searcher_when_single_result_duplicate_allowed(create_reports_dirs, remove_reports_dirs):
+def test_single_result_duplicate_allowed(create_reports_dirs, remove_reports_dirs):
     expected_report = \
         '======================================================================' + '\n' + \
         '34-603 UJANOWICE' + '\n\n' + \
@@ -217,7 +217,7 @@ def test_searcher_when_single_result_duplicate_allowed(create_reports_dirs, remo
     assert_report_file_content_equals(expected_report, searcher.report_file_path)
 
 
-def test_searcher_when_single_result_blacklisted_skipped(create_reports_dirs, remove_reports_dirs):
+def test_single_result_blacklisted_skipped(create_reports_dirs, remove_reports_dirs):
     expected_report = \
         '======================================================================' + '\n' + \
         '13-340 BIELICE' + '\n\n' + \
@@ -228,7 +228,7 @@ def test_searcher_when_single_result_blacklisted_skipped(create_reports_dirs, re
     assert_report_file_content_equals(expected_report, searcher.report_file_path)
 
 
-def test_searcher_when_single_result_blacklisted_allowed(create_reports_dirs, remove_reports_dirs):
+def test_single_result_blacklisted_allowed(create_reports_dirs, remove_reports_dirs):
     expected_report = \
         '======================================================================' + '\n' + \
         '13-340 BIELICE' + '\n\n' + \
@@ -243,7 +243,7 @@ def test_searcher_when_single_result_blacklisted_allowed(create_reports_dirs, re
     assert_report_file_content_equals(expected_report, searcher.report_file_path)
 
 
-def test_searcher_when_single_result_twice(create_reports_dirs, remove_reports_dirs):
+def test_single_result_twice(create_reports_dirs, remove_reports_dirs):
     expected_report = \
         '======================================================================' + '\n' + \
         '34-600 MORDARKA' + '\n\n' + \
@@ -261,7 +261,7 @@ def test_searcher_when_single_result_twice(create_reports_dirs, remove_reports_d
     assert_report_file_content_equals(expected_report, searcher.report_file_path)
 
 
-def test_searcher_when_multiple_results(create_reports_dirs, remove_reports_dirs):
+def test_multiple_results(create_reports_dirs, remove_reports_dirs):
     expected_report = \
         '======================================================================' + '\n' + \
         '33-300 NOWY SĄCZ' + '\n\n' + \
@@ -288,7 +288,7 @@ def test_searcher_when_multiple_results(create_reports_dirs, remove_reports_dirs
     assert_report_file_content_equals(expected_report, searcher.report_file_path)
 
 
-def test_searcher_when_multiple_results_not_on_top(create_reports_dirs, remove_reports_dirs):
+def test_multiple_results_not_on_top(create_reports_dirs, remove_reports_dirs):
     expected_report = \
         '======================================================================' + '\n' + \
         '33-300 NOWY SĄCZ' + '\n\n' + \
@@ -359,7 +359,7 @@ def test_searcher_when_multiple_results_not_on_top(create_reports_dirs, remove_r
     assert_report_file_content_equals(expected_report, searcher.report_file_path)
 
 
-def test_searcher_when_multiple_results_blacklisted_skipped(create_reports_dirs, remove_reports_dirs):
+def test_multiple_results_blacklisted_skipped(create_reports_dirs, remove_reports_dirs):
     expected_report = \
         '======================================================================' + '\n' + \
         '88-140 GNIEWKOWO' + '\n\n' + \
@@ -380,7 +380,7 @@ def test_searcher_when_multiple_results_blacklisted_skipped(create_reports_dirs,
     assert_report_file_content_equals(expected_report, searcher.report_file_path)
 
 
-def test_searcher_when_multiple_results_blacklisted_allowed(create_reports_dirs, remove_reports_dirs):
+def test_multiple_results_blacklisted_allowed(create_reports_dirs, remove_reports_dirs):
     expected_report = \
         '======================================================================' + '\n' + \
         '88-140 GNIEWKOWO' + '\n\n' + \
