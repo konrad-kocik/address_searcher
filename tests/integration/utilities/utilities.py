@@ -17,19 +17,19 @@ def remove_dir(dir_path):
         os.system('cmd /k "rmdir /Q /S {}"'.format(dir_path))
 
 
-def run_google_searcher(data_dir_path, report_file_path, skip_indirect_matches=True, skip_duplicates=True, skip_blacklisted=True):
+def run_google_searcher(data_dir_path, report_file_path, allow_indirect_matches=False, allow_duplicates=False, allow_blacklisted=False):
     searcher = GoogleSearcher(data_dir_path, report_file_path,
-                              skip_indirect_matches=skip_indirect_matches,
-                              skip_duplicates=skip_duplicates,
-                              skip_blacklisted=skip_blacklisted)
+                              allow_indirect_matches=allow_indirect_matches,
+                              allow_duplicates=allow_duplicates,
+                              allow_blacklisted=allow_blacklisted)
     searcher.search()
     return searcher
 
 
-def run_krkgw_searcher(data_dir_path, report_file_path, skip_indirect_matches=True, skip_duplicates=True):
+def run_krkgw_searcher(data_dir_path, report_file_path, allow_indirect_matches=False, allow_duplicates=False):
     searcher = KrkgwSearcher(data_dir_path, report_file_path,
-                             skip_indirect_matches=skip_indirect_matches,
-                             skip_duplicates=skip_duplicates)
+                             allow_indirect_matches=allow_indirect_matches,
+                             allow_duplicates=allow_duplicates)
     searcher.search()
     return searcher
 

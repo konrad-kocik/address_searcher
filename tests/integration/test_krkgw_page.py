@@ -99,7 +99,7 @@ def test_single_result_indirect_match_allowed(create_reports_dirs, remove_report
         'Results found: 1'
 
     data_dir_path, report_dir_path = get_io_dir_paths(test_suite, test_case='single_result_indirect_match_allowed')
-    searcher = run_krkgw_searcher(data_dir_path, report_dir_path, skip_indirect_matches=False)
+    searcher = run_krkgw_searcher(data_dir_path, report_dir_path, allow_indirect_matches=True)
     assert_report_file_content_equals(expected_report, searcher.report_file_path)
 
 
@@ -134,7 +134,7 @@ def test_single_result_duplicate_allowed(create_reports_dirs, remove_reports_dir
         'Results found: 2'
 
     data_dir_path, report_dir_path = get_io_dir_paths(test_suite, test_case='single_result_duplicate_allowed')
-    searcher = run_krkgw_searcher(data_dir_path, report_dir_path, skip_duplicates=False)
+    searcher = run_krkgw_searcher(data_dir_path, report_dir_path, allow_duplicates=True)
     assert_report_file_content_equals(expected_report, searcher.report_file_path)
 
 
@@ -207,7 +207,7 @@ def test_multiple_results_indirect_matches_allowed(create_reports_dirs, remove_r
         'Results found: 2'
 
     data_dir_path, report_dir_path = get_io_dir_paths(test_suite, test_case='multiple_results_indirect_matches_allowed')
-    searcher = run_krkgw_searcher(data_dir_path, report_dir_path, skip_indirect_matches=False)
+    searcher = run_krkgw_searcher(data_dir_path, report_dir_path, allow_indirect_matches=True)
     assert_report_file_content_equals(expected_report, searcher.report_file_path)
 
 
@@ -251,7 +251,7 @@ def test_multiple_results_duplicate_allowed(create_reports_dirs, remove_reports_
         'Results found: 4'
 
     data_dir_path, report_dir_path = get_io_dir_paths(test_suite, test_case='multiple_results_duplicate_allowed')
-    searcher = run_krkgw_searcher(data_dir_path, report_dir_path, skip_duplicates=False)
+    searcher = run_krkgw_searcher(data_dir_path, report_dir_path, allow_duplicates=True)
     assert_report_file_content_equals(expected_report, searcher.report_file_path)
 
 
@@ -398,7 +398,7 @@ def test_multiple_results_on_multiple_pages_all_allowed(create_reports_dirs, rem
         'Results found: 36'
 
     data_dir_path, report_dir_path = get_io_dir_paths(test_suite, test_case='multiple_results_on_multiple_pages_all_allowed')
-    searcher = run_krkgw_searcher(data_dir_path, report_dir_path, skip_indirect_matches=False, skip_duplicates=False)
+    searcher = run_krkgw_searcher(data_dir_path, report_dir_path, allow_indirect_matches=True, allow_duplicates=True)
     assert_report_file_content_equals(expected_report, searcher.report_file_path)
 
 

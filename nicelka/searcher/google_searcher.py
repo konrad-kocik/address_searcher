@@ -8,14 +8,14 @@ class GoogleSearcher(Searcher):
     def __init__(self,
                  data_dir_path='data',
                  report_dir_path='reports',
-                 skip_indirect_matches=True,
-                 skip_duplicates=True,
-                 skip_blacklisted=True):
+                 allow_indirect_matches=False,
+                 allow_duplicates=False,
+                 allow_blacklisted=False):
         super(GoogleSearcher, self).__init__(data_dir_path=data_dir_path,
-                                             skip_indirect_matches=skip_indirect_matches,
-                                             skip_duplicates=skip_duplicates)
-        self._skip_blacklisted = skip_blacklisted
-        Logger.info(self, 'Skipping blacklisted: {}'.format(self._skip_blacklisted))
+                                             allow_indirect_matches=allow_indirect_matches,
+                                             allow_duplicates=allow_duplicates)
+        self._allow_blacklisted = allow_blacklisted
+        Logger.info(self, 'Allowing blacklisted: {}'.format(self._allow_blacklisted))
         self._black_list = self._source.get_black_list()
 
         self._engine = EngineFactory.get_engine('google_page')
@@ -48,13 +48,13 @@ class GoogleSearcher(Searcher):
 
     def _add_results(self, results, city, key):
         if results:
-            if self._skip_blacklisted:
+            if not self._allow_blacklisted:
                 results = self._remove_blacklisted(results)
 
-            if self._skip_indirect_matches:
+            if not self._allow_indirect_matches:
                 results = self._remove_indirect_matches(results, city)
 
-            if self._skip_duplicates:
+            if not self._allow_duplicates:
                 results = self._remove_duplicates(results)
 
             if results:

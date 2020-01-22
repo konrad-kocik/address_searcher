@@ -151,7 +151,7 @@ def test_single_result_indirect_match_by_city_allowed(create_reports_dirs, remov
         'Results found: 1'
 
     data_dir_path, report_dir_path = get_io_dir_paths(test_suite, test_case='single_result_indirect_match_by_city_allowed')
-    searcher = run_google_searcher(data_dir_path, report_dir_path, skip_indirect_matches=False)
+    searcher = run_google_searcher(data_dir_path, report_dir_path, allow_indirect_matches=True)
     assert_report_file_content_equals(expected_report, searcher.report_file_path)
 
 
@@ -166,7 +166,7 @@ def test_single_result_indirect_match_by_zip_code_head_allowed(create_reports_di
         'Results found: 1'
 
     data_dir_path, report_dir_path = get_io_dir_paths(test_suite, test_case='single_result_indirect_match_by_zip_code_head_allowed')
-    searcher = run_google_searcher(data_dir_path, report_dir_path, skip_indirect_matches=False)
+    searcher = run_google_searcher(data_dir_path, report_dir_path, allow_indirect_matches=True)
     assert_report_file_content_equals(expected_report, searcher.report_file_path)
 
 
@@ -220,7 +220,7 @@ def test_single_result_duplicate_allowed(create_reports_dirs, remove_reports_dir
         'Results found: 2'
 
     data_dir_path, report_dir_path = get_io_dir_paths(test_suite, test_case='single_result_duplicate_allowed')
-    searcher = run_google_searcher(data_dir_path, report_dir_path, skip_duplicates=False)
+    searcher = run_google_searcher(data_dir_path, report_dir_path, allow_duplicates=True)
     assert_report_file_content_equals(expected_report, searcher.report_file_path)
 
 
@@ -246,7 +246,7 @@ def test_single_result_blacklisted_allowed(create_reports_dirs, remove_reports_d
         'Results found: 1'
 
     data_dir_path, report_dir_path = get_io_dir_paths(test_suite, test_case='single_result_blacklisted_allowed')
-    searcher = run_google_searcher(data_dir_path, report_dir_path, skip_blacklisted=False)
+    searcher = run_google_searcher(data_dir_path, report_dir_path, allow_blacklisted=True)
     assert_report_file_content_equals(expected_report, searcher.report_file_path)
 
 
@@ -378,7 +378,7 @@ def test_multiple_results_indirect_matches_by_city_allowed(create_reports_dirs, 
         'Results found: 12'
 
     data_dir_path, report_dir_path = get_io_dir_paths(test_suite, test_case='multiple_results_indirect_matches_by_city_allowed')
-    searcher = run_google_searcher(data_dir_path, report_dir_path, skip_indirect_matches=False)
+    searcher = run_google_searcher(data_dir_path, report_dir_path, allow_indirect_matches=True)
     assert_report_file_content_equals(expected_report, searcher.report_file_path)
 
 
@@ -405,7 +405,7 @@ def test_multiple_results_indirect_matches_by_zip_code_head_allowed(create_repor
         'Results found: 5'
 
     data_dir_path, report_dir_path = get_io_dir_paths(test_suite, test_case='multiple_results_indirect_matches_by_zip_code_head_allowed')
-    searcher = run_google_searcher(data_dir_path, report_dir_path, skip_indirect_matches=False)
+    searcher = run_google_searcher(data_dir_path, report_dir_path, allow_indirect_matches=True)
     assert_report_file_content_equals(expected_report, searcher.report_file_path)
 
 
@@ -484,7 +484,7 @@ def test_multiple_results_duplicate_allowed(create_reports_dirs, remove_reports_
         'Results found: 12'
 
     data_dir_path, report_dir_path = get_io_dir_paths(test_suite, test_case='multiple_results_duplicate_allowed')
-    searcher = run_google_searcher(data_dir_path, report_dir_path, skip_duplicates=False)
+    searcher = run_google_searcher(data_dir_path, report_dir_path, allow_duplicates=True)
     assert_report_file_content_equals(expected_report, searcher.report_file_path)
 
 
@@ -606,7 +606,7 @@ def test_multiple_results_blacklisted_allowed(create_reports_dirs, remove_report
         'Results found: 6'
 
     data_dir_path, report_dir_path = get_io_dir_paths(test_suite, test_case='multiple_results_blacklisted_allowed')
-    searcher = run_google_searcher(data_dir_path, report_dir_path, skip_blacklisted=False)
+    searcher = run_google_searcher(data_dir_path, report_dir_path, allow_blacklisted=True)
     assert_report_file_content_equals(expected_report, searcher.report_file_path)
 
 
