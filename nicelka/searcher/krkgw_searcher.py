@@ -8,11 +8,11 @@ class KrkgwSearcher(Searcher):
     def __init__(self,
                  data_dir_path='data',
                  report_dir_path='reports',
-                 skip_indirect_matches=True,
-                 skip_duplicates=True):
+                 allow_indirect_matches=False,
+                 allow_duplicates=False):
         super(KrkgwSearcher, self).__init__(data_dir_path=data_dir_path,
-                                            skip_indirect_matches=skip_indirect_matches,
-                                            skip_duplicates=skip_duplicates)
+                                            allow_indirect_matches=allow_indirect_matches,
+                                            allow_duplicates=allow_duplicates)
 
         self._engine = EngineFactory.get_engine('krkgw_page')
         self._reporter = Reporter(report_dir_path, self.engine_name)
@@ -42,10 +42,10 @@ class KrkgwSearcher(Searcher):
 
     def _add_results(self, results, city):
         if results:
-            if self._skip_indirect_matches:
+            if not self._allow_indirect_matches:
                 results = self._remove_indirect_matches(results, city)
 
-            if self._skip_duplicates:
+            if not self._allow_duplicates:
                 results = self._remove_duplicates(results)
 
             for result in results:

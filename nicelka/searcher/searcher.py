@@ -9,17 +9,17 @@ class Searcher:
 
     def __init__(self,
                  data_dir_path='data',
-                 skip_indirect_matches=True,
-                 skip_duplicates=True):
+                 allow_indirect_matches=False,
+                 allow_duplicates=False):
         self._engine = None
         self._source = Gateway(data_dir_path)
         self._cities = self._source.get_cities()
 
-        self._skip_indirect_matches = skip_indirect_matches
-        self._skip_duplicates = skip_duplicates
+        self._allow_indirect_matches = allow_indirect_matches
+        self._allow_duplicates = allow_duplicates
 
-        Logger.info(self, 'Skipping indirect matches: {}'.format(self._skip_indirect_matches))
-        Logger.info(self, 'Skipping duplicates: {}'.format(self._skip_duplicates))
+        Logger.info(self, 'Allowing indirect matches: {}'.format(self._allow_indirect_matches))
+        Logger.info(self, 'Allowing duplicates: {}'.format(self._allow_duplicates))
 
         self._results = []
         self._results_count = 0
