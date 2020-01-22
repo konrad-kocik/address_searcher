@@ -20,9 +20,16 @@ test_cases = ['no_result',
               'single_result_blacklisted_allowed',
               'single_result_twice',
               'multiple_results',
+              'multiple_results_indirect_matches_by_city_skipped',
+              'multiple_results_indirect_matches_by_zip_code_head_skipped',
+              'multiple_results_indirect_matches_by_city_allowed',
+              'multiple_results_indirect_matches_by_zip_code_head_allowed',
+              'multiple_results_duplicate_skipped',
+              'multiple_results_duplicate_allowed',
               'multiple_results_not_on_top',
               'multiple_results_blacklisted_skipped',
-              'multiple_results_blacklisted_allowed'
+              'multiple_results_blacklisted_allowed',
+              'multiple_results_twice'
               ]
 
 
@@ -42,7 +49,7 @@ def remove_reports_dirs(request):
     request.addfinalizer(teardown)
 
 
-def test_searcher_when_no_result(create_reports_dirs, remove_reports_dirs):
+def test_no_result(create_reports_dirs, remove_reports_dirs):
     expected_report = \
         '======================================================================' + '\n' + \
         '24-200 BABIN' + '\n\n' + \
@@ -53,7 +60,7 @@ def test_searcher_when_no_result(create_reports_dirs, remove_reports_dirs):
     assert_report_file_content_equals(expected_report, searcher.report_file_path)
 
 
-def test_searcher_when_no_result_twice(create_reports_dirs, remove_reports_dirs):
+def test_no_result_twice(create_reports_dirs, remove_reports_dirs):
     expected_report = \
         '======================================================================' + '\n' + \
         '24-200 BABIN' + '\n\n' + \
@@ -66,7 +73,7 @@ def test_searcher_when_no_result_twice(create_reports_dirs, remove_reports_dirs)
     assert_report_file_content_equals(expected_report, searcher.report_file_path)
 
 
-def test_searcher_when_single_result(create_reports_dirs, remove_reports_dirs):
+def test_single_result(create_reports_dirs, remove_reports_dirs):
     expected_report = \
         '======================================================================' + '\n' + \
         '21-030 KONOPNICA' + '\n\n' + \
@@ -81,7 +88,7 @@ def test_searcher_when_single_result(create_reports_dirs, remove_reports_dirs):
     assert_report_file_content_equals(expected_report, searcher.report_file_path)
 
 
-def test_search_when_single_result_with_two_lines(create_reports_dirs, remove_reports_dirs):
+def test_single_result_with_two_lines(create_reports_dirs, remove_reports_dirs):
     expected_report = \
         '======================================================================' + '\n' + \
         '34-603 UJANOWICE' + '\n\n' + \
@@ -95,7 +102,7 @@ def test_search_when_single_result_with_two_lines(create_reports_dirs, remove_re
     assert_report_file_content_equals(expected_report, searcher.report_file_path)
 
 
-def test_search_when_single_result_with_four_lines(create_reports_dirs, remove_reports_dirs):
+def test_single_result_with_four_lines(create_reports_dirs, remove_reports_dirs):
     expected_report = \
         '======================================================================' + '\n' + \
         '32-862 PORĄBKA IWKOWSKA' + '\n\n' + \
@@ -111,7 +118,7 @@ def test_search_when_single_result_with_four_lines(create_reports_dirs, remove_r
     assert_report_file_content_equals(expected_report, searcher.report_file_path)
 
 
-def test_searcher_when_single_result_indirect_match_by_city_skipped(create_reports_dirs, remove_reports_dirs):
+def test_single_result_indirect_match_by_city_skipped(create_reports_dirs, remove_reports_dirs):
     expected_report = \
         '======================================================================' + '\n' + \
         '24-300 WOLA RUDZKA' + '\n\n' + \
@@ -122,7 +129,7 @@ def test_searcher_when_single_result_indirect_match_by_city_skipped(create_repor
     assert_report_file_content_equals(expected_report, searcher.report_file_path)
 
 
-def test_searcher_when_single_result_indirect_match_by_zip_code_skipped(create_reports_dirs, remove_reports_dirs):
+def test_single_result_indirect_match_by_zip_code_skipped(create_reports_dirs, remove_reports_dirs):
     expected_report = \
         '======================================================================' + '\n' + \
         '24-400 CUPLE' + '\n\n' + \
@@ -133,7 +140,7 @@ def test_searcher_when_single_result_indirect_match_by_zip_code_skipped(create_r
     assert_report_file_content_equals(expected_report, searcher.report_file_path)
 
 
-def test_searcher_when_single_result_indirect_match_by_city_allowed(create_reports_dirs, remove_reports_dirs):
+def test_single_result_indirect_match_by_city_allowed(create_reports_dirs, remove_reports_dirs):
     expected_report = \
         '======================================================================' + '\n' + \
         '34-654 PISARZOWA' + '\n\n' + \
@@ -148,7 +155,7 @@ def test_searcher_when_single_result_indirect_match_by_city_allowed(create_repor
     assert_report_file_content_equals(expected_report, searcher.report_file_path)
 
 
-def test_searcher_when_single_result_indirect_match_by_zip_code_head_allowed(create_reports_dirs, remove_reports_dirs):
+def test_single_result_indirect_match_by_zip_code_head_allowed(create_reports_dirs, remove_reports_dirs):
     expected_report = \
         '======================================================================' + '\n' + \
         '32-725 RAJBRO' + '\n\n' + \
@@ -163,7 +170,7 @@ def test_searcher_when_single_result_indirect_match_by_zip_code_head_allowed(cre
     assert_report_file_content_equals(expected_report, searcher.report_file_path)
 
 
-def test_searcher_when_single_result_indirect_match_by_zip_code_tail_allowed(create_reports_dirs, remove_reports_dirs):
+def test_single_result_indirect_match_by_zip_code_tail_allowed(create_reports_dirs, remove_reports_dirs):
     expected_report = \
         '======================================================================' + '\n' + \
         '24-150 NAŁĘCZÓW' + '\n\n' + \
@@ -178,7 +185,7 @@ def test_searcher_when_single_result_indirect_match_by_zip_code_tail_allowed(cre
     assert_report_file_content_equals(expected_report, searcher.report_file_path)
 
 
-def test_searcher_when_single_result_duplicate_skipped(create_reports_dirs, remove_reports_dirs):
+def test_single_result_duplicate_skipped(create_reports_dirs, remove_reports_dirs):
     expected_report = \
         '======================================================================' + '\n' + \
         '34-603 STRZESZYCE' + '\n\n' + \
@@ -196,7 +203,7 @@ def test_searcher_when_single_result_duplicate_skipped(create_reports_dirs, remo
     assert_report_file_content_equals(expected_report, searcher.report_file_path)
 
 
-def test_searcher_when_single_result_duplicate_allowed(create_reports_dirs, remove_reports_dirs):
+def test_single_result_duplicate_allowed(create_reports_dirs, remove_reports_dirs):
     expected_report = \
         '======================================================================' + '\n' + \
         '34-603 UJANOWICE' + '\n\n' + \
@@ -217,7 +224,7 @@ def test_searcher_when_single_result_duplicate_allowed(create_reports_dirs, remo
     assert_report_file_content_equals(expected_report, searcher.report_file_path)
 
 
-def test_searcher_when_single_result_blacklisted_skipped(create_reports_dirs, remove_reports_dirs):
+def test_single_result_blacklisted_skipped(create_reports_dirs, remove_reports_dirs):
     expected_report = \
         '======================================================================' + '\n' + \
         '13-340 BIELICE' + '\n\n' + \
@@ -228,7 +235,7 @@ def test_searcher_when_single_result_blacklisted_skipped(create_reports_dirs, re
     assert_report_file_content_equals(expected_report, searcher.report_file_path)
 
 
-def test_searcher_when_single_result_blacklisted_allowed(create_reports_dirs, remove_reports_dirs):
+def test_single_result_blacklisted_allowed(create_reports_dirs, remove_reports_dirs):
     expected_report = \
         '======================================================================' + '\n' + \
         '13-340 BIELICE' + '\n\n' + \
@@ -243,7 +250,7 @@ def test_searcher_when_single_result_blacklisted_allowed(create_reports_dirs, re
     assert_report_file_content_equals(expected_report, searcher.report_file_path)
 
 
-def test_searcher_when_single_result_twice(create_reports_dirs, remove_reports_dirs):
+def test_single_result_twice(create_reports_dirs, remove_reports_dirs):
     expected_report = \
         '======================================================================' + '\n' + \
         '34-600 MORDARKA' + '\n\n' + \
@@ -261,7 +268,7 @@ def test_searcher_when_single_result_twice(create_reports_dirs, remove_reports_d
     assert_report_file_content_equals(expected_report, searcher.report_file_path)
 
 
-def test_searcher_when_multiple_results(create_reports_dirs, remove_reports_dirs):
+def test_multiple_results(create_reports_dirs, remove_reports_dirs):
     expected_report = \
         '======================================================================' + '\n' + \
         '33-300 NOWY SĄCZ' + '\n\n' + \
@@ -288,7 +295,200 @@ def test_searcher_when_multiple_results(create_reports_dirs, remove_reports_dirs
     assert_report_file_content_equals(expected_report, searcher.report_file_path)
 
 
-def test_searcher_when_multiple_results_not_on_top(create_reports_dirs, remove_reports_dirs):
+def test_multiple_results_indirect_matches_by_city_skipped(create_reports_dirs, remove_reports_dirs):
+    expected_report = \
+        '======================================================================' + '\n' + \
+        '87-207 MAŁE PUŁKOWO' + '\n\n' + \
+        '#PZU' + '\n\n' + \
+        'Kuźnia Smaków' + '\n' + \
+        '20' + '\n' + \
+        '20' + '\n' + \
+        '87-207 Małe Pułkowo' + '\n\n' + \
+        'Markostal Marek Mrowiński' + '\n' + \
+        'Małe Pułkowo 67' + '\n' + \
+        '87-207 Małe Pułkowo' + '\n\n' + \
+        'Results found: 2'
+
+    data_dir_path, report_dir_path = get_io_dir_paths(test_suite, test_case='multiple_results_indirect_matches_by_city_skipped')
+    searcher = run_google_searcher(data_dir_path, report_dir_path)
+    assert_report_file_content_equals(expected_report, searcher.report_file_path)
+
+
+def test_multiple_results_indirect_matches_by_zip_code_head_skipped(create_reports_dirs, remove_reports_dirs):
+    expected_report = \
+        '======================================================================' + '\n' + \
+        '33-393 MARCINKOWICE' + '\n\n' + \
+        '#Szkoła' + '\n\n' + \
+        'Szkoła Podstawowa im. Marszałka Józefa Piłsudskiego' + '\n' + \
+        '33-393' + '\n' + \
+        'Marcinkowicka 132' + '\n' + \
+        '33-395 Marcinkowice' + '\n\n' + \
+        'Zespół Szkół im. Władysława Orkana' + '\n' + \
+        'Marcinkowice 1' + '\n' + \
+        '33-395 Marcinkowice' + '\n\n' + \
+        'Results found: 2'
+
+    data_dir_path, report_dir_path = get_io_dir_paths(test_suite, test_case='multiple_results_indirect_matches_by_zip_code_head_skipped')
+    searcher = run_google_searcher(data_dir_path, report_dir_path)
+    assert_report_file_content_equals(expected_report, searcher.report_file_path)
+
+
+def test_multiple_results_indirect_matches_by_city_allowed(create_reports_dirs, remove_reports_dirs):
+    expected_report = \
+        '======================================================================' + '\n' + \
+        '87-207 MAŁE PUŁKOWO' + '\n\n' + \
+        '#PZU' + '\n\n' + \
+        'PZU' + '\n' + \
+        'Wolności 44' + '\n' + \
+        '87-200 Wąbrzeźno' + '\n\n' + \
+        'PZU' + '\n' + \
+        'Plac Tysiąclecia 22A' + '\n' + \
+        '87-400 Golub-Dobrzyń' + '\n\n' + \
+        'PZU Ubezpieczenia Wąbrzeźno - Agent Andrzej Sadłowski' + '\n' + \
+        'Poniatowskiego 8' + '\n' + \
+        '87-200 Wąbrzeźno' + '\n\n' + \
+        'Kuźnia Smaków' + '\n' + \
+        '20' + '\n' + \
+        '20' + '\n' + \
+        '87-207 Małe Pułkowo' + '\n\n' + \
+        'PZU Ubezpieczenia Czernikowo - Agent Bożena Zygnerska-Nawrotek' + '\n' + \
+        'Juliusza Słowackiego 3' + '\n' + \
+        '87-125 Czernikowo' + '\n\n' + \
+        'Agencja PZU S.A' + '\n' + \
+        'Generała Władysława Sikorskiego 36a' + '\n' + \
+        '87-140 Chełmża' + '\n\n' + \
+        'Grochocka G. Ubezpieczenia' + '\n' + \
+        'Krasińskiego 5' + '\n' + \
+        '87-200 Wąbrzeźno' + '\n\n' + \
+        'PZU Ubezpieczenia Brodnica - Agent Katarzyna Korzeńska' + '\n' + \
+        'Główna 29' + '\n' + \
+        '87-300 Jabłonowo Pomorskie' + '\n\n' + \
+        'PZU Ubezpieczenia Rypin - Agent Grzegorz Makowski' + '\n' + \
+        'Jana Pawła II 6' + '\n' + \
+        '87-500 Rypin' + '\n\n' + \
+        'Oddział PZU - Rypin, Nowy Rynek,' + '\n' + \
+        'Nowy Rynek 6' + '\n' + \
+        '87-500 Rypin' + '\n\n' + \
+        'Markostal Marek Mrowiński' + '\n' + \
+        'Małe Pułkowo 67' + '\n' + \
+        '87-207 Małe Pułkowo' + '\n\n' + \
+        'Bieganowska Anna. Ubezpieczenia' + '\n' + \
+        'Plac Tysiąclecia 2' + '\n' + \
+        '87-400 Golub-Dobrzyń' + '\n\n' + \
+        'Results found: 12'
+
+    data_dir_path, report_dir_path = get_io_dir_paths(test_suite, test_case='multiple_results_indirect_matches_by_city_allowed')
+    searcher = run_google_searcher(data_dir_path, report_dir_path, skip_indirect_matches=False)
+    assert_report_file_content_equals(expected_report, searcher.report_file_path)
+
+
+def test_multiple_results_indirect_matches_by_zip_code_head_allowed(create_reports_dirs, remove_reports_dirs):
+    expected_report = \
+        '======================================================================' + '\n' + \
+        '33-393 MARCINKOWICE' + '\n\n' + \
+        '#Szkoła' + '\n\n' + \
+        'Szkoła Podstawowa im. Marszałka Józefa Piłsudskiego' + '\n' + \
+        '33-393' + '\n' + \
+        'Marcinkowicka 132' + '\n' + \
+        '33-395 Marcinkowice' + '\n\n' + \
+        'Zespół Szkół im. Władysława Orkana' + '\n' + \
+        'Marcinkowice 1' + '\n' + \
+        '33-395 Marcinkowice' + '\n\n' + \
+        'Szkoła Podstawowa im. Stanisława i Jana Potoczków' + '\n' + \
+        '33-395 Rdziostów' + '\n\n' + \
+        'Szkoła Podstawowa im. Mieszka l' + '\n' + \
+        'Marcinkowicka 46' + '\n' + \
+        '78-640 Marcinkowice' + '\n\n' + \
+        'Szkoła Pływania "TB" Tomasz Baliczek' + '\n' + \
+        'Marcinkowicka 9' + '\n' + \
+        '33-395 Nowy Sącz' + '\n\n' + \
+        'Results found: 5'
+
+    data_dir_path, report_dir_path = get_io_dir_paths(test_suite, test_case='multiple_results_indirect_matches_by_zip_code_head_allowed')
+    searcher = run_google_searcher(data_dir_path, report_dir_path, skip_indirect_matches=False)
+    assert_report_file_content_equals(expected_report, searcher.report_file_path)
+
+
+def test_multiple_results_duplicate_skipped(create_reports_dirs, remove_reports_dirs):
+    expected_report = \
+        '======================================================================' + '\n' + \
+        '88-140 GNIEWKOWO' + '\n\n' + \
+        '#Przedsiębiorstwo' + '\n\n' + \
+        'Gniewkowo Sp. z o.o. Przedsiębiorstwo komunalne' + '\n' + \
+        'Jana Kilińskiego 9' + '\n' + \
+        '88-140 Gniewkowo' + '\n\n' + \
+        'I.T.I. Poland Sp. z o.o.' + '\n' + \
+        'Przemysłowa 2' + '\n' + \
+        '88-140 Gniewkowo' + '\n\n' + \
+        'Przedsiębiorstwo Techniki Pompowej IMPELLER' + '\n' + \
+        'Zajezierze 8 B' + '\n' + \
+        '88-140 Gniewkowo' + '\n\n' + \
+        'Pipczyńska Katarzyna. Przedsiębiorstwo wielobranżowe' + '\n' + \
+        'Jana Kilińskiego 49' + '\n' + \
+        '88-140 Gniewkowo' + '\n\n' + \
+        'Tinapol. PH. Lubańska T.' + '\n' + \
+        'Wojska Polskiego 23' + '\n' + \
+        '88-140 Gniewkowo' + '\n\n' + \
+        'Przedsiębiorstwo Wielobranżowe "e-mir"' + '\n' + \
+        'Toruńska 33a' + '\n' + \
+        '88-140 Gniewkowo' + '\n\n' + \
+        'Results found: 6'
+
+    data_dir_path, report_dir_path = get_io_dir_paths(test_suite, test_case='multiple_results_duplicate_skipped')
+    searcher = run_google_searcher(data_dir_path, report_dir_path)
+    assert_report_file_content_equals(expected_report, searcher.report_file_path)
+
+
+def test_multiple_results_duplicate_allowed(create_reports_dirs, remove_reports_dirs):
+    expected_report = \
+        '======================================================================' + '\n' + \
+        '88-140 GNIEWKOWO' + '\n\n' + \
+        '#Przedsiębiorstwo' + '\n\n' + \
+        'Gniewkowo Sp. z o.o. Przedsiębiorstwo komunalne' + '\n' + \
+        'Jana Kilińskiego 9' + '\n' + \
+        '88-140 Gniewkowo' + '\n\n' + \
+        'I.T.I. Poland Sp. z o.o.' + '\n' + \
+        'Przemysłowa 2' + '\n' + \
+        '88-140 Gniewkowo' + '\n\n' + \
+        'Przedsiębiorstwo Techniki Pompowej IMPELLER' + '\n' + \
+        'Zajezierze 8 B' + '\n' + \
+        '88-140 Gniewkowo' + '\n\n' + \
+        'Pipczyńska Katarzyna. Przedsiębiorstwo wielobranżowe' + '\n' + \
+        'Jana Kilińskiego 49' + '\n' + \
+        '88-140 Gniewkowo' + '\n\n' + \
+        'Tinapol. PH. Lubańska T.' + '\n' + \
+        'Wojska Polskiego 23' + '\n' + \
+        '88-140 Gniewkowo' + '\n\n' + \
+        'Przedsiębiorstwo Wielobranżowe "e-mir"' + '\n' + \
+        'Toruńska 33a' + '\n' + \
+        '88-140 Gniewkowo' + '\n\n' + \
+        '#Przedsiębiorstwo' + '\n\n' + \
+        'Gniewkowo Sp. z o.o. Przedsiębiorstwo komunalne' + '\n' + \
+        'Jana Kilińskiego 9' + '\n' + \
+        '88-140 Gniewkowo' + '\n\n' + \
+        'I.T.I. Poland Sp. z o.o.' + '\n' + \
+        'Przemysłowa 2' + '\n' + \
+        '88-140 Gniewkowo' + '\n\n' + \
+        'Przedsiębiorstwo Techniki Pompowej IMPELLER' + '\n' + \
+        'Zajezierze 8 B' + '\n' + \
+        '88-140 Gniewkowo' + '\n\n' + \
+        'Pipczyńska Katarzyna. Przedsiębiorstwo wielobranżowe' + '\n' + \
+        'Jana Kilińskiego 49' + '\n' + \
+        '88-140 Gniewkowo' + '\n\n' + \
+        'Tinapol. PH. Lubańska T.' + '\n' + \
+        'Wojska Polskiego 23' + '\n' + \
+        '88-140 Gniewkowo' + '\n\n' + \
+        'Przedsiębiorstwo Wielobranżowe "e-mir"' + '\n' + \
+        'Toruńska 33a' + '\n' + \
+        '88-140 Gniewkowo' + '\n\n' + \
+        'Results found: 12'
+
+    data_dir_path, report_dir_path = get_io_dir_paths(test_suite, test_case='multiple_results_duplicate_allowed')
+    searcher = run_google_searcher(data_dir_path, report_dir_path, skip_duplicates=False)
+    assert_report_file_content_equals(expected_report, searcher.report_file_path)
+
+
+def test_multiple_results_not_on_top(create_reports_dirs, remove_reports_dirs):
     expected_report = \
         '======================================================================' + '\n' + \
         '33-300 NOWY SĄCZ' + '\n\n' + \
@@ -359,7 +559,7 @@ def test_searcher_when_multiple_results_not_on_top(create_reports_dirs, remove_r
     assert_report_file_content_equals(expected_report, searcher.report_file_path)
 
 
-def test_searcher_when_multiple_results_blacklisted_skipped(create_reports_dirs, remove_reports_dirs):
+def test_multiple_results_blacklisted_skipped(create_reports_dirs, remove_reports_dirs):
     expected_report = \
         '======================================================================' + '\n' + \
         '88-140 GNIEWKOWO' + '\n\n' + \
@@ -380,7 +580,7 @@ def test_searcher_when_multiple_results_blacklisted_skipped(create_reports_dirs,
     assert_report_file_content_equals(expected_report, searcher.report_file_path)
 
 
-def test_searcher_when_multiple_results_blacklisted_allowed(create_reports_dirs, remove_reports_dirs):
+def test_multiple_results_blacklisted_allowed(create_reports_dirs, remove_reports_dirs):
     expected_report = \
         '======================================================================' + '\n' + \
         '88-140 GNIEWKOWO' + '\n\n' + \
@@ -407,4 +607,44 @@ def test_searcher_when_multiple_results_blacklisted_allowed(create_reports_dirs,
 
     data_dir_path, report_dir_path = get_io_dir_paths(test_suite, test_case='multiple_results_blacklisted_allowed')
     searcher = run_google_searcher(data_dir_path, report_dir_path, skip_blacklisted=False)
+    assert_report_file_content_equals(expected_report, searcher.report_file_path)
+
+
+def test_multiple_results_twice(create_reports_dirs, remove_reports_dirs):
+    expected_report = \
+        '======================================================================' + '\n' + \
+        '86-134 DOLNA GRUPA' + '\n\n' + \
+        '#Produkcja' + '\n\n' + \
+        'O.M.N. Altomix' + '\n' + \
+        'Dolna Grupa 55B' + '\n' + \
+        '86-134 Dolna Grupa' + '\n\n' + \
+        'BUMAX Okna Drzwi Meble' + '\n' + \
+        'Tartaczna 9' + '\n' + \
+        '86-134 Dolna Grupa' + '\n\n' + \
+        'Altomix sp.j. Odlewnia metali' + '\n' + \
+        'Dolna Grupa 55b' + '\n' + \
+        '86-134 Dolna Grupa' + '\n\n' + \
+        'Klocek Ryszard. Deski, więźby dachowe. Usługi tartaczne' + '\n' + \
+        '86-134 Dolna Grupa; Tartaczna' + '\n' + \
+        '86-134' + '\n\n' + \
+        'Kubiak-Pol. Skup, sprzedaż naprawa palet' + '\n' + \
+        'DK91 18' + '\n' + \
+        '86-134 Dolna Grupa' + '\n\n' + \
+        '======================================================================' + '\n' + \
+        '87-123 GŁOGOWO' + '\n\n' + \
+        '#Produkcja' + '\n\n' + \
+        'ALWA' + '\n' + \
+        'Spokojna 8' + '\n' + \
+        '87-123 Głogowo' + '\n\n' + \
+        'WW Ekochem' + '\n' + \
+        'Akacjowa 1' + '\n' + \
+        '87-123 Głogowo' + '\n\n' + \
+        'MECHATRONIKA' + '\n' + \
+        'Ul: Wilcza 36' + '\n' + \
+        'Głogowo' + '\n' + \
+        '87-123 Dobrzejewice' + '\n\n' + \
+        'Results found: 8'
+
+    data_dir_path, report_dir_path = get_io_dir_paths(test_suite, test_case='multiple_results_twice')
+    searcher = run_google_searcher(data_dir_path, report_dir_path)
     assert_report_file_content_equals(expected_report, searcher.report_file_path)
