@@ -69,7 +69,7 @@ class Searcher:
 
     @staticmethod
     def _is_zip_code_prefix_in_result(zip_code_prefix, result):
-        return zip_code_prefix not in result.lower()
+        return zip_code_prefix not in result
 
     def _remove_duplicates(self, results):
         return [result for result in results if not self._is_duplicate(result)]
