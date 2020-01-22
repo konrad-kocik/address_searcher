@@ -75,7 +75,7 @@ class Searcher:
         return [result for result in results if not self._is_duplicate(result)]
 
     def _is_duplicate(self, result):
-        return result + '\n' in self._results
+        return result.lower() + '\n' in list(map(str.lower, self._results))
 
     def _add_results(self, *args, **kwargs):
         self._raise_not_implemented_error('_add_results')
