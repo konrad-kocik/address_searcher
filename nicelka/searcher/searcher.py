@@ -54,22 +54,22 @@ class Searcher:
         return city_split[1] if len(city_split) >= 2 else city
 
     def _remove_indirect_matches(self, results, city):
-        return [result for result in results if not self._is_indirect_match(result, city)]
+        return [result for result in results if self._is_direct_match(result, city)]
 
-    def _is_indirect_match(self, result, city):
+    def _is_direct_match(self, result, city):
         zip_code_prefix = self._get_zip_code_prefix(city)
         city_name = self._get_city_name(city)
         city_name_in_result = self._is_city_name_in_result(city_name, result)
 
-        return city_name_in_result if zip_code_prefix is None else city_name_in_result or self._is_zip_code_prefix_in_result(zip_code_prefix, result)
+        return city_name_in_result if zip_code_prefix is None else city_name_in_result and self._is_zip_code_prefix_in_result(zip_code_prefix, result)
 
     @staticmethod
     def _is_city_name_in_result(city_name, result):
-        return city_name.lower() not in result.lower()
+        return city_name.lower() in result.lower()
 
     @staticmethod
     def _is_zip_code_prefix_in_result(zip_code_prefix, result):
-        return zip_code_prefix not in result
+        return zip_code_prefix in result
 
     def _remove_duplicates(self, results):
         return [result for result in results if not self._is_duplicate(result)]

@@ -33,4 +33,4 @@ class Gateway:
 
     def _get_items_from_file(self, file_path):
         with open(file_path, encoding=self._FILE_ENCODING) as file:
-            return [item.strip() for item in file.readlines() if item.strip()]
+            return [item.strip().replace('–', '-') for item in file.readlines() if item.strip()]
