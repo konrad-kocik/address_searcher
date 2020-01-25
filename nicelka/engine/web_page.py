@@ -2,7 +2,7 @@ from time import sleep
 
 from exceptbool import except_to_bool
 from selenium.webdriver import Chrome
-from selenium.common.exceptions import NoSuchElementException, NoAlertPresentException, TimeoutException
+from selenium.common.exceptions import NoAlertPresentException, TimeoutException
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import WebDriverWait
