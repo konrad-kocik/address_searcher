@@ -1,0 +1,3264 @@
+======================================================================
+CZĘSTOCHOWA
+
+#Urząd
+
+Urząd Miasta Częstochowy
+Śląska 11/13
+42-217 Częstochowa
+
+#Ośrodek
+
+Młodzieżowy Ośrodek Leczenia Uzależnień
+Rejtana 7B
+42-202 Częstochowa
+
+Miejski Ośrodek Sportu i Rekreacji, Camping "Oleńka"
+Oleńki 20
+42-200 Częstochowa
+
+Ośrodek Adopcyjno - Opiekuńczy Towarzystwa Przyjaciół Dzieci
+Feliksa Nowowiejskiego 3
+42-217 Częstochowa
+
+#Szkoła
+
+Centralna Szkoła Państwowej Straży Pożarnej
+Sabinowska 62/64
+42-200 Częstochowa
+
+Zespół Państwowych Szkół Plastycznych im. Jacka Malczewskiego w Częstochowie
+Pułaskiego 15
+42-200 Częstochowa
+
+Szkoła Podstawowa z Oddziałami Integracyjnymi nr 53 im. Marii Skłodowskiej-Curie w Częstochowie
+Orkana 95/109
+42-229 Częstochowa
+
+Szkoła Podstawowa nr 48 w Częstochowie
+Leona Schillera 5
+42-200 Częstochowa
+
+Zespół Szkół Technicznych im. Jana Pawła II
+aleja Jana Pawła II 126/130
+42-200 Częstochowa
+
+Zespół Szkół im. Bolesława Prusa: Technikum nr 11
+Bolesława Prusa 20
+42-202 Częstochowa
+
+Szkoła Podstawowa nr 49 im. J. Kusocińskiego
+Jesienna 42
+42-200 Częstochowa
+
+#Przedszkole
+
+Miejskie Przedszkole nr 38 w Częstochowie
+Okulickiego 13
+42-218 Częstochowa
+
+Miejskie Przedszkole nr 31
+Ludowa 95A
+42-215 Częstochowa
+
+Przedszkole Miejskie nr 14
+Krzysztofa Kamila Baczyńskiego 11
+42-224 Częstochowa
+
+#Akademia
+
+Uniwersytet Humanistyczno-Przyrodniczy im. Jana Długosza w Częstochowie
+Jerzego Waszyngtona 4/8
+42-200 Częstochowa
+
+#Bank
+
+ING Bank Śląski Oddział w Częstochowie
+Aleja Najświętszej Maryi Panny 36/38
+42-200 Częstochowa
+
+Nest Bank - Częstochowa (oddział)
+aleja Wojska Polskiego 122 A
+42-200
+42-200 Częstochowa
+
+ING Bank Śląski Oddział w Częstochowie
+Dekabrystów 41
+42-200 Częstochowa
+
+Santander Consumer Bank
+Al. Najświętszej Marii Panny 26
+42-200 Częstochowa
+
+#Wydział
+
+Sąd Rejonowy w Częstochowie, Wydział VII Gospodarczy
+Żwirki i Wigury 9
+42-200 Częstochowa
+
+#Policja
+
+Policja. Komenda Miejska. Komisariat VI
+Majora Waleriana Łukasińskiego 26
+42-200 Częstochowa
+
+Komisariat Policji III w Częstochowie
+Kiedrzyńska 98
+42-200 Częstochowa
+
+Komenda Miejska Policji w Częstochowie
+ks. Jerzego Popiełuszki 5
+42-202 Częstochowa
+
+Komisariat Policji V w Częstochowie
+Bronisława Czecha 15
+42-200 Częstochowa
+
+Komisariat Policji II w Częstochowie
+Bór 14
+42-200 Częstochowa
+
+Komisariat Policji IV w Częstochowie
+Mikołaja Kopernika 38
+42-217 Częstochowa
+
+Komisariat Vi Policji W Częstochowie
+Majora Waleriana Łukasińskiego 26
+42-200 Częstochowa
+
+#Sąd
+
+Sąd Rejonowy w Częstochowie (District Court in Częstochowa)
+Generała Jana Henryka Dąbrowskiego 23/35
+42-202 Częstochowa
+
+#Wojsko
+
+Wojskowa Komenda Uzupełnień
+Legionów 20
+42-202 Częstochowa
+
+#Przedsiębiorstwo
+
+Przedsiębiorstwo Wodociągów i Kanalizacji Okręgu Częstochowskiego Spółka Akcyjna w Częstochowie
+Jaskrowska 14/20
+42-202 Częstochowa
+
+#Produkcja
+
+Wełnopol
+217
+Filomatów 14
+Częstochowa
+
+#Zakład
+
+PKP Polskie Linie Kolejowe S.A. Zakład Linii Kolejowych w Częstochowie
+Tadeusza Boya-Żeleńskiego 7/9
+42-217 Częstochowa
+
+#Związek
+
+Polski Związek Łowiecki. Zarząd okręgowy
+Jasnogórska 102
+42-217 Częstochowa
+
+#Klub
+
+KLUB RURA
+Aleja Najświętszej Maryi Panny 38
+42-202 Częstochowa
+
+Don Kichot
+Aleja Najświętszej Maryi Panny 64
+42-200 Częstochowa
+
+Victoria Częstochowa. Klub piłkarski
+Krakowska 80
+42-202 Częstochowa
+
+#Towarzystwo
+
+Towarzystwo Opieki nad Zwierzętami w Polsce. Oddział
+aleja Wolności 77/79
+42-200 Częstochowa
+
+#Poczta
+
+Eweeeeee
+Stanisława Orzechowskiego 7
+42-200 Częstochowa
+
+Urząd Pocztowy Częstochowa
+Wręczycka 26
+42-210 Częstochowa
+
+Urząd Pocztowy Częstochowa 017
+Księżycowa 14
+42-202 Częstochowa
+
+Urząd Pocztowy Częstochowa 020
+Plac Walecznych 1
+42-271 Częstochowa
+
+Poczta Polska
+Śląska 19
+42-217 Częstochowa
+
+Poczta Polska
+ul
+Jana Kilińskiego 153
+42-218 Częstochowa
+
+Urząd Pocztowy Częstochowa 028
+Ignacego Mościckiego 12
+42-218 Częstochowa
+
+Poczta Polska
+Orzechowa 14
+42-280 Częstochowa
+
+Urząd Pocztowy Częstochowa
+Księdza Augustyna Kordeckiego 2
+42-226 Częstochowa
+
+Urząd Pocztowy Częstochowa 18. Filia
+Okólna 113A
+42-218 Częstochowa
+
+Poczta Polska
+ul
+Krzysztofa Kamila Baczyńskiego 6
+42-224 Częstochowa
+
+Poczta Polska
+Legionów 56
+42-202 Częstochowa
+
+Urząd Pocztowy Częstochowa 015
+Aleja Armii Krajowej 68
+42-215 Częstochowa
+
+Poczta
+aleja Niepodległości
+42-200 Częstochowa
+
+Poczta Polska
+Katedralna 6
+42-202 Częstochowa
+
+Poczta Polska
+aleja Niepodległości 46A/lok. 48
+42-216 Częstochowa
+
+Poczta Polska
+ul
+Władysława Orkana 56 A
+42-229 Częstochowa
+
+Poczta Polska
+Aleja Pokoju 7
+42-207 Częstochowa
+
+Urząd Pocztowy Częstochowa 008
+Józefa Mireckiego 31
+42-294 Częstochowa
+
+Urząd Pocztowy Częstochowa 1. Filia
+Jagiellońska 38/40
+42-200 Częstochowa
+
+#Emeryci
+
+Polski Związek Emerytów, Rencistów i Inwalidów. Zarząd okręgowy
+Aleja Pokoju 11
+42-202 Częstochowa
+
+#Emerytów
+
+ZUS w Częstochowie
+Generała Jana Henryka Dąbrowskiego 43/45
+42-218 Częstochowa
+
+#Izba lekarska
+
+Okręgowa Izba Lekarska w Częstochowie
+Generała Józefa Zajączka 5
+42-202 Częstochowa
+
+#Amazonki
+
+Stowarzyszenie Częstochowskie Amazonki
+Aleja Pokoju 13
+42-200 Częstochowa
+
+#ZNP
+
+Związek Nauczycielstwa Polskiego
+Jerzego Waszyngtona 62
+42-217 Częstochowa
+
+#PZU
+
+Oddział PZU - Częstochowa, 11 Listopada
+aleja 11 Listopada 7
+42-216 Częstochowa
+
+Oddział PZU - Częstochowa, Najświętszej Maryi Panny
+Aleja Najświętszej Maryi Panny 12b
+42-200 Częstochowa
+
+PZU Ubezpieczenia Częstochowa - Agent Elżbieta Ryś
+Wincentego Witosa 1B
+42-200 Częstochowa
+
+PZU Ubezpieczenia Częstochowa - Agent Renata Łaszewska
+Jerzego Szajnowicza-Iwanowa 55
+42-200 Częstochowa
+
+PZU Ubezpieczenia Częstochowa - Agent Bartosz Ernst
+Główna 66
+42-280 Częstochowa
+
+PZU Ubezpieczenia Częstochowa - Marzena Szewczyk
+Aleja Bohaterów Monte Cassino 10/109
+42-209 Częstochowa
+
+PZU Ubezpieczenia Częstochowa - Agent Ewa Kochman
+1 Maja 11
+42-280 Częstochowa
+
+PZU Ubezpieczenia Częstochowa - Agent Agata Olejniczak
+Generała Stanisława Sosabowskiego 21
+42-224 Częstochowa
+
+PZU Ubezpieczenia Częstochowa - Agent Ewelina Leśnikowska-Szewc
+Władysława Orkana 95/100
+42-200 Częstochowa
+
+Przygoda W. Agencja ubezpieczeniowa PZU S.A.
+Kisielewskiego 99
+42-215 Częstochowa
+
+Pasak Aniceta, agent ubezpieczeniowy PZU SA
+Marszałka Ferdynanda Focha 38
+42-200 Częstochowa
+
+#muzeum
+
+Muzeum Częstochowskie
+Aleja Najświętszej Maryi Panny 47
+42-217 Częstochowa
+
+Muzeum Produkcji Zapałek w Częstochowie
+Ogrodowa 68
+42-200 Częstochowa
+
+#Diabetycy
+
+Polskie Stowarzyszenie Diabetyków. Oddział miejski
+Feliksa Nowowiejskiego 3
+42-200 Częstochowa
+
+#Centrum
+
+Hotel Mercure Częstochowa Centrum
+Księdza Jerzego Popiełuszki 2
+42-200 Częstochowa
+
+Centrum Dom handlowy
+aleja Wolności 4
+42-217 Częstochowa
+
+#Seniora
+
+Częstochowskie Centrum Aktywności Seniora
+Staszica 10
+42-200 Częstochowa
+
+#Jeździecki
+
+Sklep Jeździecki Ksantos
+aleja Jana Pawła II 84A
+42-200 Częstochowa
+
+======================================================================
+42-160 STANKI
+
+======================================================================
+46-325 JULIANPOL
+
+#Ośrodek
+
+Młodzieżowy Ośrodek Wychowawczy
+Julianpol 155
+46-325 Julianpol
+
+#Produkcja
+
+🌲 Domki Letniskowe WOODPOL Michał Chrzan
+Julianpol 81b
+46-325 Julianpol
+
+======================================================================
+42-160 ZAJĄCZKI PIERWSZE
+
+#Produkcja
+
+Mobilna Mieszalnia Pasz Magmat
+Zajączki Pierwsze 137
+42-160 Zajączki Pierwsze
+
+#Poczta
+
+Ochotnicza Straż Pożarna
+42-160 Zajączki Pierwsze
+
+======================================================================
+42-160 KRZEPICE
+
+#Urząd
+
+Urząd Miasta i Gminy
+Częstochowska 13
+42-160 Krzepice
+
+#Ośrodek
+
+Gminny Ośrodek Kultury w Krzepicach
+Krótka 2
+42-160 Krzepice
+
+Gminny Ośrodek Kultury
+Częstochowska 27
+42-160 Krzepice
+
+Przychodnia Rejonowa
+Częstochowska 1
+42-160 Krzepice
+
+Młodzieżowy Ośrodek Wychowawczy W Krzepicach
+Kuków 30
+42-160 Krzepice
+
+#Szkoła
+
+Szkoła Podstawowa nr 1 im. Adama Mickiewicza
+Mickiewicza 13
+42-160 Krzepice
+
+Szkoła Podstawowa nr 2 im. M. Skłodowskiej-Curie
+Skłodowskiej 21
+42-160 Krzepice
+
+Zespół Szkół w Krzepicach
+Ryły 26
+42-160 Krzepice
+
+#Przedszkole
+
+Przedszkole Samorządowe nr 1
+Ryły 28
+42-160 Krzepice
+
+#Biblioteka
+
+Biblioteka Publiczna Gminna
+Częstochowska 13
+42-160 Krzepice
+
+#Szpital
+
+Szpital Rejonowy im. dr Anki
+Szkolna 1
+42-160 Krzepice
+
+#Przychodnia
+
+Skor-Med. Przychodnia Medycyny Rodzinnej NZOZ. Poradnia lekarza POZ
+3 Maja 4
+42-160 Krzepice
+
+#Bank
+
+Bank Spółdzielczy
+Częstochowska 27
+42-160 Krzepice
+
+#Policja
+
+Komisariat Policji w Krzepicach
+Mickiewicza 34
+42-160 Krzepice
+
+#Przedsiębiorstwo
+
+Baltimpex-Telecom. Przedsiębiorstwo handlu zagranicznego. Autoryzowany punkt sprzedaży
+Częstochowska 5
+42-160 Krzepice
+
+#Produkcja
+
+G.Z. Kowalczyk. Produkcja makaronów. FPH. Drabik K.
+Kościuszki 55
+42-160 Krzepice
+
+#Zakład
+
+Balcerzak Kazimierz. Zakład elektromechaniczny
+Wyspiańskiego 9
+42-160 Krzepice
+
+Zakład Działalności Komunalnej i Mieszkaniowej
+Targowa 19
+42-160 Krzepice
+
+Akord. Zakład usług transportowych. Sprzedaż opon i olejów
+Andersa 85
+42-160 Krzepice
+
+Stol-Miro. Zakład stolarski
+Nowokrzepice 38
+42-160 Krzepice
+
+#Zakłady
+
+Z.P.U. Tomasz Rakowski (zakład stolarski)
+Muznerowskiego 65
+42-160 Krzepice
+
+Rudlicki Bogdan. Zakład stolarski
+Kościuszki 50
+42-160 Krzepice
+
+Cukiernia CMG
+Rynek Imienia Powstańców 1863 15
+42-160 Krzepice
+
+B.K.M. MOŃKA S.C.
+17 Stycznia 7
+42-160 Krzepice
+
+#Grupa
+
+STOLARKA ALUMINIOWA OKNA DRZWI FASADY ELEWACJE WENTYLOWANE - GRUPA FOR-BUD
+Rolnicza 9
+42-160 Krzepice
+
+#Spółka
+
+Flora Bis Sp. z o.o.
+Rolnicza 3
+42-160 Krzepice
+
+#Spółdzielnia
+
+Spółdzielnia Kółek Rolniczych
+Towarowa 14
+42-160 Krzepice
+
+#Firma
+
+Batorex. Firma remontowo - budowlana. Bator E.
+Broniewskiego 6
+42-160 Krzepice
+
+Sigmapak - opakowania
+Skłodowskiej 17
+42-160 Krzepice
+
+#Poczta
+
+Poczta Polska
+Częstochowska 16
+42-160 Krzepice
+
+#ZNP
+
+Związek Nauczycielstwa Polskiego. Zarząd oddziału
+Ryły 28
+42-160 Krzepice
+
+#PZU
+
+Słaboń Marian, pośrednik ubezpieczeniowy
+Częstochowska 13
+42-160 Krzepice
+
+#Jeździecki
+
+F.P.H.U."ANDES"Radzioch Agnieszka
+Brzozowa 8
+42-160 Krzepice
+
+======================================================================
+98-335 ZAŁĘCZE MAŁE
+
+#Szkoła
+
+ZSS im. Jana Pawła II Wielkiego w Załęczu Małym
+98-335 Załęcze Małe
+
+#Spółka
+
+Dom Seniora Załęcze
+111a
+98-335 Załęcze Małe
+
+#PZU
+
+Stara Wieś Resort & Odnowa
+Załęcze Małe 103A
+98-335 Pątnów
+
+Sala Restauracyjna i Bankietowa Załęcze
+Załęcze Małe 111a
+98-335 Załęcze Małe
+
+Pokoje do wynajęcia "U Steców"
+Załęcze Małe 30
+98-335 Załęcze Małe
+
+#Klub Seniora
+
+Dom Seniora Załęcze (Dom Seniora Załęcze, Wieluń, Łódź)
+111a
+98-335 Załęcze Małe
+
+======================================================================
+42-164 PARZYMIECHY
+
+#Ośrodek
+
+NZOZ Ośrodek Terapii Uzależnień
+Częstochowska 1
+42-164 Parzymiechy
+
+#Przedszkole
+
+Zespół Szkolno-Przedszkolny w Parzymiechah
+Parkowa 1
+42-164 Parzymiechy
+
+#Bank
+
+Bank Spółdzielczy w Krzepicach
+Częstochowska 2a
+42-164 Parzymiechy
+
+#Produkcja
+
+Pantofle Kamila
+Kasztanowa 2A
+42-164 Parzymiechy
+
+#PZU
+
+abc
+Częstochowska 11
+42-164 Parzymiechy
+
+======================================================================
+98-324 KAMION
+
+======================================================================
+98-355 NIŻANKOWICE
+
+======================================================================
+42-164 GRABARZE
+
+#Produkcja
+
+Drew-Res
+Grabarze 20
+42-164 Grabarze
+
+======================================================================
+42-152 IWANOWICE DUŻE
+
+#Szkoła
+
+Szkoła Podstawowa w Iwanowicach Dużych
+Częstochowska 63
+42-152 Iwanowice Duże
+
+#Przedszkole
+
+Szkoła Podstawowa
+42-152 Iwanowice Duże
+
+#Produkcja
+
+Z.P.H.U. Konopka Spółka Jawna Tartak-Skład Węgla
+Krzepicka 124
+42-152 Iwanowice Duże
+
+#Poczta
+
+Ochotnicza Straż Pożarna
+42-152 Iwanowice Duże; Częstochowska 134
+42-152
+
+#PZU
+
+Jurpol s.c. Tartak
+42-152 Iwanowice Duże; Częstochowska 77
+42-152
+
+Firma Jaga Jadwiga Heluszka
+Krzepicka 54
+42-152 Iwanowice Duże
+
+nadzory konieczny
+Krzepicka 108
+42-152 Iwanowice Duże
+
+======================================================================
+42-165 DANKÓW
+
+#Szkoła
+
+Mamre
+Unnamed Road
+Danków 42-165
+42-165 Danków
+
+#Produkcja
+
+Anmar
+Danków 115
+42-165 Danków
+
+#PZU
+
+Zamek w Dankowie
+42-165 Danków
+
+======================================================================
+42-165 LIPIE
+
+#Urząd
+
+Urząd Gminy Lipie
+42-165 Lipie
+
+#Ośrodek
+
+Gminny Ośrodek Kultury
+Częstochowska 95
+42-165 Lipie
+
+#Szkoła
+
+Zespół szkolno przedszkolny
+42-165 Lipie
+
+#Szpital
+
+Gminny Ośrodek Zdrowia
+Częstochowska 27
+42-165 Lipie
+
+#Bank
+
+Bank Spółdzielczy w Krzepicach O. w Lipiu
+Częstochowska 108
+42-165 Lipie
+
+#Stowarzyszenie
+
+Wspólnota Przymierza Rodzin "Mamre"
+Albertów 56
+42-165 Lipie
+
+#Poczta
+
+Poczta Polska
+Częstochowska 29
+42-165 Lipie
+
+#Centrum
+
+Delikatesy Centrum
+Parkowa 5
+42-165 Lipie
+
+======================================================================
+98-355 DRABY
+
+#Firma
+
+Greenline Jarząb & Krzak Sp.J.
+Draby 21b
+98-355 Draby
+
+======================================================================
+42-152 OPATÓW
+
+#Szkoła
+
+Szkoła Podstawowa im. Marii Konopnickiej
+Szkolna 5
+42-152 Opatów
+
+#Bank
+
+Bank Spółdzielczy w Krzepicach O. w Opatowie
+Kuźnicka 31
+42-152 Opatów
+
+#Poczta
+
+Poczta Polska (Branch Post Office - Klobuck)
+Kościuszki 27
+42-152 Opatów
+
+#muzeum
+
+Wzgórze Opatowskie (Góra Opatowska)
+42-152 Opatów
+
+======================================================================
+98-355 LISOWICE - KOLONIA
+
+======================================================================
+42-165 WAPIENNIK
+
+#Produkcja
+
+STOLARKA DYLUŚ
+Główna 55
+42-165 Wapiennik
+
+#Klub
+
+Główna 43
+Wapiennik 43
+42-165 Wapiennik
+
+======================================================================
+98-355 SZCZYTY
+
+#Szkoła
+
+Zespół Szkolno-Przedszkolny
+Szkolna 2
+98-355 Szczyty
+
+#Grupa
+
+Grupa Rolvita
+Niżankowska 35
+98-355 Szczyty
+
+======================================================================
+42-165 RĘBIELICE SZLACHECKIE
+
+#PZU
+
+POS-BUD
+Rębielice Szlacheckie 73
+42-165 Rębielice Szlacheckie
+
+Transport Dawid Cieśla
+120
+42-165 Rębielice Szlacheckie
+
+======================================================================
+98-355 RACISZYN
+
+#Szkoła
+
+Szkoła Podstawowa Marii Konopnickiej
+Działoszyńska 65
+98-355 Raciszyn
+
+#Przedszkole
+
+Przedszkole Publiczne
+Śródwiejska 4
+98-355 Raciszyn
+
+#Produkcja
+
+Żelki Gusto
+Działoszyńska 15
+98-355 Raciszyn
+
+#Zakład
+
+Zakład Mechaniczno-Odlewniczy "RAWIMOT"
+Częstochowska 12
+98-355 Raciszyn
+
+#Spółka
+
+WKG Sp. z o.o. s.k.
+Działoszyńska 69
+98-355 Raciszyn
+
+======================================================================
+98-355 DZIAŁOSZYN
+
+#Szkoła
+
+Szkoła Podstawowa Nr 2 im. Mikołaja Kopernika Zespółu Szkolno-Przedszkolnego w Działoszynie
+Szkolna 4
+98-355 Działoszyn
+
+Zespół Szkół Marii Skłodowskiej-Curie
+Grota-Roweckiego 5
+98-355 Działoszyn
+
+szkoła podstawowa nr 1 w działoszynie
+Częstochowska 1
+98-355 Działoszyn
+
+Szkoła Podstawowa nr 1 Janusza Korczaka
+Zamkowa 1
+98-355 Działoszyn
+
+Gimnazjum im. Jana Pawła II w Działoszynie
+Ogrodowa 3a
+98-355 Działoszyn
+
+Specjalny Ośrodek Szkolno-Wychowawczy
+Grota-Roweckiego 2
+98-355 Działoszyn
+
+Teenglish. Szkoła językowa. Brzezińska-Leszczyk A.
+Wierzbowa 36/34
+98-355 Działoszyn
+
+Rondo. Ośrodek szkolenia kierowców. Strykowski R.
+Ogrodowa 2
+98-355 Działoszyn
+
+Publiczne Przedszkole nr 2
+Konopnickiej 3
+98-355 Działoszyn
+
+#Biblioteka
+
+Biblioteka Publiczna Miasta i Gminy Działoszyn
+Piłsudskiego 19
+98-355 Działoszyn
+
+#Przychodnia
+
+proMEDICA S.C.
+Piłsudskiego 30
+98-355 Działoszyn
+
+#Bank
+
+Bank Spółdzielczy
+Piłsudskiego 21A
+98-355 Działoszyn
+
+#Policja
+
+Komisariat Policji
+Piłsudskiego 19
+98-355 Działoszyn
+
+#Produkcja
+
+Anita - Producent lodów i mrożonek
+Wojska Polskiego 13
+98-355 Działoszyn
+
+#Zakłady
+
+Zakład wodociągów i kanalizacji
+Piłsudskiego 21
+98-355 Działoszyn
+
+#Spółdzielnia
+
+Nad Wartą. Spółdzielnia Mieszkaniowa
+Grota-Roweckiego 6
+98-355 Działoszyn
+
+#Klub
+
+Warta Działoszyn
+Sportowa 1
+98-355 Działoszyn
+
+#Poczta
+
+Urząd Pocztowy
+Piłsudskiego 28d
+98-355 Działoszyn
+
+#ZNP
+
+Związek Nauczycielstwa Polskiego
+Konopnickiej 2
+98-355 Działoszyn
+
+#PZU
+
+PZU Ubezpieczenia Działoszyn - Agent Michał Kozak
+Posmykowizna 43
+98-300 Posmykowizna
+
+#muzeum
+
+Muzeum Regionalne
+Zamkowa 22
+98-355 Działoszyn
+
+#Klub Seniora
+
+MGDK w Działoszynie
+Narutowicza 26A
+98-355 Działoszyn
+
+======================================================================
+42-152 WILKOWIECKO
+
+#Szkoła
+
+Szkoła Podstawowa im. T. Kościuszki
+42-151 Wilkowiecko; Szkolna 1
+42-151
+
+#Produkcja
+
+Korzekwa Producent Okien i Drzwi z Drewna
+Długosza 12
+42-152 Wilkowiecko
+
+#Zakłady
+
+Masarnia Wilkowiecko
+Żołnierzy Września 25
+42-152 Wilkowiecko
+
+======================================================================
+42-110 ZBORY
+
+#Zakład
+
+KAMIENIARSTWO Mirosław Łakomy
+Zbory
+ul. Spokojna 30
+42-110 Popów
+
+#Spółka
+
+DR Spedition Sp. z o.o.
+Spokojna 8
+42-110 Zbory
+
+#Poczta
+
+OSP Zbory
+Spokojna 69A
+42-110 Zbory
+
+======================================================================
+98-355 ZALESIAKI
+
+#Ośrodek
+
+Malibu
+98-355 Zalesiaki
+
+#Szkoła
+
+Almar. Zakład przetwórstwa owoców i warzyw
+98-355 Zalesiaki; 57
+98-355
+
+WaldiBen
+Zalesiaki 21
+98-355 Zalesiaki
+
+#Zakład
+
+Waldi-Ben. Zakład przetwórstwa owoców i warzyw. Bęben J.
+98-355 Zalesiaki; 14
+98-355
+
+#Klub
+
+Klub Kajakowy Żubr
+Zalesiaki 30
+98-355 Zalesiaki
+
+======================================================================
+42-120 MOKRA
+
+#Szkoła
+
+Szkoła Podstawowa im. Bohaterów Walk pod Mokrą w 1939 r.
+Mokra 192
+42-120 Mokra
+
+#Poczta
+
+OSP Mokra
+Mokra 195
+42-120 Mokra
+
+Kościół św. Szymona i św. Judy Tadeusza w Mokrej
+Mokra 196
+42-120 Mokra
+
+#muzeum
+
+Muzeum Kultury Przeworskiej i Izba Pamięci Bitwy pod Mokrą
+Mokra 194
+42-120 Mokra
+
+======================================================================
+42-110 ZAWADY
+
+#Urząd
+
+Urząd Gminy Popów
+Częstochowska 6
+42-110 Zawady
+
+#Ośrodek
+
+Ośrodek Wypoczynkowy ,,Niedźwiadek"
+Piwna 12
+42-110 Zawady
+
+#Szkoła
+
+Gimnazjum nr 1 im. Jana Pawła II
+42-110 Zawady; Szkolna 8
+05-504
+
+#Bank
+
+Bank Spółdzielczy w Popowie z/s w Zawadach Centrala
+Częstochowska 8
+42-110 Zawady
+
+#Produkcja
+
+4GLOBE sp. z o.o.
+Kręta 3a
+42-110 Zawady
+
+#Organizacja
+
+Centrum Szkoleniowo-Wypoczynkowe „Słoneczny Brzeg"
+Wypoczynkowa 27a
+42-110 Zawady
+
+======================================================================
+42-110 WIĘCKI
+
+======================================================================
+98-355 TRĘBACZEW
+
+#Urząd
+
+Poczta Polska
+Wyzwolenia 46
+98-355 Trębaczew
+
+#Szkoła
+
+Szkoła Podstawowa Księdza Jana Twardowskiego
+Szkolna 5
+98-355 Trębaczew
+
+Gimnazjum
+Szkolna 5
+98-355 Trębaczew
+
+Publiczne Przedszkole Jasia i Małgosi
+Zagrodowa 26
+98-355 Trębaczew
+
+#Biblioteka
+
+Biblioteka Publiczna filia w Trębaczewie
+Zagrodowa 26
+98-355 Trębaczew
+
+#Przychodnia
+
+Niepubliczny Zakład Opieki Zdrowotnej w Trębaczewie
+Szkolna 12
+98-355 Trębaczew
+
+#Oddział
+
+BE Group Sp. z o.o. Oddział Produkcyjny w Trębaczewie
+Przemysłowa 22
+98-355 Trębaczew
+
+#Zakład
+
+Zakład Kredowy MINERAŁ sp. z.o.o
+Kolejowa 16B
+98-355 Trębaczew
+
+#Klub
+
+LZS Trębaczew
+Cmentarna
+98-355 Trębaczew
+
+======================================================================
+42-120 IZBISKA Miedzno
+
+======================================================================
+98-330 DYLÓW RZĄDOWY
+
+#Poczta
+
+Ochotnicza Straż Pożarna
+98-330 Dylów Rządowy
+
+======================================================================
+42-120 MIEDŹNO
+
+#Urząd
+
+Urząd gminy Miedźno
+Ułańska 25
+42-120 Miedźno
+
+#Ośrodek
+
+Gminny Ośrodek Kultury
+gen. Józefa Filipowicza 5
+42-120 Miedźno
+
+#Szkoła
+
+Szkoła Podstawowa im. Wołyńskiej Brygady Kawalerii w Miedźnie
+Szkolna 1
+42-120 Miedźno
+
+#Przedszkole
+
+Zespół Szkolno-Przedszkolny
+Szkolna 1
+42-120 Miedźno
+
+#Biblioteka
+
+Biblioteka Publiczna
+gen. Józefa Filipowicza 5
+42-120 Miedźno
+
+#Bank
+
+Bank Spółdzielczy w Popowie
+Słoneczna 4
+42-120 Miedźno
+
+Agencja PKO Banku Polskiego
+Ułańska 1
+42-120 Miedźno
+
+#Koło
+
+42-120
+Miedźno
+Mokra
+Ostrowy nad Okszą
+Wapiennik
+Kołaczkowice
+Izbiska
+Władysławów
+Borowa
+
+#Organizacja
+
+Centrum Przyjęć Okolicznościowych Agia
+Sportowa 8
+42-120 Miedźno
+
+#Poczta
+
+Urząd Pocztowy
+Ułańska 25
+42-120 Miedźno
+
+======================================================================
+98-330 DYLÓW SZLACHECKI
+
+#Produkcja
+
+Meble MP
+98-330 Dylów Szlachecki
+
+#Spółka
+
+PLASTPET Sp. z o.o.
+Dylów Szlachecki 92
+98-330 Dylów Szlachecki
+
+#muzeum
+
+Bunkier
+98-330 Dylów Szlachecki
+
+======================================================================
+42-110 WĄSOSZ DOLNY
+
+#Fabryka
+
+Fruktus sp.j. Producent przetworów warzywnych
+Traugutta 130
+42-110 Wąsosz Dolny
+
+#Zakłady
+
+Zakład Handlowy Altex Leszek Kowalski
+Traugutta 178
+42-110 Wąsosz Dolny
+
+#PZU
+
+Fruktus Kowalczyk Sp. Z.o.o.
+Romualda Traugutta 130
+42-110 Wąsosz Dolny
+
+Altex. Przetwory owocowo - warzywne, koncentrat pomidorowy
+42-110 Wąsosz Dolny; Traugutta 178
+
+======================================================================
+42-110 WĄSOSZ GÓRNY
+
+#Szkoła
+
+Szkoła Podstawowa Gminnego Zespołu Szkolno - Przedszkolnego nr 2 im. Romualda Traugutta w Wąsoszu Górnym
+Witosa 11
+42-110 Wąsosz Górny
+
+#Szpital
+
+Oddział Zewnętrzny przy Areszcie Śledczym w Częstochowie
+42-110 Wąsosz Górny
+
+Sanktuarium Pasyjno-Maryjne w Wąsoszu Górnym
+Wąsosz Górny
+Rynek 2
+42-110 Wąsosz Górny
+
+Kalwaria Wąsosz
+Kalwaryjska
+42-110 Wąsosz Górny
+
+Dominika Zwierz Nails & MAKE up
+Zamojskiego 75
+42-110 Wąsosz Górny
+
+#Sąd
+
+Ochotnicza Straż Pożarna
+Niepodległości 1
+42-110 Wąsosz Górny
+
+#Produkcja
+
+Mandat Robert. Wędliny tradycyjne
+42-110 Wąsosz Górny; Zamojskiego 11
+
+======================================================================
+98-330 PAJĘCZNO
+
+#Ośrodek
+
+Miejsko - Gminny Ośrodek Kultury i Sportu
+Wiśniowa 5
+98-330 Pajęczno
+
+#Szpital
+
+Samodzielny Publiczny Zespół Opieki Zdrowotnej (Independent Public Health Care)
+1 Maja 13/15
+98-330 Pajęczno
+
+#Przychodnia
+
+Samodzielny Publiczny Zespół Opieki Zdrowotnej
+1 Maja 13/15
+98-330 Pajęczno
+
+#Bank
+
+Bank Spółdzielczy
+Wiśniowa 32
+98-330 Pajęczno
+
+ESBANK Bank Spółdzielczy
+Wiśniowa 3
+98-330 Pajęczno
+
+PKO Bank Polski S.A.-Oddział 1 w Pajęcznie
+Wiśniowa 34/38
+98-330 Pajęczno
+
+Santander Consumer Bank - Oddział Partnerski
+Kościuszki 60
+98-330 Pajęczno
+
+Credit Agricole Bank Polska S.A. - Placówka CA Express
+Kościuszki 17
+98-330 Pajęczno
+
+Kasa Stefczyka
+Kościuszki 45
+98-330 Pajęczno
+
+Bank Spółdzielczy
+Wiśniowa 32
+98-330 Pajęczno
+
+PKO Bank Polski S.A.- Bankomat
+ul. 1-go Maja 11
+98-330 Pajęczno
+
+PKO Bank Polski S.A.- Bankomat
+Kościuszki 78
+98-330 Pajęczno
+
+#Policja
+
+Komenda Powiatowa Policji
+1 Maja 52
+98-330 Pajęczno
+
+#Sąd
+
+Sąd Rejonowy
+Sienkiewicza 12
+98-330 Pajęczno
+
+#Przedsiębiorstwo
+
+Proinbud. Przedsiębiorstwo projektowania i budownictwa
+Kardynała Stefana Wyszyńskiego 1
+98-330 Pajęczno
+
+#Zakład
+
+Miejski Zakład Komunalny
+Międzyzakładowa 3
+98-330 Pajęczno
+
+#Zakłady
+
+Zakład fotograficzny - Mieczysław Posmyk
+Częstochowska 7
+98-330 Pajęczno
+
+#Agencja
+
+Agencja Restrukturyzacji i Modernizacji Rolnictwa. Biuro powiatowe
+17 Stycznia 15
+98-330 Pajęczno
+
+#Spółka
+
+Olko Sp. z o.o.
+Mickiewicza 106A
+98-330 Pajęczno
+
+#Spółdzielnia
+
+Spółdzielnia Mieszkaniowa
+Wiśniowa 3
+98-330 Pajęczno
+
+#Związek
+
+Powiatowe Centrum Pomocy Rodzinie
+1 Maja 13/15
+98-330 Pajęczno
+
+#Klub
+
+Zawisza Pajęczno
+Rekreacyjna 14
+98-330 Pajęczno
+
+#Firma
+
+Przedsiębiorstwo Wielobranżowe REMART
+Częstochowska 77
+98-330 Pajęczno
+
+#Poczta
+
+Poczta Polska
+1 Maja 9
+98-330 Pajęczno
+
+#Instytut
+
+Instytut Urody Anna Rodak
+Kościuszki 60A
+98-330 Pajęczno
+
+#ZUS
+
+ZUS Biuro Terenowe w Pajęcznie
+Wiśniowa 10
+98-330 Pajęczno
+
+#ZNP
+
+Związek Nauczycielstwa Polskiego. Międzygminny Zarząd oddziału
+Sienkiewicza 7
+98-330 Pajęczno
+
+#PZU
+
+PZU Ubezpieczenia Pajęczno - Agent Małgorzata Gajewska
+1 Maja 16
+98-330 Pajęczno
+
+Oddział PZU
+Wiśniowa 40
+98-330 Pajęczno
+
+Casablanca. Gajewska M.
+1 Maja 30
+98-330 Gmina Pajęczno
+
+Klimczak J. Ubezpieczenia
+1 Maja 23/25
+98-330 Pajęczno
+
+======================================================================
+98-330 MAKOWISKA
+
+#Szkoła
+
+Szkoła Podstawowa Jana Brzechwy
+Szkolna 1
+98-330 Makowiska
+
+#Produkcja
+
+Mir-Kar
+Radomszczańska 82
+98-330 Makowiska
+
+#Poczta
+
+Kapliczka w Makowiskach
+98-330 Makowiska
+
+======================================================================
+42-110 KULE
+
+#Ośrodek
+
+Centralny Ośrodek Szkolenia Służby Więziennej w Kulach
+Kule 2
+42-110 Popów
+
+#Organizacja
+
+Przystań Myśliwska Kule
+42-110 Kule
+
+======================================================================
+42-122 OSTROWY NAD OKSZĄ
+
+#Szkoła
+
+Zespół Szkół Szkolno Przedszkolny im Tadeusza Kościuszki w Ostrowach nad Okszą
+Szkolna 6
+42-122 Ostrowy nad Okszą
+
+#Bank
+
+Sklep Wędkarsko_Przemyslowy
+Szkolna 8
+42-122 Ostrowy nad Okszą
+
+#Klub
+
+Naprzód. Ludowy Klub Sportowy
+Sportowa 33
+42-122 Ostrowy nad Okszą
+
+#Koło
+
+42-122
+Ostrowy nad Okszą
+Rywaczki
+Mazówki
+Ostrowy
+
+#Firma
+
+RAMETO
+Lipowa 1
+42-122 Ostrowy nad Okszą
+
+#Poczta
+
+Paczkomat InPost
+Zakładowa 10A
+42-122 Ostrowy nad Okszą
+
+Ochotnicza Straż Pożarna
+Kościuszki 52
+42-122 Ostrowy nad Okszą
+
+Kościół Rzymskokatolicki
+Wąska 1
+42-122 Ostrowy nad Okszą
+
+#Czerwony Krzyż
+
+Przedszkole Gminne
+Szkolna 6
+42-122 Ostrowy nad Okszą
+
+======================================================================
+98-331 TRZEBCA
+
+======================================================================
+98-330 SIEROCINIEC
+
+======================================================================
+KUŹNICA
+
+#Dom kultury
+
+Gminny Ośrodek Kultury i Sportu
+Sidrzańska 2
+16-123 Kuźnica
+
+#Szkoła
+
+Szkoła Podstawowa im. Kardynała Karola Wojtyły w Kuźnicy Grabowskiej
+Kuźnica Grabowska 106
+63-522 Kuźnica Grabowska
+
+Szkoła KUŹNICA
+Deszczowa 14
+40-318 Katowice
+
+Szkoła Podstawowa
+Helska 45
+84-130 Kuźnica
+
+Szkoła Podstawowa
+56-320 Kuźnica Czeszycka
+
+#Przedszkole
+
+Przedszkole
+Wincentego Witosa 120
+42-233 Kuźnica Kiedrzyńska
+
+#Produkcja
+
+Producent DRZWI - Pacyna
+Kuźnica Czeszycka 49
+56-320 Kuźnica Czeszycka
+
+#Spółka
+
+Familijna
+Kuźnica Czeszycka 11
+56-320 Kuźnica Czeszycka
+
+#Poczta
+
+Poczta Polska
+Stara Kuźnica 3
+63-505 Stara Kuźnica
+
+Urząd Pocztowy
+Sokólska 18
+16-123 Kuźnica
+
+#muzeum
+
+Muzeum Oświaty im. prof. Mariana Falskiego
+Kuźnica Grabowska 105
+63-522 Kuźnica Grabowska
+
+======================================================================
+42-231 NOWY KOCIN
+
+#Bank
+
+Jesienna Nostalgia kennel - tibetan mastiff, Do-Khyi, mastif tybetański, Buldog Angielski
+Prosta 59
+42-231 Nowy Kocin
+
+Mat Grab. Kubas Z.
+Prosta 125
+42-231 Nowy Kocin
+
+Z Zielonych Klyśni- Hodowla Berneńskich Psów Pasterskich
+Prosta 79
+42-231 Nowy Kocin
+
+CZAR WIOSNY - hodowla Berneńskich Psów Pasterskich
+Prosta
+42-231 Nowy Kocin
+
+======================================================================
+42-231 STARY KOCIN
+
+#Urząd
+
+OSP Stary Kocin
+Kręta 104
+42-231 Stary Kocin
+
+#Uniwersytet
+
+Szkoła Podstawowa Im Wołyńskiej Brygady Kawalerii W Starym Kocinie
+Kręta 91
+42-231 Stary Kocin
+
+#Bank
+
+Szkoła Podstawowa
+Kręta 91
+42-231 Stary Kocin
+
+#Produkcja
+
+Tartak Kocin
+Równoległa 3
+42-231 Stary Kocin
+
+======================================================================
+98-337 WOLA JANKOWSKA
+
+#Bank
+
+JankowskaClub
+Wola Jankowska 21
+98-337 Wola Jankowska
+
+#Firma
+
+Hurtownia doniczek Gardenia
+Wola Jankowska 45a
+98-337 Wola Jankowska
+
+======================================================================
+98-331 DWORSZOWICE KOSCIELNE
+
+#Bank
+
+Łowisko Dworszowice Koscielne
+Strażacka 28
+98-331 Dworszowice Kościelne
+
+======================================================================
+98-337 SKĄPA
+
+======================================================================
+98-337 STRZELCE WIELKIE
+
+#Urząd
+
+Urząd Gminy Strzelce Wielkie
+Częstochowska 14
+98-337 Strzelce Wielkie
+
+#Ośrodek
+
+Gminny Ośrodek Zdrowia
+Częstochowska
+98-337 Strzelce Wielkie
+
+#Szkoła
+
+Szkoła Podstawowa
+Częstochowska 8a
+98-337 Strzelce Wielkie
+
+#Biblioteka
+
+Gminna Biblioteka Publiczna W Strzelcach Wielkich
+Częstochowska 7
+98-337 Strzelce Wielkie
+
+#Bank
+
+Bank Spółdzielczy w Pajęcznie
+Częstochowska 14
+98-337 Strzelce Wielkie
+
+#Zakład
+
+Marczak. Hurtownia art. spożywczych
+98-337 Strzelce Wielkie; Pajęczańska 15
+
+#Firma
+
+Firma Handlowa "Marczak" Zbigniew Marczak
+Pajęczańska 15
+98-337 Strzelce Wielkie
+
+======================================================================
+98-331 DUBIDZE Nowa Brzeźnica
+
+======================================================================
+42-231 CYKARZEW Mykanów
+
+======================================================================
+42-231 STARY CYKARZEW
+
+#Szkoła
+
+Szkoła Podstawowa im. Marcina Kacprzaka
+Szkolna 12
+42-231 Stary Cykarzew
+
+#Zakłady
+
+Zakład Handlowy „ROL-MIX”Roman Szczypior
+Zielona 36
+42-231 Stary Cykarzew
+
+#Czerwony Krzyż
+
+Przydrożny krzyż z XVII w.
+Leśna 15
+42-231 Stary Cykarzew
+
+======================================================================
+98-331 NOWA BRZEŹNICA
+
+#Urząd
+
+Urząd Gminy w Nowej Brzeźnicy
+Kościuszki 103
+98-331 Nowa Brzeźnica
+
+#Ośrodek
+
+Gminny Ośrodek Zdrowia w Nowej Brzeźnicy
+Kościuszki 19
+98-331 Nowa Brzeźnica
+
+#Szkoła
+
+Szkoła Podstawowa Jana Długosza
+Kościuszki 100
+98-331 Nowa Brzeźnica
+
+#Przedszkole
+
+Przedszkole
+Kościuszki 98
+98-331 Nowa Brzeźnica
+
+#Akademia
+
+Centrum Medyczne Akademia Uśmiechu
+Kościuszki 37
+98-331 Nowa Brzeźnica
+
+#Bank
+
+Bank Spółdzielczy w Pajęcznie O. w Nowej Brzeźnicy
+Kościuszki 23
+98-331 Nowa Brzeźnica
+
+#Produkcja
+
+Team Sec
+Targowa 3
+98-331 Nowa Brzeźnica
+
+#Grupa
+
+PW Luna Grupa erabruk.pl
+Pajęczańska 6
+98-331 Nowa Brzeźnica
+
+#Spółka
+
+Eko Gas - rozlewnia gazu
+Kaflarnia 97
+98-331 Nowa Brzeźnica
+
+#Stowarzyszenie
+
+F. H. Viga
+Działkowa 1
+98-331 Nowa Brzeźnica
+
+#Poczta
+
+Poczta Polska
+plac 1 Maja 9
+98-331 Nowa Brzeźnica
+
+#ZUS
+
+Ochotnicza Straż Pożarna
+Kościuszki
+98-331 Nowa Brzeźnica
+
+======================================================================
+98-331 PRUSICKO
+
+#Szkoła
+
+Szkoła Podstawowa
+98-331 Prusicko
+
+#Biblioteka
+
+Biblioteka Publiczna
+Prusicko 73
+98-331 Prusicko
+
+======================================================================
+98-337 POMIARY
+
+#Bank
+
+Kopalnia Pomiary sprzedaż piasku, żwiru, tłuczeń, kruszywa, pospółka
+Pomiary 63A
+98-337 Strzelce Wielkie
+
+======================================================================
+98-331 PUCHY
+
+======================================================================
+97-561 JEDLNO DRUGIE
+
+#Produkcja
+
+Sileda Laboratorium Innowacyjno - Usługowe
+Jedlno Drugie 44
+97-561 Jedlno Drugie
+
+#Firma
+
+Zakład Stolarski Duda Bartłomiej
+Jedlno Drugie 57
+97-561 Jedlno Drugie
+
+======================================================================
+98-337 WOLA WIEWIECKA
+
+#Przedszkole
+
+Przedszkole Publiczne
+98-337 Wola Wiewiecka
+
+======================================================================
+98-337 WIEWIEC
+
+#Szkoła
+
+Szkoła Podstawowa
+98-337 Wiewiec
+
+======================================================================
+42-233 BOROWNO
+
+#Przedszkole
+
+Zespół Szkolno-Przedszkolny w Borownie
+Armii Ludowej 6/8
+42-233 Borowno
+
+#Przychodnia
+
+Przychodnia Medycyny Rodzinnej Borowno
+Armii Ludowej 10
+42-233 Borowno
+
+#Produkcja
+
+Tika
+Jan Długosza
+42-233 Borowno
+
+#Poczta
+
+OSP Borowno
+Strażacka 5
+42-233 Borowno
+
+#muzeum
+
+Muzeum Motocykli
+Ogrodowa 11
+42-233 Borowno
+
+======================================================================
+42-282 KRUSZYNA
+
+#Urząd
+
+Urząd Gminy
+Kmicica 5
+42-282 Kruszyna
+
+#Szkoła
+
+Szkoła Podstawowa
+Pocztowa
+42-282 Kruszyna
+
+#Przychodnia
+
+Przychodnia Lekarska Sp. z o.o. NZOZ
+Kmicica 10
+42-282 Kruszyna
+
+#Bank
+
+Bank Spółdzielczy w Mykanowie Punt Obsługi Klienta w Kruszynie
+Kmicica 5
+42-282 Kruszyna
+
+#Produkcja
+
+MP-Alamentti Sp. z o.o.
+Jana III Sobieskiego 18
+42-282 Kruszyna
+
+#Związek
+
+Urząd Stanu Cywilnego
+Kmicica 5
+42-282 Kruszyna
+
+#Poczta
+
+Poczta Polska
+Pocztowa 1
+42-282 Kruszyna
+
+Ochotnicza Straż Pożarna w Kruszynie
+Strażacka 1A
+42-282 Kruszyna
+
+#muzeum
+
+Tropami Tajemnic
+Kmicica 19
+42-282 Kruszyna
+
+======================================================================
+42-282 KIJÓW
+
+======================================================================
+42-282 WIKŁÓW
+
+#Urząd
+
+Leśnictwo Wikłów. Nadleśnictwo Gidle
+42-282 Kruszyna; Kmicica 47c
+42-282
+
+#Bank
+
+Stacja Paliw ORLEN
+Wikłów 59
+42-282 Wikłów
+
+======================================================================
+97-561 WOLA JEDLIŃSKA
+
+#Urząd
+
+OSP Wola Jedlińska
+DK42 112
+97-561 Wola Jedlińska
+
+#Bank
+
+Sklep Spożywczo-Monopolowy
+Wola Jedlińska 45
+97-561 Wola Jedlińska
+
+Ochotnicza Straż Pożarna
+Wola Jedlińska
+97-561
+
+#Firma
+
+Techniqroll
+Wola Jedlińska 81
+97-561 Wola Jedlińska
+
+#PZU
+
+Studio Efekt producent mebli
+Wola Jedlińska 143
+97-561 Wola Jedlińska
+
+======================================================================
+97-565 WOLA BLAKOWA
+
+#Szkoła
+
+Szkoła Podstawowa Publiczna
+39
+97-565 Wola Blakowa
+
+#Politechnika
+
+Megstyl
+Wola Blakowa 88A
+97-565 Wola Blakowa
+
+#Bank
+
+Ochotnicza Straż Pożarna
+Wola Blakowa 149/1
+97-565 Wola Blakowa
+
+Kaplica Rzymskokatolicka Najświętszej Maryi Panny Częstochowskiej
+Wola Blakowa 139
+97-565 Wola Blakowa
+
+#PZU
+
+Albrychowicz wola blakowa
+97-565 Wola Blakowa
+
+Albrychowicz Transport
+Wola Blakowa 88
+97-565 Wola Blakowa
+
+Dekoracje Sal Weselnych - P.P.H.U.Krzysztof Nowak
+Wola Blakowa 258
+97-565 Wola Blakowa
+
+======================================================================
+97-561 RADZIECHOWICE PIERWSZE
+
+#Produkcja
+
+Stolarstwo Kuliś Gabriel Meble na wymiar!
+Radziechowice Pierwsze 111
+97-561 Radziechowice Pierwsze
+
+#ZUS
+
+Ochotnicza Straż Pożarna
+97-561 Radziechowice Pierwsze
+
+======================================================================
+42-282 JACKÓW
+
+#Szkoła
+
+Szkoła Podstawowa Jacków
+Szkolna 3
+42-282 Jacków
+
+======================================================================
+97-500 SZCZEPOCICE RZĄDOWE
+
+#Urząd
+
+Ochotnicza Straż Pożarna w Szczepocicach
+Szczepocice Rządowe 11B
+97-500 Szczepocice Rządowe
+
+#Szkoła
+
+Publiczny Zespół Szkolno-Gimnazjalny w Szczepocicach
+Szczepocice Rządowe 19C
+97-500 Szczepocice Rządowe
+
+#PZU
+
+Kul-Met. Zakład mechaniczny. Kuliś T.
+Szczepocice Rządowe 77
+97-500 Szczepocice Rządowe
+
+======================================================================
+BIDZÓW
+
+======================================================================
+98-400 TEKLINÓW
+
+#Produkcja
+
+Pietrzak Grzegorz. Usługi i produkcja stolarska
+98-400 Teklinów; II/4
+
+======================================================================
+97-505 ROŻNY
+
+======================================================================
+42-270 LIPICZE
+
+======================================================================
+97-561 STOBIECKO SZLACHECKIE
+
+#Szkoła
+
+Zespół Szkolno - Przedszkolny
+24a
+97-561 Stobiecko Szlacheckie
+
+#Politechnika
+
+FIBA S.C. Grzegorz Piwnik, Piotr Iskrzyński
+Stobiecko Szlacheckie
+Ładzice 158
+97-561 Ładzice
+
+#Fabryka
+
+Mebin
+Stobiecko Szlacheckie 135
+97-561 Ładzice
+
+#Firma
+
+M-bud
+Stobiecko Szlacheckie
+97-561 Ładzice
+
+======================================================================
+97-500 BOBRY
+
+======================================================================
+42-165 LIPIE
+
+#Instytut
+
+Zakład Wędliniarski Wioleta I Marcin Plaminiak S.c.
+Kasztanowa 15
+42-165 Lipie
+
+======================================================================
+97-505 DOBRYSZYCE
+
+#Urząd
+
+Urząd Gminy Dobryszyce
+Wolności 8
+97-505 Dobryszyce
+
+#Dom kultury
+
+Dom Polski. Sala bankietowa (Polish House. banquet hall)
+Kochanowskiego 90c
+97-505 Blok Dobryszyce
+
+#Szkoła
+
+Zespół Szkół Rolniczych
+Szkolna 4
+97-505 Dobryszyce
+
+#Przedszkole
+
+Przedszkole Publiczne
+Szkolna 7
+97-410 Dobryszyce
+
+#Bank
+
+Bank Spółdzielczy Ziemi Piotrkowskiej. Oddział
+Szkolna 1
+97-505 Dobryszyce
+
+#Produkcja
+
+Produkcja i Handel Meblami Ryszard Podskroba
+Wieluńska 18
+97-505 Dobryszyce
+
+#Koło
+
+Dobryszyce koło Radomska (Station Dobryszyce koło Radomska)
+97-505 Blok Dobryszyce
+
+#Poczta
+
+Poczta Polska
+Wolności 15
+97-505 Dobryszyce
+
+#Centrum
+
+Delikatesy Centrum
+Wolności 2
+97-505 Dobryszyce
+
+#Jeździecki
+
+Stadnina Koni Malutkie
+Malutkie 31a
+97-505 Dobryszyce
+
+======================================================================
+97-505 MALUTKIE
+
+#Szkoła
+
+Studio Malutkie Przemysław Pacan
+Magnoliowa 3
+97-505 Dobryszyce
+
+#Produkcja
+
+MBW Profile
+Malutkie 7 B
+97-505 Malutkie
+
+======================================================================
+97-500 RADOMSKO
+
+#Urząd
+
+Urząd Gminy
+Piłsudskiego 34
+97-500 Radomsko
+
+Starostwo Powiatowe
+Leszka Czarnego 22
+97-500 Radomsko
+
+Urząd Miasta Radomska
+Tysiąclecia 5
+97-500 Radomsko
+
+Powiatowy Urząd Pracy
+Tysiąclecia 2
+97-500 Radomsko
+
+Urząd Stanu Cywilnego
+Narutowicza 1
+97-500 Radomsko
+
+ZUS Inspektorat w Radomsku
+Piastowska 24A
+97-500 Radomsko
+
+Wydział Bezpieczeństwa I Nadzór Ruchu
+Reymonta 51
+97-500 Radomsko
+
+Poczta Polska
+pl
+plac 3 Maja 6
+97-500 Radomsko
+
+#Szkoła
+
+Publiczna Szkoła Podstawowa nr 6 im. Władysława Broniewskiego
+Królowej Jadwigi 20
+97-500 Radomsko
+
+Publiczna Szkoła Podstawowa nr 1 im. NTL
+Piastowska 17
+97-500 Radomsko
+
+Publiczna Szkoła Podstawowa nr 9 im. Henryka Sienkiewicza
+Rolna 65
+97-500 Radomsko
+
+Publiczna Szkoła Podstawowa nr 8 im. Przyjaciół Dzieci
+Mikołaja Reja 81
+97-500 Radomsko
+
+Publiczna Szkoła Podstawowa nr 3 im. Mieszka I
+Dąbrowskiej 27
+97-500 Radomsko
+
+Publiczna szkoła Podstawowa nr 4
+Szkolna 4
+97-500 Radomsko
+
+Szkoła Podstawowa nr 2
+Piłsudskiego 22
+97-500 Radomsko
+
+Publiczna Szkoła Podstawowa nr 5 im. Mikołaja Kopernika
+Narutowicza 207
+97-500 Radomsko
+
+Publiczna Szkoła Podstawowa nr 7 im. Romualda Traugutta
+11 Listopada 16
+97-500 Radomsko
+
+Szkoła Podstawowa nr 9
+Nadrzeczna 14
+97-500 Radomsko
+
+Zespół Szkół Ponadgimnazjalnych nr 1
+Brzeźnicka
+97-500 Radomsko
+
+Zespół Szkolno - Gimnazjalny nr 6
+Kornela Makuszyńskiego 25
+97-500 Radomsko
+
+Internat Specjalnego Ośrodka Szkolno - Wychowawczego
+Piastowska 12
+97-500 Radomsko
+
+Zespół Szkół Drzewnych i Ochrony Środowiska w Radomsku
+Brzeźnicka 22
+97-500 Radomsko
+
+Zespół Szkół Ekonomicznych im. Tadeusza Kotarbińskiego
+Przedborska 39/41
+97-500 Radomsko
+
+Zespół Szkół Elektryczno - Elektronicznych im. prof. Janusza Groszkowskiego w Radomsku
+Narutowicza 12
+97-500 Radomsko
+
+Centrum Nauki i Biznesu Żak Sp. z o.o.
+Reymonta 62
+97-500 Radomsko
+
+Specjalny Ośrodek Szkolno - Wychowawczy
+Targowa
+97-500 Radomsko
+
+Szkoła Języka Angielskiego - P.P.J.O HORIZON
+Konopnickiej 8
+97-500 Radomsko
+
+Publiczna Szkoła Podstawowa Nr 10 W Radomsku
+Kornela Makuszyńskiego 25
+97-500 Radomsko
+
+#Przedszkole
+
+Przedszkole nr 3 Publiczne
+Sierakowskiego 19
+97-500 Radomsko
+
+Przedszkole nr 10 Publiczne
+Armii Krajowej 13
+97-500 Radomsko
+
+Przedszkole nr 2 Publiczne
+Targowa 7
+97-500 Radomsko
+
+Pod Zielonym Ludkiem. Publiczne Przedszkole nr 4
+Kołłątaja 12
+97-500 Radomsko
+
+#Uniwersytet
+
+Akademia Humanistyczno-Ekonomiczna w Łodzi, Ośrodek Regionalny w Radomsku
+Brzeźnicka 22
+97-500 Radomsko
+
+#Biblioteka
+
+Miejska Biblioteka Publiczna w Radomsku
+Narutowicza 4
+97-500 Radomsko
+
+#Szpital
+
+Szpital Powiatowy
+Jagiellońska 36
+97-500 Radomsko
+
+PUM COGITO
+Krasickiego 78
+97-500 Radomsko
+
+Med i Farm. Zakład usług medycznych NZOZ
+Armii Krajowej 32
+97-500 Radomsko
+
+#Bank
+
+PKO Bank Polski S.A.-Oddział 1 w Radomsku
+Reymonta 16/18
+97-500 Radomsko
+
+Radomsko I Oddział Santander Consumer Bank
+Reymonta 2
+97-500 Radomsko
+
+Bank Pekao S.A.
+Piastowska 16
+97-500 Radomsko
+
+Bank Spółdzielczy ESBANK
+Park Handlowy „Era
+Sierakowskiego 11
+97-500 Radomsko
+
+ESBANK Bank Spółdzielczy
+Tysiąclecia 4
+97-500 Radomsko
+
+Alior Bank - Placówka Partnerska
+Reymonta 10
+97-500 Radomsko
+
+ESBANK Bank Spółdzielczy
+Leszka Czarnego 23
+97-500 Radomsko
+
+ESBANK Bank Spółdzielczy
+Brzeźnicka 38
+97-500 Radomsko
+
+Credit Agricole Bank Polska S.A. - Placówka Bankowa
+plac 3 Maja 13
+97-500 Radomsko
+
+Getin Bank SA
+Reymonta 4
+97-500 Radomsko
+
+ING Bank Śląski Oddział w Radomsku
+Tysiąclecia 1
+97-500 Radomsko
+
+#Policja
+
+Komenda Powiatowa Policji
+Piłsudskiego 56
+97-500 Radomsko
+
+#Prokuratura
+
+Prokuratura Rejonowa w Radomsku
+Tysiąclecia 3
+97-500 Radomsko
+
+#Sąd
+
+Sąd Rejonowy
+Tysiąclecia 3
+97-500 Radomsko
+
+#Zakłady
+
+UNION POLSKA SP Z O.O.
+97-500
+Stolarzy 1
+97-500 Radomsko
+
+Zakład Stolarski
+Dąbrowskiej 95
+97-500 Radomsko
+
+Zakład Wodociągów i Kanalizacji Przedsiębiorstwa Gospodarki Komunalnej. Sp. z o.o.
+Krzywa 12
+97-500 Radomsko
+
+ZAKłAD PRODUKCYJNY AQUILA RADOMSKO Sp. z o.o.
+Przedsiębiorców 1
+97-500 Radomsko
+
+#Agencja
+
+Agencja Restrukturyzacji i Modernizacji Rolnictwa. Biuro powiatowe w Radomsku.
+Wyszyńskiego 142
+97-500 Radomsko
+
+#Spółka
+
+Przedsiębiorstwo Gospodarki Komunalnej Sp. z o.o.
+Stara Droga 85
+97-500 Radomsko
+
+#Spółdzielnia
+
+Radomszczańska Spółdzielnia Mieszkaniowa
+Piastowska 10
+97-500 Radomsko
+
+Dwunastka. Spółdzielnia Mieszkaniowa
+Targowa 12
+97-500 Radomsko
+
+Okręgowa Spółdzielnia Mleczarska
+Jagiellońska 4
+97-500 Radomsko
+
+Mostostalowiec. Spółdzielnia Mieszkaniowa
+Krakowska 24
+97-500 Radomsko
+
+Fazena. Spółdzielnia Mieszkaniowa
+Leszka Czarnego 18
+97-500 Radomsko
+
+#Klub
+
+Radomszczański Kolektyw Sportowy RKS RADOMSKO
+Brzeźnicka 26
+97-500 Radomsko
+
+Belfast
+Kasztelańska 3
+97-500 Radomsko
+
+Klub Żeglarski HKŻ Radomsko
+Bugaj 3
+97-500 Radomsko
+
+Okręgowy Klub Strzelectwa Sportowego "10 - ka"
+Kościuszki 3
+97-500 Radomsko
+
+Klub Karate Kyokushin "RANDORI" Radomsko
+Świętej Jadwigi Królowej 20
+97-500 Radomsko
+
+#Fundacja
+
+Fundacja Promień Radości
+Dobryszycka 17
+97-500 Radomsko
+
+#Poczta
+
+Urząd Pocztowy 005
+Leszka Czarnego 23
+97-504 Radomsko
+
+#Emerytów
+
+Polski Związek Rencistów, Emerytów i Inwalidów. Oddział regionalny
+Wyszyńskiego 27
+97-500 Radomsko
+
+#Instytut
+
+Instytut Techniki i Analiz Sp. z o.o. Biuro wdrożeniowe
+Kościuszki 6
+97-500 Radomsko
+
+#PZU
+
+Oddział PZU - Radomsko, Wyszyńskiego
+Wyszyńskiego 5
+97-500 Radomsko
+
+PZU Ubezpieczenia Radomsko - Agent Jacek Piotrowski
+Henryka Sienkiewicza 18
+97-500 Radomsko
+
+PZU Ubezpieczenia Radomsko - Agent Leszek Lisowski
+Piastowska 16
+97-500 Radomsko
+
+#muzeum
+
+Muzeum Regionalne w Radomsku
+Narutowicza 1
+97-500 Radomsko
+
+#Czerwony Krzyż
+
+Polski Czerwony Krzyż
+Bugaj 3
+97-500 Radomsko
+
+#Koło gospodyń wiejskich
+
+Koło Gospodyń Wiejskich
+Wrotki
+97-500 Radomsko
+
+#Niepełnosprawnych
+
+Powiatowy Zespół ds. Orzekania o Niepełnosprawności
+Piastowska 21
+97-500 Radomsko
+
+#Inwalidów
+
+Partnerstwo. Stowarzyszenie na Rzecz Osób Niepełnosprawnych
+Tysiąclecia 5
+97-500 Radomsko
+
+======================================================================
+97-505 BLOK DOBRYSZYCE
+
+#Ośrodek
+
+Centrum Diagnostyki Kwantowej
+Kwiatowa 22
+97-505 Blok Dobryszyce
+
+#Fabryka
+
+Happy Babies s.c.
+Dobryszycka 79
+97-505 Blok Dobryszyce
+
+#Zakład
+
+Blok-Bud sp.j. Sprzedaż materiałów budowlanych
+40-Lecia PRL 3
+97-505 Blok Dobryszyce
+
+======================================================================
+97-540 STANISŁAWICE
+
+#Produkcja
+
+Meble Kluczny
+Stanisławice 19
+97-540 Gidle
+
+======================================================================
+97-540 PŁAWNO
+
+#Szkoła
+
+Przedszkole
+Radomszczańska 32
+97-540 Pławno
+
+Szkoła Podstawowa w Pławnie
+Przedborska 4
+97-540 Pławno
+
+Gimnazjum Publiczne Zespołu Szkolno - Gimnazjalnego
+Przedborska 4
+97-540 Pławno
+
+#Agencja
+
+Agencja Pocztowa
+plac Wolności 17
+97-540 Pławno
+
+#Spółka
+
+FT Polska Sp. z o.o.
+ul
+plac Wolności 26
+97-540 Pławno
+
+#Stowarzyszenie
+
+Fundacja EKOOSTOJA
+ul
+plac Wolności 26
+97-540 Pławno
+
+#Klub
+
+Ludowy Klub Sportowy Warta Pławno
+Boisko Piłkarskie
+Kościelna
+97-540 Pławno
+
+#Firma
+
+Producent Obuwia i Umundurowania Wojskowego Buty Opinacze Spodnie Polar Odzież Wojskowa PPHU-KAMA
+Gidelska 41
+97-540 Pławno
+
+======================================================================
+97-540 GIDLE
+
+#Urząd
+
+Urząd Gminy Gidle
+Pławińska 22
+97-540 Gidle
+
+#Dom kultury
+
+Gminny Ośrodek Kultury w Gidlach
+Gidelska 22
+97-540 Gidle
+
+#Szkoła
+
+Publiczna Szkoła Podstawowa im. Józefa Piłsudskiego
+Szkolna 7
+97-540 Gidle
+
+#Przedszkole
+
+Przedszkole Publiczne
+Częstochowska 2
+97-540 Gidle
+
+#Biblioteka
+
+Biblioteka Publiczna Gminna
+Pławińska 22
+97-540 Gidle
+
+#Przychodnia
+
+Gidle. SPZOZ. Przychodnia lekarska
+97-540 Gidle
+
+#Bank
+
+Bank Spółdzielczy w Żytnie O. w Gidlach
+Wolności 11
+97-540 Gidle
+
+#Produkcja
+
+Meble kuchenne Satori Daman - Zakład stolarski Małgorzata Treścińska
+Piaski 5
+97-540 Gidle
+
+#Zakład
+
+Usługi Pogrzebowe Mazurek
+Częstochowska 9
+97-540 Gidle
+
+#Poczta
+
+Urząd Pocztowy
+plac Dominikański 7
+97-540 Gidle
+
+#PZU
+
+Bazylika Wniebowzięcia Najświętszej Maryi Panny w Gidlach
+plac Dominikański 6
+97-540 Gidle
+
+Ochotnicza Straż Pożarna
+Władysława Reymonta 2
+97-540 Gidle
+
+Bartnik Czesław. Bar. Tartak
+Szkolna 6
+97-540 Gidle
+
+======================================================================
+97-500 STRZAŁKÓW
+
+#Spółka
+
+Korner Sp. z o.o. Hurtownia Strzałków
+Kochanowskiego 2C
+97-500 Radomsko
+
+#Klub
+
+marcel
+Broniewskiego 27A
+97-500 Strzałków
+
+======================================================================
+97-500 KIETLIN
+
+#Szkoła
+
+Publiczny Zespół Szkolno- Gimnazjalny w Kietlinie
+Radomszczańska 61
+97-500 Kietlin
+
+======================================================================
+97-524 ROZPĘD
+
+======================================================================
+97-524 ORZECHÓW
+
+======================================================================
+97-512 DMENIN
+
+#PZU
+
+MASZYNY I CZĘŚCI ZAMIENNE DO MASZYN ROLNICZYCH IMPORT- EXPORT ANDRZEJ RUDEK
+97-512 Dmenin
+
+======================================================================
+97-532 EWINA
+
+#muzeum
+
+Pomnik Partyzantów 3 Brygady AL
+97-540 Ewina
+
+======================================================================
+97-540 KOTFIN
+
+======================================================================
+97-512 WIDAWKA
+
+======================================================================
+97-512 ROGASZYN
+
+#Produkcja
+
+Michalski Meble
+Rogaszyn 5A
+97-512 Kodrąb
+
+======================================================================
+97-512 STEFANIA
+
+======================================================================
+97-524 KOBIELE WIELKIE
+
+#Urząd
+
+Urząd Gminy Kobiele Wielkie
+Reymonta 79
+97-524 Kobiele Wielkie
+
+#Ośrodek
+
+Gminny Ośrodek Zdrowia w Kobielach Wielkich
+Reymonta 79
+97-524 Kobiele Wielkie
+
+#Szkoła
+
+Szkoła Podstawowa im. W. Reymonta
+Szkolna 4
+97-524 Kobiele Wielkie
+
+#Przedszkole
+
+Zespół Wychowania Przedszkolnego w Kobielach Wielkich
+Szkolna 4
+97-524 Kobiele Wielkie
+
+#Biblioteka
+
+Biblioteka Publiczna Gminna
+Szkolna 1
+97-524 Kobiele Wielkie
+
+#Bank
+
+Bank Spółdzielczy w Żytnie. Oddział w Kobielach Wielkich
+Reymonta
+97-524 Kobiele Wielkie
+
+#Policja
+
+Komisariat Policji
+Reymonta 79
+97-524 Kobiele Wielkie
+
+#Fabryka
+
+Derwisz Tomasz F.P.H.U STOLDER
+Reymonta 76
+97-524 Kobiele Wielkie
+
+#Stowarzyszenie
+
+Urząd Pocztowy
+Szkolna 1
+97-524 Kobiele Wielkie
+
+#PZU
+
+LUDOWIEC PIZZA
+Turystyczna 1A
+97-524 Kobiele Wielkie
+
+Dino
+Szkolna 7b
+97-524 Kobiele Wielkie
+
+Salon Fryzjerski Madzia
+Reymonta 39
+97-524 Kobiele Wielkie
+
+#muzeum
+
+Tablica pamiątkowa
+97-524 Kobiele Wielkie
+
+======================================================================
+98-161 ZAPOLICE
+
+#Urząd
+
+Urząd Gminy
+Plac Strażacki 5
+98-161 Zapolice
+
+#Przedszkole
+
+Publiczne Przedszkole w Zapolicach
+Słoneczna 1
+98-161 Zapolice
+
+#Uniwersytet
+
+Zespół Szkół Ogólnokształcących w Zapolicach
+Główna 19
+98-161 Zapolice
+
+#Biblioteka
+
+Gminna Biblioteka Publiczna w Zapolicach
+Główna 14
+98-161 Zapolice
+
+#Przychodnia
+
+Zamed. NZOZ
+Spacerowa 4A
+98-161 Zapolice
+
+#Bank
+
+Ludowy Bank Spółdzielczy w Zduńskiej Woli. Filia
+Plac Strażacki 5
+98-161 Zapolice
+
+======================================================================
+97-512 LIPOWCZYCE
+
+======================================================================
+97-524 HUTA DREWNIANA
+
+#Politechnika
+
+Fandrób-Pasze sp.j.
+Huta Drewniana 43
+97-524 Huta Drewniana
+
+======================================================================
+97-525 KUBIKI
+
+======================================================================
+97-512 RZEJOWICE
+
+#Szkoła
+
+Szkoła Podstawowa
+Rzejowice 91
+97-512 Rzejowice
+
+#Uniwersytet
+
+Publiczna Szkoła Podstawowa
+Rzejowice 91
+97-512 Rzejowice
+
+======================================================================
+97-525 CHEŁMNO
+
+======================================================================
+97-525 ROGI
+
+======================================================================
+97-515 KRASZEWICE
+
+#Szkoła
+
+Szkoła Podstawowa
+Kraszewice; 113
+97-515
+
+======================================================================
+97-515 OCHOTNIK
+
+======================================================================
+97-525 TRZEBCE
+
+======================================================================
+97-515 JASKÓŁKI
+
+======================================================================
+97-515 KALINKI
+
+======================================================================
+97-525 KRZĘTÓW
+
+======================================================================
+97-570 PRZEDBÓRZ
+
+======================================================================
+97-570 WOLA PRZEDBORSKA
+
+======================================================================
+PILCZYNA
+
+======================================================================
+29-120 STANOWISKA
+
+======================================================================
+29-120 JEŻOWIEC
+
+======================================================================
+58-170 DOBROMIERZ
+
+======================================================================
+29-120 RĄCZKI
+
+======================================================================
+97-570 POLICZKO
+
+======================================================================
+29-120 JANUSZEWICE
+
+======================================================================
+97-570 GÓRY SUCHE
+
+======================================================================
+97-570 GÓRY MOKRE
+
+======================================================================
+26-260 CZERMNO
+
+======================================================================
+97-570 ŻELEŹNICA
+
+======================================================================
+26-260 SKÓRNICE
+
+======================================================================
+26-234 RUDA PILCZYCKA
+
+======================================================================
+26-260 BUDY
+
+======================================================================
+29-120 PILCZYCA
+
+======================================================================
+26-234 SKĄPE
+
+======================================================================
+26-260 WOLA SZKUCKA
+
+======================================================================
+26-070 LASOCIN
+
+======================================================================
+26-242 SZKUCIN
+
+======================================================================
+26-234 RADWANÓW
+
+======================================================================
+26-242 LIPA
+
+======================================================================
+26-234 MNIN
+
+======================================================================
+26-230 JAKIMOWICE
+
+======================================================================
+26-242 MŁOTKOWICE
+
+======================================================================
+26-070 PRZEGRODY
+
+======================================================================
+26-230 WILCZKOWICE
+
+======================================================================
+26-242 RUDA MALENIECKA
+
+======================================================================
+26-230 PAKUŁY
+
+======================================================================
+26-230 ZYCHY
+
+======================================================================
+26-230 RADOSZYCE
+
+======================================================================
+26-230 PLENNA
+
+======================================================================
+42-230 ZARÓG
+
+======================================================================
+29-100 SILPIA DUŻA
+
+======================================================================
+29-145 SECEMIN
+
+======================================================================
+29-120 DĄBROWY
+
+======================================================================
+29-145 ŻELISŁAWICE
+
+======================================================================
+29-145 BICHNIÓW
+
+======================================================================
+29-145 ROPOCICE
+
+======================================================================
+29-145 MINY
+
+======================================================================
+29-100 KURZELÓW
+
+======================================================================
+29-135 BAŁKÓW
+
+======================================================================
+29-145 KRZEPIN
+
+======================================================================
+29-100 DANKÓW DUŻY
+
+======================================================================
+29-100 KĄTY
+
+======================================================================
+29-100 KUZKI
+
+======================================================================
+29-100 WŁOSZCZOWA
+
+======================================================================
+29-100 MOTYCZNO
+
+======================================================================
+29-100 BEBELNO - WIEŚ
+
+======================================================================
+29-135 RADKÓW
+
+======================================================================
+29-100 NIEZNANOWICE
+
+======================================================================
+29-100 KONIECZNO
+
+======================================================================
+29-105 CHOTÓW
+
+======================================================================
+29-100 OGARKA
+
+======================================================================
+29-100 RZĄBIEC
+
+======================================================================
+28-363 OKSA
+
+======================================================================
+28-363 BŁOGOSZÓW
+
