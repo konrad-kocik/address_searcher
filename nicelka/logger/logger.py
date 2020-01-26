@@ -15,10 +15,10 @@ class Logger:
         log.info(msg)
 
     @classmethod
-    def error(cls, caller, exc):
+    def error(cls, caller, exc, msg=''):
         caller_name = cls._get_name(caller)
         log = cls._get_log(caller_name)
-        log.error(cls._get_name(exc) + ': ' + str(exc).strip())
+        log.error(msg + ' ' + cls._get_name(exc) + ': ' + str(exc).strip())
 
     @classmethod
     def debug(cls, caller, msg):
