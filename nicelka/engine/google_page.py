@@ -5,6 +5,7 @@ from selenium.common.exceptions import TimeoutException, NoSuchElementException,
 from selenium.webdriver.common.keys import Keys
 
 from nicelka.engine.web_page import WebPage
+from nicelka.exceptions.exceptions import GooglePageException
 from nicelka.logger.logger import Logger
 
 
@@ -64,14 +65,18 @@ class GooglePage(WebPage):
             for result_link in self._find_elements_by_class_name(result_link_class):
                 name, address = self._get_one_of_multiple_results(result_link)
                 results.append(name + '\n' + self._format_address(address) + '\n')
-        except (TimeoutException, NoSuchElementException, ElementClickInterceptedException) as e:
-            Logger.error(self, e, '({})'.format(self._get_multiple_results.__name__))
+        except (TimeoutException, NoSuchElementException, ElementClickInterceptedException, GooglePageException) as e:
+            Logger.error(self, e, self._get_multiple_results.__name__)
 
         return results
 
     def _open_map(self):
-        map_link = self._wait_for_element_by_class_name('i0vbXd')
-        map_link.click()
+        try:
+            map_link = self._wait_for_element_by_class_name('i0vbXd')
+            map_link.click()
+        except (TimeoutException, ElementClickInterceptedException) as e:
+            Logger.error(self, e, self._open_map.__name__)
+            raise GooglePageException('Failed to open a map')
 
     def _get_one_of_multiple_results(self, result_link):
         result_link.click()

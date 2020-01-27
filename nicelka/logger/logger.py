@@ -18,7 +18,8 @@ class Logger:
     def error(cls, caller, exc, msg=''):
         caller_name = cls._get_name(caller)
         log = cls._get_log(caller_name)
-        log.error(msg + ' ' + cls._get_name(exc) + ': ' + str(exc).strip())
+        msg = msg + ' ' if msg else ''
+        log.error(msg + cls._get_name(exc) + ': ' + str(exc).strip())
 
     @classmethod
     def debug(cls, caller, msg):
