@@ -1,0 +1,3078 @@
+======================================================================
+97-515 OCHOTNIK
+
+======================================================================
+97-525 TRZEBCE
+
+#Poczta
+
+EL-TRANS LADA Sp.J.
+Trzebce 61
+97-525 Trzebce
+
+======================================================================
+97-515 JASKÓŁKI
+
+======================================================================
+97-515 KALINKI
+
+#PZU
+
+Maszyno-rol
+Kalinki 49
+97-515 Kalinki
+
+======================================================================
+97-525 KRZĘTÓW
+
+#Klub
+
+Ludowy Klub Sportowy "Zapał" Krzętów
+Dolna 78
+97-525
+
+#PZU
+
+Domki Nad Pilicą
+Dolna 80
+97-525 Krzętów
+
+Domek nad Pilicą - Agroturystyka, noclegi
+Górna 42
+97-525 Krzętów
+
+======================================================================
+97-570 PRZEDBÓRZ
+
+#Dom kultury
+
+Miejski Dom Kultury
+Dom Kultury
+Rynek 15
+97-570 Przedbórz
+
+#Szkoła
+
+Publiczna Szkoła Podstawowa im. Kazimierza Wielkiego
+Mostowa 35
+97-570 Przedbórz
+
+Zespół Szkół Ponadgimnazjalnych
+Piotrkowska 1
+97-570 Przedbórz
+
+Zespół Szkół i Placówek Niepublicznych Centrum Kształcenia Zawodowego w Przedborzu
+Częstochowska 54
+97-570 Przedbórz
+
+Zasadnicza Szkoła Zawodowa
+Piotrkowska 1
+97-570 Przedbórz
+
+THE SCHOOL.eu - Szkoła Języków Obcych w Przedborzu
+Częstochowska 52
+97-570 Przedbórz
+
+Zasadnicza Szkoła Zawodowa Centrum Kształcenia Zawodowego. Oddział Terenowy
+Częstochowska 54
+97-570 Przedbórz
+
+Art. Nauka jazdy, szkolenia zawodowe. Dziuba A.
+Rynek 14
+97-570 Przedbórz
+
+Logos. Zaoczna Policealna Szkoła Zawodowa
+Mostowa 35
+97-570 Przedbórz
+
+Agencją Usług Oświatowych "ART" Artur Dziuba
+Rynek 14
+97-570 Przedbórz
+
+Gimnazjum Jana Pawła II
+Mostowa 41
+97-570 Przedbórz
+
+Ośrodek Szkolenia LUKAS Szkolenia Okresowe Kursy Prawa Jazdy Kursy Kwalifikacyjne
+Piotrkowska 28
+97-570 Przedbórz
+
+#Przedszkole
+
+Przedszkole
+Mostowa 39
+97-570 Przedbórz
+
+#Biblioteka
+
+Biblioteka Publiczna Miejska
+Mostowa 29
+97-570 Przedbórz
+
+#Szpital
+
+Samodzielny Publiczny Zakład Opieki Zdrowotnej w Przedborzu
+Częstochowska 25
+97-570 Przedbórz
+
+Prywatny Gabinet Lekarski dr n. med. Michał Kusiński
+Sportowa 8
+97-570 Przedbórz
+
+#Bank
+
+Bank Spółdzielczy w Przedborzu Centrala
+Mostowa 31
+97-570 Przedbórz
+
+Getin Noble Bank S.A. Placówka partnerska
+Trytwa 5
+97-570 Przedbórz
+
+Agencja PKO Banku Polskiego
+Mostowa 5
+97-570 Przedbórz
+
+Bankomat Banku Spółdzielczego
+10
+Trytwa 6
+97-570 Przedbórz
+
+PKO Bank Polski S.A.- Bankomat
+Rynek 14
+97-570 Przedbórz
+
+#Policja
+
+Komisariat Policji
+Mostowa 22
+97-570 Przedbórz
+
+#Fabryka
+
+Jurajska Fabryka Mebli JURA Sp. z o.o.
+Cegielniana 9
+97-570 Przedbórz
+
+#Zakład
+
+Zakład Usług Komunalnych Sp. z o.o.
+Spacerowa 6
+97-570 Przedbórz
+
+#Zakłady
+
+Usługi Pogrzebowe Robert Maliszewski
+Pocztowa 11
+97-570 Przedbórz
+
+Urząd Miejski w Przedborzu
+Mostowa 29
+97-570 Przedbórz
+
+Dudkiewicz Zenon. Zakład ceramiczny. Wyrób kafli
+Radomszczańska 37
+97-570 Przedbórz
+
+Zakład instalacji sanitarno - grzewczych i robót drogowych
+Stara 3
+97-570 Przedbórz
+
+Zakład fotograficzny
+Piotrkowska 5
+97-570 Przedbórz
+
+Bareła Jan. Produkcja i remont maszyn rolniczych
+Wola Przedborska 8
+97-570 Przedbórz
+
+Zakład Fryzjerski Inga Cała
+Leśna 4
+97-570 Przedbórz
+
+Niepubliczny Zakład Opieki Zdrowotnej BIS-DENT Krzysztof Kurzelewski
+Trytwa 4
+97-570 Przedbórz
+
+Cieślar Albin. Zakład ogólnobudowlany
+Słoneczna 27
+97-570 Przedbórz
+
+#Spółdzielnia
+
+Spółdzielnia Mieszkaniowa
+Mostowa 38
+97-570 Przedbórz
+
+#Związek
+
+Związek Ochotniczych Straży Pożarnych
+Mostowa 29
+97-570 Przedbórz
+
+#PZU
+
+Góral Aleksandra. Pośrednictwo usługowo - finansowe
+Częstochowska 7
+97-570 Przedbórz
+
+Zalas-Investment. Zalas A.
+Kazimierza Wielkiego 4
+97-570 Przedbórz
+
+#muzeum
+
+Muzeum Ludowe Ziemi Przedborskiej
+Kielecka 9
+97-570 Przedbórz
+
+#Centrum
+
+Auto Centrum. Sprzedaż części samochodowych
+Trytwa 6
+97-570 Przedbórz
+
+ABC Centrum
+Mostowa 12
+97-570 Przedbórz
+
+Liceum Ogólnokształcące dla Dorosłych Oddziału Terenowego Centrum Kształcenia Zawodowego
+Częstochowska 54
+97-570 Przedbórz
+
+Centrum Rozrywki Dla Dzieci Małpi Gaj
+Mostowa 1
+97-570 Przedbórz
+
+Agrotop A. Radziwołek
+Mostowa 33
+97-570 Przedbórz
+
+Powiatowy Urząd Pracy w Radomsku Filia w Przedborzu
+Pocztowa 30
+97-570 Przedbórz
+
+AUTORYZOWANA STACJA OBSŁUGI SAMOCHODÓW EUGENIUSZ KLAUS
+Radomszczańska 72
+97-570 Przedbórz
+
+Paweł Sobczyk, Autoryzowany Diler Husqvarna
+Częstochowska 49
+97-570 Przedbórz
+
+Ośrodek Zdrowia
+Radomszczańska 7
+97-570 Przedbórz
+
+======================================================================
+97-570 WOLA PRZEDBORSKA
+
+#Dom kultury
+
+Dworek nad Stawami
+Wola Przedborska 8
+97-570 Wola Przedborska
+
+#PZU
+
+FELCAR Wulkanizacja Wymiana opon Dobry wulkanizator Sprzedaż felg opon Koła dojazdowe
+Wola Przedborska 52
+97-570 Przedbórz
+
+NIEZRZESZONA - Wola Przedborska
+drodze nr 742 12/Przy
+97-570 Wola Przedborska
+
+Propgaz
+Wola Przedborska 4B
+97-570 Wola Przedborska
+
+======================================================================
+PILCZYNA
+
+======================================================================
+29-120 STANOWISKA
+
+======================================================================
+29-120 JEŻOWIEC
+
+======================================================================
+58-170 DOBROMIERZ
+
+#Urząd
+
+Urząd Gminy
+Plac Wolności 24
+58-170 Dobromierz
+
+#Ośrodek
+
+Gminny Ośrodek Kultury, Sportu i Rekreacji
+plac Wolności 19
+58-170 Dobromierz
+
+#Szkoła
+
+Szkoła Podstawowa im. Jana Brzechwy
+Podgórna 2
+58-170 Dobromierz
+
+#Poczta
+
+Poczta Polska
+plac Wolności 6
+58-170 Dobromierz
+
+Krzyż Milenijny Dobromierz
+Bolesława Chrobrego 18
+58-170 Dobromierz
+
+Kościół Świętych Piotra i Pawła w Dobromierzu
+Kościelna
+58-170 Dobromierz
+
+======================================================================
+29-120 RĄCZKI
+
+#Centrum
+
+Stajnia Rączki - Gospodarstwo Agroturystyczne
+Rączki 15A
+29-120 Rączki
+
+======================================================================
+97-570 POLICZKO
+
+======================================================================
+29-120 JANUSZEWICE
+
+#Szkoła
+
+Plac zabaw w Januszewicach
+29-120 Januszewice
+
+#Poczta
+
+Kościół Rzymskokatolicki Pw. Podwyższenia Krzyża Świętego
+Januszewice 57
+29-120 Januszewice
+
+======================================================================
+97-570 GÓRY SUCHE
+
+======================================================================
+97-570 GÓRY MOKRE
+
+#Urząd
+
+Poczta Polska
+Góry Mokre 95C
+97-570 Góry Mokre
+
+#Szkoła
+
+Szkoła Podstawowa im. M. Konopnickiej
+94a
+97-570 Góry Mokre
+
+#Szpital
+
+mgr Piotr Moneta, fizjoterapeuta dziecięcy
+Góry Mokre 96
+97-570 Góry Mokre
+
+Dyskoteka X-CLUB
+Góry Mokre 112
+97-570 Góry Mokre
+
+#Produkcja
+
+Almar
+Góry Mokre 115
+97-570 Góry Mokre
+
+#PZU
+
+E-GM Usługi Informatyczne Paweł Nowicki
+Góry Mokre 43
+97-570 Przedbórz
+
+======================================================================
+26-260 CZERMNO
+
+#Szpital
+
+MARLLA-MED Centrum Zdrowia i Rehabilitacji
+Osnowa 99A
+26-260 Czermno
+
+#Bank
+
+Poczta Polska
+Kolejowa 62
+26-260 Czermno
+
+Heko Zakład tworzyw sztucznych i wyrobów różnych
+Osnowa 61
+26-260 Czermno
+
+HEKO - Z.T.Sz. i W.R. - Henryk Konieczny
+Osnowa 61
+26-260 Czermno
+
+Punkt Apteczny
+Kościelna 105
+26-260 Czermno
+
+======================================================================
+97-570 ŻELEŹNICA
+
+======================================================================
+26-260 SKÓRNICE
+
+#Spółka
+
+G.M.B.T. Magnus Sp. Z o.o.
+Julianowska 14
+26-260 Skórnice
+
+======================================================================
+26-234 RUDA PILCZYCKA
+
+#Ośrodek
+
+AMPRO SP.ZO.O.
+Ruda Pilczycka 23
+26-234 Ruda Pilczycka
+
+#Bank
+
+Sprzedaż pelletu
+Ruda Pilczycka 64a
+26-234 Ruda Pilczycka
+
+#Poczta
+
+Leśnictwo Ruda Pilczycka. Nadleśnictwo Ruda Maleniecka
+26-234 Ruda Pilczycka
+
+Sołtys
+Ruda Pilczycka 47
+26-234 Ruda Pilczycka
+
+Lis Stanisław. Sklep spożywczo - przemysłowy
+Ruda Pilczycka 12
+26-234 Ruda Pilczycka
+
+Ruda Pilczycka 64a
+Ruda Pilczycka 64a
+26-234 Ruda Pilczycka
+
+======================================================================
+26-260 BUDY
+
+======================================================================
+29-120 PILCZYCA
+
+#Szkoła
+
+Szkoła Podstawowa
+Pilczyca-Kolonia 26-234
+29-120 Pilczyca
+
+#Produkcja
+
+CONECT
+Pilczyca 3
+29-120 Pilczyca
+
+======================================================================
+26-234 SKĄPE
+
+======================================================================
+26-260 WOLA SZKUCKA
+
+#Bank
+
+Grian Meble
+Wola Szkucka 38
+26-260 Wola Szkucka
+
+======================================================================
+26-070 LASOCIN
+
+======================================================================
+26-242 SZKUCIN
+
+#Poczta
+
+Leśnictwo Szkucin
+26-242 Szkucin
+
+Rezerwat przyrody Piekiełko Szkuckie
+Szkucin 58
+26-242 Szkucin
+
+======================================================================
+26-234 RADWANÓW
+
+======================================================================
+26-242 LIPA
+
+======================================================================
+26-234 MNIN
+
+#Zakład
+
+Zakład Handlu i Usług Józef Skrobisz
+Przedborska 20
+26-234 Mnin
+
+#Poczta
+
+Poczta Polska
+Przedborska 20
+26-234 Mnin
+
+======================================================================
+26-230 JAKIMOWICE
+
+======================================================================
+26-242 MŁOTKOWICE
+
+#Poczta
+
+Sokoleoko
+Młotkowice 21
+26-242 Młotkowice
+
+Kapliczka św. Jana Nepomucena w Młotkowicach
+Młotkowice 26B
+26-242 Młotkowice
+
+======================================================================
+26-070 PRZEGRODY
+
+======================================================================
+26-230 WILCZKOWICE
+
+#Szkoła
+
+Szkoła Podstawowa
+Wilczkowice 34
+26-230 Wilczkowice
+
+#Biblioteka
+
+Biblioteka Publiczna Gminna. Filia
+26-230 Wilczkowice
+
+#Bank
+
+"Intagrol" Jacek Zbroszczyk
+Wilczkowice 55
+26-230 Wilczkowice
+
+#Poczta
+
+Kosciół rzymskokatolicki pw. św. Maksymiliana Kolbe w Wilczkowicach
+Wiczkowiece 35
+26-200 Wilczkowice
+
+Agro-Handel J. Zbroszczyk / Części do maszyn rolniczych
+Wilczkowice 55
+26-230 Wilczkowice
+
+======================================================================
+26-242 RUDA MALENIECKA
+
+#Urząd
+
+Urząd Gminy
+Ruda Maleniecka 99a
+26-242 Ruda Maleniecka
+
+#Ośrodek
+
+Publiczny Zakład Opieki Zdrowotnej
+Ruda Maleniecka 99a
+26-242 Ruda Maleniecka
+
+#Dom kultury
+
+OSK Szustak
+Ruda Maleniecka 114
+26-242 Ruda Maleniecka
+
+#Biblioteka
+
+Biblioteka Publiczna
+DK42 98
+26-242 Ruda Maleniecka
+
+#Bank
+
+Bank Spółdzielczy. Oddział
+Ruda Maleniecka 114
+26-242 Ruda Maleniecka
+
+#Klub
+
+IZBA TRADYCJI
+Ruda Maleniecka 122
+26-242 Ruda Maleniecka
+
+#Poczta
+
+Urząd Pocztowy - Ruda Maleniecka
+Ruda Maleniecka 99A
+26-242 Ruda Maleniecka
+
+Poczta Polska
+26-242 Ruda Maleniecka
+
+Kościół Rzymskokatolicki pw. Zwiastowania NMP
+Ruda Maleniecka 114A
+26-242 Ruda Maleniecka
+
+"Senne Marzenie"
+26-242 Ruda Maleniecka
+
+#PZU
+
+Livio
+Ruda Maleniecka 48
+26-242 Ruda Maleniecka
+
+Zespół Publicznych Placówek Oświatowych
+26-242 Ruda Maleniecka
+
+Kamyk
+Ruda Maleniecka 118
+26-242 Ruda Maleniecka
+
+Gospodarstwo rybackie "Ruda Maleniecka" s.c. Produkcja materiału zarybieniowego
+Ruda Maleniecka 123
+26-242 Ruda Maleniecka
+
+======================================================================
+26-230 PAKUŁY
+
+======================================================================
+26-230 ZYCHY
+
+#Szkoła
+
+Gajówka w Zychach
+26-230 Zychy
+
+======================================================================
+26-230 RADOSZYCE
+
+#Urząd
+
+Urząd Miasta i Gminy w Radoszycach
+Żeromskiego 28
+26-230 Radoszyce
+
+#Ośrodek
+
+Publiczny Zakład Opieki Zdrowotnej w Radoszycach
+Mickiewicza 5
+26-230 Radoszyce
+
+#Szkoła
+
+Szkoła Podstawowa nr 1 w Radoszycach
+Kościuszki 20
+26-230 Radoszyce
+
+Szkoła Podstawowa
+Szkolna 1
+26-230 Radoszyce
+
+Szkoła Podstawowa W Radoszycach
+Szkolna 1
+26-230 Radoszyce
+
+#Przedszkole
+
+Samorządowe Przedszkole w Radoszycach
+Sportowa 1A
+26-230 Radoszyce
+
+#Bank
+
+Bank Spółdzielczy w Końskich Oddział w Radoszycach
+1 Maja 2
+26-230 Radoszyce
+
+Agencja PKO Banku Polskiego
+Krakowska 6
+26-230 Radoszyce
+
+Urząd Pocztowy Radoszyce
+Żeromskiego 28
+26-230 Radoszyce
+
+#Produkcja
+
+CERADBUD Sp.j.
+Mickiewicza 22
+26-230 Radoszyce
+
+#Zakłady
+
+Foto Video Studio
+Ogrodowa ul.Ogrodowa17
+26-230 Radoszyce
+
+Zakład usług leśnych Andrzej Zieliński
+Jana Pawła II 36
+26-230 Radoszyce
+
+Zakład fryzjerski
+26-230 Radoszyce; Krakowska 25
+
+Komunalny Zakład Gospodarczy W Radoszycach
+Leśna 29
+26-230 Radoszyce
+
+Centrum Pogrzebowe Okręgliccy
+Krakowska 12
+26-230 Radoszyce
+
+FHU REMAR Renata Bugara
+Spółdzielcza 32
+26-230 Radoszyce
+
+ZEORK SA. Rejonowy Zakład Energetyczny Końskie. Posterunek energetyczny
+26-230 Radoszyce; Zachodnia 1
+
+#Klub
+
+Partyzant Radoszyce
+Krakowska 146
+26-230 Radoszyce
+
+#PZU
+
+Prime Sandra Gad Filia Radoszyce
+Krakowska 20
+26-230 Radoszyce
+
+CUW Radoszyce
+26-230 Radoszyce
+Ogrodowa
+
+#muzeum
+
+Kirkut Radoszyce
+26-230 Radoszyce
+
+======================================================================
+26-230 PLENNA
+
+#Koło
+
+Mit. Przedsiębiorstwo produkcyjno - usługowo - handlowe. Michalski M.
+26-230 Plenna; 20b
+
+#Firma
+
+Handel Obwoźny Wanda Chwaścińska
+Plenna 22
+26-230 Plenna
+
+#Poczta
+
+Usługi wulkanizacyjne Dariusz Piątek
+Plenna 26
+26-230 Plenna
+
+======================================================================
+42-230 ZARÓG
+
+======================================================================
+29-100 SILPIA DUŻA
+
+======================================================================
+29-145 SECEMIN
+
+#Urząd
+
+Urząd Gminy Secemin
+Struga 2
+29-145 Secemin
+
+#Ośrodek
+
+Euro-Med. NZOZ. Przychodnia lekarska
+Koniecpolska 7a
+29-145 Secemin
+
+#Przedszkole
+
+Publiczne Przedszkole
+Koniecpolska 2a
+29-145 Secemin
+
+#Biblioteka
+
+Biblioteka Publiczna Gminna
+29-145 Secemin
+
+#Bank
+
+Bank Spółdzielczy w Koniecpolu O. w Seceminie
+plac Wolności 15
+29-145 Secemin
+
+#Zakład
+
+Zakład Ślusarsko-Spawalniczy Stanisław Wydrych
+DW786
+29-145 Secemin
+
+#Poczta
+
+Poczta Polska
+plac Wolności 14
+29-145 Secemin
+
+#Centrum
+
+Delikatesy Centrum
+Koniecpolska 9
+29-145 Secemin
+
+======================================================================
+29-120 DĄBROWY
+
+======================================================================
+29-145 ŻELISŁAWICE
+
+#Szkoła
+
+Zespół Szkolno - Przedszkolny
+13
+29-145 Żelisławice
+
+#Klub
+
+Hangar Club
+Żelisławice
+Żelisławiczki 54
+29-145 Żelisławiczki
+
+#Poczta
+
+Ochotnicza Straż Pożarna
+Żelisławice 38
+29-145 Żelisławice
+
+======================================================================
+29-145 BICHNIÓW
+
+#Poczta
+
+Kaplica rzymsko-katolicka pw. Matki Bożej Nieustającej Pomocy
+29-145 Bichniów
+
+======================================================================
+29-145 ROPOCICE
+
+======================================================================
+29-145 MINY
+
+#Fabryka
+
+H+H Żelisławice
+Miny 22
+29-145 Miny
+
+======================================================================
+29-100 KURZELÓW
+
+#Dom kultury
+
+Dom Kultury
+Kielecka 11
+29-100 Kurzelów
+
+#Szkoła
+
+Zespół Placówek Oświatowych w Kurzelowie
+Jana Brożka 7
+29-100 Kurzelów
+
+#Przedszkole
+
+Przedszkole Samorządowe
+7a
+Jana Brożka 7
+29-100 Kurzelów
+
+#Zakład
+
+Bugajny Krzysztof. Zakład blacharsko - lakierniczy
+29-100 Kurzelów; Okrzei 10
+29-100
+
+#Poczta
+
+ZUS Biuro Terenowe we Włoszczowie
+Jana Brożka 3
+29-100 Kurzelów
+
+Ochotnicza Straż Pożarna
+Kielecka 20
+29-100 Kurzelów
+
+Poczta Polska
+1 Maja 17
+29-100 Kurzelów
+
+======================================================================
+29-135 BAŁKÓW
+
+#Poczta
+
+Leśnictwo Bałków. Nadleśnictwo Koniecpol
+29-135 Bałków
+
+======================================================================
+29-145 KRZEPIN
+
+======================================================================
+29-100 DANKÓW DUŻY
+
+#Produkcja
+
+Sad-Danków. Produkcja marmolad, dżemów, śliwek suszonych
+29-100 Danków Duży; 54
+29-100
+
+#Klub
+
+Klubik Nocka Dla Kobietttttt
+26-021
+Danków 1B
+29-100 Danków Duży
+
+======================================================================
+29-100 KĄTY
+
+#Klub
+
+Sebur. Sprzedaż hurtowa i detaliczna wyrobów hutniczych
+34
+29-100 Kąty
+
+======================================================================
+29-100 KUZKI
+
+#Produkcja
+
+Strunobet
+29-100 Kuzki; 14a
+29-100
+
+======================================================================
+29-100 WŁOSZCZOWA
+
+#Urząd
+
+Urząd Gminy
+Partyzantów 14
+29-100 Włoszczowa
+
+Powiatowy Urząd Pracy
+Strażacka 11
+29-100 Włoszczowa
+
+Straż Ochrony Kolei. Posterunek Włoszczowa
+Śląska 6
+29-100 Włoszczowa
+
+Agencja Restrukturyzacji i Modernizacji Rolnictwa. Świętokrzyski Oddział Regionalny. Biuro powiatowe
+Wiśniowa 23
+29-100 Włoszczowa
+
+Powiatowy Inspektorat Weterynarii
+Żwirki 2
+29-100 Włoszczowa
+
+Leśnictwo Konieczno. Nadleśnictwo Włoszczowa
+29-100 Nieznanowice; 1a
+29-100
+
+Leśnictwo Podlipie. Nadleśnictwo Włoszczowa
+Jędrzejowska 131
+29-100 Włoszczowa
+
+ZUS Włoszczowa
+Brożka 3
+Brożka 3
+29-100 Włoszczowa
+
+#Dom kultury
+
+Dom Kultury
+Wiśniowa 19
+29-100 Włoszczowa
+
+#Szkoła
+
+ZSP nr 2 Im. Hetmana Stefana Czarnieckiego
+Koniecpolska 40
+29-100 Włoszczowa
+
+Zespół Szkół Ponadgimnazjalnych nr 3 im. S. Staszica
+Wiśniowa 23
+29-100 Włoszczowa
+
+Zespół Placówek Oświatowych nr 1
+Partyzantów 24
+29-100 Włoszczowa
+
+Zespół Placówek Oświatowych nr 2
+Różana 16
+29-100 Włoszczowa
+
+ZdZ
+Młynarska 56
+29-100 Włoszczowa
+
+Szkoła Podstawowa nr 1 im. J. Piłsudskiego
+Partyzantów 24
+29-100 Włoszczowa
+
+Szkoła Podstawowa nr 1 im. J. Piłsudskiego. Filia
+Wiśniowa 8
+29-100 Włoszczowa
+
+Zasadnicza Szkoła Zawodowa
+Wiśniowa 23
+29-100 Włoszczowa
+
+Nova
+Henryka Sienkiewicza 44
+29-100 Włoszczowa
+
+Zespół Obsługi Ekonomiczno - Administracyjnej Szkół i Przedszkoli
+Partyzantów 14
+29-100 Włoszczowa
+
+Sayes Centrum Językowe
+plac Wolności 35
+29-100 Włoszczowa
+
+Szkoła językowa English 4 You!
+Wiśniowa 12
+29-100 Włoszczowa
+
+Staszic 4 Life
+Wiśniowa 23
+29-100 Włoszczowa
+
+Auto-Szkoła. Ośrodek szkolenia kierowców. Wasik M.
+Kościuszki 12
+29-100 Włoszczowa
+
+Markus. Ośrodek szkolenia kierowców. Filia
+Jędrzejowska 13
+29-100 Włoszczowa
+
+L.A. Language Academy & Klub Urwisa
+Żwirki 40
+29-100 Włoszczowa
+
+Zespół Szkół Niepublicznych
+Młynarska 56
+29-100 Włoszczowa
+
+English Helps
+Partyzantów 154A
+29-100 Włoszczowa
+
+Liceum Ogólnokształcące nr I im. gen. W. Sikorskiego
+Wiśniowa 12
+29-100 Włoszczowa
+
+#Przedszkole
+
+Przedszkole Nr 2 Samorządowe
+osiedle Brożka 14
+29-100 Włoszczowa
+
+Przedszkole nr 3 Samorządowe
+Partyzantów 102
+29-100 Włoszczowa
+
+Samorządowy Żłobek we Włoszczowie
+Różana 18
+29-100 Włoszczowa
+
+#Politechnika
+
+Starostwo Powiatowe
+Wiśniowa 10
+29-100 Włoszczowa
+
+#Przychodnia
+
+Przychodnia (Niepubliczny Zakład Opieki Zdrowotnej Nowe Życie we Włoszczowie)
+Mleczarska 11
+29-100 Włoszczowa
+
+#Bank
+
+Bank Spółdzielczy
+Partyzantów 5
+29-100 Włoszczowa
+
+Włoszczowa Oddział Partnerski Santander Consumer Bank
+plac Wolności 32
+29-100 Włoszczowa
+
+Bank Spółdzielczy
+Jana III Sobieskiego 2
+29-100 Włoszczowa
+
+PKO Bank Polski S.A.-Oddział 1 we Włoszczowie
+Henryka Sienkiewicza 32
+29-100 Włoszczowa
+
+Alior Bank - Placówka Partnerska
+Czarnieckiego 5
+29-100 Włoszczowa
+
+BNP Paribas Bank Polska S.A. Oddział we Włoszczowie
+Żwirki 40
+29-100 Włoszczowa
+
+Getin Noble Bank S.A. Placówka partnerska
+Partyzantów 4
+29-100 Włoszczowa
+
+Credit Agricole Bank Polska S.A. - Placówka CA Express
+Żwirki 6
+29-100 Włoszczowa
+
+Punkt sprzedaży Plusa i Cyfrowego Polsatu
+ul
+plac Wolności 9
+29-100 Włoszczowa
+
+BPS Włoszczowa (ATM)
+ul. Wiśniowa
+29-100 Włoszczowa
+Żeromskiego
+29-100 Włoszczowa
+
+LuCasco Ubezpieczenia i Finanse
+Henryka Sienkiewicza 58A
+29-100 Włoszczowa
+
+Profesja
+Henryka Sienkiewicza 25
+29-100 Włoszczowa
+
+Bank Polskiej Spóldzielczosci S.A. Bankomat
+Partyzantów 5
+29-100 Włoszczowa
+
+POŚREDNICTWO FINANSOWE ILONA KUSA
+plac Wolności 9
+29-100 Włoszczowa
+
+PKO Bank Polski S.A.- Bankomat
+Partyzantów 7
+29-100 Włoszczowa
+
+LOOMBARD WŁOSZCZOWA Skup i Sprzedaż
+Henryka Sienkiewicza 4
+29-100 Włoszczowa
+
+Bankomat Santander Bank Polska S.A.
+Partyzantów 48
+29-100 Włoszczowa
+
+KANTOR WYMIANY WALUT Tomasz Cudzik
+Wesoła 5
+29-100 Włoszczowa
+
+Bankomat BPS przy sklepie "Biedronka"
+Wiśniowa
+29-100 Włoszczowa
+
+#Oddział
+
+Szpital Powiatowy we Włoszczowie
+Żeromskiego 28
+29-100 Włoszczowa
+
+#Policja
+
+Komenda Powiatowa Policji
+Świeża 18
+29-100 Włoszczowa
+
+#Prokuratura
+
+Prokuratura Rejonowa we Włoszczowie
+Kusocińskiego 11
+29-100 Włoszczowa
+
+#Sąd
+
+Sąd Rejonowy
+Kusocińskiego 11
+29-100 Włoszczowa
+
+#Przedsiębiorstwo
+
+Przedsiębiorstwo Gospodarki Komunalnej i Mieszkaniowej Sp. z o.o.
+Henryka Sienkiewicza 31
+29-100 Włoszczowa
+
+#Produkcja
+
+ZPUE S.A.
+Jędrzejowska 79 C
+29-100 Włoszczowa
+
+Okna i Drzwi - Stolbud Włoszczowa S.A.
+Jędrzejowska 74
+29-100 Włoszczowa
+
+Przedsiębiorstwo BELLIS, toczenie, tworzywa sztuczne, przyłącza wod - kan, instalacje gazowe
+Dworcowa 33
+29-100 Włoszczowa
+
+Skiepko
+Kolejowa 33
+29-100 Włoszczowa
+
+PHU AGMAR
+Henryka Sienkiewicza 16
+29-100 Włoszczowa
+
+Stol s.c. Produkcja i usługi stolarskie. Nietypowe na zamówienie
+Jędrzejowska 81
+29-100 Włoszczowa
+
+DOROZ Hurtownia Instalacyjna - oddział Włoszczowa
+Słowackiego 20
+29-100 Włoszczowa
+
+Stolmeb. Meble na zamówienie
+Henryka Sienkiewicza 69
+29-100 Włoszczowa
+
+#Zakłady
+
+Pięta Michał. Zakład Elektryczny
+os. Brożka 24/1
+29-100 Włoszczowa
+
+Zakład produkcyjny PROMMAX
+Jędrzejowska 116
+29-100 Włoszczowa
+
+Zakład Produkcyjno Usługowo Handlowy MAR-STEEL
+Młynarska 26
+29-100 Włoszczowa
+
+Usługi Pogrzebowe Wodzisławscy Włoszczowa, firma pogrzebowa
+Kilińskiego 36
+29-100 Włoszczowa
+
+Włoszczowski Zakład Wodociągów I Kanalizacji Sp. Z O.o.
+Wiejska 55
+29-100 Włoszczowa
+
+Zakład Usług Energetycznych ELTAL Tomasz Lis
+Brożka 27
+29-100 Włoszczowa
+
+Newrol. Zakład handlowo - transportowy. Nowak K.
+Jana III Sobieskiego 5
+29-100 Włoszczowa
+
+Przedsiębiorstwo Gospodarki Komunalnej i Mieszkaniowej. Zakład Usług Komunalnych i Transportu. Zakład gazowniczy
+Reja 10
+29-100 Włoszczowa
+
+Zakład Optyczny
+plac Wolności 3
+29-100 Włoszczowa
+
+ANGEL
+Wschodnia 2
+29-100 Włoszczowa
+
+Zakład fryzjerski
+plac Wolności 32
+29-100 Włoszczowa
+
+Orlikowski Romuald. Zakład ślusarski
+Jana III Sobieskiego 39
+29-100 Włoszczowa
+
+Czerwiński Leszek. Zakład usług gastronomicznych
+29-100 Włoszczowa; os. Broniewskiego 20
+
+Ochocki Józef. Zakład piekarniczy we Włoszczowie
+Młynarska 60
+29-100 Włoszczowa
+
+Centrum pogrzebowe Wodzisławscy
+Młynarska 39
+29-100 Włoszczowa
+
+Zakład Budowlano-Betoniarski KAMAR
+Rolnicza 4
+29-100 Włoszczowa
+
+Media Passion
+Tęczowa 31
+29-100 Włoszczowa
+
+#Grupa
+
+Region Włoszczowski. Lokalna Grupa Działania
+Wiśniowa 23
+29-100 Włoszczowa
+
+#Spółdzielnia
+
+Lokator. Spółdzielnia Mieszkaniowa
+osiedle Broniewskiego 14
+29-100 Włoszczowa
+
+#Klub
+
+Klub Sportowy HETMAN Włoszczowa
+Wiśniowa 2
+29-100 Włoszczowa
+
+DEKO
+ks. bpa Jaworskiego 26
+29-100 Włoszczowa
+
+#Towarzystwo
+
+Włoszczowskie Stowarzyszenie Opieki Paliatywnej WSOP
+Mleczarska 11
+29-100 Włoszczowa
+
+#Fundacja
+
+Fundacja Centrum Edukacji dla Rozwoju
+Partyzantów 14/44
+29-100 Włoszczowa
+
+Fundacja I Liceum Ogólnokształcącego im. gen. Władysława Sikorskiego
+Wiśniowa 12
+29-100 Włoszczowa
+
+Fundacja Jesteśmy Blisko
+Jędrzejowska 79C
+29-100 Włoszczowa
+
+#Poczta
+
+Poczta Polska
+Kościuszki 13
+29-100 Włoszczowa
+
+Poczta Polska
+ul.Janusza Kusocińskiego 9
+29-100 Włoszczowa
+
+Kurier EPAKA - Przesyłki kurierskie Włoszczowa
+Tarchalskiego 2
+29-100 Włoszczowa
+
+Paczkomat InPost
+Reja 5
+29-100 Włoszczowa
+
+Paczkomat InPost
+Zielona 8B
+29-100 Włoszczowa
+
+Nadleśnictwo Włoszczowa
+Kolejowa 23
+29-100 Włoszczowa
+
+Kościół Wniebowzięcia NMP
+Partyzantów 3
+29-100 Włoszczowa
+
+Kaplica Rzymskokatolicka pw. Wszystkich Świętych
+Partyzantów
+29-100 Włoszczowa
+
+Wspólnota Miriam
+Partyzantów 1
+29-100 Włoszczowa
+
+Kościół Jezusa Chrystusa
+Przedborska 16-30
+29-100 Włoszczowa
+
+Dom Pogrzebowy Wodzisławscy, usługi pogrzebowe Włoszczowa
+Młynarska 72
+29-100 Włoszczowa
+
+UPS Access Point
+Kościuszki 3
+29-100 Włoszczowa
+
+Kościół Chrześcijan Wiary Ewangelicznej
+Pocztowa 6
+29-100 Włoszczowa
+
+#ZUS
+
+Zus Biuro Terenowe We Włoszczowie
+Henryka Sienkiewicza 32
+29-100 Włoszczowa
+
+#ZNP
+
+Związek Nauczycielstwa Polskiego
+Wiśniowa 10
+29-100 Włoszczowa
+
+#PZU
+
+Oddział PZU
+Partyzantów 48
+29-100 Włoszczowa
+
+#Centrum
+
+Powiatowe Centrum Kulturalno - Rekreacyjne
+Koniecpolska 42
+29-100 Włoszczowa
+
+Delikatesy Centrum
+Reja 5
+29-100 Włoszczowa
+
+Powiatowe Centrum Pomocy Rodzinie
+Wiśniowa 10
+29-100 Włoszczowa
+
+Now-dom. FH
+Mickiewicza 14
+29-100 Włoszczowa
+
+hurtownia elektryczna ELEKTRIM R.Bujak
+Kilińskiego
+29-100 Włoszczowa
+
+Affidea Włoszczowa
+Żeromskiego 28
+29-100 Włoszczowa
+
+CKWB Centrum Kompleksowego Wsparcia Biznesu Beata Kącka
+Jędrzejowska 79D
+29-100 Włoszczowa
+
+Sklep ogrodniczo - przemysłowy
+Henryka Sienkiewicza 15
+29-100 Włoszczowa
+
+Ośrodek Sportu i Rekreacji we Włoszczowie
+Wiśniowa 43
+29-100 Włoszczowa
+
+Agro-Ogród
+Młynarska 8
+29-100 Włoszczowa
+
+Powiatowe Centrum Zarządzania Kryzysowego
+Wiśniowa 10
+29-100 Włoszczowa
+
+F.H. K.E.Sz
+Partyzantów 11
+29-100 Włoszczowa
+
+Tesco
+plac Wolności 1
+29-100 Włoszczowa
+
+Świętokrzyskie Centrum Ratownictwa Medycznego i Transportu Sanitarnego. Oddział
+Młynarska 3
+29-100 Włoszczowa
+
+Regmat. Centrum pokryć dachowych
+Partyzantów 122
+29-100 Włoszczowa
+
+======================================================================
+29-100 MOTYCZNO
+
+======================================================================
+29-100 BEBELNO - WIEŚ
+
+======================================================================
+29-135 RADKÓW
+
+#Urząd
+
+Urzad Miasta i Gminy
+Radków 99
+29-135 Radków
+
+#Szkoła
+
+Szkoła Podstawowa
+Radków 88
+29-135 Radków
+
+#Politechnika
+
+Urząd Stanu Cywilnego
+Radków; 99
+29-135
+
+#Biblioteka
+
+Biblioteka Publiczna Gminna
+Radków 99
+29-135 Radków
+
+#Bank
+
+Bank Polskiej Spółdzielczości S.A. Bankomat
+29-135 Radków
+
+#Koło
+
+29-135
+Dzierzgów
+Kossów
+Chycza
+Krasów
+Kwilina
+Skociszewy
+Sulików
+Bałków
+Radków
+
+#Centrum
+
+Delikatesy Centrum (Delikatesy Centrum Radków)
+Radków 100a
+29-135 Radków
+
+======================================================================
+29-100 NIEZNANOWICE
+
+#Agencja
+
+emesz.pl Michał Szafrański
+Nieznanowice 15
+29-100 Nieznanowice
+
+======================================================================
+29-100 KONIECZNO
+
+#Przedszkole
+
+Przedszkole Samorządowe
+29-100 Konieczno; 162
+29-100
+
+#Uniwersytet
+
+Zespół Placówek Oświatowych
+29-100 Konieczno; 80
+29-100
+
+#Biblioteka
+
+Biblioteka Publiczna, Filia nr 5 w Koniecznie
+〒29-100 Konieczno
+コニエチュノ
+
+#Szpital
+
+Rolnicza Spółdzielnia Produkcyjna
+29-100 Konieczno; 166c
+29-100
+
+Konieczno. Przerób i sprzedaż drewna. Kozioł M.
+166d
+コニエチュノ 29-100 Konieczno
+
+#Bank
+
+Bank Spółdzielczy we Włoszczowie. Punkt kasowy
+29-100 Konieczno
+
+Ochotnicza Straż Pożarna
+〒29-100 Konieczno
+コニエチュノ
+
+#Firma
+
+Rokita Transport
+Konieczno 166E
+29-100 Konieczno
+
+#PZU
+
+Marboj. Przetwórstwo mięsa
+Konieczno 12
+29-100 Konieczno
+
+Elbet
+Konieczno 3A
+29-100 Włoszczowa
+
+#Centrum
+
+Ośrodek Zdrowia Caritas Diecezji Kieleckiej
+29-100 Konieczno; 129a
+29-100
+
+======================================================================
+29-105 CHOTÓW
+
+======================================================================
+29-100 OGARKA
+
+======================================================================
+29-100 RZĄBIEC
+
+======================================================================
+28-363 OKSA
+
+#Urząd
+
+Urząd Stanu Cywilnego
+Włoszczowska 22
+28-363 Oksa
+
+#Przedszkole
+
+Przedszkole Samorządowe
+Jędrzejowska 16
+28-363 Oksa
+
+#Biblioteka
+
+Biblioteka Publiczna Gminna
+28-363 Oksa
+
+#Szpital
+
+Zakład Podstawowej Opieki Zdrowotnej w Oksie
+Strażacka 7
+28-363 Oksa
+
+#Bank
+
+Bank Spółdzielczy w Kielcach. Oddział w Nagłowicach. Filia
+Włoszczowska 14
+28-363 Oksa
+
+#Produkcja
+
+Luxury Art Sp.z.o.o
+Modrzewiowa 20A
+28-363 Oksa
+
+#Poczta
+
+Poczta Polska
+ul
+Włoszczowska 14
+28-363 Oksa
+
+Remiza Strażacka
+Jędrzejowska 14
+28-363 Oksa
+
+#Centrum
+
+Delikatesy Centrum
+Ul
+Jędrzejowska 11A
+28-363 Oksa
+
+Ośrodek Sportu i Rekreacji
+28-363 Oksa
+
+Łowisko. Gospodarstwo Lasochów - Karp z Oksy
+28-363 Oksa
+
+======================================================================
+28-363 BŁOGOSZÓW
+
+======================================================================
+29-105 LUDYNIA
+
+#Szkoła
+
+Szkoła Podstawowa Im. Jana Pawła II
+Ludynia
+Czostków 83
+29-105 Czostków
+
+#Produkcja
+
+H+H Silikaty Sp. z o.o.
+29-105 Ludynia
+
+======================================================================
+29-105 KRASOCIN
+
+#Urząd
+
+Urząd Gminy Krasocin
+Macierzy Szkolnej 1
+29-105 Krasocin
+
+#Szkoła
+
+Zespół Obsługi Placówek Oświatowych
+Macierzy Szkolnej 1
+29-105 Krasocin
+
+#Biblioteka
+
+Gminna Biblioteka Publiczna w Krasocinie
+29-105 Krasocin
+
+#Szpital
+
+Gminny Ośrodek Zdrowia w Krasocinie
+1 Maja 8
+29-105 Krasocin
+
+#Bank
+
+Bank Polskiej Spóldzielczosci S.A. Bankomat
+Wyzwolenia 16
+29-105 Krasocin
+
+Poczta Polska
+ul
+Macierzy Szkolnej 3
+29-105 Krasocin
+
+#Zakład
+
+Dachowski Z.J. Zakład usługowo - handlowy
+Wyzwolenia 19
+29-105 Krasocin
+
+#Centrum
+
+Delikatesy Centrum
+Macierzy Szkolnej 3
+29-105 Krasocin
+
+======================================================================
+29-105 ROGALÓW
+
+======================================================================
+29-105 STOJEWSKO
+
+#Poczta
+
+Kościół NMP Wspomożycielki Wiernych
+Stojewsko 23
+29-105 Stojewsko
+
+======================================================================
+29-105 CZOSTKÓW
+
+#Szkoła
+
+Szkoła Podstawowa
+86
+29-105 Czostków
+
+======================================================================
+28-366 KOZŁÓW
+
+#Szkoła
+
+Szkoła Podstawowa
+Kozłów 182
+28-366 Kozłów
+
+Przedszkole Publiczne Kozłów
+Kozłów 1
+28-366 Kozłów
+
+#Poczta
+
+Kaplica Cmentarna
+30
+Kozłów 28-366
+32-241 Kozłów
+
+Kościół pw. Narodzenia NMP
+28-366 Kozłów
+
+Kozłów Park
+Kozłów 89
+28-366 Kozłów
+
+Biuro Usług Projektowych Mirosław Machnik
+Kozłów 184
+28-366 Kozłów
+
+======================================================================
+28-363 WĘGLESZYN
+
+#Szkoła
+
+Szkoła Podstawowa
+Węgleszyn 50a
+28-363 Węgleszyn
+
+#Poczta
+
+Ochotnicza Straż Pożarna w Węgleszynie
+Węgleszyn 84
+28-363 Węgleszyn
+
+Lech-Mar Leszek Malara
+Węgleszyn 31
+28-363 Węgleszyn
+
+======================================================================
+28-366 WIŚNICZ
+
+======================================================================
+29-105 MIECZYN
+
+#Szkoła
+
+Szkoła Podstawowa im. Prymasa Tysiąclecia w Mieczynie
+Mieczyn 8
+29-105 Mieczyn
+
+======================================================================
+29-105 BUKOWA
+
+#Placówka
+
+Zespół Placówek Oświatowych im. Jana Pawła II
+Szkolenia 8
+29-105 Bukowa
+
+#Bank
+
+Lhoist Bukowa
+Osiedlowa 10
+29-105 Bukowa
+
+#Poczta
+
+Poczta Polska
+Osiedlowa 25
+29-106 Bukowa
+
+Paczkomat InPost
+Kielecka 17
+29-105 Bukowa
+
+Kościół Matki Bożej Różańcowej w Bukowej
+Kielecka 20
+29-105 Bukowa
+
+======================================================================
+28-366 ŻARCZYCE DUŻE
+
+======================================================================
+28-366 ZŁOTNIKI Małogoszcz
+
+======================================================================
+28-366 MAŁOGOSZCZ
+
+#Urząd
+
+Urząd Miasta i Gminy
+Jaszowskiego 3a
+28-366 Małogoszcz
+
+#Dom kultury
+
+Dom Kultury
+11 Listopada 17
+28-366 Małogoszcz
+
+#Szkoła
+
+Szkoła Podstawowa
+11 Listopada 14B
+28-366 Małogoszcz
+
+#Przedszkole
+
+Przedszkole Publiczne
+Słoneczna 18
+28-366 Małogoszcz
+
+#Biblioteka
+
+Biblioteka Publiczna Miejsko - Gminna
+Jaszowskiego 3A
+28-366 Małogoszcz
+
+#Przychodnia
+
+Miejsko - Gminny Zespół Ośrodków Zdrowia
+Jaszowskiego 3
+28-366 Małogoszcz
+
+#Bank
+
+PKO Bank Polski S.A.-Oddział 1 w Małogoszczu
+plac Kościuszki 26
+28-366 Małogoszcz
+
+Bank Spółdzielczy w Kielcach. Oddział w Małogoszczu
+Jędrzejowska 12
+28-366 Małogoszcz
+
+Monetia Sp. z o.o. Agencja bankowa
+Chęcińska 21
+28-366 Małogoszcz
+
+Kantor wymiany walut
+plac Kościuszki 21
+28-366 Małogoszcz
+
+PKO Bank Polski S.A.- Bankomat
+plac Kościuszki 26
+28-366 Małogoszcz
+
+Planet Cash. Bankomat
+Chęcińska 78
+28-366 Małogoszcz
+
+#Zakłady
+
+ZURiP. Zakład Usług Remontowych i Produkcyjnych S.A.
+Warszawska 109
+28-366 Małogoszcz
+
+Zakład Gospodarki Komunalnej i Mieszkaniowej
+Osiedle Malogoszcz 1A
+28-366 Małogoszcz
+
+Golański Rafał. Studio fotowideo
+plac Kościuszki 1
+28-366 Małogoszcz
+
+Dom Pogrzebowy "JAROSZ"
+Jaszowskiego 8
+28-366 Małogoszcz
+
+ZUMIO Zakład Urządzeń Mechanicznych i Odpylających
+Chęcińska 74
+28-366 Małogoszcz
+
+Zakład Fryzjerski
+Chęcińska 26
+28-366 Małogoszcz
+
+Zakład optyczny
+Kościelna 3
+28-366 Małogoszcz
+
+Zakład Elektromechaniczny
+Chęcińska 44
+28-366 Małogoszcz
+
+Zakład fryzjerski
+Osiedle Malogoszcz 8
+28-366 Małogoszcz
+
+Piast Sp. z o.o. Zakład remontowo - budowlany
+Warszawska 109
+28-366 Małogoszcz
+
+Wrona Dorota. Zakład fryzjerski
+Warszawska 3
+28-366 Małogoszcz
+
+Polskie Koleje Państwowe. Zakład Przewozu Towarów. Stacja Towarowa
+plac Kościuszki 27a
+28-366 Małogoszcz
+
+#Klub
+
+Wierna Małogoszcz
+ul
+Włoszczowska
+28-366 Małogoszcz
+
+#Poczta
+
+Poczta Polska
+Jędrzejowska 10 A
+28-366 Małogoszcz
+
+UPS Access Point
+plac Kościuszki 5
+28-366 Małogoszcz
+
+Paczkomat InPost
+11 Listopada 17
+28-366 Małogoszcz
+
+InPost - Punkt Obsługi Paczek (POP)
+Chęcińska 21
+28-366 Małogoszcz
+
+Policja. Posterunek
+Osiedle Malogoszcz 1A
+28-366 Małogoszcz
+
+Ochotnicza Straż Pożarna
+Warszawska 1
+28-366 Małogoszcz
+
+Kościół Wniebowzięcia Najświętszej Maryi Panny w Małogoszczu
+Włoszczowska 1
+28-366 Małogoszcz
+
+Góra Krzyżowa
+28-366 Małogoszcz
+
+Rodzinny Dom Dziecka
+Chęcińska 17
+28-366 Małogoszcz
+
+#muzeum
+
+Izba Pamięci Ziemi Małogoskiej
+Warszawska 12
+28-366 Małogoszcz
+
+======================================================================
+42-240 RUDNIKI Rędziny
+
+======================================================================
+42-240 KONIN Rędziny
+
+======================================================================
+42-244 JASKRÓW Mstów
+
+======================================================================
+42-244 SROCKO Mstów
+
+======================================================================
+42-244 SIEDLEC Mstów
+
+======================================================================
+42-256 OLSZTYN
+
+#Urząd
+
+Urząd Gminy
+plac Marszałka Józefa Piłsudskiego 10
+42-256 Olsztyn
+
+#Ośrodek
+
+Gminny Ośrodek Sportu i Rekreacji
+Zielona 66
+42-256 Olsztyn
+
+Centrum Duchowości Archidiecezji Częstochowskiej Święta Puszcza Noclegi Baza Noclegowa
+Świętej Puszczy 6
+42-256 Olsztyn
+
+Gminny Ośrodek Kultury
+Pl. Piłsudskiego 15
+42-256 Olsztyn
+
+Jurajski Olsztyn - Restauracja, Noclegi, Imprezy okolicznościowe
+Karłowatej Sosny 4
+42-256 Olsztyn
+
+Przychodnia Zamkowa AMICUS
+Kühna 26
+42-256 Olsztyn
+
+#Szkoła
+
+Szkoła Podstawowa w Olsztynie
+42-256 Olsztyn; Kühna 18
+Szkolna
+42-256 Olsztyn
+
+#Przedszkole
+
+Gminne Przedszkole w Olsztynie
+Napoleona 22
+42-256 Olsztyn
+
+#Biblioteka
+
+Gminna Biblioteka Publiczna w Olsztynie
+Kühna 1
+42-256 Olsztyn
+
+#Przychodnia
+
+NZOZ Przychodnia Lekarska B. Malina
+Żwirki i Wigury 34
+42-256 Olsztyn
+
+#Bank
+
+Bank Spółdzielczy w Poczesnej filia w Olsztynie
+plac Marszałka Józefa Piłsudskiego 42-256
+11-041 Olsztyn
+
+Bank Polskiej Spółdzielczości S.A. Bankomat
+42-256 Olsztyn
+
+Zamek w Olsztynie
+Zamkowa 3
+42-256 Olsztyn
+
+#Policja
+
+Komisariat Policji w Olsztynie
+Karlińskiego 9
+42-256 Olsztyn
+
+#Klub
+
+Sokół Olsztyn
+Zielona 66
+42-256 Olsztyn
+
+#Koło
+
+42-256
+Biskupice
+Olsztyn
+Zrębice
+Kusięta
+Przymiłowice
+Krasawa
+WIĘCEJ
+
+#Poczta
+
+Poczta Polska
+plac Marszałka Józefa Piłsudskiego 10
+42-256 Olsztyn
+
+#muzeum
+
+Zamko
+Karłowatej Sosny 1
+42-256 Olsztyn
+
+Miejsce straceń - cmentarz
+42-256 Olsztyn
+
+Wójtówka - Chata na Zakolu
+42-256 Olsztyn
+
+Popiersie J. Piłsudskiego
+42-256 Olsztyn
+
+======================================================================
+42-256 KUSIĘTA
+
+#Ośrodek
+
+Szkoła Podstawowa
+Kusięta 208
+42-256 Kusięta
+
+======================================================================
+42-244 MSTÓW
+
+#Dom kultury
+
+Gminny Ośrodek Kultury
+Plac Mickiewicza 17
+42-244 Mstów
+
+#Szkoła
+
+Szkoła Podstawowa im.Tadeusza Kościuszki
+Partyzantów 5
+42-244 Mstów
+
+Szkoła Podstawowa w Mstowie
+42-200
+Mstów
+
+Szkoła podstawowa
+42-244 Mstów
+
+Gimnazjum im. A. Kubickiego
+Partyzantów 2
+42-244 Mstów
+
+#Fabryka
+
+PPHU Meble Wrzosowa. Fabryka Mebli Kuchennych
+Częstochowska 99
+42-244 Mstów
+
+#Poczta
+
+Poczta Polska
+ul
+16 Stycznia 14
+42-244 Mstów
+
+OSP Mstów
+Partyzantów 6
+42-244 Mstów
+
+Paczkomat InPost
+16 Stycznia 16
+42-244 Mstów
+
+Zespół klasztoru Kanoników Regularnych
+42-244 Mstów
+
+Urząd Pocztowy
+16 Stycznia 14
+42-244 Mstów
+
+#Centrum
+
+Ośrodek Zdrowia w Mstowie
+Wolności 58
+42-244 Mstów
+
+Betania. Ośrodek Rehabilitacyjno - Readaptacyjny dla Osób Uzależnionych
+Leśna 13
+42-244 Mstów
+
+Vena. Przychodnia Lekarska NZOZ
+Gminna 14
+42-244 Mstów
+
+======================================================================
+42-256 PRZYMIŁOWICE
+
+#Firma
+
+MAX-MONTER
+Piastowska 21
+42-256 Przymiłowice
+
+======================================================================
+42-270 WITKOWICE
+
+#Szkoła
+
+Zespół Szkół im. Jana Kochanowskiego w Witkowicach
+Częstochowska 22
+42-270 Witkowice
+
+======================================================================
+42-270 NIEZNANICE
+
+#Bank
+
+Pałac Nieznanice
+Sobieskiego 22a
+42-270 Nieznanice
+
+#Firma
+
+FIRMA TRANSPORTOWA 'MADA' JÓZEF CZECH
+Sobieskiego 109
+42-270 Nieznanice
+
+#PZU
+
+Ochotnicza Straż Pożarna w Nieznanicach
+Sobieskiego
+42-270 Nieznanice
+
+#Niepełnosprawnych
+
+ZME BAJPAX Sp z o.o. - Polski producent urządzeń dla niepełnosprawnych
+Mstowska 3
+42-270 Nieznanice
+
+======================================================================
+42-256 ZRĘBICE
+
+#Firma
+
+Arbud Arkadiusz Pala
+Główna 72
+42-256 Zrębice
+
+#Poczta
+
+OSP Zrebice
+Główna 139
+42-256 Zrębice
+
+======================================================================
+42-256 TURÓW
+
+#Szkoła
+
+Szkoła Podstawowa W Turowie
+Szkolna 12
+42-256 Turów
+
+#Bank
+
+Turów
+Olsztyńska 1
+42-256 Turów
+
+Biuro Rachunkowe Kluźniak COM
+Energetyków 3
+42-256 Turów
+
+Marol. Składy budowlano - opałowe
+Szkolna 14
+42-256 Turów
+
+Alex-Pol Alojzy Szczerba
+Turów
+ul.
+Akacjowa 5
+42-256 Olsztyn
+
+Wosana S.A. Zakład Produkcyjny
+Południowa 53
+42-256 Turów
+
+Lewiatan
+Olsztyńska 11
+42-256 Turów
+
+======================================================================
+42-244 MAŁUSY WIELKIE
+
+#Urząd
+
+OSP Małusy Wielkie
+Unnamed Road
+42-244
+
+#Szkoła
+
+Przedszkole
+Małusy Wielkie; 19
+42-244
+
+#Bank
+
+Dworski świątek
+Małusy Wielkie 19,
+42-244 Małusy Wielkie
+
+Lewiatan
+Małusy Wielkie 56
+42-244 Małusy Wielkie
+
+Horyzont Usługi Geodezyjne Konrad Czyż
+Małusy Wielkie 38
+42-244 Małusy Wielkie
+
+Horyzont Usługi Geodezyjne Konrad Czyż
+42-244 Małusy Wielkie
+
+======================================================================
+42-244 KOBYLCZYCE
+
+======================================================================
+42-270 SKRZYDŁÓW
+
+======================================================================
+42-270 RZERZĘCZYCE
+
+#Szkoła
+
+Zespół Szkół w Rzerzęczycach
+Skrzydlowska 91
+42-270 Rzerzęczyce
+
+#Przedszkole
+
+Przedszkole
+Skrzydlowska 98
+42-270 Rzerzęczyce
+
+#Produkcja
+
+"ABISAR" Cnc&Automation Grzegorz Dziubek
+Skrzydlowska 122
+42-270 Rzerzęczyce
+
+#Klub
+
+LKS Orkan Rzerzęczyce
+Skrzydlowska 94-100,42-270
+42-270 Rzerzęczyce
+
+#Poczta
+
+OSP Rzerzęczyce
+Ogrodowa 2/6
+42-270 Rzerzęczyce
+
+CMENTARZ RZERZĘCZYCE
+Szkolna
+42-270 Rzerzęczyce
+
+#PZU
+
+Artur Olczyk Ubezpieczenia
+Witkowska 3
+42-270 Rzerzęczyce
+
+Przedszkole W Rzerzęczycach
+Skrzydlowska 98
+42-270 Rzerzęczyce
+
+======================================================================
+42-270 KŁOMNICE
+
+#Urząd
+
+Urząd Gminy Kłomnice
+Strażacka 20
+42-270 Kłomnice
+
+#Ośrodek
+
+Gminny Ośrodek Kultury w Kłomnicach
+Częstochowska 96
+42-270 Kłomnice
+
+#Dom kultury
+
+Hala Sportowa w Kłomnicach
+Księża 2A
+42-270 Kłomnice
+
+#Przedszkole
+
+Przedszkole
+Sądowa 1
+42-270 Kłomnice
+
+#Uniwersytet
+
+Szkoła Postawowa w Kłomnicach
+Szkolna 1
+42-270 Kłomnice
+
+#Biblioteka
+
+Biblioteka Miejska
+Strażacka 9-13
+42-270 Kłomnice
+
+#Przychodnia
+
+Przychodnia Lekarska NZOZ Krzysztof Nadaj
+Strażacka 18
+42-270 Kłomnice
+
+#Bank
+
+Bank Spółdzielczy
+Częstochowska 32
+42-270 Kłomnice
+
+#Policja
+
+Komisariat Policji w Kłomnicach
+Częstochowska 34
+42-270 Kłomnice
+
+#Zakład
+
+Skorupa Elżbieta. Zakład fryzjerski
+42-270 Kłomnice; Częstochowska 86
+42-270
+
+#Poczta
+
+Poczta Polska
+Strażacka 18 A
+42-270 Kłomnice
+
+#ZUS
+
+Sukces Biuro Rachunkowe Kłomnice. Księgowa, Usługi księgowe. Podatki ZUS. Szkolenia BHP Częstochowa.
+Częstochowska 18
+42-270 Kłomnice
+
+#Centrum
+
+Altana Centrum Ogrodnicze
+Częstochowska 100
+42-270 Kłomnice
+
+Centrum Sportowo Rekreacyjne
+Parkowa 6-12
+42-270 Kłomnice
+
+MEDINER Centrum Medyczne, Oddział w Kłomnicach
+Sądowa 29
+42-270 Kłomnice
+
+Rynek w Kłomnicach
+Zdrowska,-
+42-270 Kłomnice
+
+Azalia
+Częstochowska 80
+42-270 Kłomnice
+
+Firma Handlowa HERMES
+Zdrowska 10
+42-270 Kłomnice
+
+Wysoczańska Janina. Apteka
+Sądowa 3
+42-270 Kłomnice
+
+Ośrodek Szkolenia Kierowców Krzysztof Wróbel
+Pocztowa 17
+42-270 Kłomnice
+
+======================================================================
+42-244 MOKRZESZ
+
+#Dom kultury
+
+Sołeckie Centrum Kultury
+Długa 35
+42-350 Lgota-Mokrzesz
+
+#Szkoła
+
+Publiczna Szkoła Podstawowa w Mokrzeszy
+42-244 Mokrzesz
+
+#Bank
+
+Lewiatan
+Częstochowska 7
+42-244 Mokrzesz
+
+G.J.Z. - BUD S.C.
+Krótka 5
+42-244 Mokrzesz
+
+#Poczta
+
+Kaplica w Mokrzeszy
+DW786 92
+42-244 Mokrzesz
+
+p.w. Św. Maksymiliana Marii Kolbego
+Kościelna 17
+42-244 Mokrzesz
+
+OSP Mokrzesz
+Kościelna 16
+42-244 Mokrzesz
+
+#PZU
+
+Agent PZU Michał Mirowski
+Częstochowska 202
+42-244 Mokrzesz
+
+======================================================================
+42-244 KRASICE
+
+#Szkoła
+
+Szkoła Podstawowa Im. Św. Huberta W Krasicach
+Strażacka 7
+42-244 Krasice
+
+#Bank
+
+ARTsKAM Medale Okolicznościowe na Zamówienie
+Warszawska 79
+42-244 Krasice
+
+#Poczta
+
+OSP Krasice
+Strażacka 2
+42-244 Krasice
+
+Niko-Trans Radosław Rubik
+Warszawska 43
+42-244 Krasice
+
+======================================================================
+42-270 RZEKI WIELKIE
+
+#Szkoła
+
+Przedszkole w Rzekach Wielkich
+Główna 7A
+42-270 Rzeki Wielkie
+
+#Bank
+
+Lewiatan
+Główna 25
+42-270 Rzeki Wielkie
+
+AUTO SERWIS SMOLARCZYK
+Główna 45
+42-270 Rzeki Wielkie
+
+Stolmeb Topolski. Producent stelaży do mebli tapicerowanych
+42-270 Rzeki Wielkie; Główna 60a
+42-270
+
+#Klub
+
+K.S. Metal Rzeki Wielkie
+Główna 21
+42-270 Rzeki Wielkie
+
+======================================================================
+42-270 PACIERZÓW
+
+#Szkoła
+
+Łyska
+Polna 2-21
+42-270
+42-270 Pacierzów
+
+#Poczta
+
+Ochotnicza Straż Pożarna w Pacierzowie
+Częstochowska 29
+42-270 Pacierzów
+
+======================================================================
+42-253 JANÓW
+
+#Urząd
+
+Urząd Gminy Janów
+Częstochowska 1
+42-253 Janów
+
+#Szpital
+
+Centrum Medyczne Anmed Life sp.z o.o.
+Żurawska 18
+42-253 Janów
+
+#Przychodnia
+
+Ośrodek Zdrowia
+Leśna 3
+42-253 Janów
+
+#Placówka
+
+Zespół Obsługi Placówek Oświatowych
+Szkolna 2
+42-253 Janów
+
+#Bank
+
+Krakowski Bank Spółdzielczy Filia Janów
+Plac Grunwaldzki 1
+42-253 Janów
+
+#Zakład
+
+Zakład Gospodarki Komunalnej Janów Sp. z o.o.
+1
+Leśna 3
+42-253 Janów
+
+#Towarzystwo
+
+Partnerstwo Północnej Jury. Stowarzyszenie
+Szkolna 2
+42-253 Janów
+
+#Firma
+
+KABEX Sp.j.
+Żurawska 41
+42-253 Janów
+
+Allbud Perfect
+Słoneczna 1
+42-253 Janów
+
+#Poczta
+
+Poczta Polska
+Żarecka 1
+42-253 Janów
+
+#Centrum
+
+Ośrodek Obozowy Hufca ZHP Dąbrowa Górnicza
+42-253 Janów; Przyrowska
+42-253
+
+F.H.U. SKILL
+Piasek
+Ul. Częstochowska 14
+42-253 Janów
+
+Instytut Profilaktyki Zdrowotnej
+Wesoła 3
+42-253 Janów
+
+Henryk Zasuń, Autoryzowany Diler Husqvarna
+Częstochowska 33A
+42-253 Janów
+
+OLANGO School Of English
+Lelowska 1b
+42-253 Janów
+
+Szkoła Podstawowa
+Szkolna 2
+42-253 Janów
+
+Obóz Harcerski Janów
+DW793 42-253
+42-253 Janów
+
+PIEKARNIA JANÓW-OLSZTYN S.C. MARCIN KEMPA, MALWINA KEMPA
+Częstochowska 37
+42-253 Janów
+
+Anna
+Częstochowska 6
+42-253 Janów
+
+======================================================================
+42-248 WOLA MOKRZESKA
+
+#Szkoła
+
+Szkoła Podstawowa im. H. Sawickiej
+Wola Mokrzeska; Główna 7
+42-248
+
+#Poczta
+
+Kościół pw. św. Apostołów Michała, Gabriela i Rafała
+Główna
+42-248 Wola Mokrzeska
+
+======================================================================
+42-270 GARNEK
+
+#Szkoła
+
+Szkoła podstawowa w Garnku
+Szkolna 18
+42-270 Garnek
+
+#Biblioteka
+
+Biblioteka Publiczna w Garnku
+Główna 3
+42-270 Garnek
+
+#Przychodnia
+
+NZOZ
+Główna 7A
+42-270 Garnek
+
+#PZU
+
+Zespół Szkół
+Szkolna 18
+42-270 Garnek
+
+#muzeum
+
+Karczewice młyn
+Błonie 1
+42-270 Garnek
+
+======================================================================
+42-248 KOPANINY
+
+======================================================================
+42-250 SYGONTKA
+
+#Bank
+
+Gospodarstwo rybackie "PSTRĄG" A.Grzesiak
+Leśna 8
+42-250 Sygontka
+
+Restauracja rybna "Smażalnia pod lasem"
+Leśna 10
+42-250 Sygontka
+
+======================================================================
+42-250 ZALESICE
+
+#Szkoła
+
+Niepubliczna Szkoła Podstawowa w Zalesicach
+42-250 Zalesice; Nadrzeczna 3
+
+#Poczta
+
+Ochotnicza Straż Pożarna Zalesice
+Długa 37
+42-250 Zalesice
+
+======================================================================
+42-265 MILIONÓW
+
+======================================================================
+42-250 STAROPOLE
+
+======================================================================
+42-248 PRZYRÓW
+
+#Urząd
+
+Urząd Gminy
+Częstochowska 7
+42-248 Przyrów
+
+#Ośrodek
+
+Ośrodek Zdrowia. NZOZ
+Św. Mikołaja 47
+42-248 Przyrów
+
+#Dom kultury
+
+Gminny Ośrodek Kultury
+42-248 Przyrów
+
+#Przedszkole
+
+Zespół Szkół w Przyrowie
+Szkolna 44
+42-248 Przyrów
+
+#Biblioteka
+
+Biblioteka Publiczna Gminna
+42-248 Przyrów
+
+#Bank
+
+Krakowski Bank Spółdzielczy Filia Przyrów
+Rynek 1
+42-248 Przyrów
+
+Bank Polskiej Spóldzielczosci S.A. Bankomat
+Rynek 1
+42-248 Przyrów
+
+Urząd Pocztowy
+Częstochowska 7
+42-248 Przyrów
+
+MoneyGram
+Częstochowska 7
+42-248 Przyrów
+
+Rybacka Lokalna Grupa Działania "Jurajska Ryba"
+Częstochowska 7
+42-248 Przyrów
+
+Szkoła Podstawowa im. A. Mickiewicza Zespołu Szkół
+Szkolna 44
+42-248 Przyrów
+
+#PZU
+
+Delikatesy Centrum "u Łapaja" NANI Łapaj Robert
+Szkolna 2
+42-248 Przyrów
+
+#Centrum
+
+Delikatesy Centrum "u Łapaja" w Przyrowie
+Szkolna 2
+42-248 Przyrów
+
+Delikatesy Centrum
+Szkolna 2
+42-248 Przyrów
+
+======================================================================
+97-540 GRABY
+
+#Stowarzyszenie
+
+Schronisko dla osób bezdomnych Panaceum
+97-540
+Graby 14
+62-865 Krowica Zawodnia
+
+======================================================================
+97-540 CIĘŻKOWICE
+
+======================================================================
+42-265 OLBRACHCICE
+
+#Szkoła
+
+Szkoła Podstawowa w Olbrachcicach
+Olbrachcice 146
+42-265 Olbrachcice
+
+#Przedszkole
+
+Przedszkole Gminne w Dąbrowie Zielonej. Filia
+Olbrachcice 146
+42-265 Olbrachcice
+
+#Produkcja
+
+StylWektor
+Olbrachcice 82
+42-265 Olbrachcice
+
+#Zakłady
+
+Venta. Zakład przetwórstwa owocowo - warzywnego
+Olbrachcice 126
+42-265 Dąbrowa Zielona
+
+#Firma
+
+FIRMA MILEWSKI
+Olbrachcice 127
+42-265 Dąbrowa Zielona
+
+#Poczta
+
+WIL CAR Złomowanie Pojazdów, części samochodowe, POMOC DROGOWA
+Olbrachcice 126
+42-265 Olbrachcice
+
+Nardos. PPHU. Milewska D.
+Olbrachcice 37
+42-265 Olbrachcice
+
+Lewiatan
+Olbrachcice 50
+42-265 Olbrachcice
+
+======================================================================
+42-265 DĄBROWA ZIELONA
+
+#Urząd
+
+Gmina Dąbrowa Zielona
+plac Kościuszki 31
+42-265 Dąbrowa Zielona
+
+#Dom kultury
+
+Gminny Ośrodek Kultury
+plac Kościuszki 30
+42-265 Dąbrowa Zielona
+
+#Przedszkole
+
+Przedszkole
+plac Kościuszki 5
+42-265 Dąbrowa Zielona
+
+#Biblioteka
+
+Biblioteka Publiczna. Filia
+plac Kościuszki 30
+42-265 Dąbrowa Zielona
+
+#Przychodnia
+
+Ośrodek Zdrowia w Dąbrowie Zielonej
+plac Kościuszki 47
+42-265 Dąbrowa Zielona
+
+#Klub
+
+Dąbrowianka. Klub sportowy
+plac Kościuszki 14
+42-265 Dąbrowa Zielona
+
+#Koło
+
+42-265
+Cielętniki
+Dąbrowa Zielona
+Soborzyce
+Raczkowice
+WIĘCEJ
+
+#ZNP
+
+Gmina Dąbrowa Zielona (Municipality Dabrowa Zielona)
+plac Kościuszki 31
+42-265 Dąbrowa Zielona
+
+======================================================================
+42-265 CIELĘTNIKI
+
+#Poczta
+
+Poczta Polska
+pl.Generała Tadeusza Kościuszki 29
+42-265 Cielętniki
+
+MAD-CARGO LOGISTICS
+Leśna 2A
+42-265 Cielętniki
+
+Dwór Cielętniki
+Ogrodowa 1
+42-265 Cielętniki
+
+Sklep Wielobranżowy G.S. Samopomoc Chłopska
+Kościuszki 11D
+42-265 Cielętniki
+
+#PZU
+
+Lipa Cielętniki Najstarsza w Polsce
+42-265 Dąbrowa Zielona
+
+Stawy Cielętniki
+42-269 Cielętniki; Ogrodowa
+

@@ -1,0 +1,4053 @@
+======================================================================
+42-235 SKRAJNIWA
+
+======================================================================
+42-265 ULESIE
+
+======================================================================
+97-532 MAGDALENKI
+
+======================================================================
+97-532 BUGAJ
+
+======================================================================
+97-532 ŻYTNO
+
+#Urząd
+
+Urząd Gminy Żytno
+Krótka 4
+97-532 Żytno
+
+#Przedszkole
+
+Przedszkole Publiczne
+Ogrodowa 16
+97-532 Żytno
+
+#Przychodnia
+
+Przychodnia Żytno
+Strażacka 14
+97-532 Żytno
+
+#Bank
+
+Bank Spółdzielczy w Żytnie Centrala
+Konopnickiej 95
+97-532 Żytno
+
+#Zakład
+
+Gminny Zakład Komunalny
+Krótka 4
+97-532 Żytno
+
+#Stowarzyszenie
+
+Poczta Polska
+Krótka 4
+97-532 Żytno
+
+#Poczta
+
+Poczta Polska (Post Office - Żytno)
+Krótka 4
+97-532 Żytno
+
+======================================================================
+42-265 SOBORZYCE
+
+#Przychodnia
+
+Przychodnia Zdrowia
+Strażacka 4
+42-265 Soborzyce
+
+#Stowarzyszenie
+
+KS Start Soborzyce
+Strażacka 6
+42-265 Soborzyce
+
+======================================================================
+42-235 DROCHLIN
+
+======================================================================
+42-230 STARY KONIECPOL
+
+#Produkcja
+
+P.P.D BIGAJ
+Częstochowska 198
+42-230 Stary Koniecpol
+
+======================================================================
+42-230 KONIECPOL
+
+#Urząd
+
+Urząd Miasta i Gminy w Koniecpolu
+Chrząstowska 6A
+42-230 Koniecpol
+
+#Przedszkole
+
+Przedszkole nr 1
+Pułaskiego 11
+42-230 Koniecpol
+
+#Biblioteka
+
+Biblioteka Publiczna nr 1 w Koniecpolu. Filia
+Mickiewicza 28
+42-230 Koniecpol
+
+#Przychodnia
+
+SP ZOZ Miejska Przychodnia Rejonowa w Koniecpolu
+Armii Krajowej 2
+42-230 Koniecpol
+
+#Policja
+
+Komisariat Policji w Koniecpolu
+Działkowa 2
+42-230 Koniecpol
+
+#Grupa
+
+GRUPA INCO S.A.
+Partyzantów 41
+42-230 Koniecpol
+
+#Stowarzyszenie
+
+Towarzystwo Sportowe w Koniecpolu
+Kościuszki 122
+42-230 Koniecpol
+
+#Klub
+
+Boisko do siatkówki plażowej
+Klonowa 14
+42-230 Koniecpol
+
+#Poczta
+
+Urząd Pocztowy
+Kościuszki 14
+42-230 Koniecpol
+
+#ZUS
+
+ZUS Biuro Terenowe w Koniecpolu
+Rynek 1
+42-230 Koniecpol
+
+======================================================================
+42-230 RADOSZEWNICA
+
+#Zakład
+
+NIEPUBLICZNY ZAKŁAD USŁUG PIELEGNIARSKICH i REHABILITACYJNYCH "El-med" Elżbieta Lipka
+Koniecpolska 90
+42-230 Radoszewnica
+
+======================================================================
+97-532 JATNO
+
+======================================================================
+26-020 BORZYKOWA
+
+#Firma
+
+Systemy alarmowe, bramy automatyczne, monitoring CONTROL
+Borzykowa 73 C
+26-020 Borzykowa
+
+#PZU
+
+Świetlica Wiejska w Borzykowie
+Borzykowa 24
+26-020 Borzykowa
+
+======================================================================
+97-532 SILNICA
+
+======================================================================
+42-230 OKOŁOWICE
+
+======================================================================
+97-532 PIERZAKI
+
+======================================================================
+42-793 ZBOROWSKIE
+
+#Szkoła
+
+Publiczna Szkoła Podstawowa w Zborowskiem
+Główna 33
+42-793 Zborowskie
+
+#Bank
+
+Fabryka fajek glinianych
+Fabryczna 7
+42-793 Zborowskie
+
+Fentrans. FUH. Federowski N.
+42-793 Zborowskie; Główna 30
+
+HEF - Stal Sp. z o.o.
+BORKOWA 5
+42-793 Zborowskie
+
+#Poczta
+
+Leśnictwo Zborowskie
+Fabryczna 2
+42-793 Zborowskie
+
+Ochotnicza Straż Pożarna
+42-793 Zborowskie; Myśliwska 4
+
+Leśnictwo Zborowskie. Nadleśnictwo Lubliniec
+42-793 Zborowskie
+
+Kościół pw. Podwyższenia Krzyża Świętego
+42-793 Zborowskie
+
+======================================================================
+42-141 PRZYSTAJŃ
+
+#Urząd
+
+Przystajń
+Częstochowska 5
+42-141 Przystajń
+
+#Ośrodek
+
+Gminny Ośrodek Kultury, Sportu i Rekreacji
+42-141 Przystajń; Targowa 5
+42-141
+
+#Przedszkole
+
+Gminne Przedszkole Publiczne
+Targowa 6
+42-141 Przystajń
+
+#Biblioteka
+
+Biblioteka Publiczna Gminna
+Targowa 5
+42-141 Przystajń
+
+#Szpital
+
+Gminny Ośrodek Zdrowia
+Ulica Powstańców Śląskich 7
+42-141 Przystajń
+
+Kościół pw. Świętej Trójcy w Przystajni
+42-141 Przystajń
+
+#Związek
+
+Polski Związek Emerytów, Rencistów i Inwalidów. Zarząd oddziału gminnego
+Częstochowska 5
+42-141 Przystajń
+
+#Firma
+
+Tadeks Fertig Haus sp. z o.o. sp. k.
+Nowa 56
+42-141 Przystajń
+
+#Poczta
+
+Urząd Pocztowy
+Częstochowska 5
+42-141 Przystajń
+
+#Centrum
+
+Delikatesy Centrum
+Ulica Powstańców Śląskich 1A
+42-141 Przystajń
+
+👷‍♀️ CENTRUM BHP WIOLA U.PORAJ - W. MIERZWA S.C.
+Nowa 2
+42-141 Przystajń
+
+GLOBI Centrum wielobranżowe
+Bór 2
+42-141 Przystajń
+
+Top Moda Angela
+Częstochowska 6
+42-141 Przystajń
+
+Test-Pakt. Wystalski K.
+Leśna 17/8
+42-141 Przystajń
+
+Ochotnicza Straż Pożarna
+42-141 Przystajń; Targowa 13
+42-141
+
+AC Krawczyk
+Ulica Powstańców Śląskich 5
+42-141 Przystajń
+
+======================================================================
+42-142 KAMIŃSKO
+
+#Szkoła
+
+Karczma Kamińsko
+Kamińsko
+Ługi-Radły 14
+42-142 Ługi-Radły
+
+======================================================================
+42-140 KOTARY
+
+======================================================================
+42-140 PANKI
+
+#Urząd
+
+Urząd Gminy Panki
+Tysiąclecia 5
+42-140 Panki
+
+#Dom kultury
+
+Gminny Ośrodek Kultury
+42-140 Panki
+
+#Szkoła
+
+Zespoł Szkół w Pankach: Gimnazjum im. Stanisława Staszica
+Tysiąclecia 17
+42-140 Panki
+
+Tęczowe Przedszkole, Megan Crow
+Nadrzeczna 1
+42-140 Panki
+
+Przedszkole Publiczne
+42-140 Panki; 1 Maja 7a
+
+Przedszkole
+1 Maja 7a
+42-140 Panki
+
+Przedszkole Kotek i Myszka
+Powstańców Śląskich 23
+42-140 Panki
+
+#Przychodnia
+
+Poradnia Stomatologiczna M.S.Dent
+Tysiąclecia 7
+42-140 Panki
+
+#Bank
+
+Bank Spółdzielczy w Kłobucku. Oddział
+Tysiąclecia 6
+42-140 Panki
+
+PKO Bank Polski S.A.- Bankomat
+42-140 Panki
+
+Poczta Polska
+ul
+Powstańców Śląskich 6
+42-140 Panki
+
+Biuro Usług Finansowych FINANS Iwona Biniek. Biuro Rachunkowe, Księgowość
+Częstochowska 37
+42-140 Panki
+
+Activeu.pl
+Częstochowska 66
+42-140 Panki
+
+#Produkcja
+
+Fabryka Mebli MEBLOPANK Sp. J.
+Zielona 29
+42-140 Panki
+
+Telma meble
+Zielona 3A
+42-140 Panki
+
+WIKMAR www.wikmar.com
+42-140 Panki; Zwierzyniecka 10
+Mobile Phone: 0048/ 601 187 397
+42-140
+
+Oczyszczalnia Ścieków Panki Ul. Łąkowa
+Staszica 16
+42-140 Panki
+
+Jm Mebel System
+Górnicza 22A
+42-140 Panki
+
+EKOMEX - PILŚNIAK
+Częstochowska 49a
+42-140 Panki
+
+#Związek
+
+Związek Międzygminny Panki-Przystajń ds. Ochrony Wód
+42-140 Panki; Łąkowa 8
+
+#Klub
+
+KS Panki
+Częstochowska 15
+42-140 Panki
+
+#PZU
+
+UBEZPIECZENIA Grzegorz Wystalski
+Tysiąclecia
+42-140 Panki
+
+======================================================================
+42-714 BRASZCZOK
+
+======================================================================
+42-714 ŁEBKI
+
+======================================================================
+42-140 KONIECZKI
+
+#Szkoła
+
+Szkola Podstawowa im. Jana Pawla II W Konieczkach
+Gajówka Konieczki 64
+42-140 Gajówka Konieczki
+
+#Przedsiębiorstwo
+
+Przedsiębiorstwo Sprzętu Ochronnego Maskpol S.A.
+42-140 Konieczki
+
+======================================================================
+42-714 TANINA
+
+#Szkoła
+
+SONGO
+Strażacka 6
+42-714 Tanina
+
+======================================================================
+42-714 LISÓW
+
+#Ośrodek
+
+Przychodnia Lekarska NZOZ
+Stawowa 62b
+42-714 Lisów
+
+#Szkoła
+
+Zespół Szkół w Lisowie
+Szkolna 2
+42-714 Lisów
+
+#Biblioteka
+
+Biblioteka Publiczna Gminna. Filia
+42-714 Lisów
+
+#Bank
+
+Agencja PKO Banku Polskiego
+Budowlanych 1
+42-714 Lisów
+
+Ochwatowska Irena. Biuro rachunkowe
+Wyszyńskiego
+42-714 Lisów
+
+#Produkcja
+
+BRUK SA - producent kostki brukowej i prefabrykatów betonowych
+Częstochowska 19
+42-714 Lisów
+
+#Spółdzielnia
+
+Międzyzakładowa Spółdzielnia Mieszkaniowa
+Wincentego Witosa 10
+42-714 Lisów
+
+#Poczta
+
+Poczta Polska
+Budowlanych 3
+42-714 Lisów
+
+Ochotnicza Straż Pożarna w Lisowie
+Budowlanych
+42-714 Lisów
+
+Nadleśnictwo Herby
+Leśna 5
+42-714 Lisów
+
+Kościół pw. NMP Matki
+Unnamed Road
+42-714 Lisów
+
+Paczkomat InPost LIW01M
+Budowlanych 7
+42-714 Lisów
+
+Leśnictwo Lisów. Nadleśnictwo Herby
+Leśna 4
+42-713 Lisów
+
+DHL ServicePoint
+Sklep Ogólnospożywczy
+Budowlanych 3
+42-714 Lisów
+
+Agencja Pocztowa
+Budowlanych
+42-714 Lisów
+
+#PZU
+
+Elektronika i Diagnostyka Samochodowa Rafał Wysocki
+Stawowa 28
+42-714 Lisów
+
+======================================================================
+42-134 KULEJE
+
+#Przedszkole
+
+Szkoła Podstawowa im. Orła Białego Kuleje
+42-134
+
+#Poczta
+
+Leśnictwo Kuleje. Nadleśnictwo Herby
+42-133
+Leśna 31
+Nowiny
+
+======================================================================
+42-134 TRUSKOLASY
+
+#Urząd
+
+Poczta Polska
+Częstochowska 18
+42-134 Truskolasy
+
+#Ośrodek
+
+Wiejski ośrodek zdrowia
+Ulica Opolska 8
+42-134 Truskolasy
+
+#Przedszkole
+
+Przedszkole w Truskolasach
+Rynek 2a
+42-134 Truskolasy
+
+#Szpital
+
+CENTER MEDICAL Zakład Rehabilitacji
+DW494 8
+42-134 Truskolasy
+
+#Przychodnia
+
+Zespół Opieki Zdrowotnej w Kłobucku
+Ulica Opolska 8
+42-134 Truskolasy
+
+#Bank
+
+Bank Spółdzielczy, punkt kasowy
+1 Maja 1
+42-134 Truskolasy
+
+#Produkcja
+
+Zakład Wielobranżowy Produkcji i Usług
+Dębieczna 39
+42-134 Truskolasy
+
+#muzeum
+
+Kośció ł w Truskolasachpw. św. Mikołaja
+42-134 Truskolasy
+
+#Centrum
+
+Zakład rehabilitacji leczniczej Center-Medical
+Opolska 9
+42-134 Truskolasy
+
+Centrum Kosmetyczne Daria Nawrot
+Ulica Jaśminowa 10
+42-134 Truskolasy
+
+Ośrodek Jeździecki "Cwał"
+Ulica Opolska 18
+42-134 Truskolasy
+
+======================================================================
+21-220 JEZIORO
+
+======================================================================
+42-133 WĘGLOWICE
+
+#Ośrodek
+
+Wiejski Ośrodek Zdrowia Węglowice
+Szkolna 98
+42-133 Czarna Wieś
+
+#Szkoła
+
+Zespół Szkół im Synów Pułku
+Węglowice 3
+42-133 Węglowice
+
+#Przedszkole
+
+Przedszkole
+Węglowice Jezioro 2
+42-133 Węglowice
+
+#Bank
+
+Poczta Polska
+Węglowice 3
+42-133 Węglowice
+
+#Produkcja
+
+Kall - CARRION TRADING
+Słoneczna 79
+42-133 Węglowice
+
+======================================================================
+42-134 HUTKA
+
+======================================================================
+42-151 ZŁOCHOWICE
+
+#Ośrodek
+
+Wiejski Ośrodek Zdrowia w Złochowicach
+Topolowa 1
+42-151 Złochowice
+
+#Szkoła
+
+Szkoła Podstawowa w Złochowicach
+Wesoła 3
+42-151 Złochowice
+
+#Poczta
+
+Kościół Najświętszego Serca Pana Jezusa w Złochowicach
+Kościelna 1
+42-151 Złochowice
+
+#Centrum
+
+Wiejski Ośrodek Zdrowia w Złochowicach (Rural Health Centre)
+Topolowa 1
+42-151 Złochowice
+
+======================================================================
+42-151 WALEŃCZÓW
+
+#Produkcja
+
+P.P.H TABO PLAST Spółka Jawna Tadeusz, Bożena, Grzegorz Żurek
+Częstochowska 53
+42-151 Waleńczów
+
+#Spółka
+
+AGROSPEC K.J.Kłudka sp.j.
+Częstochowska 49
+42-151 Waleńczów
+
+#Klub
+
+Stadion Maraton Waleńczów
+Szkolna 19
+42-151 Waleńczów
+
+#Poczta
+
+Ochotnicza Straż Pożarna w Waleńczowie
+Szkolna 1
+42-151 Waleńczów
+
+======================================================================
+42-152 WILKOWIECKO
+
+#Szkoła
+
+Szkoła Podstawowa im. T. Kościuszki
+42-151 Wilkowiecko; Szkolna 1
+42-151
+
+#Produkcja
+
+Korzekwa Producent Okien i Drzwi z Drewna
+Długosza 12
+42-152 Wilkowiecko
+
+#Zakłady
+
+Masarnia Wilkowiecko
+Żołnierzy Września 25
+42-152 Wilkowiecko
+
+#Poczta
+
+Ochotnicza Straż Pożarna w Wilkowiecku
+Mikołaja z Wilkowiecka 8
+42-152 Wilkowiecko
+
+======================================================================
+42-133 BIEŻEŃ
+
+#Szkoła
+
+Szkoła Podstawowa Publiczna Stowarzyszenia Przyjaciół Szkół Katolickich
+Szkolna 2
+42-133 Bieżeń
+
+======================================================================
+42-133 BOROWE
+
+#Szkoła
+
+Szkoła Podstawowa im. M. Konopnickiej
+Długa
+42-133 Borowe
+
+Szkoła Podstawowa Im Marii Konopnickiej W Borowem
+Długa 75
+42-133 Borowe
+
+#Bank
+
+Dorex. Beim G.
+42-133 Borowe; Sportowa 7
+05-190
+
+#Produkcja
+
+Borowe sp.j. Masarnia. Pluta J.B.
+Długa 114
+42-133 Węglowice
+
+======================================================================
+42-290 CISIE
+
+#Poczta
+
+Ochotnicza Straż Pożarna w Cisiu
+Cisiańska 63
+42-290 Cisie
+
+======================================================================
+42-284 PIETRZAKI
+
+#Zakład
+
+Galwah. Zakład powłok galwanicznych
+Częstochowska 5
+42-284 Pietrzaki
+
+======================================================================
+42-130 WRĘCZYCA WIELKA
+
+#Urząd
+
+Urząd Gminy
+Sienkiewicza 1
+42-130 Wręczyca Wielka
+
+#Ośrodek
+
+Gminny Ośrodek Kultury
+Śląska 20
+42-130 Wręczyca Wielka
+
+Gminny Ośrodek Zdrowia we Wręczycy Wielkiej
+Śląska 27
+42-130 Wręczyca Wielka
+
+Przychodnia Weterynaryjna Centrum Zdrowia Zwierząt
+Mickiewicza 70
+42-130 Wręczyca Wielka
+
+Soluch Grzegorz. Ośrodek Szkolenia Kierowców
+Ogrodowa 20
+42-130 Wręczyca Wielka
+
+#Szkoła
+
+Zespół Szkół im. A. Mickiewicza we Wręczycy Wielkiej
+Szkolna 11
+42-130 Wręczyca Wielka
+
+Szkola Podstawowa im. Adama Mickiewicza
+42-130 Wręczyca Wielka
+
+Blueberry School Kursy Jezumykowe
+Strażacka 16-4
+42-130
+42-130 Wręczyca Wielka
+
+Korepetycje Angielski Wręczyca Wielka
+Brzozowa 4
+42-130
+
+Szkoła Językowa "BLUEBERRY SCHOOL"
+ul Śląska 29
+42-130 Wręczyca Wielka
+
+Klub Sportów Walki ‚MIX-TEAM’
+Strażacka 4
+42-130 Wręczyca Wielka
+
+#Przedszkole
+
+Przedszkole publiczne z oddziałem integracyjnym
+Sportowa 2b
+42-130 Wręczyca Wielka
+
+#Szpital
+
+Apteka Pod Złotym Dębem
+3 Maja 2
+42-130 Wręczyca Wielka
+
+#Bank
+
+Agencja PKO Banku Polskiego
+ul. Śląska 16
+42-130 Wręczyca Wielka
+
+Biuro Rachunkowe Anna Wydmuch
+Częstochowska 21b
+42-130 Wręczyca Wielka
+
+#Policja
+
+Komisariat Policji we Wręczycy Wielkiej
+Śląska 30
+42-130 Wręczyca Wielka
+
+#Przedsiębiorstwo
+
+Przedsiębiorstwo Handlowo-Usługowe Auto-Naprawa Zbigniew Schulz
+Częstochowska 11c
+42-130 Wręczyca Wielka
+
+#Produkcja
+
+"Formes Toys" Producent Form Wtryskowych, Form Rozdmuchowych
+Śląska 69
+42-130 Wręczyca Wielka
+
+ZAKŁAD PRODUKCYJNO-HANDLOWY Kimet Zbigniew Kisiela
+Częstochowska 23
+42-130 Wręczyca Wielka
+
+Zakład Produkcji Metalowej
+Sienkiewicza 8
+42-130 Wręczyca Wielka
+
+Agromar. Produkcja, handel, usługi
+Pierzchno 67
+42-130 Wręczyca Wielka
+
+Glas Hit
+Śląska 69
+42-130 Wręczyca Wielka
+
+Zaklad produkcji metalowej Krzysztof Janik
+Sienkiewicza 8
+42-130 Wręczyca Wielka
+
+Aleksandria
+Śląska 4
+42-130 Wręczyca Wielka
+
+Firma GREEN LAMP
+Wydra
+Wręczyca Wielka 8
+42-130 Wręczyca Wielka
+
+#Zakład
+
+Kotkowska Agnieszka. Zakład fryzjerski
+Prusa 19
+42-130 Wręczyca Wielka
+
+#Agencja
+
+Ubezpieczenia Wręczyca Wielka - Agent Paweł Paruzel
+Śląska 14
+42-130 Wręczyca Wielka
+
+Agencja - ARKA Detektyw - Obserwacja, wykrywanie zdrad i wywiad gospodarczy
+Sportowa 43
+42-130 Wręczyca Wielka
+
+"Perfect" Ubezpieczenia i Finanse Katarzyna Leśnikowska
+3 Maja 2
+42-130 Wręczyca Wielka
+
+PZU Ubezpieczenia Wręczyca Wielka - Agent Ewelina Leśnikowska
+3 Maja 2
+42-130 Wręczyca Wielka
+
+Agro-Karm
+Częstochowska 1
+42-130 Wręczyca Wielka
+
+Sokół Wręczyca Wielka
+Sportowa 39
+42-130 Wręczyca Wielka
+
+Studio Fryzjerskie Magdalena Sztolcman
+42-130 Wręczyca Wielka
+
+Sala Diamentowa - Sala Brylantowa - Sala Pałacowa
+3 Maja 2
+42-130 Wręczyca Wielka
+
+Urząd Gminy Wręczyca Wielka
+Sienkiewicza 1
+42-130 Wręczyca
+
+#Poczta
+
+Poczta Polska
+Szkolna 3
+42-130 Wręczyca Wielka
+
+#PZU
+
+OSP Wręczyca Wielka
+42-130 Wręczyca Wielka
+
+AMEL
+27b Śląska 27
+42-130 Wręczyca Wielka
+
+#muzeum
+
+Grób Nieznanego Żołnierza
+42-130 Wręczyca Wielka
+
+Mogiła Wojenna
+42-130 Wręczyca Wielka
+
+Grób nieznanego żołnierza
+42-130 Wręczyca Wielka
+
+Grób Nieznanego Żołnierza
+42-130 Wręczyca Wielka
+
+#Centrum
+
+Centrum Chińskie
+42-130 Wręczyca Wielka
+
+Radiowo Telewizyjne Centrum Nadawcze Częstochowa/Wręczyca Wielka
+42-133 Klepaczka
+
+======================================================================
+42-274 ALEKSANDRIA
+
+#Szkoła
+
+Zespół Szkolno - Przedszkolny
+42-274 Aleksandria Pierwsza; Gościnna 130
+42-274
+
+#Zakłady
+
+Aleksandria Sp. z o.o. Sp. k.
+Gościnna 6
+42-274 Aleksandria
+
+======================================================================
+42-100 KŁOBUCK
+
+#Urząd
+
+Urząd Miejski w Kłobucku
+11 Listopada 6
+42-100 Kłobuck
+
+Powiatowy Urząd Pracy
+Jana Długosza 114
+42-100 Kłobuck
+
+Poczta Polska
+11 Listopada 3
+42-100 Kłobuck
+
+Starostwo Powiatowe w Kłobucku
+rynek Imienia Jana Pawła II 13
+42-100 Kłobuck
+
+Starostwo Powiatowe Wydział Komunikacji i Transportu
+Księdza Ignacego Skorupki 46
+42-100 Kłobuck
+
+ZUS Inspektorat w Kłobucku
+Targowa 3 a
+42-100 Kłobuck
+
+Powiatowy Inspektorat Weterynarii
+Kardynała Stefana Wyszyńskiego 15
+42-100 Kłobuck
+
+#Ośrodek
+
+Miejski Ośrodek Kultury w Kłobucku
+Targowa 1
+42-100 Kłobuck
+
+#Szkoła
+
+Szkoła Podstawowa nr 2 im. A. Mickiewicza
+Szkolna 1
+42-100 Kłobuck
+
+Szkoła Podstawowa nr 3
+Bohaterów Bitwy pod Mokrą 4
+42-100 Kłobuck
+
+Publiczne Gimnazjum i Publiczna Szkoła Podstawowa SPSK w Kłobucku
+Wincentego Witosa 21
+42-100 Kłobuck
+
+Zespół Szkół nr 1 im. J. Kilińskiego
+Zamkowa 6
+42-100 Kłobuck
+
+Zespół Szkół nr 2 im. ks. J. Długosza
+3 Maja 33
+42-100 Kłobuck
+
+ZESPÓŁ SZKÓŁ NR 3
+Księdza Ignacego Skorupki 46
+42-100 Kłobuck
+
+Szkoła Podstawowa im. A. Mickiewicza Zespołu Szkół
+Szkolna 1
+42-100 Kłobuck
+
+Szkoła Muzyczna Talent w Kłobucku
+Bohaterów Bitwy pod Mokrą 2/lokal 15
+42-100 Kłobuck
+
+Szkoła Podstawowa Publiczna im. E. Orzeszkowej
+42-130 Grodzisko; Kłobucka 1
+42-130
+
+Społeczne Ognisko Muzyczne w Kłobucku
+Skorupki 46
+42-100 Kłobuck
+
+Szkoła Języków Obcych "Green School"
+Tadeusza Kościuszki 10
+42-100 Kłobuck
+
+Przedszkole nr 5 Gminne im. J. Brzechwy
+42-100 Kłobuck; gen. Rómmla 9
+42-100
+
+OSK IWONA KRAKOWIAK
+ul. Zamkowa 6
+Zespół Szkół im. Jana Kilińskiego sala nr. 23
+42-100 Kłobuck
+
+Przedszkole Gminne nr 4 z oddziałami Integracyjnymi
+Elizy Orzeszkowej 44
+42-100 Kłobuck
+
+Ul Szkolna
+Stawowa 4/60
+42-100 Kłobuck
+
+Auto-Szkoła
+3 Maja 11
+42-100 Kłobuck
+
+#Przedszkole
+
+Przedszkole nr 1
+Przedszkolna
+42-100 Kłobuck
+
+Przedszkole nr 2
+42-100 Kłobuck; ks. kard. Wyszyńskiego 7
+
+#Biblioteka
+
+Biblioteka Publiczna Gminy Kłobuck im. J. Długosza
+Okólna 3
+42-100 Kłobuck
+
+#Przychodnia
+
+Przychodnia Rejonowa nr 2. ZOZ
+Rómmla 4
+42-100 Kłobuck
+
+Puls-Med. NZOZ. Przychodnia lekarska
+11 Listopada 5
+42-100 Kłobuck
+
+Przychodnia Rejonowa nr 1
+Stanisława Staszica 28
+42-100 Kłobuck
+
+#Bank
+
+PKO Bank Polski - obsługa klientów indywidualnych i firm
+11 Listopada 8
+42-100 Kłobuck
+
+ESBANK Bank Spółdzielczy
+ulica
+11 Listopada 8
+42-100 Kłobuck
+
+Alior Bank - Placówka Partnerska
+11 Listopada 7
+42-100 Kłobuck
+
+Euronet Polska Sp z o. o.
+ul. 11 Listopada 8
+BOŚ Oddział Banku
+42-100 Kłobuck
+
+Millennium Partner
+Rynek im. Jana Pawła II 22
+42-100 Kłobuck
+
+PKO Bank Polski. Agencja
+Orzeszkowej 7
+42-100 Kłobuck
+
+Credit Agricole Bank Polska S.A. - Placówka CA Express
+Częstochowska 1A
+42-100 Kłobuck
+
+BIURO KREDYTOWE STATUS EWELINA KAŁA
+Rynek Jana Pawła II 17
+42-100 Kłobuck
+
+Fines
+Wieluńska 6
+42-100 Kłobuck
+
+Prestigio Anna Pawlik
+Stanisława Staszica 16
+42-100 Kłobuck
+
+Punkt sprzedaży Cyfrowy Polsat i Plus
+Częstochowska 25
+42-100 Kłobuck
+
+Kantor wymiany walut
+11 Listopada 6
+42-100 Kłobuck
+
+Punkt sprzedaży Plusa i Cyfrowego Polsatu
+Targowa 1
+42-100 Kłobuck
+
+Kasa Stefczyka
+Stanisława Staszica 23
+42-100 Kłobuck
+
+Inkaso
+Rynek im. Jana Pawła II 10
+42-100 Kłobuck
+
+Kantor wymiany walut
+42-100 Kłobuck; ks. kard. Wyszyńskiego 16
+
+Kantor
+Stanisława Staszica 6
+42-100 Kłobuck
+
+Bank Polskiej Spóldzielczosci S.A. Bankomat
+Bohaterów Bitwy pod Mokrą 2
+42-100 Kłobuck
+
+Powiatowe Centrum Pomocy Rodzinie
+Księdza Ignacego Skorupki 46
+42-100 Kłobuck
+
+#Wydział
+
+Sąd Rejonowy w Częstochowie. Zamiejscowy Wydział Ksiąg Wieczystych
+Wieluńska 17
+42-100 Kłobuck
+
+Przedsiębiorstwo Wodociągów i Kanalizacji Okręgu Częstochowskiego S.A. Wydział Eksploatacji
+Wodociągowa 25
+42-100 Kłobuck
+
+#Policja
+
+Komenda Powiatowa Policji
+Bohaterów Bitwy pod Mokrą 5
+42-100 Kłobuck
+
+#Przedsiębiorstwo
+
+ERG Kłobuck
+Poprzeczna 2
+42-100 Kłobuck
+
+Serwis Sp. z o.o. Przedsiębiorstwo budowy kopalń
+Szkolna 46
+42-100 Kłobuck
+
+LOKIN plastic products
+Janusza Korczaka 46
+42-100 Kłobuck
+
+PLIMET Piotr Mazik
+Kasztanowa 48
+42-100 Kłobuck
+
+Elektryk. Kłysiński G.
+Częstochowska 24
+42-100 Kłobuck
+
+Przedsiębiorstwo Robót Drogowych "WILK"
+Wojska Polskiego 4a
+42-100 Kłobuck
+
+Wilk. Przedsiębiorstwo robót drogowych
+Jasna 33
+42-100 Kłobuck
+
+#Produkcja
+
+Lastilo - producent kulki silikonowej, producent poduszek
+Krzywa 2
+42-100 Kłobuck
+
+Wood better Kamil Lubczyński
+Zakrzewska 14
+42-100 Kłobuck
+
+SÜDPACK KŁOBUCK Sp. z o.o.
+Drukarska
+42-100 Kłobuck
+
+Quality Jakub Agnieszczak. Zlewozmywaki granitowe
+Janusza Korczaka 46
+42-100 Kłobuck
+
+P.H.U. ,,WOJ-TAS’’ Wojciech Tasarz
+Wieluńska 26
+42-100 Kłobuck
+
+GH Cranes Sp. z o.o.
+Górnicza
+42-100 Kłobuck
+
+P.P.H. Rotex Agata Robak
+Władysława Niemczyka 4
+42-100 Kłobuck
+
+KOTREM - KOTŁY
+Szkolna 115/117
+42-100 Kłobuck
+
+WOJ-TAS
+Elizy Orzeszkowej 160
+42-100 Kłobuck
+
+Embis sp.j. Producent obuwia
+Stanisława Staszica 87
+42-100 Kłobuck
+
+HONASCO POLSKA Sp.z o.o.
+Poprzeczna 2
+42-100 Kłobuck
+
+OKNOPROF
+Jana Kochanowskiego 71
+42-100 Kłobuck
+
+Riko
+Wincentego Witosa 5
+42-100 Kłobuck
+
+P.H.U. WOJ-TAS Wojciech Tasarz
+Jana Długosza 130
+42-100 Kłobuck
+
+Pol-Invest Filip Dura
+Henryka Sienkiewicza 69
+42-100 Kłobuck
+
+Promus-Częstochowa Sp. z o.o. PPUH
+Górnicza 1
+42-100 Kłobuck
+
+Tops-System
+Parkowa 4A
+42-100 Kłobuck
+
+#Zakłady
+
+Cymes sp.j. Zakład produkcji wyrobów cukierniczych
+Jana Długosza 99
+42-100 Kłobuck
+
+Topserwis. Zakład pomiarów i konserwacji. Gnatowicz A.
+Zakrzewska 4
+42-100 Kłobuck
+
+Zakład usługowo - produkcyjny w zakresie budownictwa ogólnego
+11 Listopada 8
+42-100 Kłobuck
+
+Emiro Zakład Stolarski Robert Juszczak
+Kręta 40
+42-100 Kłobuck
+
+Kałwak Roman. Zakład stolarski
+Marii Konopnickiej 4
+42-100 Kłobuck
+
+Kompleksowe Usługi Pogrzebowe GIBERT
+Jana Długosza 104
+42-100 Kłobuck
+
+Alhen. PPUH
+11 Listopada 18
+42-100 Kłobuck
+
+Eden. Kompleksowe usługi pogrzebowe
+Ogrójcowa 11
+42-100 Kłobuck
+
+Zakład Fryzjerski
+Równoległa 65
+42-100 Kłobuck
+
+Doxbud. Zakład remontowo - budowlany. Wąs Z.
+Wąska 7
+42-100 Kłobuck
+
+Traktores. Zakład naprawy ciągników. Zych W.
+Dywizjonu 303 1
+42-100 Kłobuck
+
+Olszewski Łukasz. Zakład szklarski
+3 Maja
+42-100 Kłobuck
+
+Budowlano - Wytwórcza Spółdzielnia Pracy. Zakład budownictwa
+Jana Długosza 101
+42-100 Kłobuck
+
+Zakład foto-video "Dar"
+Stanisława Staszica 7
+42-100 Kłobuck
+
+Prio Spaw. Zakład produkcyjno - usługowo - handlowo - transportowy
+Kasztanowa 4A
+42-100 Kłobuck
+
+Przy Rondzie. Bar zakładu handlowo - produkcyjnego Iga
+Adama Mickiewicza 29
+42-100 Kłobuck
+
+Kuberski Roman. Zakład instalacji wodno-kanalizacyjnych, c.o. i gazowych
+Bartosza Głowackiego 10
+42-100 Kłobuck
+
+J&D Foto Zakład fotograficzny Kłobuck
+11 Listopada 18
+42-100 Kłobuck
+
+Wolny Mirosław. Zakład produkcyjno - handlowo - usługowy
+Jana Długosza 103
+42-100 Kłobuck
+
+#Grupa
+
+"Zielony Wierzchołek Śląska" Lokalna Grupa Działania
+Stanisława Staszica 12
+42-100 Kłobuck
+
+#Agencja
+
+Agencja Restrukturyzacji i Modernizacji Rolnictwa. Śląski Oddział Regionalny. Biuro powiatowe
+Wojska Polskiego 2
+42-100 Kłobuck
+
+#Spółdzielnia
+
+Spółdzielnia Mieszkaniowa
+Rómmla 1A
+42-100 Kłobuck
+
+#Firma
+
+Wasylów Beata. Firma handlowa
+Generała Władysława Andersa 52
+42-100 Kłobuck
+
+Firma Remix
+Unnamed Road
+Górnicza 1
+42-100 Kłobuck
+
+FHU PUFIK
+Jana Długosza 16
+42-100 Kłobuck
+
+ROZWÓJ Sp. z o.o. w Kłobucku
+Wojska Polskiego 6
+42-100 Kłobuck
+
+" STYL " Usługi remontowo-budowlane
+Cmentarna 8
+42-100 Kłobuck
+
+Ekbud Sp. z o.o.
+Wieluńska 3
+42-100 Kłobuck
+
+Bonarewicz sp.j.
+Hugo Kołłątaja 4
+42-100 Kłobuck
+
+Profil II. PH. Gawęda T.
+Wieluńska 3
+42-100 Kłobuck
+
+#Poczta
+
+InPost
+Stanisława Staszica 53
+42-100 Kłobuck
+
+UPS Access Point
+3 Maja 17
+42-100 Kłobuck
+
+Komenda Powiatowa Państwowej Straży Pożarnej w Kłobucku
+Częstochowska 45
+42-100 Kłobuck
+
+Ochotnicza Straż Pożarna w Kłobucku
+42-100 Kłobuck
+
+Urząd Stanu Cywilnego w Kłobucku
+11 Listopada 6
+42-100 Kłobuck
+
+Paczkomat InPost
+11 Listopada 26
+42-100 Kłobuck
+
+Osada Leśna. Nadleśnictwo Kłobuck
+Zakrzewska 85
+42-100 Kłobuck
+
+InPost - Punkt Obsługi Paczek (POP)
+Wieluńska 31D
+42-100 Kłobuck
+
+Las i Ogród, mgr inż. Andrzej, Autoryzowany Diler Husqvarna
+Zakrzewska 66
+42-100 Kłobuck
+
+Paczkomat InPost
+Juliusza
+Rómmla 9
+42-100 Kłobuck
+
+Leśnictwo Zagórze. Nadleśnictwo Kłobuck
+Podleśna 4
+42-100 Kłobuck
+
+Paczkomat InPost
+Stanisława Staszica 53
+42-100 Kłobuck
+
+Ochotnicza Straż Pożarna
+Harcerska 4
+42-100 Kłobuck
+
+Leśniczówka Rybno. Nadleśnictwo Kłobuck
+Zakrzewska 96
+42-100 Kłobuck
+
+Państwowa Straż Pożarna. Komenda Powiatowa
+Częstochowska 45
+42-100 Kłobuck
+
+#Emeryci
+
+Polski Związek Emerytów Rencistów i Inwalidów
+Harcerska 4
+42-100 Kłobuck
+
+#PZU
+
+PZU
+3 Maja 51
+42-100 Kłobuck
+
+#muzeum
+
+Cmentarz żydowski w Kłobucku
+Sadowa 13
+42-100 Kłobuck
+
+Park ZAGÓRZE
+Zamkowa 6/2
+42-100 Kłobuck
+
+Pomnik Jana Długosza
+rynek Imienia Jana Pawła II 7
+42-100 Kłobuck
+
+Gazeta Kłobucka
+3 Maja 51
+42-100 Kłobuck
+
+#Czerwony Krzyż
+
+Polski Czerwony Krzyż. Śląski Zarząd Okręgowy. Zarząd Rejonowy
+Harcerska 4
+42-100 Kłobuck
+
+#Seniorzy
+
+Senior Partner 24 sp. z o.o.
+Staszica 12
+42-100 Kłobuck
+
+======================================================================
+42-125 KŁOBUCK
+
+#Dom kultury
+
+Kino Miejskiego Ośrodka Kultury
+Targowa 1
+42-100 Kłobuck
+
+#Szpital
+
+Zespoł Opieki Zdrowotnej
+11 Listopada 5A
+42-100 Kłobuck
+
+Niepubliczny Zakład Opieki Zdrowotnej NOVO-MED
+ul. Staszica 28
+42-100 Kłobuck
+
+#Bank
+
+Bank Spółdzielczy
+Bohaterów Bitwy pod Mokrą 2
+42-100 Kłobuck
+
+Bank Ochrony Środowiska SA
+11 Listopada 8
+42-100 Kłobuck
+
+Bankomat PKO
+Poprzeczna
+42-100 Kłobuck
+
+#Produkcja
+
+KW Produkt
+Kłobucka 87
+42-125 Kamyk
+
+#Stowarzyszenie
+
+NGB KŁOBUCK
+11 Listopada 9
+42-100 Kłobuck
+
+#Koło
+
+42-125
+Łobodno
+Kłobuck
+Libidza
+Gruszewnia
+Kamyk
+Biała
+Borowianka
+Wapiennik
+Podpapiernia
+Nowa Wieś
+Kopiec
+
+#Firma
+
+MIMAR Zdzisław August
+42-125 Kłobuck
+
+#Poczta
+
+Leśnictwo Kocin. Nadleśnictwo Kłobuck
+42-125 Nowa Wieś
+
+#PZU
+
+Chwalana J. Pośrednictwo ubezpieczeniowe PZU
+Hetmana Stefana Żółkiewskiego 15
+42-100 Kłobuck
+
+Puchała Anna. Pośrednictwo ubezpieczeniowe
+Podleśna 47A
+42-100 Kłobuck
+
+Agencja Ubezpieczeniowa Andrzej Paruzel Małgorzata Paruzel. Ubezpieczenia Kłobuck
+Częstochowska 1E
+42-100 Kłobuck
+
+Agencja Ubezpieczeniowa "J.P.M " Janusz Mros
+Częstochowska 3B
+42-100 Kłobuck
+
+#Centrum
+
+Centrum Logistyczne Polomarket
+42-100 Kłobuck
+
+Szkółka Roślin Ozdobnych W. i A. Blabuś
+Kłobucka 44
+42-125 Libidza
+
+Cmentarz
+42-125 Kłobuck
+
+======================================================================
+42-290 BLACHOWNIA
+
+#Urząd
+
+Urząd Miasta Blachownia
+Henryka Sienkiewicza 22
+42-290 Blachownia
+
+#Dom kultury
+
+Miejski Dom Kultury
+Częstochowska 19
+42-290 Blachownia
+
+#Szkoła
+
+Szkoła Podstawowa nr 1
+Henryka Sienkiewicza 8
+42-290 Blachownia
+
+#Przedszkole
+
+Przedszkole nr 2
+Żeromskiego 4A
+42-290 Blachownia
+
+#Biblioteka
+
+Biblioteka Miejska
+Żeromskiego 3B
+42-290 Gmina Blachownia
+
+#Szpital
+
+Szpital im. Rudolfa Weigla (Hospital. Rudolf Weigl)
+Sosnowa 16/42 - 290
+42-200 Blachownia
+
+#Przychodnia
+
+Niepubliczny Zakład Opieki Zdrowotnej Przychodnia Lekarska "BLAMED" Sp. z o.o.
+Henryka Sienkiewicza 4
+42-290 Blachownia
+
+#Placówka
+
+Placówka Opiekuńczo - Wychowawcza
+Sosnowa 12A
+42-290 Blachownia
+
+#Oddział
+
+Szpital im. Rudolfa Weigla
+Sosnowa 16/42 - 290
+42-200 Blachownia
+
+#Policja
+
+Komisariat Policji w Blachowni
+1 Maja 101
+42-290 Blachownia
+
+#Przedsiębiorstwo
+
+Rob. Przedsiębiorstwo budowlane
+Parkowa 28
+42-290 Blachownia
+
+#Produkcja
+
+P.P.H.U. "LESZKO" Leszek Dobrzański
+Wręczycka 10
+42-290 Blachownia
+
+Duolla s.c. Producent lamp i abażurów
+Kościuszki 55
+42-290 Blachownia
+
+GOŁĄB - Producent Leżaków
+Partyzantów 29
+42-290 Blachownia
+
+Marmat s.c. Mrowiec M.
+Parkowa 19
+42-290 Blachownia
+
+Firma "Dudek" Michał Dudek
+Brzozowa 7
+42-290 Blachownia
+
+Nlux.pl
+1 Maja 4
+42-290 Blachownia
+
+Głębocki Robert. FPHU. Metaloplastyka
+Partyzantów 5
+42-290 Blachownia
+
+Margol Electronics Sp. z o.o.
+Wczasowa 14
+42-290 Blachownia
+
+Ogrodzeniablachownia.pl
+Piastów 99
+42-290 Blachownia
+
+Firma usługowa-handlowa "Domi,"
+Górnicza 5
+42-290 Blachownia
+
+Lid-Pol. PPHU. Usługi stolarskie. Krakowiak L.
+Księżycowa 3
+42-290 Blachownia
+
+Namat
+Sosnowa 17
+42-290 Blachownia
+
+#Spółdzielnia
+
+Spółdzielnia Mieszkaniowa W Blachowni
+Bankowa 9
+42-290 Blachownia
+
+#Związek
+
+Stowarzyszenie Na Rzecz Osób Niepełnosprawnych ACADEMIA
+Częstochowska 71
+42-290 Blachownia
+
+#Fundacja
+
+Fundacja Ambasada Dobroczynności
+gen. Bema 4a
+42-290 Blachownia
+
+#Poczta
+
+Urząd Pocztowy
+Żeromskiego 8
+42-290 Blachownia
+
+#PZU
+
+Dentysta Blachownia
+ks. Kubowicza
+42-290 Blachownia
+
+Agent Ubezpieczeniowy Renata Gruca
+Marynarska 4
+42-290 Blachownia
+
+#muzeum
+
+Krzyż z okazji 120 rocznicy Insurekcji Kościuszkowskiej
+Leśna 30
+42-290 Blachownia
+
+#Jeździecki
+
+Rusticana. Łomzik-Borowik M.
+Mickiewicza 9
+42-290 Blachownia
+
+======================================================================
+42-125 ŁOBODNO
+
+#Szkoła
+
+Zespół Szkolno-Przedszkolny im.Marii Konopnickiej w Łobodnie
+Sienkiewicza 69
+42-125 Łobodno
+
+Punkt Terapeutyczno - Przedszkolny "Mila i Przyjaciele
+Nadrzeczna 1
+42-125 Łobodno
+
+Zespół Szkół w Łobodnie
+Sienkiewicza 69
+42-120 Łobodno
+
+Sienkiewicza 69
+Sienkiewicza 2
+42-125 Łobodno
+
+======================================================================
+42-130 KALEJ
+
+#Szkoła
+
+Szkoła Podstawowa Zespołu Szkolno - Przedszkolnego im. K. Makuszyńskiego
+Szkolna 1
+42-130 Kalej
+
+OSK Azymut
+Główna 58
+42-130 Kalej
+
+Szkoła Podstawowa Im Adama Mickiewicza We Wręczycy Wielkiej
+Szkolna 11
+42-130 Kalej
+
+#Przychodnia
+
+Zoz Kalej
+Główna 57
+42-130 Kalej
+
+#Produkcja
+
+Teak Mebel
+42-130 Kalej; Główna 105
+42-130
+
+======================================================================
+42-274 KONOPISKA
+
+#Urząd
+
+Urząd Stanu Cywilnego
+Lipowa 5
+42-274 Konopiska
+
+Urząd Pocztowy - Konopiska
+Lipowa 3
+42-274 Konopiska
+
+Urząd Gminy Konopiska
+42-274
+
+Straż Pożarna
+Opolska 20
+42-274 Konopiska
+
+LOT Konopiska
+Lipowa 8
+42-274 Konopiska
+
+#Dom kultury
+
+Gminne Centrum Kultury i Rekreacji w Konopiskach
+Sportowa 60
+42-274 Konopiska
+
+#Szkoła
+
+Szkoła podstawowa im. Marii Konopnickiej w Jamkach-Korzonku
+Śląska 130
+42-274 Konopiska
+
+Zespół Szkół w Konopiskach
+Sportowa 7
+42-274 Konopiska
+
+#Przedszkole
+
+Przedszkole Publiczne
+42-274 Konopiska; Lipowa 8
+42-274
+
+#Bank
+
+Bank Spółdzielczy
+Częstochowska 28
+42-274 Konopiska
+
+Agencja PKO Banku Polskiego
+Częstochowska 1/5
+42-274 Konopiska
+
+Planet Cash. Bankomat
+Sportowa 1/3
+42-274 Konopiska
+
+DON-STAR Donata Kowalik
+Częstochowska
+42-274 Konopiska
+
+Bank Spółdzielczy w Konopiskach. Oddział
+Bankowa 9
+42-290 Blachownia
+
+Bank Spółdzielczy. Bankomat
+42-274 Konopiska
+
+#Produkcja
+
+PPH ANATOL
+Przemysłowa 23
+42-274 Konopiska
+
+F.P.U.H. "AKANT" Andrzej Kożuch
+Przemysłowa 59
+42-274 Konopiska
+
+KUŹNIA PAŁYSZ
+Przemysłowa 5a
+42-274 Konopiska
+
+PPH mkm - Producent Swetrów Urszula Kołaczyk
+Hutki
+42-274 Konopiska
+
+Factory BS sp z o.o. sp k
+Opolska 1/4
+42-274 Konopiska
+
+mkm STUDIO - Producent Odzieży Damskiej
+Stawowa 2
+42-274 Konopiska
+
+Eliko - producent grzałek i elementów grzewczych
+Częstochowska 30
+42-274 Konopiska
+
+Wytwórnia Włóknin Technicznych Zbigniew Hamala
+Konopiska
+ul Rolnicza Rolnicza
+42-274 Konopiska
+
+twojerolety.com
+Brzozowa 19
+42-274 Konopiska
+
+Max Glass - Kowalski Family Company
+Wygoda 15A
+42-274 Konopiska
+
+Formes Sp. z o.o. - wtryskownia tworzyw sztucznych, akcesoria łazienkowe
+Spółdzielcza 2
+42-274 Konopiska
+
+#Zakład
+
+Strach Waldemar. Zakład oczyszczania miasta
+42-274 Konopiska; Spółdzielcza 1 1
+42-274
+
+#Zakłady
+
+Hamerla Leszek. Zakład kowalski. Naprawa resorów, wałów pędnych
+Sportowa 26
+42-274 Konopiska
+
+Zakład Usługowy Robert Węgliński
+Opolska 110
+42-274 Konopiska
+
+Mastex Bis. Zakład remontowo - budowlany. Masina P.
+Heweliusza 19
+42-274 Konopiska
+
+Kita Krystian. Zakład hydrauliczny
+Brzozowa 15
+42-274 Konopiska
+
+Trans-Klim ZAKŁAD PRODUKCJI KRĘGÓW I RUR BETONOWYCH
+Rększowice 160
+42-274 Konopiska
+
+Edyta. Zakład Fryzjerski
+Sportowa 1A
+42-274 Konopiska
+
+ARJAN Janusz Posmyk, Arkadiusz Posmyk Konopiska
+Wąsosz 36
+42-274 Wąsosz
+
+Kamieniarstwo B.J. Kowalczyk sp. J.
+Przemysłowa 5
+42-274 Konopiska
+
+El-Technik s.c. ZW
+Spółdzielcza 1
+42-274 Konopiska
+
+Zakład Naprawczy Leszek Hamerla Napawa Resorów, Wyważanie wałów napędowych Konopiska
+Sportowa 26
+42-274 Konopiska
+
+#Koło
+
+42-274
+Konopiska
+Aleksandria
+Częstochowa
+Hutki
+Rększowice
+WIĘCEJ
+
+#Poczta
+
+Urząd Pocztowy - Konopiska (Post Office - Konopiska)
+Lipowa 3
+42-274 Konopiska
+
+#PZU
+
+Michalczyk Renata. Agencja PZU Życie
+Częstochowska 157
+42-274 Konopiska
+
+#Centrum
+
+Centrum Odzieżowe KONOPISKA
+Towarowa 2
+42-274 Konopiska
+
+TEXAS Odzież Jeansowa Centrum Odzieżowe Konopiska
+Przemysłowa 1
+42-274 Konopiska
+
+SP ZOZ GOZ Konopiska
+Lipowa 3
+42-274 Konopiska
+
+Centrum Medyczne Konopiska
+Sportowa 2
+42-274 Konopiska
+
+Harcerski Ośrodek Szkoleniowo - Wypoczynkowy "Pająk" Hufca ZHP Częstochowa
+HOSW "Pająk"
+42-274 Konopiska
+
+Aerobic-Club
+42-274 Konopiska; Kosmiczna 13
+42-274
+
+Gminne Centrum Kultury i Rekreacji w Konopiskach
+Częstochowska 1
+42-274 Konopiska
+
+Gminne Centrum Kultury i Rekreacji w Konopiskach
+Lipowa 3
+42-274 Konopiska
+
+#Seniorów
+
+Urząd Gminy Konopiska
+Lipowa 5
+42-274 Konopiska
+
+======================================================================
+42-290 WYRAZÓW
+
+#Szkoła
+
+Wiraż. Ośrodek szkolenia kierowców
+Krzywa 14
+42-290 Wyrazów
+
+#Produkcja
+
+Tartak Wyrazów-Częstochowa,Drewno, więźba, impregnacja
+Wyścigowa 26
+42-290 Wyrazów
+
+#Zakład
+
+Zakład Drzewny "Wyrazów" S.c.
+Wyścigowa 26
+42-290 Wyrazów
+
+#Poczta
+
+Firma transportowa MARSŁAW
+Starowiejska 6
+42-290 Częstochowa - Wyrazów
+
+Agencja Pocztowa - Wyrazów
+Podmiejska 28
+42-290 Wyrazów
+
+======================================================================
+42-290 ŁOJKI
+
+#Szkoła
+
+Szkola Podstawowa Im Kornela Makuszyńskiego
+Długa 48
+42-290 Łojki
+
+#Produkcja
+
+Goliard Sp. z o.o.
+Długa 6/k
+42-290 Łojki
+
+#Spółka
+
+Firma MIK-STAL Sp. z o.o. Sp.k.
+ul
+Długa 4
+42-290 Łojki
+
+#Poczta
+
+Krzyż dziękczynny
+42-290 Łojki
+
+======================================================================
+42-130 SZARLEJKA
+
+#Produkcja
+
+SAPRO SYSTEM GIANLUCA BARBIRATO
+Stefana Łukaszewicza 40
+42-130 Szarlejka
+
+Dekor-Met Mieczysław Pisarek
+Stefana Łukaszewicza 158
+42-130 Szarlejka
+
+#Firma
+
+Radomix
+Stefana Łukaszewicza 112
+42-130 Szarlejka
+
+======================================================================
+42-125 KAMYK
+
+#Przedszkole
+
+Zespół Szkolno-Przedszkolny im. gen. J. Bema w Kamyku
+Szkolna 5A
+42-125 Kamyk
+
+#Szpital
+
+ZOZ w Kłobocku, Poradnia Ogólna w Kamyku
+Witosa 3
+42-125 Kamyk
+
+#Bank
+
+Bank Polskiej Spółdzielczości S.A. Bankomat
+42-125 Kamyk
+
+#Przedsiębiorstwo
+
+Przedsiębiorstwo Robót Inżynieryjnych "KAMPOL" Żurawski Jan
+Nadrzeczna 14
+42-125 Kamyk
+
+#Spółka
+
+Adbor sp.j.
+42-125 Kamyk; Reymonta 113b
+42-125
+
+#Poczta
+
+Urząd Pocztowy. Filia
+Witosa 9
+42-125 Kamyk
+
+Poczta Polska
+Wincentego Witosa 9
+42-125 Kamyk
+
+Straż Pożarna
+Strażacka 2
+42-125 Kamyk
+
+Kościół pw. Matki Bożej Wspomożenia Wiernych
+Władysława Reymonta 1
+42-125 Kamyk
+
+LKS Pogoń Kamyk
+Szkolna 3
+42-125 Kamyk
+
+#muzeum
+
+Consonni
+Strażacka 38A
+42-125 Kamyk
+
+======================================================================
+42-125 BOROWIANKA
+
+======================================================================
+42-125 BIAŁA
+
+#Szkoła
+
+Szkoła Podstawowa W Białej
+Częstochowska 73
+42-125 Biała
+
+#Przedszkole
+
+PRZEDSZKOLE CZĘSTOCHOWA
+Biała 26
+42-200 Częstochowa
+
+#Produkcja
+
+PPH AVITO Witold Musial
+Jasnogórska 26A
+42-125 Biała
+
+Agatmeble Sławomir Grzybek
+Jasnogórska 25
+42-125 Biała
+
+WAKART Wózki lalkowe
+Sosnowa 13
+42-125 Biała
+
+#Zakład
+
+Zaklad miesny Zygmunt
+Jasnogórska 142
+42-125 Biała
+
+#Poczta
+
+Paczkomat InPost
+Częstochowska 65
+42-125 Biała
+
+======================================================================
+42-231 NOWY KOCIN
+
+#Bank
+
+Jesienna Nostalgia kennel - tibetan mastiff, Do-Khyi, mastif tybetański, Buldog Angielski
+Prosta 59
+42-231 Nowy Kocin
+
+Z Zielonych Klyśni- Hodowla Berneńskich Psów Pasterskich
+Prosta 79
+42-231 Nowy Kocin
+
+CZAR WIOSNY - hodowla Berneńskich Psów Pasterskich
+Prosta
+42-231 Nowy Kocin
+
+======================================================================
+42-231 STARY KOCIN
+
+#Uniwersytet
+
+Szkoła Podstawowa Im Wołyńskiej Brygady Kawalerii W Starym Kocinie
+Kręta 91
+42-231 Stary Kocin
+
+#Bank
+
+Szkoła Podstawowa
+Kręta 91
+42-231 Stary Kocin
+
+#Produkcja
+
+Tartak Kocin
+Równoległa 3
+42-231 Stary Kocin
+
+#Poczta
+
+OSP Stary Kocin
+Kręta 104
+42-231 Stary Kocin
+
+======================================================================
+42-233 LUBOJNA
+
+#Przedszkole
+
+Przedszkole
+Strażacka 21
+42-233 Lubojna
+
+#Produkcja
+
+Orstal. Produkcja kotłów c.o. i dennic do zbiorników ciśnieniowych
+Ogrodowa 6
+42-233 Lubojna
+
+#Stowarzyszenie
+
+Kościół pw. Najświętszego Serca Pana Jezusa
+Strażacka
+42-233 Lubojna
+
+#Poczta
+
+Osrodel Zdrowia
+Częstochowska 27
+42-233 Lubojna
+
+Ochotnicza Straż Pożarna
+Strażacka
+42-233 Lubojna
+
+STAK TRANS LOGISTIC Sp. z o.o.
+Leśna 6
+42-233 Lubojna
+
+======================================================================
+42-233 WIERZCHOWISKO
+
+#Szkoła
+
+Szkoła Podstawowa im. Tadeusza Kościuszki w Wierzchowisku
+Długa 110
+42-233 Wierzchowisko
+
+#Przedszkole
+
+Artystyczne Przedszkole Olka Klepacza "Klepaczówka"
+Szkolna 12
+42-233 Wierzchowisko
+
+#Uniwersytet
+
+Gabinet Medycyny Estetycznej EGOESTETIC
+Szkolna 7
+42-233 Wierzchowisko
+
+#Przychodnia
+
+Przychodnia Północ Poradnia Medycyny Rodzinnej.
+Długa 135
+42-233 Wierzchowisko
+
+======================================================================
+42-231 KOKAWA
+
+======================================================================
+42-233 LUBOJENKA
+
+#Szkoła
+
+Kościół Rzymskokatolicki Pod Wezwaniem Świętej Siostry Faustyny w Lubojence
+Prosta 3
+42-233 Lubojenka
+
+KNS Katarzyna Nicpoń
+Prosta 81
+42-233 Lubojenka
+
+#Poczta
+
+Stowarzyszenie Wzajemnej Pomocy AGAPE
+Prosta 99
+42-209 Lubojenka
+
+======================================================================
+46-282 TUŁY
+
+#Produkcja
+
+TWORZYWA SZTUCZNE- WOLPLAST
+Tuły 2
+46-282 Tuły
+
+#Poczta
+
+Kościół
+Tuły 41
+46-282 Tuły
+
+======================================================================
+46-046 BIERDZANY
+
+#Szkoła
+
+Przedszkole Publiczne
+Szkolna 3a
+46-045 Bierdzany
+
+#Bank
+
+Poczta Polska
+Szkolna 16a
+46-046 Bierdzany
+
+Nowak Hubert. Autoserwis. Naprawy, części samochodowe
+Opolska 5
+46-046 Bierdzany
+
+Dworek Jana
+Opolska 19
+46-045 Bierdzany
+
+#Spółka
+
+Jóźwiak Henryk Restauracja Marta Laskowska 1, 46-046 Bierdzany
+Opolska
+46-045 Bierdzany
+
+#Klub
+
+Boisko Sokół Bierdzany
+DW463
+46-046 Bierdzany
+
+======================================================================
+46-046 LIGOTA TURAWSKA
+
+#Szkoła
+
+Publiczna Szkoła Podstawowa w Ligocie Turawskiej
+Główna 32
+46-045 Ligota Turawska
+
+#Szpital
+
+OSP Ligota Turawska
+Kadłubska
+DW463 1a
+46-046 Ligota Turawska
+
+#Bank
+
+Salon Kosmetyczny ELIZ
+Dobrodzieńska 22
+46-046 Ligota Turawska
+
+Gościniec Jagoda
+Główna 16
+46-045 Ligota Turawska
+
+Koc Joanna. Biuro rachunkowe
+Dworska 25
+46-046 Ligota Turawska
+
+SKUP ZBOŻA
+Dworska 1
+46-046 Ligota Turawska
+
+#Poczta
+
+Kościół pw. św. Antoniego Padewskiego
+46-046 Ligota Turawska
+
+#muzeum
+
+Izba Regionalna
+1a 46-046
+Kadłubska 1
+46-045 Ligota Turawska
+
+======================================================================
+46-043 DYLAKI
+
+#Szkoła
+
+Szkoła Podstawowa Publiczna
+Szkolna 5
+46-043 Dylaki
+
+#Produkcja
+
+Coroplast Polska Sp. z o.o.
+Ozimska 54
+46-043 Dylaki
+
+======================================================================
+46-243 BAŻANY
+
+======================================================================
+46-200 KUNIÓW
+
+#Szkoła
+
+Publiczna Szkoła Podstawowa z Oddziałami Przedszkolnymi im. Bł .Jana Pawła II
+Kuniów 74
+46-200 Kluczbork
+
+#Agencja
+
+Wymajem namiotów i kempingów.
+Kuniów 85
+46-200 Kuniów
+
+#Spółka
+
+P.P.H.U. Hellux-Hain Sp. J.
+Kuniów 17 B
+46-200 Kuniów
+
+#Klub
+
+LZS Kuniów
+46-200 Kuniów
+
+======================================================================
+46-046 ZAKRZÓW TURAWSKI
+
+#Bank
+
+Mal-Bud
+Klapacz 5
+46-045 Zakrzów Turawski
+
+Modelarstwo Odlewnicze Zdzisław Końca
+Krótka 5
+46-045 Zakrzów Turawski
+
+#Zakład
+
+Zakład stolarski Plotnik Marek i Gizela
+Główna
+46-046 Zakrzów Turawski
+
+======================================================================
+46-282 LASOWICE WIELKIE
+
+#Urząd
+
+Urząd Gminy Lasowice Wielkie
+Lasowice Wielkie 99A
+46-282 Lasowice Wielkie
+
+#Ośrodek
+
+Petra Dom Weselny Wesele z noclegiem Wesele wolne terminy Imprezy - organizacja
+ul. Osiedle 13 46-282
+Lasowice Wielkie
+
+NZOZ BIOMED Ośrodek Zdrowia
+Lasowice Wielkie 130
+46-282 Lasowice Wielkie
+
+Bemet
+Lasowice Wielkie 95A
+46-282 Lasowice Wielkie
+
+"PROCHOTA" s.c. Marcin i Piotr Prochota
+Lasowice Wielkie 8
+46-282 Lasowice Wielkie
+
+Poczta Polska
+Lasowice Wielkie 89,46-282
+46-282
+
+#Szkoła
+
+Zespół Gimnazjalno-Szkolno-Przedszkolny
+Lasowice Wielkie 83
+46-282 Lasowice Wielkie
+
+#Bank
+
+BLYSS Polska Sp. z o.o. - Produkcja zabudów samochodowych, produkcja przyczep
+Lasowice Wielkie 42a
+46-282 Lasowice Wielkie
+
+Betonlit Sp. z o.o.
+Trzebiszyn 65
+46-282 Lasowice Wielkie
+
+Apteka
+Lasowice Wielkie 99A,46-282
+46-282
+
+#Spółdzielnia
+
+Osiedle. Spółdzielnia Mieszkaniowa
+46-282 Lasowice Wielkie
+
+#Poczta
+
+Poczta Polska
+46-282 Lasowice Wielkie
+
+Ochotnicza Straż Pożarna
+Lasowice Wielkie 81,46-282
+46-282
+
+Kościół Wszystkich Świętych w Lasowicach Wielkich
+46-282 Lasowice Wielkie
+
+Ewangelicki kościół św. Piotra i Pawła w Lasowicach Wielkich
+46-282 Lasowice Wielkie
+
+======================================================================
+46-280 LASOWICE MAŁE
+
+#Spółka
+
+POL-LAS Sp. z o.o.
+Odrodzenia 40
+46-280 Lasowice Małe
+
+#Poczta
+
+Poczta Polska
+Odrodzenia 30
+46-282 Lasowice Małe
+
+Ochotnicza Straż Pożarna
+Odrodzenia 33
+46-280 Lasowice Małe
+
+Kościół Wniebowzięcia Najświętszej Maryi Panny w Lasowicach Małych
+Odrodzenia
+46-280 Lasowice Małe
+
+Leśnictwo Jasienie. Nadleśnictwo Kluczbork
+46-280 Lasowice Małe; Odrodzenia 57
+Zwycięstwa
+46-280
+
+#PZU
+
+Gastromer. Wilhelm W.
+Odrodzenia 19
+46-280 Lasowice Małe
+
+Punkt Apteczny Zdrowie
+Odrodzenia 28
+46-280 Lasowice Małe
+
+Rainsz Sylwia. Sklep spożywczo - mięsny
+Odrodzenia 29
+46-280 Lasowice Małe
+
+======================================================================
+46-275 SZUMIRAD
+
+#Szkoła
+
+Konska Ostoja
+Szumirad 2
+46-275 Szumirad
+
+======================================================================
+46-280 CHOCIANOWICE
+
+#Uniwersytet
+
+Zespół Gimnazjalno-Szkolno-Przedszkolny w Chocianowicach
+Chocianowice 78
+46-280 Chocianowice
+
+#Poczta
+
+Poczta Polska
+Chocianowice 111
+46-282 Chocianowice
+
+OSP w Chocianowicach
+Chocianowice 74
+46-280 Chocianowice
+
+Kościół Rzymskokatolicki
+46-280 Chocianowice
+
+Hodowla Garłacza Pomorskiego
+Chocianowice 262
+46-280 Lasowice Małe
+
+======================================================================
+46-275 CHUDOBA
+
+#Szkoła
+
+Zespół Szkolno Przedszkolny w Chudoba
+46-275
+
+Szkoła Podstawowa w Chudoba
+46-275 Wędrynia
+
+#Bank
+
+Poczta Polska
+Chudoba 136
+46-282 Chudoba
+
+#Stowarzyszenie
+
+Dla Chudoby. Stowarzyszenie na Rzecz Rozwoju Wsi
+124
+46-275 Chudoba
+
+======================================================================
+46-040 CHOBIE
+
+#Zakłady
+
+Zakład Ślusarsko-Spawalniczy Piotr Jośko
+Wiejska 46
+46-040 Chobie
+
+======================================================================
+46-048 KNIEJA
+
+======================================================================
+46-048 ŁĄKA
+
+======================================================================
+46-048 RADAWIE
+
+#Szkoła
+
+Publiczna Szkoła Podstawowa W Radawiu
+Szkolna 22
+46-048 Radawie
+
+======================================================================
+46-280 CIARKA
+
+#Zakład
+
+Zakład Kamieniarski Daniel Kwieciński
+Ciarka 31
+46-280 Ciarka
+
+======================================================================
+46-048 ZĘBOWICE
+
+#Urząd
+
+Urząd Gminy
+Murka 2
+46-048 Zębowice
+
+#Przedszkole
+
+Przedszkole Publiczne
+Dobrodzieńska 32
+46-048 Zębowice
+
+#Bank
+
+Bank Spółdzielczy w Zawadzkiem. Oddział
+Murka 2a
+46-048 Zębowice
+
+#Spółka
+
+Publiczna Szkoła Podstawowa im. Powstańców Śląskich - Zespół Gimnazjalno-Szkolny w Zębowicach
+Oleska 10
+46-048 Zębowice
+
+#Spółdzielnia
+
+Spółdzielnia Handlowo - Produkcyjna
+Murka 5
+46-048 Zębowice
+
+#Koło
+
+46-048
+Radawie
+Kadłub Wolny
+Zębowice
+Prusków
+Knieja
+Poczołków
+Siedliska
+Osiecko
+Radawie k Olesna
+Łąka
+
+#Poczta
+
+Urząd Pocztowy
+Murka 2
+46-048 Zębowice
+
+#PZU
+
+Agent ubezpieczeniowy inspektoratu PZU
+46-048 Zębowice
+
+======================================================================
+46-048 PRUSKÓW
+
+======================================================================
+46-300 STARE OLESNO
+
+#Produkcja
+
+NESTRO PPHU Sp. z o.o.
+Kolejowa 2
+46-300 Stare Olesno
+
+#PZU
+
+Restauracja I Hotel "Nad Stawem" Horn
+Kluczborska 10B
+46-300 Stare Olesno
+
+Karczma Góralska Wiejska Izba
+Kluczborska 10 b
+46-300 Stare Olesno
+
+======================================================================
+46-048 KADŁUB WOLNY
+
+#Urząd
+
+Zarząd Lasów Drobnowłościańskich. Wspólnota Chłopska
+Murka 25
+46-048 Kadłub Wolny
+
+#Szkoła
+
+Szkoła Podstawowa Publiczna
+Szkolna 4
+46-048 Kadłub Wolny
+
+#Szpital
+
+Tawerna pod Kotwicą
+Murka 39
+46-048 Kadłub Wolny
+
+#Bank
+
+MoneyGram
+Murka 2
+46-048 Kadłub Wolny
+
+#Produkcja
+
+Ebiś Jerzy. Tartak drzewny. Krawędziarki, belki
+Murka 2
+46-048 Kadłub Wolny
+
+#Zakład
+
+Wodarczyk Jan. Zakład stolarski
+Murka 16
+46-048 Kadłub Wolny
+
+#Stowarzyszenie
+
+Stowarzyszenie Rozwoju Wsi Kadłub Wolny
+Szkolna 5
+46-048 Kadłub Wolny
+
+#Poczta
+
+Paczkomat InPost
+Oleska 6
+46-048 Kadłub Wolny
+
+Sołtys
+Oleska 1
+46-048 Kadłub Wolny
+
+#PZU
+
+Tartak Drzewny Jerzy Ebiś
+Murka 2
+46-048 Kadłub Wolny
+
+======================================================================
+46-380 TURZA
+
+#Szkoła
+
+Publiczna Szkoła Podstawowa w Turzy
+Kolejowa 27
+46-380 Turza
+
+======================================================================
+46-380 SZEMROWICE
+
+#Przedszkole
+
+Przedszkole Samorządowe
+Wiejska 30
+46-380 Szemrowice
+
+#Szpital
+
+OSP Szemrowice
+Strażacka 1
+46-380 Szemrowice
+
+#Produkcja
+
+Belan. Zakład ślusarsko - kotlarski. Producent kotłów c.o.
+46-380 Szemrowice; Rzemieślnicza 4
+46-380
+
+#Poczta
+
+Leśnictwo Dąbrowice. Nadleśnictwo Opole
+46-380 Szemrowice
+
+======================================================================
+46-300 WACHÓW
+
+#Szkoła
+
+Publiczna Szkoła Podstawowa w Wachowie
+Polna 17
+46-300 Wachów
+
+#Bank
+
+Magnum Klub
+Polna 13
+46-300 Wachów
+
+#Poczta
+
+Ochotnicza Straż Pożarna
+Polna 13
+46-300 Wachów
+
+======================================================================
+46-380 DOBRODZIEŃ
+
+#Urząd
+
+Urząd Miejski
+plac Wolności 1
+46-380 Dobrodzień
+
+#Ośrodek
+
+Młodzieżowy Ośrodek Socjoterapii. Specjalny ośrodek szkolno - wychowawczy
+Piastowska 35
+46-380 Dobrodzień
+
+Stadion Miejski
+Piastowska 25
+46-380 Dobrodzień
+
+#Dom kultury
+
+Dobrodzieński Ośrodek Kultury i Sportu
+plac Wolności 24
+46-380 Dobrodzień
+
+#Szkoła
+
+Szkoła Podstawowa Publiczna
+Piastowska 49
+46-380 Dobrodzień
+
+#Przedszkole
+
+Przedszkole
+Piastowska 64
+46-380 Dobrodzień
+
+#Uniwersytet
+
+DELTA – SZKOŁA MATEMATYCZNA
+Lubliniecka 81
+46-380 Dobrodzień
+
+#Biblioteka
+
+Biblioteka Publiczna
+plac Wolności 24
+46-380 Dobrodzień
+
+#Szpital
+
+Podstacja Opolskiego Centrum Ratownictwa Medycznego
+Reymonta 2
+46-380 Dobrodzień
+
+Samodzielny Publiczny Zakład Opiekuńczo - Leczniczy
+Oleska
+46-380 Dobrodzień
+
+Eskulap s.c. NZOZ
+Moniuszki 2
+46-380 Dobrodzień
+
+#Placówka
+
+Zespół Placówek Edukacyjnych
+Piastowska 35
+46-380 Dobrodzień
+
+#Bank
+
+Bank Spółdzielczy
+Oleska 12
+46-380 Dobrodzień
+
+Planet Cash. Bankomat
+Oleska 23
+46-380 Dobrodzień
+
+PKO Bank Polski S.A.- Bankomat
+plac Wolności 22
+46-380 Dobrodzień
+
+#Policja
+
+Komisariat Policji (Położenie umowne)
+Stein
+46-380 Dobrodzień
+
+#Produkcja
+
+Meblonowak
+Opolska 127
+46-380 Dobrodzień
+
+Kler S.A.
+Piastowska 68
+46-380 Dobrodzień
+
+Meble Grabiński. Grabiński T.
+Lubliniecka 34
+46-380 Dobrodzień
+
+TC Meble Dobrodzień
+Lubliniecka 118
+46-380 Dobrodzień
+
+Eko-Meble
+Wojska Polskiego 60
+46-380 Dobrodzień
+
+Grobosz Joachim. Produkcja oklein i sklejek
+Rzędowicka 4
+46-380 Dobrodzień
+
+Meble Dworaczyk
+Dworcowa 5
+46-380 Dobrodzień
+
+Jafra Connect Sp. z o.o.
+Piastowska 68
+46-380 Dobrodzień
+
+Mechrol Sp. J.
+Piastowska 39
+46-380 Dobrodzień
+
+Salon meblowy Dobroteka
+Oleska 35
+46-380 Dobrodzień
+
+Meble Grabiński. Tomasz Grabiński
+Wojska Polskiego 68
+46-380 Dobrodzień
+
+Miler Meble
+Polna 1
+46-380 Dobrodzień
+
+Lemna Dobrodzień
+Opolska
+46-380 Dobrodzień
+
+Stauro Sp. z o.o.
+Powstańców Śląskich 29
+46-380 Dobrodzień
+
+Meble Joachim Knop
+Opolska 75
+46-380 Dobrodzień
+
+Meble Karpinski-Koza
+Wojska Polskiego 41
+46-380 Dobrodzień
+
+Klabis J. Automatyka
+Lubliniecka 50
+46-380 Dobrodzień
+
+Nowak Jerzy. Meble
+Rzędowicka 12
+46-380 Dobrodzień
+
+"Badura-Meble" Producent Mebli Waldemar Badura
+Wojska Polskiego 65
+46-380 Dobrodzień
+
+Eichhorn Bernard. Meble na zamówienie
+Opolska 18
+46-380 Dobrodzień
+
+#Agencja
+
+"WICHER" AGENCJA UBEZPIECZENIOWA
+Stein 2
+46-380 Dobrodzień
+
+#Stowarzyszenie
+
+Dobrodzień Potrzebującym. Stowarzyszenie
+plac Wolności 24
+46-380 Dobrodzień
+
+Stowarzyszenie Promocji Pływania VEGA
+plac Wolności 24
+46-380 Dobrodzień
+
+Stacja Opieki Caritas Diecezji Opolskiej
+Opolska 2
+46-380 Dobrodzień
+
+#Poczta
+
+Poczta Polska
+Piastowska 9
+46-380 Dobrodzień
+
+#PZU
+
+"Optima" Agencja Usługowo-Ubezpieczeniowa
+Piastowska 24
+46-380 Dobrodzień
+
+PZU Placówka Agenta - Krystyna Wicher
+Lubliniecka 6
+46-380 Dobrodzień
+
+#Jeździecki
+
+Horsetown Sklep Jeździecki Filia Dobrodzień
+plac Wolności 16
+46-380 Dobrodzień
+
+======================================================================
+46-300 OLESNO
+
+#Urząd
+
+Urząd Miejski
+Pieloka 21
+46-300 Olesno
+
+Powiatowy Urząd Pracy w Oleśnie
+Dworcowa 4
+46-300 Olesno
+
+Urząd Stanu Cywilnego
+Jaronia 2
+46-300 Olesno
+
+Starostwo Powiatowe
+Pieloka 21
+46-300 Olesno
+
+Urząd Pocztowy
+Lompy 23
+46-300 Olesno
+
+Urząd Stanu Cywilnego
+Wielkie Przedmieście
+46-300 Olesno
+
+#Ośrodek
+
+Niepubliczny Zakład Opieki Zdrowotnej s.c.
+Pieloka 14
+46-300 Olesno
+
+Proszewski Andrzej. Przychodnia s.c. NZOZ
+Pieloka 14
+46-300 Olesno
+
+Ośrodek Szkolenia i Wychowania
+Wielkie Przedmieście 41
+46-300 Olesno
+
+Powiatowe Centrum Pomocy Rodzinie
+Konopnickiej 8
+46-300 Olesno
+
+#Dom kultury
+
+Miejski Dom Kultury (City house of culture)
+Wielkie Przedmieście 31
+46-300 Olesno
+
+#Szkoła
+
+Szkoła Podstawowa nr 3 im. Powstańców Śląskich
+Krasickiego 25
+46-300 Olesno
+
+Szkoła Podstawowa Publiczna
+Kluczborska 37
+46-300 Olesno
+
+Publiczne Gimnazjum nr 1
+Pieloka 12
+46-300 Olesno
+
+Zespół Szkół Nr 2 w Oleśnie
+51
+Wielkie Przedmieście
+46-300 Olesno
+
+Zespół Szkół w Oleśnie
+Sądowa 2
+46-300 Olesno
+
+Zespół Szkół Ekonomicznych i Ogólnokształcących im. M. Kopernika
+Powstańców Śląskich 4
+46-300 Olesno
+
+Państwowa Szkoła Muzyczna I stopnia
+Wielkie Przedmieście 33
+46-300 Olesno
+
+Zespół Szkół Zawodowych im. J. Lompy
+Wielkie Przedmieście 41
+46-300 Olesno
+
+Internat ZSEiO
+Dębowa
+46-300 Olesno
+
+Technikum nr 1
+41
+Wielkie Przedmieście
+46-300 Olesno
+
+Przedszkole Publiczne
+Opolska 64
+46-300 Olesno
+
+Internat OHP
+Budowlanych 3
+46-300 Olesno
+
+Przedszkole nr 4 Publiczne
+Krasickiego 3
+46-300 Olesno
+
+Technikum Ekonomiczne
+Powstańców Śląskich 4
+46-300 Olesno
+
+Rondo. Nauka jazdy
+Jaśminowa 12
+46-300 Olesno
+
+#Biblioteka
+
+Oleska Biblioteka Publiczna im. J. A. Pieloka
+ks. Aleksandra 5
+46-300 Olesno
+
+#Szpital
+
+Zespół Opieki Zdrowotnej w Oleśnie
+Klonowa 1
+46-300 Olesno
+
+#Przychodnia
+
+MEDIMAR Niepubliczny Zakład Opieki Zdrowotnej
+Słowackiego 1
+46-300 Olesno
+
+Niesłony Piotr, lek. med. Spec. ginekolog położnik. Gabinet
+Krasickiego 2
+46-300 Olesno
+
+Animal Przychodnia Weterynaryjna
+Kossaka 7
+46-300 Olesno
+
+Przychodnia
+Krasickiego 22
+46-300 Olesno
+
+Zaporowski Henryk, lek. med. Spec. neurolog
+Pieloka 14
+46-300 Olesno
+
+PRZYCHODNIA MEDICA - Stomatologia, Diagnostyka, Ortopedia, Chirurgia
+Lipowa 5
+46-300 Olesno
+
+Poradnia Dziecięca s.c. NZOZ
+Klonowa 1
+46-300 Olesno
+
+Zaporowska Maria, lek. med. Spec. dermatolog. Gabinet
+Pieloka 14
+46-300 Olesno
+
+Wid-Dent. Stomatologia, protetyka, ortodoncja
+Sądowa 13
+46-300 Olesno
+
+Family Dental
+Opolska 16A
+46-300 Olesno
+
+Poradnia Psychologiczno - Pedagogiczna Publiczna
+Dębowa
+46-300 Olesno
+
+Mielczarek Bogdan, lek. med. Spec. medycyny pracy, okulista
+Wojska Polskiego 1
+46-300 Olesno
+
+Zygmunt Anna, lek. med. internista. Gabinet
+Srebrna 6
+46-300 Olesno
+
+Poradnia zdrowia psychicznego. ZOZ
+Klonowa 1
+46-300 Olesno
+
+Feniks Pracownia Psychologiczna Anna Krzykawiak - Pinkosz
+Tadeusza Kościuszki 10
+46-300 Olesno
+
+GRALOPTIC OPTYK OKULISTA OLESNO
+SALON GRALOPTIC
+Pieloka 13
+46-300 Olesno
+
+EU Private Dental
+Lipowa 5
+46-300 Olesno
+
+#Bank
+
+ING Bank Śląski
+Reymonta 3
+46-300 Olesno
+
+PKO Bank Polski S.A.-Oddział 1 w Oleśnie
+Rynek 21
+46-300 Olesno
+
+Santander Bank Polska S.A.
+Tadeusza Kościuszki 10
+46-300 Olesno
+
+Agencja PKO Banku Polskiego
+Pieloka 21
+46-300 Olesno
+
+BNP Paribas Bank Polska S.A. Oddział w Oleśnie
+Rynek 15
+46-300 Olesno
+
+Alior Bank - Placówka Partnerska
+Pieloka 11
+46-300 Olesno
+
+Kantor Wymiany Walut MARIOLA NYKIEL
+Mickiewicza 2
+46-300 Olesno
+
+Bank Spółdzielczy w Zawadzkiem O. w Oleśnie
+Mickiewicza 16
+46-300 Olesno
+
+ING Bank Śląski. Bankomat. Wpłatomat
+Reymonta 3
+46-300 Olesno
+
+PKO Bank Polski S.A.- Bankomat
+Rynek 21
+46-300 Olesno
+
+Euronet Polska Sp z o. o.
+ul. Rynek 15
+Credit Agricole Bank Polska S.A.
+46-300 Olesno
+
+Bank Polskiej Spóldzielczosci S.A. Bankomat
+Mickiewicza 16
+46-300 Olesno
+
+Euronet Polska Sp z o. o.
+Biedronka
+Tadeusza Kościuszki 25
+46-300 Olesno
+
+PKO BP I Oddział
+Pieloka 21
+46-300 Olesno
+
+Planet Cash. Bankomat
+Rynek 15
+46-300 Olesno
+
+PKO Bank Polski S.A.- Bankomat
+Konopnickiej 12
+46-300 Olesno
+
+Smuda Consulting
+Konopnickiej 12
+46-300 Olesno
+
+Poczta Polska
+ul
+Małe Przedmieście 36
+46-300 Olesno
+
+zwrot podatku z zagranicy - biuro euro-punkt.pl Olesno
+Labora 6
+46-300 Olesno
+
+Western Union
+Armii Krajowej 3
+46-300 Olesno
+
+#Policja
+
+Komenda Powiatowa Policji
+Klonowa 1A
+46-300 Olesno
+
+#Prokuratura
+
+Prokuratura Rejonowa w Oleśnie
+Dworcowa 4
+46-300 Olesno
+
+#Sąd
+
+Sąd Rejonowy
+Sądowa 3
+46-300 Olesno
+
+#Produkcja
+
+Dawstar-Olesno
+Częstochowska 20
+46-300 Olesno
+
+ALB Moebel Montage
+Grunwaldzka 11
+46-300 Olesno
+
+Mebel akimo
+Dworcowa 15
+46-300 Olesno
+
+Gaden Jerzy. Usługi stolarskie
+Dobrodzieńska 8
+46-300 Olesno
+
+CRK Management
+Dworcowa 17
+46-300 Olesno
+
+P.P.H "Wieczorek" Grzegorz Wieczorek
+Biskupicka 9
+46-300 Olesno
+
+FINMAT
+Częstochowska 20
+46-300 Olesno
+
+SALON FIRMOWY MEBEL AKIMO
+Sądowa
+46-300 Olesno
+
+Black Red White Olesno TRIMEX
+Lubliniecka 1
+46-300 Olesno
+
+Meble Pyka sp.j. PPHU
+Gorzowska 18
+46-300 Olesno
+
+Bondza Rudolf. Stolarstwo meblowo - usługowo - produkcyjne
+Marii Dąbrowskiej 10
+46-300 Olesno
+
+Warsztat - Zakład Usługowy Stolarstwo Meblowe
+Siedmiu Źródeł 10
+46-300 Olesno
+
+ALUDESIGN S.A.
+Dworcowa 1
+46-300 Olesno
+
+2ROWERY
+Konopnickiej 12
+46-300 Olesno
+
+Media Expert
+Tadeusza Kościuszki 36
+46-300 Olesno
+
+#Agencja
+
+Agencja Restrukturyzacji i Modernizacji Rolnictwa. Biuro Powiatowe
+Powstańców Śląskich 14
+46-300 Olesno
+
+#Spółka
+
+CRK-MANAGMENT Sp. z o.o. Sp. K.
+Dworcowa 17
+46-300 Olesno
+
+#Spółdzielnia
+
+Spółdzielnia Mieszkaniowa
+ks. Łysika 1
+46-300 Olesno
+
+#Związek
+
+Związek Spółek Wodnych
+Dworcowa 1
+46-300 Olesno
+
+#Klub
+
+Oleski Klub Sportowy
+Wachowska 10
+46-300 Olesno
+
+Beata-Fitness Beata Banasik
+ks. Łysika 9
+46-300 Olesno
+
+#ZUS
+
+ZUS Inspektorat w Oleśnie
+Słowackiego 2
+46-300 Olesno
+
+#PZU
+
+PZU
+Reymonta 3
+46-300 Olesno
+
+#muzeum
+
+Muzeum Regionalne w Oleśnie
+Jaronia 7
+46-300 Olesno
+
+#Centrum
+
+AGRO CENTRUM OLESNO
+Rolnicza 2
+46-300 Olesno
+
+Miejskie Centrum Sportu i Rekreacji w Oleśnie spółka z o.o.
+Wachowska 10A
+46-300 Olesno
+
+Muzyczne Centrum Innowacyjne Opole, Częstochowa
+Matejki 25
+46-300 Olesno
+
+CENTRUM OGRODNICZE S.C. Autoryzowany dealer marki STIHL, VIKING, Cub Cadet, WolfGarden, MTD
+Drzymały 4
+46-300 Olesno
+
+F.P.H.U. ZIELONKA - CENTRUM OGRODZEŃ - Biuro Handlowe w Oleśnie
+Targowa 13
+46-300 Olesno
+
+Centrum Drewna. PPHU. Sobczak G.
+Biskupicka 1
+46-300 Olesno
+
+Twój Ogród s.c. B. Małecka A. Małecki
+Częstochowska 10
+46-300 Olesno
+
+Miejski Dom Kultury
+Wielkie Przedmieście 31
+46-300 Olesno
+
+Centrum. Agencja ubezpieczeniowa
+Rynek 10
+46-300 Olesno
+
+Sklep Ogrodniczy - Tomasz Klimza
+Konopnickiej 13
+46-300 Olesno
+
+Ośrodek Kształcenia Zawodowego Zakładu Doskonalenia Zawodowego
+Wielkie Przedmieście
+46-300 Olesno
+
+Psychologiczne Centrum Szkoleniowo – Terapeutyczne - Psycholog Maciej Nocuń - PCST
+Dworcowa 15/5
+46-300 Olesno
+
+Prasa Papierniczy Lotto
+Konopnickiej 13
+46-300 Olesno
+
+Powiatowy Ośrodek Dokumentacji Geodezyjnej i Kartograficznej
+Powstańców Śląskich 6
+46-300 Olesno
+
+#Uniwersytet Trzeciego Wieku
+
+Stowarzyszenie Uniwersytetu Trzeciego Wieku w Oleśnie
+Sądowa 2
+46-300 Olesno
+
+#Inwalidzi
+
+Odrodzenie. Spółdzielnia Inwalidów
+Akacjowa 4
+46-300 Olesno
+
+======================================================================
+46-300 BOROSZÓW
+
+======================================================================
+46-300 WYSOKA
+
+#Organizacja
+
+ZŁOTY KŁOS
+Wysoka 51
+46-300 Wysoka
+
+#Firma
+
+Klaudiusz Wolny. Transport krajowy i zagraniczny materiałów sypkich i stałych.
+Wysoka 59A
+46-300 Olesno
+
+======================================================================
+46-380 GOSŁAWICE
+
+#Urząd
+
+Sołtys
+Krótka 5
+46-380 Gosławice
+
+#Szkoła
+
+Zespół Szkolno-Przedszkolny Stowarzyszenia Pro Liberis Silesiae
+Sierakowska 1
+46-380 Gosławice
+
+#PZU
+
+Gosławice
+Sierakowska 1
+46-380 Gosławice
+
+======================================================================
+46-380 KLEKOTNA
+
+======================================================================
+46-300 KOLONIA ŁOMNICKA
+
+#Bank
+
+Wypożyczalnia samochodów "MATEO CAR" Mateusz Ochman
+Kolonia Łomnicka 29
+46-300 Kolonia Łomnicka
+
+======================================================================
+46-331 KOLONIA BISKUPSKA
+
+#Bank
+
+Kolonia
+Kolonia Biskupska 151
+46-331 Kolonia Biskupska
+
+#Produkcja
+
+Cacuszka spod paluszka
+Tartakowa 4/1
+46-331 Kolonia Biskupska
+
+======================================================================
+46-300 BORKI MAŁE
+
+#Szkoła
+
+Szkoła Kierowców Cross
+Kościelna 9
+46-300 Borki Małe
+
+#Szpital
+
+Na Kamieniu
+Oleska 1a
+46-300 Borki Małe
+
+#Bank
+
+Przedszkole Publiczne
+1
+46-300 Borki Małe
+
+#Poczta
+
+TakdlaKadry
+Oleska 2
+46-300 Borki Małe
+
+#PZU
+
+Rezydencja Dla Seniorów Złote Borki
+Oleska 1C
+46-300 Borki Małe
+
+Stadnina Koni
+Kościelna 65
+46-300 Borki Małe
+
+Hotel Na Kamieniu
+Oleska 1a
+46-300 Borki Małe
+
+Restauracja Na Kamieniu
+Oleska 1
+46-300 Borki Małe
+
+======================================================================
+46-300 SOWCZYCE
+
+#Szkoła
+
+Publiczna Szkoła Podstawowa Im. Janusza Korczaka W Sowczycach
+Długa 8
+46-300 Sowczyce
+
+#Bank
+
+Agencja Pocztowa
+46-300 Sowczyce; Długa 19
+46-300
+
+Osp Sowczyce
+DK11
+46-300 Sowczyce
+
+#Niepełnosprawnych
+
+Środowiskowy Dom Samopomocy w Sowczycach
+Długa 37
+46-351 Sowczyce
+
+======================================================================
+46-300 ŁOMNICA
+
+#Stowarzyszenie
+
+Kosciół Nawiedzenia NMP
+46 300
+Lompy 15
+46-300 Łomnica
+
+======================================================================
+46-300 BRONIEC
+
+======================================================================
+46-300 BORKI WIELKIE
+
+#Bank
+
+Poczta Polska
+ul
+Ojca Alarda 26 A
+46-300 Borki Wielkie
+
+OSP Borki Wielkie
+Alarda
+46-300 Borki Wielkie
+
+Maria
+Ligendzy 1
+46-300 Borki Wielkie
+
+Klasztor Franciszkanów pw. św. Franciszka z Asyżu
+Ojca Alarda 3
+46-300 Borki Wielkie
+
+Kółko Rolnicze
+Polna 5
+46-300 Borki Wielkie
+
+#Przedsiębiorstwo
+
+Przedsiębiorstwo Handlowo Usługowe ELBO Szczepan Boboń
+Młyńska 2
+46-300 Borki Wielkie
+
+======================================================================
+42-793 SIERAKÓW ŚLĄSKI
+
+#Urząd
+
+OCHOTNICZA STRAŻ POŻARNA W SIERAKOWIE ŚLĄSKIM
+Sieraków Śląski
+Wyzwolenia 7
+42-793 Sieraków Śląski
+
+Szkoła Podstawowa w Sierakowie Śląskim
+Szkolna 4
+42-793 Sieraków Śląski
+
+Pałac w Sierakowie Śląskim
+Al. Parkowa 4
+42-793 Sieraków Śląski
+
+Zespół Szkolno - Przedszkolny
+Parkowa 2
+42-790 Sieraków Śląski
+
+#Przedszkole
+
+Przedszkole Samorządowe
+Szkolna 4
+42-793 Sieraków Śląski
+
+#Biblioteka
+
+Biblioteka Publiczna Gminna
+aleja Parkowa
+42-793 Sieraków Śląski
+
+#Szpital
+
+Klub Strzelecki Sieraków Śląski
+ul. Długa 
+42-793
+42-793 Sieraków Śląski
+
+#Bank
+
+Patrick Palenga Auto Center
+Ogrodowa 2
+42-793 Sieraków Śląski
+
+"Tanc" Sp.J. Stacja Paliw
+26B
+Lubliniecka 26
+42-793 Sieraków Śląski
+
+Arpol. PPHU. Sklep spożywczy
+Oleska 17
+42-793 Sieraków Śląski
+
+Formako s.c.
+Szkolna 20
+42-793 Sieraków Śląski
+
+TARTAK Tadeusz Kulej
+Osiedlowa 22
+42-793 Sieraków Śląski
+
+Chochla Smaku
+Oleska 28
+42-793 Sieraków Śląski
+
+ModusSound Artur Kędzia- Technika Estradowa
+Dworcowa 2
+42-793 Sieraków Śląski
+
+Szkółka roślin, Ogrody Obruśnik Sp. z o.o.
+Oleska 21
+42-793 Sieraków Śląski
+
+FHU Fair Organy Kościelne
+Lubliniecka 26A
+42-793 Sieraków Śląski
+
+Przedszkole
+42-790
+Wyzwolenia 2
+Sieraków Śląski
+
+Zgromadzenie Sióstr św. Józefa
+Al. Parkowa 1
+42-790 Sieraków Śląski
+
+#Poczta
+
+Kościół św. Piotra i Pawła
+42-793 Sieraków Śląski
+
+Zakład Karny w Sierakowie Śląskim
+Cegielniana 13
+42-793 Sieraków Śląski
+
+Pracownia Florystyczna "U Marka"
+22 Lipca 47
+42-793 Sieraków Śląski
+
+======================================================================
+46-312 NOWE KARMONKI
+
+======================================================================
+42-793 WĘDZINA
+
+#muzeum
+
+Miejsce po starym kościele
+42-793 Wędzina
+
+======================================================================
+42-793 CIASNA
+
+#Ośrodek
+
+Urzad Gminy Ciasna
+Nowa 1A
+42-793 Ciasna
+
+#Dom kultury
+
+Gminny Ośrodek Kultury w Ciasnej
+Zjednoczenia 2
+42-793 Ciasna
+
+#Szkoła
+
+Gimnazjum Publiczne Zespołu Szkolno - Przedszkolnego
+Lubliniecka 21
+42-793 Ciasna
+
+Zespół Szkolno-Przedszkolny - Przedszkole w Ciasnej
+Zjednoczenia 10
+42-793 Ciasna
+
+Przedszkole Niepubliczne "Zaczarowany Ołówek"
+Zjednoczenia 90
+42-793 Ciasna
+
+#Szpital
+
+NZOZ Przychodnia lekarska Med-Am
+Zjednoczenia 67C
+42-793 Ciasna
+
+#Bank
+
+Bank Spółdzielczy w Gliwicach. Oddział
+Zjednoczenia 15
+42-793 Ciasna
+
+#Stowarzyszenie
+
+Poczta Polska
+Magazynowa 19
+42-793 Ciasna
+
+#Firma
+
+EJOT Polska Sp. z o.o. Sp.k.
+Jeżowska 9
+42-793 Ciasna
+
+#PZU
+
+Agencja Ubezpieczeniowa Krystyna Wicher
+Zjednoczenia 15
+42-793 Ciasna
+
+Urząd Stanu Cywilnego
+Nowa 1a
+42-793 Ciasna
+
+#Centrum
+
+Okręgowa Stacja Kontroli Pojazdów Marpol Ciasna
+Zjednoczenia 9c
+42-793 Ciasna
+
+Przychodnia Medycyny Rodzinnej
+Nowa 1a
+42-793 Ciasna
+
+Marpol sp.zo.o.
+Zjednoczenia 9c
+42-793 Ciasna
+
+Results found: 763
