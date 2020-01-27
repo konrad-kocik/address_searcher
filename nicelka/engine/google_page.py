@@ -34,7 +34,7 @@ class GooglePage(WebPage):
         self._find_element_by_class_name('LrzXr')
 
     def _get_single_result(self):
-        Logger.debug(self, 'Getting single results...')
+        Logger.debug(self, 'Getting single result...')
         result = []
 
         try:
