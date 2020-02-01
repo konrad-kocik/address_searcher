@@ -1,0 +1,196 @@
+======================================================================
+42-310 ŻARKI
+
+#Urząd
+Urząd Miasta i Gminy Żarki
+Kościuszki 15/17
+42-310 Żarki
+
+#Ośrodek
+
+Miejsko-Gminny Ośrodek Kultury
+Moniuszki 2
+42-310 Żarki
+
+#Szkoła
+
+Szkoła Podstawowa im. Wł. Szafera w Żarkach
+Częstochowska 61
+42-310 Żarki
+
+#Przedszkole
+
+Samorządowe Przedszkole Publiczne
+Cicha 12 b
+42-311
+42-311 Żarki-Letnisko
+
+#Biblioteka
+
+Biblioteka Publiczna Miejska i Gminna
+Ofiar Katynia 3
+42-310 Żarki
+
+#Szpital
+
+Dr Olender Prywatny Szpital Chirurgii Plastycznej
+Brzozowa 2
+42-311 Żarki-Letnisko
+
+Dr Olender Prywatny Szpital Chirurgii Plastycznej
+Brzozowa 2
+42-311 Żarki-Letnisko
+
+#Przychodnia
+
+Poradnia Podstawowej Opieki Zdrowotnej Przychodni Lekarskiej Medycyny Rodzinnej i Specjalistycznej
+Częstochowska 1
+42-310 Żarki
+
+#Bank
+
+Międzypowiatowy Bank Spółdzielczy w Myszkowie
+Moniuszki 2
+42-310 Żarki
+
+Międzypowiatowy Bank Spółdzielczy w Myszkowie
+Hrabiny Raczyńskiej 3
+42-311 Żarki-Letnisko
+
+Bankomat
+Piaski 4
+42-310 Żarki
+
+PKO Bank Polski S.A.- Bankomat
+Myszkowska 21
+42-310 Żarki
+
+Bankomat
+ul
+Stefanii
+Raczyńskiej
+42
+311
+42-311 Żarki-Letnisko
+
+#Produkcja
+
+Zakład Produkcji Zwalniaków T.J. Krzysztoń S.C.
+Sosnowa 2
+42-310 Żarki
+
+Joker. Produkcja obuwia męskiego
+42-310 Żarki; marsz. Piłsudskiego 33
+
+Magis. PPHU
+Myszkowska 63
+42-310 Żarki
+
+Lemi. Producent obuwia
+Częstochowska 23
+42-310 Żarki
+
+Aqua-Live
+Astrów 15
+42-310 Żarki
+
+#Zakłady
+
+Krzysztoń J. Zakład usług i zaopatrzenia technicznego
+Sosnowa 2
+42-310 Żarki
+
+#Agencja
+
+Ubezpieczenia Żarki - Agencja Ubezpieczeniowa Grzegorz Erbel
+Żwirki i Wigury 1
+42-310 Żarki
+
+#Związek
+
+Urząd Stanu Cywilnego
+Kościuszki 15/17
+42-310 Żarki
+
+#Firma
+
+Firma Produkcyjno Handlowo-Usługowa JUREK Jerzy Lamch
+Myszkowska 57
+42-310 Żarki
+
+#Poczta
+
+Urząd Pocztowy
+Kościuszki 15
+42-310 Żarki
+
+Poczta Polska
+Kąpielowa 7
+42-311 Żarki-Letnisko
+
+Urząd Miasta i Gminy Żarki
+Kościuszki 15/17
+42-310 Żarki
+
+Poczta Polska
+ul.Genarała
+Tadeusza Kościuszki 15
+42-310 Żarki
+
+Paczkomat InPost
+Strażacka 15
+42-310 Żarki
+
+OSP Żarki
+Ofiar Katynia 3
+42-310 Żarki
+
+InPost - Punkt Obsługi Paczek (POP)
+Moniuszki 1
+42-310 Żarki
+
+Sanktuarium Matki Boskiej Leśniowskiej
+Leśniowska
+42-310 Żarki
+
+Sanktuarium Maryjne - Kapliczki Różańcowe
+Leśniowska 99
+42-310 Żarki
+
+Kościół Rzymskokatolicki pw. św. Apostołów Szymona i Judy Tadeusza
+Stary Rynek 7
+42-310 Żarki
+
+Krzyż przydrożny
+Koziegłowska
+42-310 Żarki
+
+OSP Żarki-Letnisko
+Akacjowa 4
+42-311 Żarki-Letnisko
+
+Sanktuarium Maryjne - Centrum Pomocy Rodzinie
+Leśniowska 99
+42-310 Żarki
+
+Kaplica pw. Matki Bożej Anielskiej
+Leśniowska 134/136
+42-310 Żarki
+
+Ośrodek Rewalidacyjno-Wychowawczy dla Dzieci i Młodzieży Niepełnosprawnej
+Steinkellera 5
+42-310 Żarki
+
+#PZU
+
+PZU Ubezpieczenia Żarki - Agent Grzegorz Erbel
+Żwirki i Wigury 1
+42-300 Żarki
+
+#muzeum
+
+Stary Młyn Muzeum Dawnych Rzemiosł
+Ofiar Katynia 5
+42-310 Żarki
+
+Results found: 39
