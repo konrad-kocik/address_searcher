@@ -16,16 +16,21 @@ class GooglePage(WebPage):
         self._url = 'https://google.pl'
 
     def search(self, city, key):
-        Logger.debug(self, "Searching for city: '{}' key: '{}'".format(city, key))
         self._enter_query(city, key)
         return self._get_results()
 
     def _enter_query(self, city, key):
+        Logger.debug(self, "Searching for city: '{}' key: '{}'".format(city, key))
         sleep(1)
-        self._driver.get(url=self._url)
-        search_input = self._find_element_by_name('q')
-        search_input.send_keys('{} {} adres'.format(city, key))
-        search_input.send_keys(Keys.ENTER)
+
+        try:
+            self._driver.get(url=self._url)
+            search_input = self._find_element_by_name('q')
+            search_input.send_keys('{} {} adres'.format(city, key))
+            search_input.send_keys(Keys.ENTER)
+        except NoSuchElementException as e:
+            Logger.error(self, e, self._enter_query.__name__)
+            raise GooglePageException('Failed to enter query')
 
     def _get_results(self):
         if self._is_single_result():
@@ -57,8 +62,9 @@ class GooglePage(WebPage):
             address_output = self._find_element_by_class_name(address_output_class)
 
             result.append(name_output.text + '\n' + self._format_address(address_output.text) + '\n')
-        except (TimeoutException, NoSuchElementException, ElementClickInterceptedException):
-            pass
+        except (TimeoutException, NoSuchElementException, ElementClickInterceptedException) as e:
+            Logger.error(self, e, self._get_single_result.__name__)
+            raise GooglePageException('Failed to get single result')
 
         return result
 
@@ -70,12 +76,17 @@ class GooglePage(WebPage):
         try:
             self._open_map()
             self._wait_for_element_by_class_name(result_link_class, 2)
+            result_links = self._find_elements_by_class_name(result_link_class)
+        except (TimeoutException, NoSuchElementException, GooglePageException) as e:
+            Logger.error(self, e, self._get_multiple_results.__name__)
+            return results
 
-            for result_link in self._find_elements_by_class_name(result_link_class):
+        for result_link in result_links:
+            try:
                 name, address = self._get_one_of_multiple_results(result_link)
                 results.append(name + '\n' + self._format_address(address) + '\n')
-        except (TimeoutException, NoSuchElementException, ElementClickInterceptedException, GooglePageException) as e:
-            Logger.error(self, e, self._get_multiple_results.__name__)
+            except GooglePageException as e:
+                Logger.error(self, e, self._get_multiple_results.__name__)
 
         return results
 
@@ -88,16 +99,20 @@ class GooglePage(WebPage):
             raise GooglePageException('Failed to open a map')
 
     def _get_one_of_multiple_results(self, result_link):
-        result_link.click()
-        sleep(1)
+        try:
+            result_link.click()
+            sleep(1)
 
-        name_output_xpath = '//div[@class="SPZz6b"]//span'
-        self._wait_for_element_by_xpath(name_output_xpath, timeout=2)
-        name_output = self._find_element_by_xpath(name_output_xpath)
+            name_output_xpath = '//div[@class="SPZz6b"]//span'
+            self._wait_for_element_by_xpath(name_output_xpath, timeout=2)
+            name_output = self._find_element_by_xpath(name_output_xpath)
 
-        address_output_class = 'LrzXr'
-        self._wait_for_element_by_class_name(address_output_class, timeout=1)
-        address_output = self._find_element_by_class_name(address_output_class)
+            address_output_class = 'LrzXr'
+            self._wait_for_element_by_class_name(address_output_class, timeout=1)
+            address_output = self._find_element_by_class_name(address_output_class)
+        except (TimeoutException, NoSuchElementException, ElementClickInterceptedException) as e:
+            Logger.error(self, e, self._get_one_of_multiple_results.__name__)
+            raise GooglePageException('Failed to get one of multiple results')
 
         return name_output.text, address_output.text
 

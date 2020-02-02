@@ -1,4 +1,5 @@
 from nicelka.engine.engine_factory import EngineFactory
+from nicelka.exceptions.exceptions import EngineException
 from nicelka.logger.logger import Logger
 from nicelka.reporter.reporter import Reporter
 from nicelka.searcher.searcher import Searcher
@@ -29,7 +30,7 @@ class KrkgwSearcher(Searcher):
             results = []
             try:
                 results = self._engine.search(self._get_city_name(city))
-            except Exception as e:
+            except EngineException as e:
                 Logger.error(self, e)
             finally:
                 self._add_results(results, city)
