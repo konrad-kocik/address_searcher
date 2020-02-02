@@ -48,7 +48,7 @@ class GooglePage(WebPage):
         result = []
 
         try:
-            name_output_xpath = '//*[@id="rhs"]/div/div[1]/div/div[1]/div/div[1]/div[2]/div[2]/div[1]/div/div/div[1]/span'
+            name_output_xpath = '//div[@class="SPZz6b"]//span'
             self._wait_for_element_by_xpath(name_output_xpath, timeout=2)
             name_output = self._find_element_by_xpath(name_output_xpath)
 
