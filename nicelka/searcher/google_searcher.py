@@ -1,4 +1,5 @@
 from nicelka.engine.engine_factory import EngineFactory
+from nicelka.exceptions.exceptions import EngineException
 from nicelka.logger.logger import Logger
 from nicelka.reporter.reporter import Reporter
 from nicelka.searcher.searcher import Searcher
@@ -35,8 +36,8 @@ class GoogleSearcher(Searcher):
                 results = []
                 try:
                     results = self._engine.search(city, key)
-                except Exception as e:
-                    Logger.error(self, e)
+                except EngineException as e:
+                    Logger.error(self, e, self.search.__name__)
                 finally:
                     self._add_results(results, city, key)
                     self._reporter.save_report(self._results)
