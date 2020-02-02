@@ -4,6 +4,7 @@ from exceptbool import except_converter
 from selenium.common.exceptions import TimeoutException, NoSuchElementException, ElementClickInterceptedException
 
 from nicelka.engine.web_page import WebPage
+from nicelka.exceptions.exceptions import KrkgwPageException
 from nicelka.logger.logger import Logger
 
 
@@ -14,18 +15,23 @@ class KrkgwPage(WebPage):
         self._url = 'https://krkgw.arimr.gov.pl/'
 
     def search(self, city_name):
-        Logger.debug(self, "Searching for city name: '{}'".format(city_name))
         self._enter_query(city_name)
         return self._get_results()
 
     def _enter_query(self, city_name):
-        search_input = self._find_element_by_id('kgw')
-        search_input.clear()
-        search_input.send_keys(city_name)
+        Logger.debug(self, "Searching for city name: '{}'".format(city_name))
 
-        sleep(0.3)
-        search_button = self._find_element_by_id('search')
-        search_button.click()
+        try:
+            search_input = self._find_element_by_id('kgw')
+            search_input.clear()
+            search_input.send_keys(city_name)
+
+            sleep(0.3)
+            search_button = self._find_element_by_id('search')
+            search_button.click()
+        except (NoSuchElementException, ElementClickInterceptedException) as e:
+            Logger.error(self, e, self._enter_query.__name__)
+            raise KrkgwPageException('Failed to enter query')
 
     def _get_results(self):
         results = []
@@ -47,7 +53,7 @@ class KrkgwPage(WebPage):
                 page_link = self._find_element_by_link_text(str(page_number))
                 page_link.click()
             except (NoSuchElementException, ElementClickInterceptedException) as e:
-                Logger.error(self, e)
+                Logger.error(self, e, self._get_results.__name__)
                 continue
             else:
                 results.extend(self._get_results_from_current_page())
@@ -69,7 +75,7 @@ class KrkgwPage(WebPage):
         try:
             page_links = self._find_elements_by_class_name('page-link')
         except NoSuchElementException as e:
-            Logger.error(self, e)
+            Logger.error(self, e, self._get_page_links.__name__)
         finally:
             return [page_link for page_link in page_links if page_link.text not in ('<<', '<', '>', '>>')]
 
@@ -95,8 +101,8 @@ class KrkgwPage(WebPage):
                 results.append(name_output.text + '\n' + self._format_address(address_output.text) + '\n')
 
                 self._close_details()
-            except ElementClickInterceptedException:
-                pass
+            except (ElementClickInterceptedException, KrkgwPageException) as e:
+                Logger.error(self, e, self._get_results_from_current_page.__name__)
             except (TimeoutException, NoSuchElementException):
                 break
         return results
@@ -106,9 +112,13 @@ class KrkgwPage(WebPage):
         return address.replace(', ', '\n')
 
     def _close_details(self):
-        close_button_xpath = '//*[@id="myModal"]/div/div/div[1]/button'
-        self._wait_for_clickability_by_xpath(close_button_xpath)
-        sleep(0.3)
-        close_button = self._find_element_by_xpath(close_button_xpath)
-        close_button.click()
-        sleep(1)
+        try:
+            close_button_xpath = '//*[@id="myModal"]/div/div/div[1]/button'
+            self._wait_for_clickability_by_xpath(close_button_xpath)
+            sleep(0.3)
+            close_button = self._find_element_by_xpath(close_button_xpath)
+            close_button.click()
+            sleep(1)
+        except (TimeoutException, NoSuchElementException, ElementClickInterceptedException) as e:
+            Logger.error(self, e, self._get_results.__name__)
+            raise KrkgwPageException('Failed to close details')

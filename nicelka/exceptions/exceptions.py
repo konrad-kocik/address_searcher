@@ -14,6 +14,10 @@ class GooglePageException(WebPageException):
     pass
 
 
+class KrkgwPageException(WebPageException):
+    pass
+
+
 class GatewayException(NicelkaException):
     pass
 
