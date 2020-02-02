@@ -76,12 +76,17 @@ class GooglePage(WebPage):
         try:
             self._open_map()
             self._wait_for_element_by_class_name(result_link_class, 2)
-
-            for result_link in self._find_elements_by_class_name(result_link_class):
-                name, address = self._get_one_of_multiple_results(result_link)
-                results.append(name + '\n' + self._format_address(address) + '\n')
+            result_links = self._find_elements_by_class_name(result_link_class)
         except (TimeoutException, NoSuchElementException, GooglePageException) as e:
             Logger.error(self, e, self._get_multiple_results.__name__)
+            return results
+
+        for result_link in result_links:
+            try:
+                name, address = self._get_one_of_multiple_results(result_link)
+                results.append(name + '\n' + self._format_address(address) + '\n')
+            except GooglePageException as e:
+                Logger.error(self, e, self._get_multiple_results.__name__)
 
         return results
 
