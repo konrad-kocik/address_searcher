@@ -242,7 +242,7 @@ def test_single_result_blacklisted_allowed(create_reports_dirs, remove_reports_d
         '#Szkoła' + '\n\n' + \
         'Zespół Szkół w Bielicach, Gimnazjum im. Narodów Zjednoczonej Europy' + '\n' + \
         'Bielice 120' + '\n' + \
-        '13-330 Krotoszyny' + '\n\n' + \
+        '13-330 Bielice' + '\n\n' + \
         'Results found: 1'
 
     data_dir_path, report_dir_path = get_io_dir_paths(test_suite, test_case='single_result_blacklisted_allowed')
@@ -279,11 +279,11 @@ def test_multiple_results(create_reports_dirs, remove_reports_dirs):
         'Muzeum Okręgowe w Nowym Sączu - Gmach Głowny' + '\n' + \
         'Jagiellońska 56' + '\n' + \
         '33-300 Nowy Sącz' + '\n\n' + \
-        'Miasteczko Galicyjskie. Oddział Muzeum Okręgowego w Nowym Sączu' + '\n' + \
-        'Lwowska 226' + '\n' + \
-        '33-300 Nowy Sącz' + '\n\n' + \
         'Sądecki Park Etnograficzny' + '\n' + \
         'Gen. Wieniawy-Długoszowskiego 83B' + '\n' + \
+        '33-300 Nowy Sącz' + '\n\n' + \
+        'Miasteczko Galicyjskie. Oddział Muzeum Okręgowego w Nowym Sączu' + '\n' + \
+        'Lwowska 226' + '\n' + \
         '33-300 Nowy Sącz' + '\n\n' + \
         'Galeria Marii Ritter. Oddział Muzeum Okręgowego' + '\n' + \
         'Rynek 2' + '\n' + \
