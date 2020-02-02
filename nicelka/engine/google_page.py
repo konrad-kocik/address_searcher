@@ -16,16 +16,21 @@ class GooglePage(WebPage):
         self._url = 'https://google.pl'
 
     def search(self, city, key):
-        Logger.debug(self, "Searching for city: '{}' key: '{}'".format(city, key))
         self._enter_query(city, key)
         return self._get_results()
 
     def _enter_query(self, city, key):
+        Logger.debug(self, "Searching for city: '{}' key: '{}'".format(city, key))
         sleep(1)
-        self._driver.get(url=self._url)
-        search_input = self._find_element_by_name('q')
-        search_input.send_keys('{} {} adres'.format(city, key))
-        search_input.send_keys(Keys.ENTER)
+
+        try:
+            self._driver.get(url=self._url)
+            search_input = self._find_element_by_name('q')
+            search_input.send_keys('{} {} adres'.format(city, key))
+            search_input.send_keys(Keys.ENTER)
+        except NoSuchElementException as e:
+            Logger.error(self, e, self._enter_query.__name__)
+            raise GooglePageException('Failed to enter query')
 
     def _get_results(self):
         if self._is_single_result():
