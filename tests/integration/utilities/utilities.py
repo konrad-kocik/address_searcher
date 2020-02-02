@@ -36,4 +36,5 @@ def run_krkgw_searcher(data_dir_path, report_file_path, allow_indirect_matches=F
 
 def assert_report_file_content_equals(expected_report, report_file_path):
     with open(report_file_path, encoding='utf8') as file:
-        assert file.read() == expected_report
+        actual_report = file.read()
+        assert actual_report == expected_report, '\n>>>> ACTUAL REPORT:\n{}\n\n>>>> EXPECTED REPORT:\n{}'.format(actual_report, expected_report)
