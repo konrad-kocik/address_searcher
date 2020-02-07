@@ -1,0 +1,3629 @@
+======================================================================
+26-021 BORKÓW
+
+#Ośrodek
+
+AFOR Ośrodek szkoleniowo - wypoczynkowy
+Borków 64
+26-021 Borków
+
+#Szkoła
+
+Punkt Przedszkolny
+Borków 36B
+26-021 Borków
+
+#Firma
+
+Zakład Ziemno Budowlany
+Borków 41a
+26-021 Borków
+
+#Amazonki
+
+KJ Amazonka. Ośrodek jazdy konnej w Borkowie
+Borków 68
+26-021 Borków
+
+======================================================================
+26-020 LUBANIA
+
+======================================================================
+26-021 TRZEMOSNA
+
+#Grupa
+
+Lokalna Grupa Działania "Białe Ługi"
+Trzemosna 27
+26-021 Trzemosna
+
+#Stowarzyszenie
+
+Białe Ługi. Lokalna Grupa Działania
+26-021 Trzemosna
+
+======================================================================
+26-015 UJNY
+
+#Produkcja
+
+FINAL FOOD SP.ZO.O.
+Ujny 1
+26-015 Ujny
+
+======================================================================
+28-114 GNOJNO
+
+#Urząd
+
+Urząd Gminy Gnojno
+Gnojno 145
+28-114 Gnojno
+
+#Szkoła
+
+Szkoła Podstawowa im. Marii Konopnickiej w Gnojnie
+Gnojno 148
+28-114 Gnojno
+
+#Poczta
+
+Poczta Polska
+Gnojno 40
+28-114 Gnojno
+
+======================================================================
+28-114 POŻOGI
+
+======================================================================
+26-015 DRUGNIA
+
+#Szkoła
+
+Szkoła Podstawowa
+26-015 Drugnia
+
+======================================================================
+26-021 NIWY
+
+#Zakład
+
+"KOMINIARZ" Zakład Usługowo-Handlowy Adam Wąś
+Niwy 83
+26-021 Niwy
+
+#Seniorzy
+
+Dom Seniora Zielone Niwy Dom Opieki Dobra opieka Rehabilitacja Pomocny personel
+Niwy 20 J
+26-021
+
+======================================================================
+26-020 HOLENDRY
+
+======================================================================
+26-015 CZARNA
+
+======================================================================
+28-114 RACZYCE
+
+======================================================================
+26-035 STARY GŁUCHÓW
+
+======================================================================
+26-035 KORZENNO
+
+#Seniora
+
+Dom Opieki w Korzennie
+Korzenno 42
+26-035 Korzenno
+
+======================================================================
+28-114 JARZĄBKI
+
+======================================================================
+26-021 WIDEŁKI
+
+#Produkcja
+
+Tomasz Duda
+Widełki 37
+26-021 Widełki
+
+======================================================================
+28-225 GRABKI DUŻE
+
+#Uniwersytet
+
+Ekoplon Spółka z ograniczoną odpowiedzialnością sp.k.
+Grabki Duże 82
+28-225 Szydłów
+
+#Politechnika
+
+Stacja Paliw GRA-PAL
+DW765
+28-225 Grabki Duże
+
+#muzeum
+
+Pałac w Grabkach Dużych
+Grabki Duże 86
+28-225 Grabki Duże
+
+======================================================================
+28-225 POTOK RZĄDOWY
+
+======================================================================
+26-035 MĘDRÓW
+
+======================================================================
+26-035 KOZIEL
+
+======================================================================
+26-035 DROGOWLE
+
+======================================================================
+28-225 SZYDŁÓW
+
+#Urząd
+
+Urząd Miasta i Gminy Szydłów
+Rynek 2
+28-225 Szydłów
+
+#Ośrodek
+
+Samodzielny Publiczny Zakład Opieki Zdrowotnej
+Urocza 1
+28-225 Szydłów
+
+#Szkoła
+
+Szkoła Podstawowa im. Jana Kaczorowskiego w Szydłowie
+Szkolna 10
+28-225 Szydłów
+
+#Przedszkole
+
+Publiczne Przedszkole w Szydłowie
+Kielecka 17
+28-225 Szydłów
+
+#Biblioteka
+
+Gminna Biblioteka Publiczna w Szydłowie
+Szkolna 8
+28-225 Szydłów
+
+#Bank
+
+Bank Spółdzielczy w Szydłowie Centrala
+Kościelna 1
+28-225 Szydłów
+
+#Spółka
+
+EMIZET Spółka z o.o. Zakład Wyrobów Metalowych
+Rakowska 21
+28-225 Szydłów
+
+#muzeum
+
+Muzeum Regionalne w Szydłowie
+Szkolna 8
+28-225 Szydłów
+
+======================================================================
+26-035 ŻYCINY
+
+#Ośrodek
+
+Brzozowe Uroczysko - domki, kemping nad zalewem Chańcza
+Życiny 152
+26-035 Raków
+
+#Agencja
+
+Domki Letniskowe nad Zalewem Chańcza "Sosnowy Gaj"
+Życiny 150e
+26-035 Życiny
+
+======================================================================
+28-130 CZYŻÓW
+
+======================================================================
+26-025 ZŁOTA WODA
+
+#Klub
+
+Zajazd Złota-Woda
+Złota Woda
+Parking
+26-025 Łagów
+
+======================================================================
+26-035 DĘBNO
+
+======================================================================
+28-404 RĘBÓW
+
+======================================================================
+26-035 RAKÓW
+
+#Urząd
+
+Urząd Gminy
+Ogrodowa 1
+26-035 Raków
+
+#Ośrodek
+
+Gminny Ośrodek Zdrowia w Rakowie
+Klasztorna 16
+26-035 Raków
+
+#Przedszkole
+
+Szkoła Podstawowa
+Sienieńskiego 20
+26-035 Raków
+
+#Biblioteka
+
+Gminna Biblioteka Publiczna W Rakowie
+Łagowska 25
+26-035 Raków
+
+#Szpital
+
+26-035
+Rembów
+Ociesęki
+Raków
+Szumsko
+Wólka Pokłonna
+WIĘCEJ
+
+#Bank
+
+Bank Spółdzielczy w Szydłowie O. w Rakowie
+plac Wolności 30
+26-035 Raków
+
+#Policja
+
+Policja. Komisariat
+Leśna 1a
+26-035 Raków
+
+#Stowarzyszenie
+
+Urząd Stanu Cywilnego w Rakowie
+Ogrodowa 1
+26-035 Raków
+
+#Klub
+
+stawy w Rakowie
+55-093
+400-lecia Rakowa 30
+26-035 Raków
+
+#Poczta
+
+Poczta Polska
+plac Wolności 14
+26-035 Raków
+
+#muzeum
+
+Rosyjskie stanowisko ogniowe z 1944 roku
+26-035 Raków
+
+#Seniorów
+
+Urząd Gminy Raków
+Ogrodowa 1
+26-035 Raków
+
+======================================================================
+28-225 KOTUSZÓW
+
+======================================================================
+28-225 KORYTNICA
+
+#Ośrodek
+
+Cztery Wiatry Spa & Sport Resort
+Korytnica 88
+28-225 Korytnica
+
+======================================================================
+26-035 CHAŃCZA
+
+#Ośrodek
+
+Zespół Domków Letniskowych"Chańcza". Ośrodek Wypoczynkowy
+Chańcza 123
+26-035 Chańcza
+
+#Politechnika
+
+Hotel Chańcza
+Chańcza 64a
+26-035 Chańcza
+
+#Klub
+
+Bar Merkury. KEBAB
+140
+26-035 Chańcza
+
+======================================================================
+28-200 JASIEŃ
+
+======================================================================
+26-025 ŁAGÓW
+
+#Urząd
+
+Urząd Miasta i Gminy w Łagowie
+Rynek 62
+26-025 Łagów
+
+#Biblioteka
+
+Biblioteka UG
+26-025 Łagów; Słupska 5
+26-025
+
+#Szpital
+
+Wielmed Sp. z o.o.
+Słupska
+26-025 Łagów
+
+#Przedsiębiorstwo
+
+PRZEDSIĘBIORSTWO USŁUG KOMUNALNYCH ŁAGÓW Sp. z o.o.
+Rynek 62
+26-025 Łagów
+
+#Stowarzyszenie
+
+Stowarzyszenie Rozwoju Wsi Świętokrzyskiej
+Rynek 26
+26-025 Łagów
+
+#Klub
+
+ŁKS Łagów
+Zapłotnia 1
+26-025 Łagów
+
+#ZUS
+
+Urząd Miasta i Gminy w Łagowie (Urząd Gminy w Łagowie)
+Rynek 62
+26-025 Łagów
+
+======================================================================
+26-035 SZUMSKO
+
+#Szkoła
+
+Szkoła Podstawowa
+Szumsko 42b
+26-035 Szumsko
+
+#Przedszkole
+
+Szumskim przedszkolu
+Szumsko 42b
+26-035 Szumsko
+
+#Poczta
+
+Poczta Polska
+Szumsko 36b
+26-035 Szumsko
+
+======================================================================
+28-200 KUROZWĘKI
+
+#Ośrodek
+
+Wiejski Ośrodek Zdrowia
+Kościelna 2
+28-200 Kurozwęki
+
+#Szkoła
+
+Szkoła Podstawowa
+Szydłowska 9
+28-200 Kurozwęki
+
+======================================================================
+26-025 STARA ZBELUTKA
+
+======================================================================
+26-025 WINNA
+
+======================================================================
+26-025 MELONEK
+
+======================================================================
+28-210 UJAZDEK
+
+======================================================================
+28-200 PODMALENIEC
+
+======================================================================
+28-200 MOSTKI
+
+#Szkoła
+
+Szkoła Podstawowa
+Mostki; 56
+28-200
+
+======================================================================
+28-210 CEBER
+
+======================================================================
+28-210 KOLONIA-BOGORIA
+
+======================================================================
+27-570 WZORY
+
+======================================================================
+27-570 WYGIEŁZÓW
+
+======================================================================
+28-210 PRZYBOROWICE
+
+#Ośrodek
+
+Dom Kultury
+Przyborowice 31
+28-210 Przyborowice
+
+======================================================================
+28-210 BOGORIA
+
+#Urząd
+
+Urząd Gminy Bogoria
+Opatowska 13
+28-210 Bogoria
+
+#Przedszkole
+
+Przedszkole
+Południowa 2
+Polna
+28-210 Bogoria
+
+#Bank
+
+Bank Spółdzielczy w Staszowie. Oddział (Bank Spółdzielczy w Staszowie Oddział Bogoria)
+Rynek 4
+28-210
+
+#PZU
+
+PZU Ubezpieczenia Bogoria - Agent Maria Król
+Rynek 1
+28-210 Bogoria
+
+======================================================================
+28-200 STASZÓW
+
+#Dom kultury
+
+Staszowski Ośrodek Kultury (Staszowski Cultural Center)
+Parkowa 6
+28-200 Staszów
+
+#Szpital
+
+Samodzielny Publiczny Zespół Zakładów Opieki Zdrowotnej w Staszowie.
+11 Listopada 78
+28-200 Staszów
+
+#Przychodnia
+
+Przychodnia Rodzinna w Staszowie
+Konstytucji 3 Maja 10C
+28-200 Staszów
+
+#Wydział
+
+Starostwo Powiatowe w Staszowie
+Józefa Piłsudskiego 7
+28-200 Staszów
+
+#Policja
+
+Komenda Powiatowa Policji
+Armii Krajowej 10
+28-200 Staszów
+
+#Prokuratura
+
+Prokuratura Rejonowa w Staszowie
+Wschodnia 13
+28-200 Staszów
+
+#Sąd
+
+Sąd Rejonowy
+Tadeusza Kościuszki 2
+28-200 Staszów
+
+#Agencja
+
+Agencja Restrukturyzacji i Modernizacji Rolnictwa. Świętokrzyski Oddział Regionalny. Biuro powiatowe
+Towarowa 30
+28-200 Staszów
+
+#Spółdzielnia
+
+Spółdzielnia Mieszkaniowa
+Generała Mariana Langiewicza 11
+28-200 Staszów
+
+#ZUS
+
+ZUS Biuro Terenowe w Staszowie
+Długa 10
+28-200 Staszów
+
+#ZNP
+
+Związek Nauczycielstwa Polskiego. Zarząd oddziału
+Armii Krajowej 10
+28-200 Staszów
+
+#Czerwony Krzyż
+
+Zarząd Rejonowy PCK Świętokrzyskiego ZO
+Wschodnia 13
+28-200 Staszów
+
+#Niepełnosprawnych
+
+Powiatowe Centrum Pomocy Rodzinie
+Szkolna 4
+28-200 Staszów
+
+======================================================================
+28-236 RYTWIANY
+
+#Urząd
+
+Urząd Gminy Rytwiany
+Staszowska 15
+28-236 Rytwiany
+
+#Przedszkole
+
+ZSO Rytwiany
+Szkolna 9
+28-236 Rytwiany
+
+#Biblioteka
+
+Gminna Biblioteka Publiczna w Rytwianach
+Szkolna 1
+28-236 Rytwiany
+
+#Bank
+
+Bank Spółdzielczy w Staszowie. Oddział
+28-236 Rytwiany; 65
+28-236
+
+#Spółdzielnia
+
+Gminna Spółdzielnia Samopomoc Chłopska w Rytwianach
+Szkolna 46
+28-236 Rytwiany
+
+#Klub
+
+Klub Sportowy Baszta Rytwiany
+28-236 Rytwiany
+
+#Firma
+
+Adma. Zakład remontowo - budowlany
+28-236 Rytwiany; Klasztorna 18
+28-236
+
+#Poczta
+
+Urząd Pocztowy
+Armii Krajowej 8
+28-236 Rytwiany
+
+#Instytut
+
+Zobacz też:
+28-236 Rytwiany
+
+#muzeum
+
+Pustelnia Złotego Lasu w Rytwianach - Klasztor Pokamedulski
+Klasztorna 25
+28-236 Rytwiany
+
+======================================================================
+28-232 WILKOWA
+
+#Szkoła
+
+Publiczna Szkoła Podstawowa w Wilkowej
+Wilkowa 47
+28-232 Wilkowa
+
+#Firma
+
+Dom-Bud Godos
+Wilkowa 50b
+28-232 Wilkowa
+
+======================================================================
+28-232 ŁUBNICE
+
+#Urząd
+
+Urząd Gminy
+28-232 Łubnice; 66a
+
+#Ośrodek
+
+Centrum kultury w Łubnicach
+Łubnice 74
+28-230 Łubnice
+
+#Szkoła
+
+Publiczna Szkoła Podstawowa w Łubnicach
+Łubnice 62
+28-230 Łubnice
+
+#Zakład
+
+Niepubliczny Zakład Opieki Zdrowotnej
+Łubnice 75
+28-232 Łubnice
+
+======================================================================
+28-236 SICHÓW DUŻY
+
+#Ośrodek
+
+Zespół Szkół Centrum Kształcenia Rolniczego
+Sichów Duży 89
+28-236 Sichów Duży
+
+#Szkoła
+
+Publiczna Szkoła Podstawowa i Przedszkole im. Marii Firlejczyk
+Sichów Duży 88
+28-236 Sichów Duży
+
+#Produkcja
+
+Adaś Barbara. Zakład Uboju Zwierząt Rzeźnych i Produkcja Wędlin
+Sichów Duży 12a
+28-236 Sichów Duży
+
+#Koło gospodyń wiejskich
+
+Zobacz też:
+Sichów Duży 89
+28-236 Sichów Duży
+
+======================================================================
+28-200 KONIEMŁOTY
+
+#Ośrodek
+
+Niepubliczny Zakład Opiekuńczo-Leczniczy w Koniemłotach
+Plac Księdza Kotlarza 7
+28-200 Koniemłoty
+
+#Przedszkole
+
+Zespół Placówek Oświatowych
+28-200 Koniemłoty; Staszowska 7
+28-200
+
+======================================================================
+28-200 OGLĘDÓW
+
+#Produkcja
+
+Kozaczka Roman. Zakład meblowy
+Oględów 20a
+28-200 Oględów
+
+#Klub
+
+Remiza OSP
+28-200 Oględów
+
+======================================================================
+28-220 OLEŚNICA
+
+#Urząd
+
+Urząd Gminy
+Nadstawie 1
+28-230 Oleśnica
+
+#Przedszkole
+
+Przedszkole Gminne
+Nadstawie 29
+28-220 Oleśnica
+
+#Bank
+
+Krakowski Bank Spółdzielczy O. w Oleśnicy
+Rynek 37
+28-230 Oleśnica
+
+#Zakład
+
+Zakład Remontowo Budowlany Piotr Płatos
+Staszowska 15
+28-230 Oleśnica
+
+#Spółdzielnia
+
+Spółdzielnia Rzemieślnicza W Oleśnicy
+Nadstawie 26b
+28-220 Oleśnica
+
+#Poczta
+
+Urząd Pocztowy
+Rynek 14
+28-220 Oleśnica
+
+OSP Oleśnica
+Nadstawie 25A
+28-230 Oleśnica
+
+F.H.U. Wojciech Janik
+Żeromskiego 55
+28-220 Oleśnica
+
+======================================================================
+28-220 SUFCZYCE
+
+======================================================================
+28-200 GRZYBÓW
+
+#Wydział
+
+Grupa Azoty Kopalnie i Zakłady Chemiczne Siarki Siarkopol S.A.
+28-200 Grzybów
+
+#Spółka
+
+BTBB Sp. z o.o. Huta Szkła
+28-200 Grzybów
+
+======================================================================
+28-142 RZĘDÓW
+
+#Bank
+
+Bank Spółdzielczy
+Rzędów 40
+28-142 Rzędów
+
+#Wydział
+
+ZGOK Sp. z o.o. Rzędów - ZAKŁAD GOSPODARKI ODPADAMI KOMUNALNYMI SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ w Rzędowie
+Rzędów 40
+28-142 Tuczępy
+
+#Poczta
+
+ZAKŁAD GOSPODARKI ODPADAMI KOMUNALNYMI SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ
+Rzędów 40
+28-142 Tuczępy
+
+ZAKŁAD GOSPODARKI ODPADAMI KOMUNALNYMI SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ
+Rzędów 40
+28-142 Tuczępy
+
+======================================================================
+28-142 JANUSZKOWICE
+
+======================================================================
+28-133 PACANÓW
+
+#Urząd
+
+Urząd Miasta i Gminy Pacanów
+Rynek 15
+28-133 Pacanów
+
+#Ośrodek
+
+Europejskie Centrum Bajki im. Koziołka Matołka
+Kornela Makuszyńskiego 1
+28-133 Pacanów
+
+#Dom kultury
+
+Agroturystyka "Dom kultury Heńka Góry"
+Rynek 22
+28-133 Pacanów
+
+GLKS Zorza Tempo Pacanów
+28-133
+Słupia 123
+96-128 Słupia
+
+Dom dziecka
+0120T 4
+28-133 Pacanów
+
+#Szkoła
+
+Szkoła Podstawowa im. K. Makuszyńskiego
+Karska 3
+28-133 Pacanów
+
+Szkoła Podstawowa im. Jana Brzechwy
+Rataje Słupskie
+28-133 Pacanów
+
+Samorzadowe Przedszkole w Pacanowie
+Radziwiłłówka 2
+28-133 Pacanów
+
+#Biblioteka
+
+Biblioteka Publiczna Gminna
+Rynek 15
+28-133 Pacanów
+
+#Zakład
+
+Niepubliczny Zakład Opieki Zdrowotnej
+dr Gałązki 11
+28-133 Pacanów
+
+#Spółka
+
+Agsol Sp. J.
+Wójczańska 17
+28-133 Pacanów
+
+#PZU
+
+PMG Polska Ubezpieczenia
+Rynek 10
+28-133 Pacanów
+
+OSP Pacanów
+Stopnicka 8
+28-133 Pacanów
+
+#muzeum
+
+Centrum Bajki im. Koziołka Matołka w Pacanowie
+Kornela Makuszyńskiego 1
+28-133 Pacanów
+
+#Centrum
+
+Delikatesy Centrum
+Słupska 50
+28-133 Pacanów
+
+Kemar Sp. z o.o.
+Beszowska 20
+28-133 Pacanów
+
+======================================================================
+28-133 KWASÓW
+
+======================================================================
+28-220 STRZELCE
+
+======================================================================
+28-220 PIECZONOGI
+
+======================================================================
+28-142 TUCZĘPY
+
+#Urząd
+
+Urząd Gminy
+Tuczępy 35
+28-142 Tuczępy
+
+#Szkoła
+
+Zespół Placówek Oświatowych Publiczna Szkoła Podstawowa i Przedszkole
+33
+28-142 Tuczępy
+
+#Biblioteka
+
+Biblioteka Publiczna W Tuczępach
+Tuczępy 33
+28-142 Tuczępy
+
+#Bank
+
+Bank Spółdzielczy w Stopnicy
+28-142 Tuczępy
+
+#Poczta
+
+Urząd Pocztowy
+Tuczępy 38
+28-142 Tuczępy
+
+poczta polska tuczępy
+Tuczępy 33
+28-142 Tuczępy
+
+Poczta Polska
+28-142 Tuczępy
+
+#Centrum
+
+Delikatesy Centrum Tuczępy Firma Tarkor
+Tuczępy 76
+28-142 Tuczępy
+
+Tuczępy
+28-142 Tuczępy
+
+Delikatesy Centrum
+Tuczępy 76
+28-142 Tuczępy
+
+Szkola Podstawowa i Przedszkole
+Tuczępy 33
+28-142 Tuczępy
+
+======================================================================
+28-130 BIAŁOBORZE
+
+#Bank
+
+Trans Handel. Skład materiałów budowlanych i opału
+28-130 Białoborze
+
+======================================================================
+28-225 STARY SOLEC
+
+#Szkoła
+
+Szkoła Podstawowa
+Stary Solec 22
+28-225 Stary Solec
+
+======================================================================
+28-130 MIETEL
+
+#Bank
+
+Stolarnia Mietel
+Mietel 30
+28-130 Mietel
+
+GEOKART inż. Kamil Kasperczyk
+Mietel 34b
+28-130 Mietel
+
+Wójcik Andrzej J. Tłumacz przysięgły jęz. niemieckiego
+28-130 Mietel; 106
+28-130
+
+======================================================================
+28-130 STOPNICA
+
+#Urząd
+
+Urząd Miasta i Gminy
+Tadeusza Kościuszki 2
+28-130 Stopnica
+
+#Ośrodek
+
+Zobacz też:
+Kazimierza Wielkiego 15
+28-130 Stopnica
+
+#Dom kultury
+
+Miejsko-Gminne Centrum Kultury w Stopnicy
+Kazimierza Wielkiego 15
+28-130 Stopnica
+
+Mirage Music Club
+Konary 43
+Stopnica 28
+28-130 Stopnica
+
+#Przedszkole
+
+Zespół Szkolno - Przedszkolny Szkoła Podstawowa im. Batalionów Chłopskich
+Kazimierza Wielkiego 23
+28-130 Stopnica
+
+#Uniwersytet
+
+Zobacz też:
+Kazimierza Wielkiego 23
+28-130 Stopnica
+
+#Przychodnia
+
+Ośrodek Zdrowia
+Tadeusza Kościuszki 12A
+28-130 Stopnica
+
+#Policja
+
+Komisariat Policji
+Tadeusza Kościuszki 12
+28-130 Stopnica
+
+#Produkcja
+
+F. P. H. U. Tomasz Mrówka Producent stolarki aluminiowej
+ul
+Wincentego Witosa 10A
+28-130 Stopnica
+
+#Klub
+
+Klub Euforia
+Józefa Piłsudskiego 12-15
+28-130 Stopnica
+
+#Poczta
+
+Poczta Polska
+ul
+Józefa Piłsudskiego 7
+28-130 Stopnica
+
+#muzeum
+
+Muzeum Samochodów Sportowych i Motobiblioteka
+Stopnica
+Smogorzów 134
+28-130 Smogorzów
+
+#Centrum
+
+Delikatesy Centrum Władysław Smoleń
+Partyzantów 5
+28-130 Stopnica
+
+Centrum Chińskie
+28-130 Stopnica
+
+Siłownia Stopnica
+Kazimierza Wielkiego 17
+28-130 Stopnica
+
+Lodowisko w Stopnicy
+Kazimierza Wielkiego
+28-130 Stopnica
+
+Szkolenia BHP
+Wincentego Witosa 47
+28-130 Stopnica
+
+Zamek w Stopnicy
+Kazimierza Wielkiego 15
+28-130 Stopnica
+
+Jezioro Z Rowerkami Wodnymi I Kajakami
+28-130 Stopnica
+
+Muszkieter Autobusy Stopnica dworzec
+28-130 Stopnica
+
+Parking Koło Zamku
+28-130 Stopnica
+
+Hotel Rywa Verci
+Partyzantów 3
+28-130 Stopnica
+
+======================================================================
+28-142 KARGÓW
+
+#Bank
+
+Producent łóżek piętrowych BIENIEX
+Kargów 1
+28-142 Kargów
+
+#Firma
+
+Tartak Mobilny Kłoda - Dariusz Mrowiński
+Kargów 37
+28-142 Kargów
+
+#Poczta
+
+Kościół Rzymskokatolicki Pw. Matki Bożej Częstochowskiej
+Kargów 64
+28-142 Tuczępy
+
+Bartek Bus. Busy do Niemiec, Holandii, Belgii Świętokrzyskie. Transport do Holandii. Przewóz osób
+Kargów 56
+28-142 Kargów
+
+======================================================================
+28-100 ZABORZE
+
+======================================================================
+28-130 SKROBACZÓW
+
+#Bank
+
+Budomiks.pl
+Skrobaczów 61a
+28-130 Skrobaczów
+
+======================================================================
+28-130 PODLASEK
+
+#Bank
+
+Szostak M.J. Szkółka drzew i krzewów owocowych
+Podlasek 4
+28-130 Podlasek
+
+======================================================================
+28-131 ZBORÓW
+
+======================================================================
+28-142 BOSOWICE
+
+#Bank
+
+Dwór
+0026T 16
+28-142 Bosowice
+
+======================================================================
+28-114 RACZYCE
+
+======================================================================
+28-131 KIKÓW
+
+#Ośrodek
+
+Ośrodek Warsztatowy w Kikowie
+Kików 91
+Województwo Świętokrzyskie
+28-131 Kików
+
+======================================================================
+28-100 KOŁACZKOWICE
+
+#Szkoła
+
+Szkoła Podstawowa
+Kołaczkowice 122
+28-100 Kołaczkowice
+
+======================================================================
+28-100 JANINA
+
+#Ośrodek
+
+Hostel dla Osób Uzależnionych od Alkoholu
+Janina 4
+28-100 Busko-Zdrój
+
+#Poczta
+
+Kościół św. Wojciecha BM w Janinie
+Janina 24
+28-100 Janina
+
+======================================================================
+28-130 KONARY
+
+#Ośrodek
+
+Pałac w Konarach
+Konary 43
+28-130 Stopnica
+
+======================================================================
+28-114 BALICE
+
+#Poczta
+
+Kościół św. Stanisława w Balicach
+Balice 1
+28-114 Balice
+
+======================================================================
+28-100 WIDUCHOWA
+
+#Poczta
+
+Ochotnicza Straż Pożarna w Widuchowej
+Widuchowa 154
+28-100 Widuchowa
+
+Kaplica Matki Boskiej Anielskiej w Widuchowej
+28-100 Widuchowa
+
+======================================================================
+28-100 KOTKI
+
+#Przedsiębiorstwo
+
+ZAG sp. z o. o.
+Kotki 40
+28-100 Kotki
+
+======================================================================
+26-020 KOTLICE
+
+#Urząd
+
+Ochotnicza Straż Pożarna
+Kotlice 28A
+26-020 Kotlice
+
+#Produkcja
+
+SEART meble
+Kotlice 103
+26-020 Kotlice
+
+======================================================================
+28-100 BRONINA
+
+#Ośrodek
+
+Specjalny Ośrodek Szkolno - Wychowawczy
+28-100 Bronina; 59
+
+#Szkoła
+
+Stowarzyszenie Daj Dziecku Nadzieję działające przy SOSW w Broninie
+Bronina 59
+28-100 Bronina
+
+======================================================================
+28-100 BUSKO-ZDRÓJ
+
+#Urząd
+
+Urząd Miasta i Gminy
+Aleja Adama Mickiewicza 10
+28-100 Busko-Zdrój
+
+#Ośrodek
+
+Hotel Słoneczny Zdrój Medical Spa & Wellness
+Bohaterów Warszawy 115
+28-100 Busko-Zdrój
+
+Nida Zdrój. Sp. z o.o.
+Generała Feliksa Rzewuskiego 9
+28-100 Busko-Zdrój
+
+Sanatorium Włókniarz
+Stanisława Rokosza 1
+28-100 Busko-Zdrój
+
+Rafał. Sanatorium Uzdrowiskowe NZOZ
+Topolowa
+28-100 Busko-Zdrój
+
+Gromada
+Ludwika Waryńskiego 10
+28-100 Busko-Zdrój
+
+Sanatorium Stefan
+Spokojna 4
+28-100 Busko-Zdrój
+
+NATURA Ośrodek Leczniczo-Rehabilitacyjny
+Fryderyka Chopina 9
+28-100 Busko-Zdrój
+
+Sanatorium & Pensjonat Zbyszko
+Parkowa 2
+28-100 Busko-Zdrój
+
+Buski Ośrodek Sportu i Rekreacji, Pływalnia Miejska
+prof. Józefa Wacława Grotta 3a
+28-100 Busko-Zdrój
+
+Hotel Słoneczny Zdrój Medical Spa & Wellness
+Bohaterów Warszawy 115
+28-100 Busko-Zdrój
+
+Uzdrowisko Busko-Zdrój S.A.
+Generała Feliksa Rzewuskiego 1
+28-100 Busko-Zdrój
+
+Pensjonat Sanato
+1 Maja 29
+28-100 Busko-Zdrój
+
+Krystyna. Szpital uzdrowiskowy i sanatorium
+Generała Feliksa Rzewuskiego 3
+28-100 Busko-Zdrój
+
+Specjalny Ośrodek Szkolno-Wychowawczy dla Niepełnosprawnych Ruchowo
+Rehabilitacyjna 1
+28-100 Busko-Zdrój
+
+Powiatowy Międzyszkolny Ośrodek Sportowy
+Janusza Kusocińskiego 3
+28-100 Busko-Zdrój
+
+Słowacki
+1 Maja 33
+28-100 Busko-Zdrój
+
+Słoneczy Zdrój
+Bohaterów Warszawy 134
+28-100 Busko-Zdrój
+
+Sanatorium Oblęgorek
+1 Maja 15
+28-100 Busko-Zdrój
+
+Bristol Busko ART & Medical SPA
+1 Maja 1
+28-100 Busko-Zdrój
+
+Sanatorium Lawendowy Zdrój - Medycyna & Spa
+Korczyńska 25
+28-100 Busko-Zdrój
+
+#Dom kultury
+
+Buskie Samorządowe Centrum Kultury (Busko Local Government Cultural Center)
+Aleja Adama Mickiewicza 22
+28-100 Busko-Zdrój
+
+#Szkoła
+
+Publiczna Szkoła Podstawowa nr 3 im. Płk. Aleksandra Krzyżanowskiego "Wilka"
+Profesora Józefa Wacława Grotta 3
+28-100 Busko-Zdrój
+
+Pierwsza Niepubliczna Szkoła Podstawowa
+Podpułkownika "Srogiego" 1
+28-100 Busko-Zdrój
+
+Szkoła Podstawowa nr 2
+Janusza Korczaka 13
+28-100 Busko-Zdrój
+
+Szkoła Podstawowa nr 1 im. S. Staszica
+Tadeusza Kościuszki 1
+28-100 Busko-Zdrój
+
+Zespół Szkół Techniczno - Informatycznych w Busku-Zdroju
+Aleja Adama Mickiewicza 23
+28-100 Busko-Zdrój
+
+Zespół Szkół Technicznych i Ogólnokształcących im. Kazimierza Wielkiego
+Janusza Kusocińskiego 3B
+28-100 Busko-Zdrój
+
+Zespół Szkół Ponadgimnazjalnych im. Mikołaja Kopernika w Busku-Zdroju
+Aleja Adama Mickiewicza 6
+28-100 Busko-Zdrój
+
+Liceum Ogólnokształcące nr I im.Tadeusza Kościuszki
+Aleja Adama Mickiewicza 13
+28-100 Busko-Zdrój
+
+Szkoła Podstawowa Specjalna w Zespole Szkół Specjalnych Górka
+28-100 Busko-Zdrój; dr Starkiewicza 1
+
+Liceum Ogólnokształcące Uzupełniające dla Dorosłych
+Wojska Polskiego 31
+28-100 Busko-Zdrój
+
+Zasadnicza Szkoła Zawodowa Centrum Kształcenia Zawodowego
+Wojska Polskiego 31
+28-100 Busko-Zdrój
+
+Szkoła Muzyczna I stopnia im. Krzysztofa Pendereckiego
+Aleja Adama Mickiewicza 22
+28-100 Busko-Zdrój
+
+Warsztaty Szkolne ZST-I
+Janusza Kusocińskiego 3
+28-100 Busko-Zdrój
+
+Centrum Kształcenia Zawodowego w Busku-Zdroju - Spawalnia
+Wojska Polskiego 30
+28-100 Busko-Zdrój
+
+SIGMA Szkoła policealna i Liceum dla dorosłych
+Partyzantów 21
+28-100 Busko-Zdrój
+
+Gimnazjum Samorządowe nr 1
+Stefana Batorego 25
+28-100 Busko-Zdrój
+
+Simages. Szymon A.
+Osiedle Pułaskiego 1
+28-100 Busko-Zdrój
+
+Zespół Szkół Specjalnych
+Doktora Starkiewicza 1
+28-100 Busko-Zdrój
+
+#Przedszkole
+
+Przedszkole nr 3
+Os. Sikorskiego 12
+28-100 Busko-Zdrój
+
+Publiczne Przedszkole nr 2
+Tadeusza Kościuszki 14
+28-100 Busko-Zdrój
+
+Niepubliczne Przedszkole Artystyczno-Językowe SŁONECZKO
+Mikołaja Kopernika 17
+28-100 Busko-Zdrój
+
+Niepubliczne Przedszkole ,,Bajkowe Wzgórze" w Mikułowicach
+Mikułowice 123
+28-100 Busko-Zdrój
+
+#Biblioteka
+
+Miejsko-Gminna Biblioteka Publiczna
+osiedle Orła Białego 17
+28-100 Busko-Zdrój
+
+#Szpital
+
+Szpital Rejonowy Zespołu Opieki Zdrowotnej
+Bohaterów Warszawy 67
+28-100 Busko-Zdrój
+
+Szpital Rejonowy w Busku - Zdroju
+Bohaterów Warszawy 69
+28-100 Busko-Zdrój
+
+Wojskowy Szpital Uzdrowiskowo-Rehabilitacyjny
+Generała Feliksa Rzewuskiego 8
+28-100 Busko-Zdrój
+
+Specjalistyczny Szpital Ortopedyczno - Rehabilitacyjny "Górka" im. dr Szymona Starkiewicza w Busku-Zdroju
+dr Sz
+Doktora Starkiewicza 1
+28-100 Busko-Zdrój
+
+Specjalistyczny Szpital Kompleksowej Rehabilitacji i Ortopedii Dziecięcej "GÓRKA" im. dr Szymona Starkiewicza
+28-100 Busko-Zdrój
+
+Oblęgorek. Szpital uzdrowiskowy i sanatorium
+1 Maja 19
+28-100 Busko-Zdrój
+
+Pracownia Radiologiczna Panorama UNIDENT
+Bohaterów Warszawy 13
+28-100 Busko-Zdrój
+
+Busko zdrój
+Generała Feliksa Rzewuskiego 8
+28-100 Busko-Zdrój
+
+Uzdrowisko Krystyna
+28-100 Busko-Zdrój
+
+Zespół Opieki Zdrowotnej
+Bohaterów Warszawy 67
+28-100 Busko-Zdrój
+
+Affidea Busko-Zdrój
+Bohaterów Warszawy 67
+28-100 Busko-Zdrój
+
+Kądzielawa Jarosław, lek. med. Indywidualna poradnia reumatologiczna
+Stanisława Staszica 2
+28-100 Busko-Zdrój
+
+Ortopeda dziecięcy Artur Oberc
+Doktora Starkiewicza 1
+28-100 Busko-Zdrój
+
+Najkowski Okulistyka
+Plac Zwycięstwa 10
+28-100 Busko-Zdrój
+
+Specjalistyczny Szpital Ortopedyczno - Rehabilitacyjny "Górka"
+ul. dr Sz. Starkiewicza 1
+28-100 Busko-Zdrój
+
+#Przychodnia
+
+Przychodnia Rejonowa Nr 1
+Sądowa 9
+28-100 Busko-Zdrój
+
+Przychodnia Uzdrowiskowa (Zakład Lecznictwa Uzdrowiskowego w Busku- Zdroju)
+1 Maja 14
+28-100 Busko-Zdrój
+
+Samodzielny Publiczny Zespół Podstawowej Opieki Zdrowotnej
+Sądowa 9
+28-100 Busko-Zdrój
+
+Przychodnia Rejonowa nr 2
+Os. Sikorskiego 10
+28-100 Busko-Zdrój
+
+#Placówka
+
+Kasa Rolniczego Ubezpieczenia Społecznego. Placówka terenowa
+Armii Krajowej 17
+28-100 Busko-Zdrój
+
+#Bank
+
+Bank Spółdzielczy
+Stefana Batorego 1A
+28-100 Busko-Zdrój
+
+Bank Pekao S.A.
+Plac Zwycięstwa 25
+28-100 Busko-Zdrój
+
+Santander Consumer Bank
+Plac Zwycięstwa 31
+28-100 Busko-Zdrój
+
+Bank Spółdzielczy
+Osiedle Pułaskiego 10
+28-100 Busko-Zdrój
+
+PKO Bank Polski S.A.-Oddział 1 w Busku-Zdroju
+Plac Zwycięstwa 18
+28-100 Busko-Zdrój
+
+Alior Bank
+Aleja Adama Mickiewicza 12
+28-100 Busko-Zdrój
+
+Nadwiślański Bank Spółdzielczy
+Tadeusza Kościuszki 28
+28-100 Busko-Zdrój
+
+Alior Bank - Placówka Partnerska
+Os. Leszka Czarnego 1
+28-100 Busko-Zdrój
+
+Getin Noble Bank S.A. Placówka partnerska
+Plac Zwycięstwa 27
+28-100 Busko-Zdrój
+
+Santander Bank Polska S.A.
+Partyzantów 27
+28-100 Busko-Zdrój
+
+Bank Pekao S.A. I Oddział w Kielcach. Filia nr 2
+Plac Zwycięstwa 25
+28-100 Busko-Zdrój
+
+BNP Paribas Bank Polska S.A. Oddział w Busku-Zdroju
+Bohaterów Warszawy 11
+28-100 Busko-Zdrój
+
+Loombard.pl
+Plac Zwycięstwa 28
+28-100 Busko-Zdrój
+
+Millennium Partner
+Bohaterów Warszawy 7
+28-100 Busko-Zdrój
+
+Fines
+Bohaterów Warszawy 5
+28-100 Busko-Zdrój
+
+Punkt sprzedaży Plusa i Cyfrowego Polsatu
+Partyzantów 5
+28-100 Busko-Zdrój
+
+Kantor Karolina Kobierska
+Wojska Polskiego 3
+28-100 Busko-Zdrój
+
+SKOK Ziemi Rybnickiej
+Aleja Adama Mickiewicza 1
+28-100 Busko-Zdrój
+
+Lombard Busko-Zdrój
+Wojska Polskiego 3
+28-100 Busko-Zdrój
+
+Kasa Stefczyka
+Plac Zwycięstwa 8
+28-100 Busko-Zdrój
+
+#Wydział
+
+Zakład Usług Komunalnych w Busku-Zdroju
+Różana 2
+28-100 Busko-Zdrój
+
+#Policja
+
+Komenda Powiatowa Policji
+Aleja Adama Mickiewicza 19
+28-100 Busko-Zdrój
+
+#Prokuratura
+
+Prokuratura Rejonowa w Busku – Zdroju
+Tadeusza Kościuszki 5
+28-100 Busko-Zdrój
+
+#Sąd
+
+Sąd Rejonowy
+Tadeusza Kościuszki 5
+28-100 Busko-Zdrój
+
+#Przedsiębiorstwo
+
+Miejskie Przedsiębiorstwo Gospodarki Komunalnej Sp. z o.o.
+Łagiewnicka 25
+28-100 Busko-Zdrój
+
+#Produkcja
+
+Komunalny Związek Ciepłownictwa "Ponidzie"
+Sikorskiego 42
+28-100 Busko-Zdrój
+
+MetalSystem Andrzej Stępień Ogrodzenia, bramy przesuwne, Konstrukcje Stalowe, Busko
+Bronina 70L
+28-100 Busko-Zdrój
+
+GRASS-ROL
+Łagiewniki 199
+Busko-Zdrój 28
+28-100 Busko-Zdrój
+
+Sulphur Zdrój - Produkty lecznicze i kosmetyki naturalne
+Bohaterów Warszawy 116A
+28-100 Busko-Zdrój
+
+PH Mieleniewscy s.c.
+Bohaterów Warszawy 104
+28-100 Busko-Zdrój
+
+Lalewicz Urszula. Sprzedaż lodów
+Aleja Adama Mickiewicza 22
+28-100 Busko-Zdrój
+
+Producent rolet, P.W.Woźniak, żaluzje
+Poprzeczna 4
+28-100 Busko-Zdrój
+
+Daag. ZHU. Gluzicki A.
+Kilińskiego 43
+28-100 Busko-Zdrój
+
+Przedsiębiorstwo Farmaceutyczne Sulphur Zdrój EXIM Sp. z o.o.
+Bohaterów Warszawy 116A
+28-100 Busko-Zdrój
+
+Daplen. PPH. Kozłowski L.
+Mikułowicka
+28-100 Busko-Zdrój
+
+P.H.U.P. "Domdekor" www.urokdrewna.pl
+Bohaterów Warszawy 44
+28-100 Busko-Zdrój
+
+Firma Handlowa Rafał Para
+Wojska Polskiego 99
+28-100 Busko-Zdrój
+
+Uniwers. Zakład poligraficzny. Bożek J.
+Bohaterów Warszawy 12
+28-100 Busko-Zdrój
+
+Okna PCV PESO
+Ogrodowa 1
+28-100 Busko-Zdrój
+
+Syntetyk s.c. Narzędzia ścierne, kleje, żywice epoksydowe
+Batalionów Chłopskich 9
+28-100 Busko-Zdrój
+
+CymbaMeble - salon meblowy
+Bohaterów Warszawy 11 a
+28-100 Busko-Zdrój
+
+Drukarnia Boczna
+Boczna 4
+28-100 Busko-Zdrój
+
+Bracia Romanowscy. Stolarstwo
+Lipowa 1
+28-100 Busko-Zdrój
+
+Producent odzieży RUDEK Koszule z logo, firmowe, reklamowe
+Stefana Żeromskiego 4
+28-100 Busko-Zdrój
+
+#Zakład
+
+Zakład usług metalowych
+Ludwika Waryńskiego 42
+28-100 Busko-Zdrój
+
+Polska Spółka Gazownictwa Sp. z o.o., Oddział Zakład Gazowniczy w Kielcach, Gazownia w Busku-Zdroju
+Ludwika Waryńskiego 29B
+28-100 Busko-Zdrój
+
+PGE Obrót S.A. Biuro Obsługi Klienta Busko-Zdrój
+Bohaterów Warszawy 110
+28-100 Busko-Zdrój
+
+Kaleta Andrzej. Całodobowe, kompleksowe usługi pogrzebowe
+Wincentego Witosa 18
+28-100 Busko-Zdrój
+
+Foto-Jachymiak
+Mikołaja Kopernika 12
+28-100 Busko-Zdrój
+
+ZUS Inspektorat w Busku-Zdroju
+Partyzantów 33
+28-100 Busko-Zdrój
+
+Dytkowski Dariusz. Zakład mechaniki pojazdowej
+Widuchowska 4
+28-100 Busko-Zdrój
+
+Majcher Józef. Zakład budowlano - montażowy
+Marii Dąbrowskiej 14
+28-100 Busko-Zdrój
+
+Alarm-Serwis. PHU
+osiedle Leszka Czarnego
+28-100 Busko-Zdrój
+
+Wieloch Józef. Zakład instalatorstwa elektrycznego i telekomunikacyjnego
+Ludwika Waryńskiego 24
+28-100 Busko-Zdrój
+
+Molisak Joanna. Zakład fryzjerski
+Aleja Adama Mickiewicza 3
+28-100 Busko-Zdrój
+
+Photogold. Usługi fotograficzne. Nowak M.
+Kilińskiego 12
+28-100 Busko-Zdrój
+
+Motyl Antoni. Usługi pogrzebowe
+Wincentego Witosa 8
+28-100 Busko-Zdrój
+
+#Agencja
+
+Biuro Powiatowe ARiMR
+Aleja Adama Mickiewicza 27
+28-100 Busko-Zdrój
+
+Agencja Restrukturyzacji i modernizacji Rolnictwa Busko Zdrój
+Spacerowa 10
+28-100 Busko-Zdrój
+
+Dal. Agencja turystyczna. Cmoch L.
+Łagiewnicka 98
+28-100 Busko-Zdrój
+
+SECURITY COBRA AGENCJA OCHRONY OSÓB I MIENIA
+Bohaterów Warszawy 114
+28-100 Busko-Zdrój
+
+Agencja ochrony mienia
+Skałki 17
+28-100 Busko-Zdrój
+
+Powiatowy Urząd Pracy
+Różana 2
+28-100 Busko-Zdrój
+
+Agencja SEO Wertui
+Partyzantów 19
+28-100 Busko-Zdrój
+
+Paweł Kania. Centrum ubezpieczeniowe Busko Zdrój. Ubezpieczenia komunikacyjne, majatkowe, życiowe
+Targowa 4
+28-100 Busko-Zdrój
+
+#Spółdzielnia
+
+Spółdzielnia Mieszkaniowa
+Osiedle Pułaskiego 10
+28-100 Busko-Zdrój
+
+#Związek
+
+Związek Harcerstwa Polskiego. Komenda Hufca im. 1000-lecia Państwa Polskiego
+Bohaterów Westerplatte 4
+28-100 Busko-Zdrój
+
+Ogólnopolskie Stowarzyszenie Powiatowych i Miejskich Ośrodków Pomocy Rodzinie Centrum
+Aleja Adama Mickiewicza 27
+28-100 Busko-Zdrój
+
+PTTK Oddział w Busku-Zdroju
+Aleja Adama Mickiewicza 7
+28-100 Busko-Zdrój
+
+#Stowarzyszenie
+
+Powiatowe Centrum Pomocy Rodzinie
+Bohaterów Warszawy 120
+28-100 Busko-Zdrój
+
+Polskie Stowarzyszenie Diabetyków Oddział Powiatowy w Busku-Zdroju
+Bohaterów Warszawy 67
+28-100 Busko-Zdrój
+
+Słoneczny Lider. Buska Lokalna Grupa Działania
+Partyzantów 22
+28-100 Busko-Zdrój
+
+Kaplica cmentarna Busko Zdrój
+28-100 Busko-Zdrój
+
+AKS Busko
+Janusza Kusocińskiego
+28-100 Busko-Zdrój
+
+#Klub
+
+Imperium
+Widuchowska 198
+28-100 Busko-Zdrój
+
+K2
+28-100 Busko-Zdrój
+
+Klub Sportowy BODYMANIAK
+Wojska Polskiego 2
+28-100 Busko-Zdrój
+
+Energy. Fitness klub
+Os. Sikorskiego 9
+28-100 Busko-Zdrój
+
+Młodzieżowy Klub Sportowy "MKS ZDRÓJ"
+Janusza Kusocińskiego 1
+28-100 Busko-Zdrój
+
+Zakąski i Napitki
+Waryńskiego 1
+28-100 Busko-Zdrój
+
+#Organizacja
+
+Lokalna Organizacja Turystyczna "Moc Ponidzia"
+Aleja Adama Mickiewicza 22
+28-100 Busko-Zdrój
+
+#Poczta
+
+Poczta Polska
+Aleja Adama Mickiewicza 11
+28-100 Busko-Zdrój
+
+Urząd Pocztowy Busko Zdrój 1. Oddział
+Os. Sikorskiego 10
+28-102 Busko-Zdrój
+
+Poczta Polska
+ul
+Bohaterów Warszawy 67
+28-100 Busko-Zdrój
+
+Urząd Pocztowy 3
+1 Maja 37
+28-101 Busko-Zdrój
+
+Poczta Polska
+Osińska 10
+28-102 Busko-Zdrój
+
+Punkt Pocztowy Poczta Polska
+Nadole 2
+28-100 Busko-Zdrój
+
+Poczta Polska
+1 Maja 18
+28-101 Busko-Zdrój
+
+Punkt kurierski GlobBox - Hotel Pod Świerkiem - Busko Zdrój
+Ludwika Waryńskiego 38
+28-100 Busko-Zdrój
+
+UPS Access Point
+Aleja Adama Mickiewicza 14B
+28-100 Busko-Zdrój
+
+Kościół Niepokalanego Poczęcia Najświętszej Maryi Panny w Busku-Zdroju
+Bohaterów Warszawy 8
+28-100 Busko-Zdrój
+
+Straż Miejska w Busku-Zdroju
+Aleja Adama Mickiewicza 10
+28-100 Busko-Zdrój
+
+Starostwo Powiatowe w Busku-Zdroju
+Aleja Adama Mickiewicza 15
+28-100 Busko-Zdrój
+
+Urząd Stanu Cywilnego
+Aleja Adama Mickiewicza 10
+28-100 Busko-Zdrój
+
+Paczkomat InPost
+Wojska Polskiego 33
+28-100 Busko-Zdrój
+
+Paczkomat InPost
+Bohaterów Warszawy 116
+28-100 Busko-Zdrój
+
+#ZNP
+
+Związek Nauczycielstwa Polskiego. Zarząd oddziału
+Stefana Batorego 17
+28-100 Busko-Zdrój
+
+#PZU
+
+Oddział PZU - Busko Zdrój, Osiedle Leszka Czarnego
+osiedle Leszka Czarnego 1/7
+28-100 Busko-Zdrój
+
+#muzeum
+
+Muzeum Ziemi Buskiej w Busku-Zdroju
+Aleja Adama Mickiewicza 7
+28-100 Busko-Zdrój
+
+#Czerwony Krzyż
+
+Zarząd Rejonowy PCK Świętokrzyskiego ZO
+Mikołaja Kopernika 2
+28-100 Busko-Zdrój
+
+#Klub Seniora
+
+Klub Seniora
+Różana 2
+28-100 Busko-Zdrój
+
+#Niepełnosprawni
+
+Powiatowy Zespół ds. Orzekania o Niepełnosprawności
+ul
+Armii Krajowej 19
+28-100 Busko-Zdrój
+
+======================================================================
+28-100 RADZANÓW
+
+======================================================================
+28-100 ZBLUDOWICE
+
+#Uniwersytet
+
+Szkoła Podstawowa
+Świętokrzyska 9
+28-100 Zbludowice
+
+#Szpital
+
+Gabinet Dentystyczny Anna Cieplińska- stomatolog, dentysta
+Świętokrzyska 12
+28-100 Zbludowice
+
+#Zakład
+
+Zakład Instalacji Sanitarnych INSTAL-GUT
+ul. Zielona 6B
+28-100 Zbludowice
+
+#Poczta
+
+Ochotnicza Straż Pożarna
+Świętokrzyska 44
+28-100 Zbludowice
+
+======================================================================
+28-100 SZANIEC
+
+#Szkoła
+
+Publiczne przedszkole
+Szaniec 240
+28-100 Szaniec
+
+#Produkcja
+
+Kosmetyki Dr Duda
+Szaniec 268
+28-100 Szaniec
+
+#Firma
+
+MARCIN MARCINIEC
+Szaniec 16
+28-100 Szaniec
+
+#Poczta
+
+Poczta Polska
+Szaniec 160
+28-100 Szaniec
+
+#Instytucja
+
+Zobacz też:
+Szaniec 240
+28-100 Szaniec
+
+#muzeum
+
+Zabytkowy Dwór Obronny
+Szaniec 232
+28-100 Szaniec
+
+======================================================================
+28-160 SKOROCICE
+
+#Poczta
+
+Siedziba OSP Skorocice
+28-160 Skorocice
+
+======================================================================
+28-100 GALÓW
+
+#Firma
+
+Maciąg Mariusz. Firma remontowo - budowlana
+Galów 41
+28-100 Galów
+
+======================================================================
+28-400 STARA ZAGOŚĆ
+
+#Szkoła
+
+Szkoła Podstawowa
+28-400 Stara Zagość
+
+#Bank
+
+Zespół Placówek Oświatowych
+Stara Zagość 12
+28-400 Stara Zagość
+
+======================================================================
+28-400 CHRUŚCICE
+
+#Poczta
+
+OSP Chruścice
+Chruścice 56
+28-400 Chruścice
+
+======================================================================
+28-425 ZŁOTA
+
+#Urząd
+
+Urząd Gminy Złota
+Sienkiewicza 79
+28-425 Złota
+
+#Biblioteka
+
+Gminna Biblioteka Publiczna w Złotej
+Parkowa 8
+28-425 Złota
+
+#Przychodnia
+
+Samorządowy Zakład Opieki Zdrowotnej w Złotej
+Sienkiewicza 81
+28-425 Złota
+
+#Bank
+
+Bank Spółdzielczy w Pińczowie Oddział w Złotej
+Sienkiewicza 77
+28-425 Złota
+
+#Zakład
+
+SAMORZĄDOWY ZAKŁAD GOSPODARKI KOMUNALNEJ
+Parkowa 11
+28-425 Złota
+
+#Poczta
+
+Poczta Polska
+ul.
+Sienkiewicza 68
+28-425 Złota
+
+Urząd Pocztowy
+Sienkiewicza 68
+28-425 Złota
+
+#Centrum
+
+Delikatesy Centrum
+Sienkiewicza 85
+28-425 Złota
+
+Apteka Centrum Zdrowia
+Złota 170A
+28-425 Złota
+
+Salwierak Dariusz. Sklep ogrodniczy
+Sienkiewicza 83
+28-425 Złota
+
+======================================================================
+28-425 NIEPROWICE
+
+#Produkcja
+
+Agropole. Farsze, cebula prażona (smażona), suszone warzywa, zioła, przyprawy. Produkcja i handel.
+Nieprowice 107
+28-425 Nieprowice
+
+#Klub
+
+Las Vegas. Klub dyskotekowy
+28-425 Nieprowice
+
+======================================================================
+28-400 GACKI
+
+#Ośrodek
+
+Ośrodek Zdrowia Gacki
+Osiedle
+28-225 Gacki
+
+#Szkoła
+
+Gacki-Osrodek dla Mlodziezy
+28-400
+Leszcze Częściowe
+Leszcze 35
+62-604 Leszcze
+
+#Poczta
+
+Poczta Polska
+Gacki 7
+28-400 Gacki
+
+======================================================================
+28-400 SZCZYPIEC
+
+======================================================================
+28-400 WŁOCHY
+
+#Poczta
+
+Leśnictwo
+28-400 Włochy
+
+======================================================================
+28-425 CHROBERZ
+
+#Ośrodek
+
+Ośrodek Zdrowia
+Chroberz 20
+28-425 Chroberz
+
+#Dom kultury
+
+Stadion sportowy Strzelec Chroberz
+Parkowa 8
+28-425 Chroberz
+
+#Przedszkole
+
+Szkoła Podstawowa
+Chroberz 246
+28-425 Chroberz
+
+#Uniwersytet
+
+Zespół Szkół Centrum Kształcenia Rolniczego im. Bolesława Chrobrego
+Parkowa 11
+28-425 Chroberz
+
+#Biblioteka
+
+Biblioteka Publiczna Gminna
+Chroberz 280
+28-425 Chroberz
+
+#Agencja
+
+Zobacz też:
+Chroberz 246
+28-425 Chroberz
+
+#Poczta
+
+Poczta Polska
+54 28-425
+Bolesława Chrobrego
+Chroberz
+
+#muzeum
+
+Ośrodek Dziedzictwa Kulturowego i Tradycji Rolnej Ponidzia - Pałac Wielopolskich
+Parkowa 14
+28-425 Chroberz
+
+======================================================================
+28-400 KRZYŻANOWICE DOLNE
+
+#Ośrodek
+
+Ośrodek Szkoleniowo-Wypoczynkowy Zacisze
+13
+28
+28-400 Krzyżanowice Dolne
+
+#Akademia
+
+Kościół św. Tekli w Krzyżanowicach Dolnych
+Krzyżanowice Dolne 8A
+28-400 Krzyżanowice Dolne
+
+#Poczta
+
+OSP Krzyżanowice Dolne
+Krzyżanowice Dolne 12
+28-400 Krzyżanowice Dolne
+
+Figurka przydrożna
+Krzyżanowice Dolne 28
+28-400 Krzyżanowice Dolne
+
+======================================================================
+28-400 PIŃCZÓW
+
+#Urząd
+
+Urząd Miejski
+3 Maja 10
+28-400 Pińczów
+
+Urząd Miasta
+3 Maja 3
+28-400 Pińczów
+
+Powiatowy Urząd Pracy
+Złota 7
+28-400 Pińczów
+
+Urząd Stanu Cywilnego
+Nowy Świat 5A
+28-400 Pińczów
+
+Poczta Polska
+ul
+Batalionów Chłopskich 14
+28-400 Pińczów
+
+Starostwo Powiatowe
+Zacisze 5
+28-400 Pińczów
+
+ZUS Biuro Terenowe w Pińczowie
+3 Maja 40
+28-400 Pińczów
+
+#Ośrodek
+
+Samorządowy Zakład Opieki Zdrowotnej w Pińczowie
+Klasztorna 6
+28-400 Pińczów
+
+#Dom kultury
+
+Pińczowskie Samorządowe Centrum Kultury
+Marszałka Józefa Piłsudskiego 2a
+28-400 Pińczów
+
+#Szkoła
+
+Zespół Szkół Zawodowych im. Stanisława Staszica
+Spółdzielcza 6
+28-400 Pińczów
+
+Wyższa Szkoła Umiejętności Zawodowych
+Żwirki i Wigury 40
+28-400 Pińczów
+
+Szkoła Podstawowa nr 1
+Szkolna 2
+28-400 Pińczów
+
+SP 2 w Pińczowie ( dawne Gimnazjum nr 1)
+Siedem Źródeł Siedem
+28-400 Pińczów
+
+Awans Szkoły dla młodzieży i dorosłych
+1 Maja 2
+28-400 Pińczów
+
+Szkoła Podstawowa nr 2 imienia Jana Pawła II
+Siedem Źródeł 7
+28-400 Pińczów
+
+Specjalny Ośrodek Szkolno - Wychowawczy
+Marszałka Józefa Piłsudskiego 13
+28-400 Pińczów
+
+Punkt Przedszkolny i Internat Fundacji Pomocy Osobom Niepełnosprawnym "Złote Serce"
+Pałęki 26
+28-400 Pińczów
+
+Złote Serce. Specjalny ośrodek szkolno - wychowawczy
+Batalionów Chłopskich 5
+28-400 Pińczów
+
+Przedszkole nr 3
+Hugona Kołłątaja 8
+28-400 Pińczów
+
+Liceum Ogólnokształcące im. H. Kołłątaja
+Nowy Świat 2
+28-400 Pińczów
+
+XDDDlollol
+Kazimierza Wielkiego 2
+28-400 Pińczów
+
+Liceum Ogólnokształcące dla Dorosłych Zakładu Doskonalenia Zawodowego
+ul
+Żwirki i Wigury 40
+28-400 Pińczów
+
+#Akademia
+
+Football Academy Pińczów
+Siedem Źródeł 7
+28-400 Pińczów
+
+#Biblioteka
+
+Biblioteka Pedagogiczna Wojewódzka. Filia
+Nowy Świat 3
+28-400 Pińczów
+
+Biblioteka Publiczna Miejsko - Gminna im. J.O. Szanieckiego
+Nowy Świat 3
+28-400 Pińczów
+
+Pińczowskie Samorządowe Centrum Kultury. Dział Biblioteczny. Filia
+Grodziskowa 2
+28-400 Pińczów
+
+#Szpital
+
+Szpital
+Armii Krajowej 22
+28-400 Pińczów
+
+#Placówka
+
+Kasa Rolniczego Ubezpieczenia Społecznego. Placówka terenowa
+Republiki Pińczowskiej 37
+28-400 Pińczów
+
+#Bank
+
+Bank Spółdzielczy w Pińczowie Centrala
+Plac Wolności 21
+28-400 Pińczów
+
+ING Bank Śląski Oddział w Pińczowie
+Klasztorna 4
+28-400 Pińczów
+
+PKO Bank Polski S.A.-Oddział 1 w Pińczowie
+ul
+Batalionów Chłopskich 7
+28-400 Pińczów
+
+Alior Bank - Placówka Partnerska
+Legionistów 8
+28-400 Pińczów
+
+Credit Agricole Bank Polska S.A. - Placówka CA Express
+Republiki Pińczowskiej 11
+28-400 Pińczów
+
+Millennium Partner
+Złota 3a
+28-400 Pińczów
+
+Wyrzycki S. Kantor wymiany walut
+Legionistów 2A/8
+28-400 Pińczów
+
+Royal. Kantor wymiany walut
+Klasztorna 5
+28-400 Pińczów
+
+Bankomat Santander Bank Polska S.A.
+Plac Wolności 23
+28-400 Pińczów
+
+Punkt sprzedaży Plusa i Cyfrowego Polsatu
+Klasztorna 2
+28-400 Pińczów
+
+SKOK Jaworzno
+Plac Wolności 4
+28-400 Pińczów
+
+Bank Polskiej Spóldzielczosci S.A. Bankomat
+Plac Wolności 21
+28-400 Pińczów
+
+Bankomat ING
+Batalionów Chłopskich
+28-400 Pińczów
+
+Lombard
+Legionistów 22
+28-400 Pińczów
+
+Multibank
+Plac Wolności 23
+28-400 Pińczów
+
+Planet Cash. Wpłatomat
+Batalionów Chłopskich 52
+28-400 Pińczów
+
+PKO Bank Polski S.A.- Bankomat
+ul
+Batalionów Chłopskich 7
+28-400 Pińczów
+
+PKO Bank Polski S.A.- Bankomat
+3 Maja 14
+28-400 Pińczów
+
+Getin Bank S.A. Oddział
+Klasztorna 2
+28-400 Pińczów
+
+#Policja
+
+Komenda Powiatowa Policji
+Floriańska 4
+28-400 Pińczów
+
+#Prokuratura
+
+Prokuratura Rejonowa w Pińczowie
+1 Maja 10
+28-400 Pińczów
+
+#Sąd
+
+Sąd Rejonowy
+3 Maja 12a
+28-400 Pińczów
+
+#Produkcja
+
+P.H.U.P. Rewir
+11 Listopada 7
+28-400 Pińczów
+
+#Zakład
+
+Zakład Karny
+3 Maja 34
+28-400 Pińczów
+
+#Grupa
+
+Ponidzie. Lokalna Grupa Działania
+Słabska 13
+28-400 Pińczów
+
+#Agencja
+
+ARiMR. Świętokrzyski Oddział Regionalny. Biuro powiatowe w Pińczowie
+Leśna 16
+28-400 Pińczów
+
+#Spółdzielnia
+
+Spółdzielnia Mieszkaniowa
+3 Maja 14
+28-400 Pińczów
+
+Administracja Grodzisko S.M. w Pińczowie
+Grunwaldzka 3
+28-400 Pińczów
+
+Podzamcze. Spółdzielnia Mieszkaniowa
+Wincentego Witosa 6
+28-400 Pińczów
+
+Elita. Spółdzielnia mieszkaniowa
+Krótka 9
+28-400 Pińczów
+
+Spółdzielnia Mieszkaniowa Administracja Grodzisko
+Grunwaldzka 3
+28-400 Pińczów
+
+Spółdzielnia Mieszkaniowa Trio
+Średnia 23
+28-400 Pińczów
+
+#Poczta
+
+Poczta Polska
+Legionistów 8
+28-400 Pińczów
+
+UPS Access Point
+Batalionów Chłopskich 2
+28-400 Pińczów
+
+Komenda Powiatowa Państwowej Straży Pożarnej W Pińczowie
+Przemysłowa 21
+28-400 Pińczów
+
+Paczkomat InPost
+Batalionów Chłopskich 77
+28-400 Pińczów
+
+Paczkomat InPost
+1 Maja 9
+28-400 Pińczów
+
+InPost - Punkt Obsługi Paczek (POP)
+Legionistów 9
+28-400 Pińczów
+
+InPost - Punkt Obsługi Paczek (POP)
+Królowej Jadwigi 3
+28-400 Pińczów
+
+Kościół św. Jana Ewangelisty w Pińczowie
+Marszałka Józefa Piłsudskiego 4
+28-400 Pińczów
+
+Plac Wolności
+28-400 Pińczów
+
+Kościół Nawiedzenia Najświętszej Maryi Panny w Pińczowie
+Klasztorna 28
+28-400 Pińczów
+
+#Emerytów
+
+Stowarzyszenie Emerytów, Rencistów i Inwalidów
+Żwirki i Wigury 40
+28-400 Pińczów
+
+#PZU
+
+Oddział PZU - Pińczów, 1 Maja
+1 Maja 7
+28-400 Pińczów
+
+#muzeum
+
+Muzeum Regionalne w Pińczowie
+Marszałka Józefa Piłsudskiego 3
+28-400 Pińczów
+
+======================================================================
+28-425 KOSTRZESZYN
+
+#Firma
+
+Rostal. PW. Jagodziński R.
+28-425 Kostrzeszyn
+
+======================================================================
+28-400 MOZGAWA
+
+======================================================================
+28-400 MŁODZAWY MAŁE
+
+#Bank
+
+Ogród na Rozstajach
+Młodzawy Małe 17
+28-400 Młodzawy Małe
+
+Sklep
+Młodzawy Małe 17
+28-400 Młodzawy Małe
+
+#Poczta
+
+Sanktuarium Matki Bożej Młodzawskiej
+Młodzawy Małe 46
+28-400 Młodzawy Małe
+
+======================================================================
+28-400 KOPERNIA
+
+======================================================================
+28-411 MICHAŁÓW
+
+#Urząd
+
+Urząd Stanu Cywilnego
+DW766 25
+28-411 Michałów
+
+#Ośrodek
+
+Ośrodek Zdrowia w Michałowie
+Michałów 286,28-411
+28-411
+
+#Bank
+
+Poczta Polska
+Michałów 115
+28-411 Michałów
+
+#Spółka
+
+Stadnina Koni Michałów Sp. z o.o.
+DW766
+28-411 Michałów k Pińczowa
+
+#Koło
+
+28-411
+Michałów
+Wrocieryż
+Węchadłów
+Sędowice
+Zagajów
+WIĘCEJ
+
+#Centrum
+
+Delikatesy Centrum
+Michałów 116
+28-411 Michałów
+
+LIB-MED Szkolenia
+Michałów 111
+28-411 Michałów
+
+======================================================================
+28-411 KOŁKÓW
+
+======================================================================
+28-440 GAIK
+
+======================================================================
+28-411 GÓRY
+
+#Szkoła
+
+Zespół Placówek Oświatowych w Górach
+Góry 116
+28-411 Góry
+
+======================================================================
+28-313 MIERZWIN
+
+======================================================================
+26-020 SZYSZCZYCE
+
+#Stowarzyszenie
+
+Wolna Strefa "Szyszczyce"
+Szyszczyce 53
+26-020 Szyszczyce
+
+#Centrum
+
+Wolna Strefa "Szyszczyce" (Free Zone. Youth club.)
+Szyszczyce 53
+26-020 Szyszczyce
+
+======================================================================
+28-330 LUBCZA
+
+#Szkoła
+
+Samorządowa Szkoła Podstawowa im. Adama Mickiewicza w Lubczy
+Lubcza 83
+28-330 Lubcza
+
+======================================================================
+28-440 DZIAŁOSZYCE
+
+#Urząd
+
+Urząd Miasta i Gminy
+Skalbmierska 5
+28-440 Działoszyce
+
+#Ośrodek
+
+Gminny Ośrodek Zdrowia w Działoszycach
+Pińczowska 18
+28-440 Działoszyce
+
+#Dom kultury
+
+Miejsko - Gminne Centrum Kultury / Biblioteka Publiczna
+Ogrodowa 9/6
+28-440 Działoszyce
+
+#Przedszkole
+
+Przedszkole Samorządowe
+Krakowska 7
+28-440 Działoszyce
+
+#Bank
+
+Bank Spółdzielczy
+Garbarska 2
+28-440 Działoszyce
+
+Filia Urzędu Pocztowego Pińczów w Działoszycach
+Tadeusza Kościuszki 1
+28-440 Działoszyce
+
+Kwiaciarnia
+Plac Partyzantów 15
+28-440 Działoszyce
+
+Szkoła Podstawowa im. T. Kościuszki
+Szkolna 5
+28-440 Działoszyce
+
+#Policja
+
+Policja. Posterunek
+Tadeusza Kościuszki 42
+28-440 Działoszyce
+
+#Spółdzielnia
+
+Przyszłość. Spółdzielnia Mieszkaniowa
+Młody Orzeł 2
+28-440 Działoszyce
+
+#muzeum
+
+Memorial Monument Dzialoszyce Jews
+Skalbmierska
+28-440 Działoszyce
+
+======================================================================
+28-300 ZAGAJE
+
+#Ośrodek
+
+Ośrodek Hipoterapii Zagaje 107
+Zagaje 107
+28-300 Zagaje
+
+======================================================================
+32-210 TRZONÓW
+
+#Poczta
+
+Ochotnicza Straż Pożarna w Trzonowie
+Trzonów 26
+32-210 Trzonów
+
+#muzeum
+
+Cmentarz Trzonów
+32-210 Książ Wielki
+
+======================================================================
+28-330 NAWARZYCE
+
+#Poczta
+
+Ochotnicza Straż Pożarna w Nawarzycach
+28-330 Nawarzyce
+
+Kościół św. Andrzeja Apostoła w Nawarzycach
+Nawarzyce 46
+28-330 Nawarzyce
+
+======================================================================
+28-330 STRZESZKOWICE
+
+#Poczta
+
+Ochotnicza Straż Pożarna
+Strzeszkowice 24A
+28-330 Strzeszkowice
+
+======================================================================
+28-330 SADKI
+
+======================================================================
+28-330 JUDASZE
+
+======================================================================
+32-210 ZARYSZYN
+
+#Dom kultury
+
+Świetlica Wiejska
+Zaryszyn 24
+32-210 Zaryszyn
+
+======================================================================
+28-330 MIERZAWA
+
+#Szkoła
+
+Szkoła Podstawowa Samorządowa
+Mierzawa 21
+28-330 Mierzawa
+
+======================================================================
+28-330 KLEMENCICE
+
+#Produkcja
+
+Bro-Eko Łukasz Bronkowski; Skup Słomy
+Klemencice 89
+28-330 Klemencice
+
+#Poczta
+
+Ochotnicza Straż Pożarna
+Klemencice 38
+28-330 Klemencice
+
+======================================================================
+28-330 WODZISŁAW
+
+#Urząd
+
+Urząd Gminy
+Krakowska 6
+28-330 Wodzisław
+
+#Ośrodek
+
+Gminny Ośrodek Zdrowia w Wodzisławiu
+Ariańska 12
+28-330 Wodzisław
+
+#Szkoła
+
+Samorządowa Szkoła Podstawowa im. Wojska Polskiego w Wodzisławiu
+Szkolna 4
+28-330 Wodzisław
+
+Gimnazjum
+Szkolna 4
+28-330 Wodzisław
+
+Liceum Ogólnokształcące im. M. Konopnickiej
+Szkolna 4
+28-330 Wodzisław
+
+Go4it Krzysztof Łuszczki
+Żarnowska 35
+28-330 Wodzisław
+
+Hajek
+Plac Wolności 2
+28-330 Wodzisław
+
+Przedszkole Samorządowe
+Szkolna 3
+28-330 Wodzisław
+
+#Biblioteka
+
+Gminna Biblioteka Publiczna
+28-330 Wodzisław
+
+#Bank
+
+Bank Spółdzielczy w Wodzisławiu
+Krakowska 6
+28-330 Wodzisław
+
+#Policja
+
+Komisariat Policji W Sędziszowie, Punkt Przyjęć
+Stefana Żeromskiego 6A
+28-330 Wodzisław
+
+#Spółdzielnia
+
+Jędrzejowska Spółdzielnia Mleczarska
+Mleczna 4
+28-330 Wodzisław
+
+#Stowarzyszenie
+
+Stowarzyszenie Klub Seniora Zadora
+Stefana Żeromskiego 2
+28-330 Wodzisław
+
+#Koło
+
+Kościół św. Marcina w Wodzisławiu
+Marcina 3
+28-330 Wodzisław
+
+Koło Gospodyń Wiejskich Mozgawianie
+Stefana Żeromskiego 6A
+28-330 Wodzisław
+
+#Poczta
+
+Poczta Polska
+Krakowska 3
+28-330 Wodzisław
+
+Urząd Pocztowy
+Krakowska 3
+28-330 Wodzisław
+
+Rehabilitacja, Oddział Gminnego Ośrodka Zdrowia
+Szkolna 3
+28-330 Wodzisław
+
+Ochotnicza Straż Pożarna Wodzisław
+Stefana Żeromskiego 6
+28-330 Wodzisław
+
+Urząd Stanu Cywilnego
+Krakowska 6
+28-330 Wodzisław
+
+Zbór Kalwiński | Bożnica Żydowska
+Ariańska 1A
+28-330 Wodzisław
+
+Związek Żołnierzy Batalionów Chłopskich
+Stefana Żeromskiego 6A
+28-330 Wodzisław
+
+#Centrum
+
+Gminny Ośrodek Sportu i Rekreacji
+Szkolna 2
+28-330 Wodzisław
+
+======================================================================
+28-330 ŚWIĄTNIKI
+
+======================================================================
+32-218 ŚLADÓW
+
+======================================================================
+28-330 PROMYK
+
+======================================================================
+32-218 KALINA WIELKA
+
+#Ośrodek
+
+Ośrodek Zdrowia. PZOZ
+Kalina Wielka 33
+32-218 Kalina Wielka
+
+#Dom kultury
+
+Kościół Imienia NMP w Kalinie Wielkiej
+32-218 Kalina Wielka
+
+#Bank
+
+Krakowski Bank Spółdzielczy. Oddział Kalina Wielka
+Kalina Wielka 53
+32-218 Kalina Wielka
+
+#Poczta
+
+Ochotnicza Straż Pożarna
+32-218 Kalina Wielka
+
+Agroturystyka Kalina Wielka
+Kalina Wielka 99
+32-218 Kalina Wielka
+
+Punkt Apteczny Alicja Boszkowska
+Kalina Wielka 67
+32-218 Kalina Wielka
+
+Agrokal
+Kalina Wielka 52
+32-218 Kalina Wielka
+
+MCM TECH
+Kalina Wielka 169
+32-218 Kalina Wielka
+
+#PZU
+
+F.H.U. KOMO Joanna Garbarz, obróbka metali
+Kalina Wielka 62E
+32-218 Kalina Wielka
+
+Cmentarz
+32-218 Kalina Wielka
+
+#Koło gospodyń wiejskich
+
+Koło Gospodyń Wiejskich
+32-218 Kalina Wielka
+
+======================================================================
+28-330 MIERONICE
+
+#Urząd
+
+Sołtys Mieronice
+Mieronice 74
+28-330 Mieronice
+
+#Szpital
+
+Prywatny Gabinet Andrzej Dobija
+Mieronice 82
+28-330 Mieronice
+
+#Bank
+
+Kamil Sobczyk Usługi Finansowe
+Mieronice 74
+28-330 Mieronice
+
+Katarzyna Zmarzły Mechanika Samochodowa
+Mieronice 57
+28-330 Mieronice
+
+Firma Handlowo-Usługowa An-Mar
+Mieronice 63
+28-330 Mieronice
+
+======================================================================
+32-210 KSIAŻ WIELKI
+
+======================================================================
+32-210 ANTOLKA
+
+#Szkoła
+
+Szkoła Podstawowa w Antolce
+Antolka 13
+32-210 Antolka
+
+#Bank
+
+Agroturystyka JULIA Noclegi Pokoje do wynajęcia Kwatery Książ Wielki Miechów
+Antolka 37 a
+32-210 Antolka
+
+#Poczta
+
+MarioTrans
+Antolka 81
+32-210 Antolka
+
+======================================================================
+32-210 MIANOCICE
+
+======================================================================
+28-330 KOWALÓW DOLNY
+
+#Ośrodek
+
+SUNRISE KOWALÓW DOLNY
+Kowalów Dolny 13a
+28-330 Kowalów Dolny
+
+#Bank
+
+SALA WESELNA FANTAZJA KOWALÓW DOLNY
+Kowalów Dolny 13a
+28-330 Kowalów Dolny
+
+======================================================================
+28-330 DODATKI
+
+======================================================================
+32-200 BRZUCHANIA
+
+======================================================================
+32-210 CISIE
+
+======================================================================
+32-241 BRYZDZYN
+
+======================================================================
+32-241 ROGÓW
+
+#Szkoła
+
+Wymagajacy Anglista
+Rogów 41
+32-241 Rogów
+
+======================================================================
+28-340 GNIEWIĘCIN
+
+======================================================================
+28-340 SEDZISZÓW
+
+======================================================================
+32-241 KOZŁÓW
+
+#Urząd
+
+Urząd Gminy Kozłów
+Kozłów 60
+32-241 Kozłów
+
+#Ośrodek
+
+Gminny Ośrodek Kultury w Kozłowie
+Kozłów 213
+32-241 Kozłów
+
+#Dom kultury
+
+Gminny Ośrodek Kultury w Kozłowie (municipal Cultural Center)
+Kozłów 213
+32-241 Kozłów
+
+#Szkoła
+
+Szkoła Podstawowa Nr 1 w Kozłowie
+303
+Kozłów 32-241
+32-241 Kozłów
+
+#Biblioteka
+
+Gminna Biblioteka Publiczna w Kozłowie
+Kozłów 303
+32-241 Kozłów
+
+#Bank
+
+Bankomat
+Kozłów 77
+32-241 Kozłów
+
+MoneyGram
+Kozłów 60
+32-241 Kozłów
+
+Poczta Polska
+Kozłów 60
+32-241 Kozłów
+
+#Koło
+
+32-241
+Marcinowice
+Kozłów
+Bryzdzyn
+Karczowice
+Wolica
+Bogdanów
+Przysieka
+Rogów
+Kamionka
+Przybysławice
+
+#Poczta
+
+Kościół Podwyższenia Krzyża Świętego w Kozłowie
+32-241 Kozłów
+
+Urząd Pocztowy Charsznica. Filia
+60
+32-241 Kozłów
+
+#Centrum
+
+Ośrodek Zdrowia. PZOZ
+32-241 Kozłów; 63
+
+ACM Agrocentrum
+32-241 Kozłów; 256
+
+FHU Autokolor
+297
+32-241 Kozłów
+
+======================================================================
+32-200 PODLEŚNA WOLA
+
+#Firma
+
+Gospodarstworolnemichta@gmail.com
+Podleśna Wola 4
+32-200 Podleśna Wola
+
+======================================================================
+28-340 TARNAWA
+
+#Szkoła
+
+Szkoła Podstawowa im. Bohaterów Armii Krajowej
+28-340 Tarnawa
+
+#Produkcja
+
+Z.P.H.U. WA-BIS Waldemar Wata; Zakład Produkcyjny Nr 2 Łany
+Tarnawa 34A
+28-340 Tarnawa
+
+#Poczta
+
+Kościół św. Marcina w Tarnawie
+28-340 Tarnawa
+
+======================================================================
+28-340 SZAŁAS
+
+======================================================================
+32-241 PRZYSIEKA
+
+#Policja
+
+Leszek N
+80
+Przysieka Polska
+Stara Przysieka Druga 32-241
+64-040 Stara Przysieka Druga
+
+======================================================================
+32-241 MARCINOWICE
+
+#Poczta
+
+OSP Marcinowice
+Marcinowice 65
+32-241 Marcinowice
+
+======================================================================
+32-200 ZAGORZYCE
+
+#Ośrodek
+
+Specjalny Ośrodek Szkolno-Wychowawczy w Zagorzycach
+Zagorzyce 9
+32-200 Zagorzyce
+
+#Bank
+
+Naxa-Finanse
+Zagorzyce
+Miechów 16
+32-200 Miechów
+
+======================================================================
+28-340 MSTYCZÓW
+
+#Szkoła
+
+SpoĹ‚eczna SzkoĹ‚a Podstawowa
+28-353 Mstyczów
+
+#Szpital
+
+Kościół Wniebowzięcia NMP w Mstyczowie
+Mstyczów 55
+28-340 Mstyczów
+
+#Poczta
+
+Straż pożarna i Centrum Kultury
+28-353 Mstyczów
+
+======================================================================
+32-250 CHODÓW
+
+======================================================================
+32-250 MIECHÓW-CHARSZNICA
+
+#Ośrodek
+
+Hotel Planeta
+Żarnowiecka 45A
+32-250 Miechów-Charsznica
+
+Ośrodek Zdrowia
+Miechowska 52
+32-250 Miechów-Charsznica
+
+Stadion sportowy "Spartak"
+Sportowa 1A
+32-250 Miechów-Charsznica
+
+Planeta
+Żarnowiecka 45A
+32-250 Miechów-Charsznica
+
+Dom Opieki Caritas Kielecka
+Młyńska 2
+32-250 Miechów-Charsznica
+
+Agro-Centrum Sp. z o.o. Grupa producentów warzyw
+32-250 Miechów-Charsznica; Żarnowiecka 18
+
+Agro-Centrum Charsznica Sp. z o. o.
+Młyńska 16
+32-250 Miechów-Charsznica
+
+#Dom kultury
+
+Remiza OSP Charsznica
+Kolejowa
+32-250 Miechów-Charsznica
+
+#Przedszkole
+
+Przedszkole Samorządowe
+32-250 Miechów-Charsznica; Skowrona 1 b
+
+#Zakłady
+
+Zakład Usług Komunalnych
+Żarnowiecka 3
+32-250 Miechów-Charsznica
+
+Kucypera Zofia. Zakład wulkanizacyjny
+Miechowska 2
+32-250 Miechów-Charsznica
+
+Zakład Stolarski Jan Jachyra
+Ulica Działki 3A
+32-250 Miechów-Charsznica
+
+Zakład Budowlany inż. Andrzej Ciasnocha
+Rzemieślnicza 15
+32-250 Miechów-Charsznica
+
+#PZU
+
+PZU Ubezpieczenia Charsznica - Agent Małgorzata Dudzińska
+Żarnowiecka 15
+32-200 Miechów-Charsznica
+
+======================================================================
+32-250 CHARSZNICA
+
+#Urząd
+
+Urząd Gminy Charsznica
+Kolejowa 20
+32-250 Charsznica
+
+#Ośrodek
+
+HARDTOP Centrum odlewnictwa Sp. z o.o. - odlewnia metali
+Żarnowiecka 11B
+32-250 Charsznica
+
+Delikatesy Centrum
+Kolejowa 6
+32-250 Charsznica
+
+przychodnia zdrowia nfz
+Miechowska 41
+32-250 Charsznica
+
+A-CC Agro-Centrum Charsznica
+Żarnowiecka 18
+32-250 Miechów-Charsznica
+
+#Szkoła
+
+Szkoła Podstawowa
+Szkolna 14
+32-250 Charsznica
+
+#Biblioteka
+
+Biblioteka Publiczna
+Kolejowa 6-24
+32-250
+32-250 Charsznica
+
+#Poczta
+
+Poczta Polska
+Kolejowa 18
+32-250 Charsznica
+
+======================================================================
+32-241 KĘPIE
+
+======================================================================
+42-439 KORYCZANY
+
+#Szkoła
+
+Lider. Ośrodek szkolenia kierowców. Kijowski J.
+42-439 Koryczany
+
+#Poczta
+
+OSP Koryczany
+Unnamed Road
+42-439
+
+======================================================================
+28-340 CZEPIEC
+
+======================================================================
+28-340 PRZEŁAJ
+
+======================================================================
+32-250 JELCZA
+
+#Urząd
+
+Środowiskowy Dom Samopomocy
+Jelcza 219
+32-250 Jelcza
+
+======================================================================
+42-439 ŻARNOWIEC
+
+#Urząd
+
+Urząd Gminy Żarnowiec
+Krakowska 34
+42-439 Żarnowiec
+
+#Dom kultury
+
+Gminny Ośrodek Kultury, Sportu i Turystyki
+42-439 Żarnowiec; Rynek 9
+38-460
+
+#Szkoła
+
+Zespół szkół Rolniczego Centrum Kształcenia Ustawicznego
+Krakowska 25
+42-439 Żarnowiec
+
+#Przedszkole
+
+Przedszkole Publiczne
+Kościelna 5
+42-439 Żarnowiec
+
+#Biblioteka
+
+Gminna Biblioteka Publiczna
+Rynek 11
+42-439 Żarnowiec
+
+#Szpital
+
+Ośrodek DELPHINUS, Niepubliczny Zakład Usług Medycznych i Rehabilitacyjnych
+Miechowska 6
+42-439 Żarnowiec
+
+Gminny Ośrodek Zdrowia w Żarnowcu
+42-439 Żarnowiec
+
+Lecznica dla zwierząt
+42-439 Żarnowiec; Warszawska 28
+
+#Policja
+
+Zobacz też:
+Krakowska 34
+42-439 Żarnowiec
+
+#Towarzystwo
+
+Towarzystwo Przyjaciół Ziemi Żarnowieckiej
+Rynek 11
+42-439 Żarnowiec
+
+#Poczta
+
+Poczta Polska
+Warszawska 13
+42-439 Żarnowiec
+
+#PZU
+
+FHU BUDMAX Żarnowiec
+Tadeusza Kościuszki 13
+42-439 Żarnowiec
+
+Ochotnicza Straż Pożarna
+Krakowska
+42-439 Żarnowiec
+
+#Centrum
+
+Centrum Ogrodniczo-Rolnicze Żarnowiec
+Warszawska 24
+42-439 Żarnowiec
+
+Delikatesy Centrum
+Tadeusza Kościuszki 6
+42-439 Żarnowiec
+
+Sklep wielobranżowy
+Rynek 5
+42-439 Żarnowiec
+
+Results found: 618

@@ -1,0 +1,807 @@
+======================================================================
+28-305 STARE KOTLICE
+
+#Ośrodek
+
+Dwór Stare Kotlice
+Stare Kotlice 49
+28-305 Stare Kotlice
+
+#Dom kultury
+
+Świetlica Wiejska
+28-305 Stare Kotlice
+
+======================================================================
+28-305 STANIOWICE
+
+#Bank
+
+PROFAR Sp. z o.o.
+28-305 Staniowice
+
+======================================================================
+26-052 SITKÓWKA-NOWINY
+
+#Urząd
+
+Urząd Gminy Sitkówka-Nowiny
+Białe Zagłębie 25
+26-052 Nowiny
+
+#Zakłady
+
+Sopro Polska zakład produkcyjny
+Przemysłowa
+26-052 Sitkówka-Nowiny
+
+======================================================================
+26-052 WOLA MUROWANA
+
+#Urząd
+
+Ochotnicza Straż Pożarna
+Wola Murowana 17
+26-052 Wola Murowana
+
+#Politechnika
+
+Ochotnicza straż pożarna w Woli Murowanej
+Wola Murowana 17C
+26-052 Wola Murowana
+
+#Bank
+
+Stowarzyszenie "Siła Woli"
+Wola Murowana 25g
+26-052 Wola Murowana
+
+#Zakłady
+
+ECOKRUSZBED Wola Murowana
+26-052 Wola Murowana
+
+Dukt. Zakład budowlano - drogowy. Piwowar A.
+Zakładowa 17
+26-052 Wola Murowana
+
+#PZU
+
+PHU KASKOP Łukasz Kasperek
+32
+26-052 Wola Murowana
+
+======================================================================
+28-305 CHOMENTÓW
+
+======================================================================
+28-404 KONIEC
+
+======================================================================
+26-026 BRZEZINY
+
+#Szkoła
+
+Szkoła Podstawowa im. Jana Pawła II w Brzezinach
+Szkolna 1
+26-026 Brzeziny
+
+#Bank
+
+Biuro Rachunkowe
+Kielecka 6
+26-026 Brzeziny
+
+#Związek
+
+Stowarzyszenie Przyjaciół Brzezin I Podwola
+Szkolna 1
+26-026 Brzeziny
+
+#Firma
+
+R-TECH Firma Produkcyjno-Usługowa
+406
+Brzeziny ul. Chęcińska
+26-026
+
+#Poczta
+
+Plebania, rzymskokatolicka Wszystkich Świętych
+26-026 Brzeziny; Chęcińska 312
+
+Ochotnicza Straż Pożarna W Brzezinach
+Szkolna 3
+26-026 Brzeziny
+
+GDDKiA Oddział Kielce, Rejon Dróg Jędrzejów, Obwód Drogowy Brzeziny
+Kielecka 12
+26-026 Brzeziny
+
+Kościół pod wezwaniem Wszystkich Świętych
+DW763 26
+26-026 Brzeziny
+
+44 Kielecka Drużyna Harcerska
+Szkolna 2
+26-026 Brzeziny
+
+Kapliczka
+Chęcińska 5
+26-026 Brzeziny
+
+======================================================================
+26-026 DĘBSKA WOLA
+
+#Ośrodek
+
+Chemtex Sp. z o.o.
+Dębska Wola 26-026
+26-026 Dębska Wola
+
+#Szkoła
+
+Szkoła Podstawowa im. Jakuba Szelesta w Dębskiej Woli
+Dębska Wola
+26-026 Morawica
+
+#Grupa
+
+Termetal Piotr Glaner Sp.K.
+Dębska Wola 1E
+26-026 Dębska Wola
+
+======================================================================
+26-026 OBICE
+
+#Przedszkole
+
+Szkoła Podstawowa
+Szkolna 18
+26-026 Obice
+
+#Bank
+
+ATM Energetics. Audyty energetyczne
+Kwiatowa
+26-026 Obice
+
+======================================================================
+28-404 WŁOSZCZOWICE
+
+#Szkoła
+
+Szkoła Filialna we Włoszczowicach
+Włoszczowice 15
+28-404 Włoszczowice
+
+#Spółka
+
+SEPIO Spółka z ograniczoną odpowiedzialnością Sp.k.
+Włoszczowice 222
+28-404 Włoszczowice
+
+======================================================================
+28-404 KOKOT
+
+======================================================================
+28-404 KIJE
+
+#Urząd
+
+Urząd Gminy w Kijach
+Kije; ul
+Szkolna 19
+28-404
+
+#Dom kultury
+
+Samorządowa Instytucja Kultury Kasztelania w Kijach
+ul. Kasztelańska 3
+28-404 Kije
+
+#Szkoła
+
+Gimnazjum Zespołu Placówek Oświatowych
+Kije 14
+28-404 Kije
+
+#Szpital
+
+28-404
+Kije
+Kokot
+Włoszczowice
+Umianowice
+Wola Żydowska
+WIĘCEJ
+
+#Oddział
+
+Bank Spółdzielczy w Pińczowie. Oddział
+28-404 Kije
+
+#Produkcja
+
+AL Group Jakub Ziółkowski
+Umianowice 152B
+28-404 Kije
+
+#Poczta
+
+Filia Urzędu Pocztowego Pińczów w Kijach
+Kije 16
+28-404 Kije
+
+Poczta Polska
+Szkolna 19
+28-404 Kije
+
+Kościół Świętych Apostołów Piotra i Pawła w Kijach
+Kije 133A
+28-404 Kije
+
+#muzeum
+
+Las Piaski
+28-404 Kije
+
+======================================================================
+28-300 KARCZUNEK
+
+======================================================================
+28-300 JASIONNA
+
+#Szkoła
+
+Szkoła Podstawowa w Jasionnie
+Jasionna 8
+28-300 Jasionna
+
+#Uniwersytet
+
+Zobacz też:
+Jasionna 8
+28-300 Jasionna
+
+======================================================================
+28-313 WYGODA
+
+#Ośrodek
+
+Kompleks Rekreacyjny Sielsko Na Wygodzie
+Wygoda 16a
+28-313 Imielno
+
+#Dom kultury
+
+Kompleks Rekreacyjny Sielsko Na Wygodzie (Sielsko Na Wygodzie Recreation complex)
+Wygoda 16a
+28-313 Imielno
+
+#Zakład
+
+bezcieniowa.pl
+Wygoda 7a
+28-313 Wygoda
+
+======================================================================
+28-313 IMIELNO
+
+#Urząd
+
+Urząd Gminy
+Cmentarna 7
+28-313 Imielno
+
+#Ośrodek
+
+Gminny Ośrodek Zdrowia
+Cmentarna 5
+28-313 Imielno
+
+#Biblioteka
+
+Gminna Biblioteka Publiczna w Imielnie
+Cmentarna 7a
+28-313 Imielno
+
+#Bank
+
+Bank Spółdzielczy w Jędrzejowie O. w Imielnie
+Cmentarna 7
+28-313 Imielno
+
+#Koło
+
+28-313
+Motkowice
+Imielno
+Helenówka
+Mierzwin
+Sobowice
+WIĘCEJ
+
+#Poczta
+
+Urząd Pocztowy
+Główna 8
+28-313 Imielno
+
+#Centrum
+
+Biblioteka Imielno
+Główna 2
+28-313 Imielno
+
+Kościół św. Mikołaja w Imielnie
+Kościelna 2
+28-313 Imielno
+
+Hurtownia Budowlana
+Cmentarna 9
+28-313 Imielno
+
+======================================================================
+28-313 STAWY
+
+#Szpital
+
+Gospodarstwo Rybackie Stawy
+Staw II 2A
+28-313 Staw II
+
+======================================================================
+28-313 MOTKOWICE
+
+#Szkoła
+
+Szkoła Podstawowa Samorządowa
+28-313 Motkowice
+
+#Bank
+
+Cmentarz
+Kresowa 49
+28-313 Motkowice
+
+Poczta Polska
+Główna 8
+28-313 Motkowice
+
+KON-BUD - SETLANS - Pompy Ciepła, Panele Fotowoltaiczne, Kotły CO
+ul. Nadnidziańska 6
+28-313 Motkowice
+
+Kon-Bud. PPHU. Wykonawstwo konstrukcji metalowych
+Nadnidziańska 6
+28-313 Motkowice
+
+Gorzelnia Nad Nidą
+Gorzelniana 4
+28-313 Motkowice
+
+"Jezierski" Fh Grzegorz Jezierski
+Parkowa 8
+28-313 Motkowice
+
+Urząd Gminy Imielno
+Szkolna 1
+28-313 Motkowice
+
+#Poczta
+
+OSP MOTKOWICE
+Główna 33
+28-313 Motkowice
+
+======================================================================
+28-404 STAWIANY
+
+======================================================================
+28-404 TARGOWISKA
+
+======================================================================
+26-020 CHMIELNIK
+
+#Urząd
+
+Urząd Miasta i Gminy
+Kościuszki 7
+26-020 Chmielnik
+
+#Dom kultury
+
+Centrum Kultury
+Starobuska 10
+26-020 Chmielnik
+
+#Szkoła
+
+Szkoła Podstawowa im. S. Żeromskiego
+Szkoła Podstawowa w Chmielniku
+Szkolna 7
+26-020 Chmielnik
+
+Zespół Szkół nr 3
+Dygasińskiego 11
+26-020 Chmielnik
+
+Gimnazjum im. Generała Kazimierza Tańskiego
+Szkolna 7
+26-020 Chmielnik
+
+Przedszkole Samorządowe
+Sienkiewicza 8
+26-020 Chmielnik
+
+Bajkowa Kraina. Przedszkole Językowe
+Lipowa 31
+26-020 Chmielnik
+
+Trening
+Furmańska 1A
+26-020 Chmielnik
+
+#Biblioteka
+
+Biblioteka Publiczna Miasta i Gminy
+ul
+Wspólna 13
+26-020 Chmielnik
+
+#Szpital
+
+Szpital Powiatowy
+Kielecka 1/3
+26-020 Chmielnik
+
+#Przychodnia
+
+Samodzielny Publiczny Zakład Opieki Zdrowotnej
+Kielecka 18
+26-020 Chmielnik
+
+#Bank
+
+Bank Spółdzielczy
+1 Maja 27
+26-020 Chmielnik
+
+ING Bank Śląski Oddział w Chmielniku
+1 Maja 26
+26-020 Chmielnik
+
+SKOK Jaworzno
+Rynek 26
+26-020 Chmielnik
+
+Punkt sprzedaży Plusa i Cyfrowego Polsatu
+Jana Pawła II 4
+26-020 Chmielnik
+
+Bank Polskiej Spóldzielczosci S.A. Bankomat
+1 Maja 27
+26-020 Chmielnik
+
+PKO Bank Polski S.A.- Bankomat
+Rynek 18
+26-020 Chmielnik
+
+#Oddział
+
+Szpital Powiatowy w Chmielniku - Pracownia fIzjoterapii
+Kielecka 1-3
+26-020 Chmielnik
+
+#Wydział
+
+Urząd Miasta i Gminy w Chmielniku
+Plac
+Kościuszki 7
+26-020 Chmielnik
+
+#Policja
+
+Komisariat Policji
+Piastów 16
+26-020 Chmielnik
+
+#Zakład
+
+Radwański Stanisław. Zakład handlowy
+Starobuska
+26-020 Chmielnik
+
+#Zakłady
+
+Zakład Usług Komunalnych w Chmielniku
+Starobuska
+26-020 Chmielnik
+
+Zakład Kamieniarski
+Lubańska 3A
+26-020 Chmielnik
+
+Zakład fryzjerski
+Rynek 23
+26-020 Chmielnik
+
+Trak-Drew sp.j. Zakład przemysłu drzewnego
+Dygasińskiego 25
+26-020 Chmielnik
+
+Darvit Sp. z o.o.
+Przemysłowa 2
+26-020 Chmielnik
+
+Zakład Usług Komunalnych. Oczyszczalnia ścieków
+Mickiewicza
+26-020 Chmielnik
+
+Heka. Zakład cukierniczy. Sieroń A.
+Kilińskiego 18
+26-020 Chmielnik
+
+Galardo. Kozera G.
+Leśna 2
+26-020 Chmielnik
+
+Zasadnicza Szkoła Zawodowa Niepubliczna Zakładu Doskonalenia Zawodowego w Kielcach
+Mielczarskiego 7
+26-020 Chmielnik
+
+#Spółdzielnia
+
+Spółdzielnia Mieszkaniowa
+Piastów 16
+26-020 Chmielnik
+
+#Fundacja
+
+Fundacja Nadzieja Rodzinie
+Wincentego Witosa 6
+26-020 Chmielnik
+
+#Poczta
+
+Poczta Polska
+Wolności 5
+26-020 Chmielnik
+
+#muzeum
+
+Ośrodek Edukacyjno-Muzealny "Świętokrzyski Sztetl"
+Wspólna 14
+26-020 Chmielnik
+
+#Centrum
+
+Targowisko Miejskie w Chmielniku
+Przemysłowa 15
+26-020 Chmielnik
+
+Delikatesy Centrum
+Furmańska 20
+26-020 Chmielnik
+
+FHU BAAN ANDRZEJ PADŁO
+Rynek 1
+26-020 Chmielnik
+
+Spzoz Chmielnik
+Kielecka 18
+26-020 Chmielnik
+
+Centrum. Agencja reklamowa. Jakubowski K.
+Kilińskiego 6
+26-020 Chmielnik
+
+Centrum Integracji Społecznej Chmielnik
+Furmańska 1A
+26-020 Chmielnik
+
+Świętokrzyskie Centrum Ratownictwa Medycznego i Transportu Sanitarnego w Kielcach Punkt Ratowniczy
+Kielecka 18
+26-020 Chmielnik
+
+Car-Bud
+Przemysłowa 5
+26-020 Chmielnik
+
+Taga, Autoryzowany Złoty Diler Husqvarna
+plac Kościelny 4
+26-020 Chmielnik
+
+Tarkor. PPH
+Furmańska 20
+26-020 Chmielnik
+
+Fontanna
+Rynek 8/9
+26-020 Chmielnik
+
+PRZEGLĄD CHMIELNIK , STACJA DIAGNOSTYCZNA CHMIELNIK , SKP
+Kielecka 60
+26-020 Chmielnik
+
+Straż Miejska w Chmielniku
+plac Kościelny 5
+26-020 Chmielnik
+
+======================================================================
+26-020 CELINY
+
+#Szkoła
+
+Szkoła Podstawowa w Zespole Placówek Oświatowych w Piotrkowicach. Filia
+26-020 Celiny
+
+#Zakład
+
+Kamienna Góra Sp. z o.o. Kopalnia granitu
+26-020 Celiny
+
+#Klub
+
+Wolna Strefa "Celiny"
+Celiny 22
+26-020 Celiny
+
+======================================================================
+26-020 PIOTRKOWICE
+
+#Urząd
+
+Poczta Polska
+Kielecka 3
+26-020 Piotrkowice
+
+#Ośrodek
+
+OŚRODEK ZDROWIA W PIOTRKOWICACH
+Kościelna 15
+26-020 Piotrkowice
+
+#Szkoła
+
+ZPO Piotrkowice
+26-020
+
+#Biblioteka
+
+Biblioteka Publiczna Miejska. Filia
+26-020 Piotrkowice
+
+#Bank
+
+Bank Pekao S.A. Placówka partnerska
+Wolności 3
+26-026 Piotrkowice
+
+#Związek
+
+Stowarzyszenie Dziedzictwo Piotrkowic
+Rynek 7
+26-020 Piotrkowice
+
+======================================================================
+26-026 WOLA MORAWICKA
+
+#Szkoła
+
+Publiczna szkoła podstawowa
+Podemłynie 1
+26-026 Wola Morawicka
+
+#Bank
+
+OSP Wola Morawicka
+Podemłynie 3
+26-026 Wola Morawicka
+
+#PZU
+
+Okna Wola Morawicka
+Wapienna 42A
+26-026 Wola Morawicka
+
+======================================================================
+26-026 KUBY-MŁYNY
+
+#PZU
+
+Branded Toys 2
+20
+Świętokrzyska
+26-026 Kuby-Młyny
+
+======================================================================
+26-021 MARZYSZ
+
+#Jeździecki
+
+Ośrodek Jazdy Konnej Cavallo
+Kiełków 39A
+26-021 Marzysz
+
+======================================================================
+26-015 KOMÓRKI
+
+======================================================================
+26-015 SKRZELCZYCE
+
+#Poczta
+
+OSP Skrzelczyce
+Skrzelczyce 105
+26-015 Skrzelczyce
+
+Kaplica św.Antoniego
+26-015 Skrzelczyce
+
+======================================================================
+26-015 MALESZOWA
+
+#Produkcja
+
+elWron serwis RTV & AGD
+Maleszowa 74
+26-015 Maleszowa
+
+======================================================================
+26-015 GUMIENICE
+
+======================================================================
+26-015 PIERZCHNICA
+
+#Urząd
+
+Urząd Miasta i Gminy Pierzchnica
+Urzędnicza 6
+26-015 Pierzchnica
+
+#Ośrodek
+
+Dom Seniora im. S. Ryder
+Szkolna 36
+26-015 Pierzchnica
+
+#Szkoła
+
+Szkoła Podstawowa
+26-015 Pierzchnica; kard. Wyszyńskiego 5
+26-015
+
+#Bank
+
+Bank Spółdzielczy w Chmielniku. Punkt kasowy
+13 Stycznia 6
+26-015 Pierzchnica
+
+SKOK. Spółdzielcza Kasa Oszczędnościowo - Kredytowa im. Z. Chmielewskiego
+Ul. 13 Stycznia 6
+26-015 Pierzchnica
+
+Poczta Polska
+Urzędnicza 6
+26-015 Pierzchnica
+
+#Zakład
+
+Wiki. Zakład fryzjerski. Nowak M.
+26-015 Pierzchnica; Świerkowa 8
+26-015
+
+#Fundacja
+
+Fundacja Rozwoju Regionu Pierzchnica
+Szkolna 28
+26-015 Pierzchnica
+
+#Centrum
+
+Delikatesy Centrum
+Adama Mickiewicza 2
+26-015 Pierzchnica
+
