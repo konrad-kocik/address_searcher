@@ -1,0 +1,768 @@
+======================================================================
+89-430 ORZEŁEK
+
+======================================================================
+89-430 ZAMARTE
+
+#Szkoła
+
+Szkoła Podstawowa im. Marii Konopnickiej
+Klasztorna 1
+89-430 Zamarte
+
+#Przedszkole
+
+Domowe Przedszkole w Zamartem
+Parkowa 16/3
+89-430 Zamarte
+
+#Bank
+
+Hodowla Ziemniaka Zamarte Sp. z o.o. - Grupa IHAR
+Parkowa 1
+89-430 Zamarte
+
+#Spółka
+
+Zamarte. Sp. z o.o. Uprawa ziemniaków
+89-430 Zamarte
+
+#Poczta
+
+Klasztor Karmelitów Bosych pw. Narodzenia Najświętszej Maryi Panny
+Klasztorna 2
+89-430 Zamarte
+
+Sanktuarium Matki Bożej Szkaplerznej
+Klasztorna
+89-430 Zamarte
+
+======================================================================
+89-620 TOPOLE
+
+#Produkcja
+
+Polaszek Meble
+Topole 32
+89-620 Topole
+
+#Zakład
+
+Polaszek Meble - zakład produkcyjny Topole k. Chojnic
+Topole 34-36
+89-620 Topole
+
+#Inwalidów
+
+Salon Łazienek Eurostandard
+Topole 20
+89-620 Topole
+
+======================================================================
+89-600 CHOJNICE
+
+#Urząd
+
+Ratusz w Chojnicach
+Stary Rynek 1
+89-600 Chojnice
+
+Urząd Gminy w Chojnicach
+31 Stycznia 56A
+89-600 Chojnice
+
+Powiatowy Urząd Pracy
+Lichnowska 5
+89-600 Chojnice
+
+Urząd Stanu Cywilnego
+Stary Rynek 1
+89-600 Chojnice
+
+Starostwo Powiatowe w Chojnicach
+31 Stycznia 56
+89-600 Chojnice
+
+Urząd Celny w Słupsku - Oddział Celny w Chojnicach
+Gdańska 110A
+89-620 Chojnice
+
+Okręgowy Urząd Miar w Gdańsku, Wydział Zamiejscowy w Chojnicach
+Gdańska 110
+89-600 Chojnice
+
+#Dom kultury
+
+Gminny Ośrodek Kultury (municipal Cultural Center)
+Kościerska 10/2
+89-600 Chojnice
+
+#Szkoła
+
+Szkoła Podstawowa nr 8 im. Jana Pawła II
+Młodzieżowa 44
+89-600 Chojnice
+
+Szkoła Podstawowa nr 1 im. Juliana Rydzkowskiego
+31 Stycznia 21/23
+89-600 Chojnice
+
+Szkoła Podstawowa nr 7 im. Jana Karnowskiego
+Juliana Tuwima 2
+89-600 Chojnice
+
+Szkoła Podstawowa nr 5 im. Jarosza Hieronima Derdowskiego
+Wicka Rogali 18
+89-604 Chojnice
+
+Szkoła Podstawowa nr 3 im. Pamięci Kolejarzy Chojnickich
+Dworcowa 6
+89-620 Chojnice
+
+Powszechna Wyższa Szkoła Humanistyczna "Pomerania" w Chojnicach
+Świętopełka 10/pokój 118
+89-600 Chojnice
+
+Zespół Szkół nr 2
+Angowicka 45
+89-600 Chojnice
+
+Technikum Nr 1
+Kościerska 11
+89-600 Chojnice
+
+Zespół Szkół Specjalnych
+Jana Pawła II 11
+89-600 Chojnice
+
+Wydział Nauk Stosowanych w Chojnicach Wyższej Szkoły Gospodarki
+Świętopełka 3
+89-600 Chojnice
+
+Zespół Szkół Katolickich
+Grunwaldzka 1
+89-600 Chojnice
+
+Zespół Szkół w Chojnicach
+Nowe Miasto 4-6
+89-620 Chojnice
+
+Gimnazjum Akademickie przy Politechnice Koszalińskiej
+Świętopełka 10
+89-600 Chojnice
+
+Szkoła Muzyczna I stopnia
+Grunwaldzka 6
+89-600 Chojnice
+
+II Liceum Ogólnokształcące im.gen. Wł. Andersa w Chojnicach
+Świętopełka 1
+89-600 Chojnice
+
+Sopocka Szkoła Wyższa. Wydział zamiejscowy
+Młodzieżowa 44
+89-600 Chojnice
+
+Szkoła Pascal
+31 Stycznia 28/2
+89-600 Chojnice
+
+Zespół Szkół Ponadgimnazjalnych nr 1 im. Tajnej Organizacji Wojskowej "Gryf Pomorski"
+Kościerska 11
+89-600 Chojnice
+
+Liceum Ogólnokształcące im. Filomatów Chojnickich w Chojnicach
+Nowe Miasto 4
+89-620 Chojnice
+
+Ośrodek Szkolenia Kierowców Radosław Kołak
+Angowicka 48
+89-600 Chojnice
+
+#Przedszkole
+
+Jarzębinka Przedszkole Niepubliczne.
+Budowlanych 1a
+89-600 Chojnice
+
+Przedszkole Niepubliczne Wesołe Przedszkolaki
+Władysława Reymonta 4
+89-600 Chojnice
+
+Przedszkole Niepubliczne im. Janusza Korczaka
+Prochowa 31
+89-600 Chojnice
+
+SMYK
+Marii Konopnickiej 18a
+89-600 Chojnice
+
+Przedszkole Niepubliczne Promyczek
+Floriana Ceynowy 20
+89-600 Chojnice
+
+Tęczowe Misiaki. Punkt opieki nad dziećmi
+Mestwina 14
+89-600 Chojnice
+
+Przedszkole Samorządowe nr 7
+Kardynała Stefana Wyszyńskiego 5
+89-600 Chojnice
+
+„SKRZATY” Niepubliczne Przedszkole Integracyjne
+Młodzieżowa 5
+89-600 Chojnice
+
+Przedszkole Niepubliczne z Grupą Żłobkową "MISIOWA-AKADEMIA"
+Kardynała Stefana Wyszyńskiego 8
+89-600 Chojnice
+
+Towarzystwo Przyjaciół Dzieci. Oddział powiatowy Chojnice
+Strzelecka 31
+89-600 Chojnice
+
+Punkt Przedszkolny, Baśniowa Kraina, Meyer Beata
+Stefana Batorego 5
+89-600 Chojnice
+
+"Parrot" Niepubliczne Przedszkole Językowe
+Aleja Brzozowa 75
+89-620 Chojnice
+
+Przedszkole Niepubliczne Bajka o profilu artystyczno-sportowym
+Grunwaldzka 1A
+89-620 Chojnice
+
+#Biblioteka
+
+Miejska Biblioteka Publiczna
+Wysoka 3
+89-600 Chojnice
+
+#Szpital
+
+Szpital Specjalistyczny im. J.K. Łukowicza (Specialist Hospital. J. K. Łukowicz)
+Leśna 10
+89-600 Chojnice
+
+#Przychodnia
+
+Solmed
+Adama Mickiewicza 39
+89-600 Chojnice
+
+Przychodnia Therapeutica
+Bytowska 70
+89-600 Chojnice
+
+Przychodnia lekarska Lemańczyk
+Gdańska 43
+89-600 Chojnice
+
+Samodzielna Publiczna Przychodnia Wiejska Gminy
+Kościerska 9
+89-600 Chojnice
+
+SALUS Centrum Medyczne
+Leśna 6a
+89-600 Chojnice
+
+Przychodnia Lekarska Nova
+Michała Drzymały 33
+89-620 Chojnice
+
+Szpital Specjalistyczny im. J.K. Łukowicza
+Leśna 10
+89-600 Chojnice
+
+NZOZ Gemini
+Młodzieżowa 35
+89-600 Chojnice
+
+ORSMED Centrum Medyczne
+Przemysłowa 3
+89-600 Chojnice
+
+#Placówka
+
+Credit Agricole Bank Polska S.A. - Placówka Bankowa
+Młyńska 2
+89-600 Chojnice
+
+#Bank
+
+Bank Spółdzielczy w Chojnicach Centrala
+Tadeusza Kościuszki 23
+89-600 Chojnice
+
+Alior Bank. Oddział
+Stary Rynek 10
+89-600 Chojnice
+
+Alior Bank - Oddział
+Plac Piastowski 30
+89-600 Chojnice
+
+Santander Consumer Bank
+Tadeusza Kościuszki 20
+89-600 Chojnice
+
+Oddział Millennium
+Tadeusza Kościuszki 2
+89-600 Chojnice
+
+Santander Bank Polska Oddział
+Tadeusza Kościuszki 38
+89-600 Chojnice
+
+Bank Spółdzielczy w Czersku. Filia
+Adama Mickiewicza 5
+89-600 Chojnice
+
+Bank Pocztowy S.A.
+Stary Rynek 8
+89-600 Chojnice
+
+Oddział Millennium
+Sukienników 6
+89-620 Chojnice
+
+Santander Bank Polska S.A. Placówka partnerska
+Plac Jagielloński 11
+89-600 Chojnice
+
+Bank Pekao S.A.
+ul
+Sukienników 5
+89-600 Chojnice
+
+PKO Bank Polski S.A.-Oddział 1 w Chojnicach
+Sukienników 10
+89-600 Chojnice
+
+Pożyczki Niebankowe
+Sukienników 11
+89-600 Chojnice
+
+Nest Bank - Chojnice (placówka partnerska)
+Tadeusza Kościuszki 29
+89-600 Chojnice
+
+eurobank
+Tadeusza Kościuszki 22
+89-620 Chojnice
+
+Agencja PKO Banku Polskiego
+Młodzieżowa 35
+89-604 Chojnice
+
+BNP Paribas Bank Polska S.A.
+Cechowa 2
+89-600 Chojnice
+
+Kasa Stefczyka
+Stary Rynek 12
+89-600 Chojnice
+
+Bank Millennium SA placówka
+Tadeusza Kościuszki 2
+89-620 Chojnice
+
+#Wydział
+
+Chojnice dla Was
+Stary Rynek 7
+89-600 Chojnice
+
+Wydział Geodezji Starostwa Powiatowego
+Człuchowska 38
+89-620 Chojnice
+
+#Policja
+
+Komenda Powiatowa Policji
+Warszawska 13
+89-600 Chojnice
+
+#Prokuratura
+
+Prokuratura Rejonowa w Chojnicach
+Młyńska 30
+89-600 Chojnice
+
+#Sąd
+
+Sąd Rejonowy Chojnice
+Młyńska 30
+89-600 Chojnice
+
+#Produkcja
+
+MM Meble Kierszk M., Zakrzewski J.
+Łużycka 1a
+89-600 Chojnice
+
+STALSERWIS - CHOJNICE SA
+Obrońców Chojnic 30
+89-600 Topole
+
+Fronty meblowe, drzwiczki drewniane Chojnice Bogdan Duraj
+89 600
+Zakładowa 20
+89-620 Chojnice
+
+P.P.H. Spar-Meble s.j.
+Bydgoska 5
+89-600 Chojnice
+
+Dro-Bet Sp. z o.o.
+Kościerska 23
+89-600 Chojnice
+
+KKB filtr Sp. z o.o.
+Grunowo 4A
+89-600 Chojnice
+
+Teja3D sp. z o. o.
+Józefa Piłsudskiego 30A/205
+89-600 Chojnice
+
+Pracownia Projektowa PROKOP.HOUSE
+Towarowa 33
+89-600 Chojnice
+
+#Zakład
+
+Zremb-Chojnice SA. Zakład budowy maszyn
+Przemysłowa 15
+89-620 Chojnice
+
+#Zakłady
+
+Zakład Gospodarki Mieszkaniowej Sp. z o.o.
+Wysoka 1
+89-600 Chojnice
+
+#Agencja
+
+Agencja Reklamowa Haiku Studio - tworzenie stron WWW, pozycjonowanie i reklama internetowa
+Adama Mickiewicza 35/7
+89-600 Chojnice
+
+🎯ADVERTIA.PL/ Drukarnia Chojnice. Agencja Reklamowa.
+Jana Brzechwy 2
+89-606 Charzykowy
+
+Ingraf. Agencja reklamowo - wydawnicza
+Henryka Sienkiewicza 2
+89-600 Chojnice
+
+embryoStudio Chojnice
+Młodzieżowa 17
+89-600 Chojnice
+
+Tom-Sad s.c. Agencja celna
+89-600 Chojnice
+
+Agencja Restrukturyzacji i Modernizacji Rolnictwa. Biuro powiatowe
+Kościerska 10
+89-620 Chojnice
+
+Sikora A. Usługi promocyjne
+Modrzewiowa 2
+89-600 Chojnice
+
+DWG Polska Sp. z o.o.
+Bankowa 2
+89-600 Chojnice
+
+😍 AS Web Design - Strony internetowe, Agencja Reklamowa, Marketing, Usługi Graficzne
+Dworcowa 26
+89-600 Chojnice
+
+Agencja Pocztowa
+Czynu Zbrojnego Kolejarzy 1D
+89-600 Chojnice
+
+Graphicca - Strony Internetowe, Reklama
+Stary Rynek 9/10
+89-600 Chojnice
+
+Żywicka Małgorzata. Agencja ubezpieczeniowa
+Poli Gojawiczyńskiej 3
+89-600 Chojnice
+
+AGENCJA UBEZPIECZENIOWA S.C. HANNA ROSTANKOWSKA WIESŁAWA GOLINSKA
+Bytowska 19
+89-600 Chojnice
+
+Błaszczak K. Biuro usług marketingowych
+Żwirki i Wigury 20
+89-600 Chojnice
+
+REPRINT STUDIO
+Floriana Ceynowy 13
+89-604 Chojnice
+
+Marek Piekarski. Pośrednik w obrocie nieruchomosciami
+Tadeusza Kościuszki 38
+89-600 Chojnice
+
+DOM UBEZPIECZENIOWY SPECTRUM Oddział w Chojnicach
+31 Stycznia 33
+89-600 Chojnice
+
+Warta S.A. Towarzystwo Ubezpieczeń i Reasekuracji. Agencja
+Bytowska 19
+89-600 Chojnice
+
+Classic. Biuro obrotu nieruchomościami i obsługi finansowej
+Bytowska 19
+89-600 Chojnice
+
+Gospodarek Michalina. PHU. Pośrednictwo nieruchomości, agencja ubezpieczeniowa
+Człuchowska 62
+89-600 Chojnice
+
+#Spółka
+
+Mostostal Chojnice spółka z ograniczoną odpowiedzialnością spółka komandytowa
+Przemysłowa 4
+89-600 Chojnice
+
+#Spółdzielnia
+
+Spółdzielnia Mieszkaniowa
+Młodzieżowa 35
+89-620 Chojnice
+
+Spółdzielnia Mieszkaniowa Murowaniec.
+Plac Piastowski 14
+89-600 Chojnice
+
+Spółdzielnia Mieszkaniowa. Zakład konserwatorów
+Młodzieżowa 2
+89-600 Chojnice
+
+Dom. Spółdzielnia Mieszkaniowa
+Rzepakowa 10
+89-600 Chojnice
+
+Administracja os. Drzymały Spółdzielni Mieszkaniowej
+Łanowa 11A
+89-604 Chojnice
+
+Sklep Motoryzacyjny Chojnice - Chojnicka Spółdzielnia Socjalna
+Aleja Matki Bożej Fatimskiej 21
+89-600 Chojnice
+
+#Związek
+
+Związek Kynologiczny w Polsce. Oddział w Chojnicach.
+Plac Jagielloński 2
+89-600 Chojnice
+
+#Stowarzyszenie
+
+Sandry Brdy. Lokalna Grupa Działania. Stowarzyszenie
+Wysoka 3
+89-600 Chojnice
+
+Chojnickie Stowarzyszenie Miłośników Zwierząt
+Igielska 24
+89-600 Chojnice
+
+Polskie Stowarzyszenie na rzecz Osób z Upośledzeniem Umysłowym. Koło terenowe
+Przemysłowa 11
+89-600 Chojnice
+
+Bank Żywności
+Świętopełka 10
+89-600 Chojnice
+
+PCK odział Chojnice
+Józefa Piłsudskiego 13
+89-620 Chojnice
+
+Środowiskowy Dom Samopomocy
+Gdańska 18
+89-600 Chojnice
+
+#Klub
+
+Stadion Miejski Chojniczanka 1930
+Adama Mickiewicza 12
+89-600 Chojnice
+
+Klub Sportowy OSIR
+Plac Niepodległości 6
+89-600 Chojnice
+
+Dyskoteka Wesele Chojnice
+Zielona 3/5
+89-600 Chojnice
+
+Frisk Music Club & Restaurant
+Sukienników 5
+89-600 Chojnice
+
+Centrum Sztuk Walki Chojnice
+Łużycka 1
+89-620 Chojnice
+
+Bułsa powiatowa Chojnice
+89-600 Chojnice
+
+#Towarzystwo
+
+Chojnickie Towarzystwo Budownictwa Społecznego Sp. z o.o.
+Adama Mickiewicza 12A
+89-620 Chojnice
+
+#Fundacja
+
+Fundacja Rozwoju Ziemi Chojnickiej i Człuchowskiej
+Wysoka 3
+89-600 Chojnice
+
+#Firma
+
+Muter Wit
+Wysoka 26
+89-600 Chojnice
+
+#Poczta
+
+Poczta Polska
+Stary Rynek 8
+89-600 Chojnice
+
+Poczta Polska
+Towarowa 6
+89-620 Chojnice
+
+Filia Urzędu Pocztowego 1
+Młodzieżowa 35
+89-604 Chojnice
+
+Poczta Polska
+Ildefonsa Gałczyńskiego 4
+89-602 Chojnice
+
+Urząd Pocztowy Filia
+Czynu Zbrojnego Kolejarzy 1
+89-620 Chojnice
+
+UPS Access Point
+Stary Rynek 23
+89-600 Chojnice
+
+Speedmail Sp. z o.o.
+Podlesie 4
+89-600 Chojnice
+
+Transport Ciężarowy Andrzej Kiedrowski
+Juliana Tuwima 7
+89-600 Chojnice
+
+UPS Access Point
+Modra 4
+89-600 Chojnice
+
+Kurier Ship Center - Przesyłki kurierskie Chojnice
+Sępoleńska 59
+89-600 Chojnice
+
+Paczkomat InPost
+Człuchowska 58A
+89-600 Chojnice
+
+Paczkomat InPost
+Zamieście 2A
+89-600 Chojnice
+
+Paczkomat InPost
+Obrońców Chojnic 1
+89-600 Chojnice
+
+Paczkomat InPost
+Jabłoniowa 41
+89-640 Chojnice
+
+Paczkomat InPost
+Warszawska 16
+89-600 Chojnice
+
+Paczkomat InPost
+Sępoleńska 24B
+89-600 Chojnice
+
+Paczkomat InPost
+Kasztanowa 4
+89-600 Chojnice
+
+Paczkomat InPost
+Plac Piastowski 23
+89-600 Chojnice
+
+#Emerytów
+
+Polski Związek Emerytów, Rencistów i Inwalidów. Zarząd rejonowy
+Adama Mickiewicza 12A
+89-620 Chojnice
+
+#ZUS
+
+ZUS Inspektorat w Chojnicach
+Łużycka 20
+89-600 Chojnice
+
+#ZNP
+
+Związek Nauczycielstwa Polskiego. Zarząd oddziału
+Adama Mickiewicza 12A
+89-620 Chojnice
+
+#PZU
+
+PZU. Oddział
+Sukienników 14
+89-600 Chojnice
+
+PZU Ubezpieczenia Chojnice - Agent Mirosław Kaproń
+3 Maja 47
+89-600 Chojnice
+
+PZU Ubezpieczenia Chojnice - Agent Krzysztof Kania
+31 Stycznia 46
+89-600 Chojnice
+
+CUP Centrum Ubezpieczeń Przerada - Chojnice
+Człuchowska 38B
+89-600 Chojnice
+
+#muzeum
+
+Muzeum Historyczno-Etnograficzne im. Juliana Rydzkowskiego w Chojnicach
+Podmurna 15
+89-620 Chojnice
+
+#Czerwony Krzyż
+
+Polski Czerwony Krzyż. Pomorski Zarząd Okręgowy. Zarząd Rejonowy
+Józefa Piłsudskiego 13
+89-600 Chojnice
+
+#Niepełnosprawnych
+
+Powiatowy Zespół ds. Orzekania o Niepełnosprawności
+Józefa Piłsudskiego 30
+89-600 Chojnice
+
+#Inwalidzi
+
+Niepubliczna przychodnia rehabilitacyjna przy Spółdzielni Inwalidów im. H. Derdowskiego
+Wasilija Morozowa 1
+89-600 Chojnice
+
+Results found: 168

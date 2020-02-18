@@ -1,0 +1,617 @@
+======================================================================
+89-210 ANNOWO
+
+======================================================================
+89-200 KORNELIN
+
+#Szkoła
+
+Jezioro Meszno
+89-200 Kornelin
+
+======================================================================
+89-210 WIELKI SOSNOWIEC
+
+======================================================================
+86-065 LISI OGON
+
+#Dom kultury
+
+Wiejski Ośrodek Kultury
+Wyczynowa
+86-065 Lisi Ogon
+
+#Oddział
+
+AUTOS Oddział Lisi Ogon Sprzedaż Części Do Samochodów Ciężarowych I Maszyn Budowlanych
+Szczecińska 10
+86-065 Lisi Ogon
+
+#Produkcja
+
+Wamma
+Twarda 12
+86-065 Lisi Ogon
+
+maszty.net
+Skośna 5
+86-065 Lisi Ogon
+
+GLASS - PRODUCT
+Przy Lesie 6
+86-065 Lisi Ogon
+
+Gala Collezione
+Lisi Ogon 73
+86-065 Łochowo
+
+SAM-NET - Stoły i krzesła
+Drzewna 2
+86-065 Lisi Ogon
+
+Hurtostal Sp. z o.o. Wyroby metalowe i metale kolorowe
+Szosa Bydgoska 1
+86-065 Lisi Ogon
+
+Metal-Product Sp. z o.o. Korporacja kapitałowo - produkcyjna
+Przy Lesie 6
+86-065 Lisi Ogon
+
+Voltea Sp. z o.o. sp. k
+Bydgoska 19a
+86-065 Lisi Ogon
+
+BATDOM.PL Stoły i Krzesła do Jadalni i Salonu
+Drzewna 2
+86-065 Lisi Ogon
+
+PLANDEKI - REKLAMY MATEUSZ PERZYŃSKI
+Lisi Ogon 136
+86-065 Łochowo
+
+Bruko-Bud
+Rzemieślnicza 1
+86-065 Lisi Ogon
+
+Centrum Wózków Widłowych BLUM
+Diamentowa 18
+86-065 Lisi Ogon
+
+Furnus Design
+Toruńska 16
+86-065 Lisi Ogon
+
+TOMMET
+Przyjazna 3
+86-065 Lisi Ogon
+
+KIEROWNIK Marek Moszczyński
+ul. Szczecińska 10
+Lisi Ogon
+Droga Krajowa 10 23
+86-065 Łochowo
+
+TESSA-DOM dealer drzwi - Salon Sprzedaży
+Spokojna 1
+86-065 Lisi Ogon
+
+#Agencja
+
+Agencja Promocyjna Everysound
+Szczecińska 7-9
+86-065 Lisi Ogon
+
+#Spółka
+
+Margot-Engineering sp.j.
+86-065 Lisi Ogon; Toruńska 16
+86-065
+
+EKKO.NET.PL
+Pocztowa 1
+86-065 Lisi Ogon
+
+Serwal PW
+Diamentowa 14
+86-065 Lisi Ogon
+
+Serwis Pojazdów Szynowych
+ul Szczecińska 15-19
+86-065 Lisi Ogon
+
+Cryspol Sp. z o.o.
+Szczecińska 4
+86-065 Lisi Ogon
+
+Stoork
+Rekreacyjna 3
+86-065 Lisi Ogon
+
+BOGAMET
+Szczecińska 15-19
+86-065 Lisi Ogon
+
+General Logistics Systems Poland Sp. z o.o.
+Lisi Ogon
+ul. Potulicka 28,
+86-065 Łochowo near Bydgoszcz
+
+Lely Center Bydgoszcz Sp. z o.o.
+Pocztowa 2
+86-065 Lisi Ogon
+
+Samwo Sp. z o.o. Składy budowlane
+Jeździecka 12
+86-065 Lisi Ogon
+
+PPUH DAMPOL CZESŁAW Krukowski Transport międzynarodowy, handel pojazdami Volvo, usługi warsztatowe,
+Toruńska 18
+86-065 Lisi Ogon
+
+El-Vita Sp. z o.o.
+Spacerowa 1
+86-065 Lisi Ogon
+
+Termakor Sp. Z O.o
+Przyjazna 3
+86-065 Lisi Ogon
+
+======================================================================
+86-005 BIAŁE BŁOTA
+
+#Urząd
+
+Urząd Gminy Białe Błota
+Szubińska 7
+86-005 Białe Błota
+
+#Ośrodek
+
+Sielska Białe Błota
+Sielska 3
+86-005 Białe Błota
+
+Hotel - Restauracja Sylwana **
+Szubińska 87A
+86-005 Białe Błota
+
+Przychodnia Białe Błota
+Barycka 38
+86-005 Białe Błota
+
+Motel Złota Karczma
+Kruszyńska 3
+86-005 Białe Błota
+
+Hostel Białe Błota Pokoje pracownicze koło Bydgoszczy Hostel pod Kasztanem
+Czekoladowa 9
+86-005 Białe Błota
+
+Hotel pracowniczy
+Szubińska 87F
+86-005 Białe Błota
+
+Domki letniskowe
+Cukiernicza 3
+86-005 Białe Błota
+
+Stamb. Noclegi
+Budynek "Galeria
+Szubińska 1
+86-005 Białe Błota
+
+Polonia. Zajazd. Bandelak R.
+Bracka 7
+86-005 Białe Błota
+
+Ośrodek Sportu i Rehabilitacji
+Centralna 27A
+86-005 Białe Błota
+
+Stamb. Hotel
+Sobótki 9 ( przy Sali Biesiadnej)
+86-005 Białe Błota
+
+Hotel SYLWANA
+Szubińska 87 A
+86-005 Białe Błota
+
+Centrum Medyczne "Białe Błota"
+Szubińska 87b
+86-005 Białe Błota
+
+Kruszyńska 5 noclegi
+86-005 Białe Błota
+
+Przymorzu.pl
+Słoneczna 3
+86-005 Białe Błota
+
+Gminne Centrum Kultury w Białych Błotach
+Czysta 1A
+86-005 Białe Błota
+
+Centrum Medyczne "Białe Błota" dr n. med. Grzegorz Szymczak
+Szubińska 87 B
+86-005 Białe Błota
+
+#Przedszkole
+
+Przedszkole Gminne "Wróżka"
+Centralna 27
+86-005 Białe Błota
+
+Przedszkole Biały Miś
+Betonowa 1A
+86-005 Białe Błota
+
+Szkoła Podstawowa im. Mariana Rejewskiego
+Centralna 27
+86-005 Białe Błota
+
+#Szpital
+
+Polmedica - Medical Tourism Cluster
+Paderewskiego 1
+86-005 Białe Błota
+
+#Bank
+
+Bank Spółdzielczy w Bydgoszczy. Oddział Białe Błota
+Guliwera 13
+86-005 Białe Błota
+
+Bank Spółdzielczy w Kcyni. Oddział
+Szubińska 87
+86-005 Białe Błota
+
+Bank Pekao S.A.
+ul. Bracka 3 Wejście od ul. Szubińskiej
+86-005 Białe Błota
+
+Credit Agricole Bank Polska S.A. - Placówka CA Express
+Bracka 1
+86-005 Białe Błota
+
+Bank Spółdzielczy. Bankomat
+Guliwera 13
+86-005 Białe Błota
+
+Bankomat Banku Pekao S.A.
+siedziba oddziału
+Bracka 3
+86-005 Białe Błota
+
+Jagoda. PHU. Hasanbasić J.
+Bracka 3
+86-005 Białe Błota
+
+Partner kredytowy mFinanse
+Bracka 1
+86-005 Białe Błota
+
+Euronet Polska Sp. z o. o.
+Szubińska 8
+86-005 Białe Błota
+
+#Policja
+
+Policja. Komenda Miejska w Bydgoszczy. Komisariat Bydgoszcz-Błonie. Posterunek
+Bezpieczna 2
+86-005 Białe Błota
+
+#Produkcja
+
+Toolmax
+Narzędziowa 6
+86-005 Białe Błota
+
+Importaco Poland Sp. z o.o.
+Obwodowa 24
+86-005 Białe Błota
+
+GMG Producent Odzieży i Sprzętu Sportowego oraz Pomocy Dydaktycznych
+Altanowa 15
+86-005 Białe Błota
+
+Hydrapress Sp. z o.o.
+Azalowa 23
+86-005 Białe Błota
+
+Stara Mydlarnia
+Barwinkowa 27
+86-005 Białe Błota
+
+G.T. Neoplast
+Barycka 50
+86-005 Białe Błota
+
+ADS. Zakład cukierniczy
+Daleka 23
+86-005 Białe Błota
+
+Tabemax
+Betonowa 1
+86-005 Białe Błota
+
+Producent Istanbul Sp. z o.o. & Co. Sp. Komandytowa
+Szubińska 101H
+86-005 Białe Błota
+
+Polikom. Jędryczka J.
+Miła 6
+86-005 Białe Błota
+
+Plast-Chem INSTALACJE PRZEMYSŁOWE Z ŻYWIC WZMACNIANYCH WŁÓKNEM SZKLANYM
+Betonowa 1
+86-005 Białe Błota
+
+MONSTAHL
+Alpejska 9
+86-005 Białe Błota
+
+Istanbul Sp. z o.o. & Co. Sp. Komandytowa
+Szubińska 86
+86-005 Białe Błota
+
+Stanpol-Bis. Zaopatrzenie masarni i gastronomii
+Szubińska 83
+86-005 Białe Błota
+
+JUAN Sp. J. Oddział Bydgoszcz / Białe Błota
+Obwodowa 2A
+86-005 Białe Błota
+
+Centek Piotr. Zakład stolarski
+Bałkańska 5/7
+86-005 Białe Błota
+
+Firma Handlowa Inga
+Bracka 15
+86-005 Białe Błota
+
+Martmet. Producent końcówek do przewodów elektrycznych. Martynelis D.
+Daleka 3
+86-005 Białe Błota
+
+Zakład Wodociągów i Usług Komunalnych Sp. z o.o.
+Betonowa 1A
+86-005 Białe Błota
+
+#Zakład
+
+Atumet Zakład
+Szubińska 101
+86-005 Białe Błota
+
+Rambowicz Ryszard i Arkadiusz. Kamieniarstwo
+Ostróżki 6
+86-005 Białe Błota
+
+Blachpollak. Auto Serwis Siatkowski Z. blacharstwo-lakiernictwo-mechanika-wulkanizacja
+Biała 7
+86-005 Białe Błota
+
+Wulkanizacja Huber
+Niedzielna
+86-005 Białe Błota
+
+AGDOM Zakład Produkcyjny Agata Janyska, Ewa Janyska
+Chlebowa 50
+86-005 Białe Błota
+
+Profil. Zakład ślusarski.
+Czajcza 11
+86-005 Białe Błota
+
+Klesiński Andrzej. Zakład usług pogrzebowych
+Cukrowa 14
+86-005 Białe Błota
+
+Optyk Okularnik
+Bracka 1
+86-005 Białe Błota
+
+Latko s.c. Zakład elektromechaniczny
+Bracka 17
+86-005 Białe Błota
+
+Zakład Obróbki Metali PAMOSTAL
+Przemysłowa
+86-005 Białe Błota
+
+Gerlach. Zakład budowlano - usługowo - handlowy. Materiały sanitarne i elektryczne
+Guliwera 21
+86-005 Białe Błota
+
+Wycech S.C. Zakład urządzeń technicznych.
+Niedzielna 7
+86-005 Białe Błota
+
+Stalwent Sp. z o.o.
+Centralna 67
+86-005 Białe Błota
+
+Szweda G. Zakład stolarski. Konstrukcje budowlane
+Cynowa 14
+86-005 Białe Błota
+
+#Zakłady
+
+Siatkowski Ryszard. Zakład instalacji sanitarnych
+Alibaby 2
+86-005 Białe Błota
+
+Widzgowska Ilona. Salon fryzjerski
+Berberysowa 13
+86-005 Białe Błota
+
+Dariusz Danielek Photo
+Drzewna 18
+86-005 Białe Błota
+
+#Spółka
+
+El-med Sp. Z o.o. NZOZ
+Barycka 38
+86-005 Białe Błota
+
+Szkoła Podstawowa Im.J.Verne'
+Czerska 10
+86-005 Białe Błota
+
+Lines Sp. z o.o. Przedsiębiorstwo handlowe
+Szubińska 73
+86-005 Białe Błota
+
+SKUPAJ Sp. z o.o.
+Gwarna 14
+86-005 Białe Błota
+
+Margiz Sp. z o.o.
+Szubińska 55
+86-005 Białe Błota
+
+BIn-Biuro Inżynierskie Sp. z o.o.
+Kruszyńska 13-21
+86-005 Białe Błota
+
+MM Group Sp. z o.o.
+86-005 Białe Błota; Betonowa 1
+Betonowa 1
+86-005 Białe Błota
+
+Rawpol. Pw
+Kocia 4
+86-005 Białe Błota
+
+Sprint-Cargo Sp. z o.o. PW
+Asfaltowa 6
+86-005 Białe Błota
+
+#Związek
+
+Kościół Chrystusa Dobrego Pasterza w Białych Błotach
+Czerska 40
+86-005 Białe Błota
+
+Gminny Klub Sportowy "Spójnia" Białe Błota
+Centralna 27B
+86-005 Białe Błota
+
+Kujawsko-Pomorskie Stowarzyszenie Przewoźników Międzynarodowych w Bydgoszczy
+Łochowska 16
+86-005 Białe Błota
+
+Poczta Polska
+Guliwera 11
+86-005 Białe Błota
+
+Centrum Obsługi Edukacji i Sportu
+Czysta 1A
+86-005 Białe Błota
+
+Luxurybling. Holla Poland. Sklep internetowy.
+Forteczna 4
+86-005 Białe Błota
+
+P.P.U.H. RYSSTAL Łukasz Ciesielski
+Niedzielna 27
+86-005 Białe Błota
+
+#Klub
+
+Białe Błota
+Niedzielna
+86-005 Białe Błota
+
+Sunserwis
+1
+Barycka 37B
+86-005 Białe Błota
+
+Nemo. Klub Malucha
+Parkowa 3
+86-005 Białe Błota
+
+Bar Maj
+Bracka 7
+86-005 Białe Błota
+
+#ZUS
+
+Leśnictwo i szkółka Białe Błota. Nadleśnictwo Bydgoszcz
+Leśna 1
+86-005 Białe Błota
+
+#PZU
+
+PZU Ubezpieczenia Białe Błota - Agent Mariusz Szpojda
+Bracka 1
+86-065 Białe Błota
+
+Szatkowska Danuta. Pośrednictwo ubezpieczeniowe
+9
+Betonowa 2
+86-005 Białe Błota
+
+#Centrum
+
+Centrum Medyczne "Białe Błota", Gabinet Ginekologiczno-Położniczy, USG 3D
+Szubińska 87B
+86-005 Białe Błota
+
+Centrum Terapeutyczne SPES Barbara Gilewska
+Sobótki 16
+86-005 Białe Błota
+
+Grenbud - Centrum Techniki Grzewczej
+Szubińska 57
+86-005 Białe Błota
+
+sklep monopolowy LIMONKA
+Barycka
+86-005 Białe Błota
+
+Ling King Centrum Języków Obcych
+Barycka 37e
+86-005 Białe Błota
+
+Gabinet Stomatologiczny Zbigniew Małecki
+Szubińska 57
+86-005 Białe Błota
+
+Meridian. Centrum fizjoterapii i masażu. Miszewska A.
+Hippiczna
+86-005 Białe Błota
+
+Dialog. Centrum językowe. Tłumaczenia przysięgłe, kursy językowe. Truszczyńska E.
+Czerska 109
+86-005 Białe Błota
+
+Białe Błota
+Centralna
+86-005 Białe Błota
+
+Centrum Budowlane Słowiński
+Szubińska 47A
+86-005 Białe Błota
+
+#Inwalidów
+
+Omega, Okna Schuco, Sokółka, Bramy Hormann, Drzwi, Podłogi, Bydgoszcz/Biale Blota
+Szubińska 83
+86-005 Białe Błota
+
+WULMAREX Mariusz Domek
+Szubińska 49
+86-005 Białe Błota
+
+POLOmarket
+Szubińska 1
+86-005 Białe Błota
+
+======================================================================
+83-140 CIELE
+
+Results found: 137
