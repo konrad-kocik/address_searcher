@@ -90,22 +90,34 @@ class KrkgwPage(WebPage):
                 info_button = self._find_element_by_xpath(info_button_xpath)
                 info_button.click()
 
-                name_output_xpath = '//*[@id="zawartosc"]/table[1]/tbody/tr[3]/td[2]'
-                self._wait_for_visibility_by_xpath(name_output_xpath, timeout=10)
-                name_output = self._find_element_by_xpath(name_output_xpath)
-
-                address_output_xpath = '//*[@id="zawartosc"]/table[1]/tbody/tr[4]/td[2]'
-                self._wait_for_visibility_by_xpath(address_output_xpath, timeout=10)
-                address_output = self._find_element_by_xpath(address_output_xpath)
-
-                results.append(name_output.text + '\n' + self._format_address(address_output.text) + '\n')
+                name, address = self._get_result_details()
+                results.append(name + '\n' + self._format_address(address) + '\n')
 
                 self._close_details()
-            except (ElementClickInterceptedException, KrkgwPageException) as e:
+            except ElementClickInterceptedException as e:
                 Logger.error(self, e, self._get_results_from_current_page.__name__)
+            except KrkgwPageException as e:
+                Logger.error(self, e, self._get_results_from_current_page.__name__)
+                self._close_details()
             except (TimeoutException, NoSuchElementException):
                 break
         return results
+
+    def _get_result_details(self):
+        try:
+            name_output_xpath = '//*[@id="zawartosc"]/table[1]/tbody/tr[3]/td[2]'
+            self._wait_for_visibility_by_xpath(name_output_xpath, timeout=10)
+            name_output = self._find_element_by_xpath(name_output_xpath)
+            name = name_output.text
+
+            address_output_xpath = '//*[@id="zawartosc"]/table[1]/tbody/tr[4]/td[2]'
+            self._wait_for_visibility_by_xpath(address_output_xpath, timeout=10)
+            address_output = self._find_element_by_xpath(address_output_xpath)
+            address = address_output.text
+        except (TimeoutException, NoSuchElementException) as e:
+            Logger.error(self, e, self._get_result_details.__name__)
+            raise KrkgwPageException('Failed to get result details')
+        return name, address
 
     @staticmethod
     def _format_address(address):
