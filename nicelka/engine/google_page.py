@@ -1,7 +1,7 @@
 from time import sleep
 
 from exceptbool import except_to_bool
-from selenium.common.exceptions import TimeoutException, NoSuchElementException, ElementClickInterceptedException
+from selenium.common.exceptions import TimeoutException, NoSuchElementException, ElementClickInterceptedException, StaleElementReferenceException
 from selenium.webdriver.common.keys import Keys
 
 from nicelka.engine.web_page import WebPage
@@ -21,7 +21,7 @@ class GooglePage(WebPage):
 
     def _enter_query(self, city, key):
         Logger.debug(self, "Searching for city: '{}' key: '{}'".format(city, key))
-        sleep(1)
+        sleep(1.2)
 
         try:
             self._driver.get(url=self._url)
@@ -56,13 +56,15 @@ class GooglePage(WebPage):
             name_output_xpath = '//div[@class="SPZz6b"]//span'
             self._wait_for_element_by_xpath(name_output_xpath, timeout=2)
             name_output = self._find_element_by_xpath(name_output_xpath)
+            name = name_output.text
 
             address_output_class = 'LrzXr'
             self._wait_for_element_by_class_name(address_output_class, timeout=2)
             address_output = self._find_element_by_class_name(address_output_class)
+            address = address_output.text
 
-            result.append(name_output.text + '\n' + self._format_address(address_output.text) + '\n')
-        except (TimeoutException, NoSuchElementException, ElementClickInterceptedException) as e:
+            result.append(name + '\n' + self._format_address(address) + '\n')
+        except (TimeoutException, NoSuchElementException, ElementClickInterceptedException, StaleElementReferenceException) as e:
             Logger.error(self, e, self._get_single_result.__name__)
             raise GooglePageException('Failed to get single result')
 
@@ -106,15 +108,17 @@ class GooglePage(WebPage):
             name_output_xpath = '//div[@class="SPZz6b"]//span'
             self._wait_for_element_by_xpath(name_output_xpath, timeout=2)
             name_output = self._find_element_by_xpath(name_output_xpath)
+            name = name_output.text
 
             address_output_class = 'LrzXr'
             self._wait_for_element_by_class_name(address_output_class, timeout=1)
             address_output = self._find_element_by_class_name(address_output_class)
-        except (TimeoutException, NoSuchElementException, ElementClickInterceptedException) as e:
+            address = address_output.text
+        except (TimeoutException, NoSuchElementException, ElementClickInterceptedException, StaleElementReferenceException) as e:
             Logger.error(self, e, self._get_one_of_multiple_results.__name__)
             raise GooglePageException('Failed to get one of multiple results')
 
-        return name_output.text, address_output.text
+        return name, address
 
     @staticmethod
     def _format_address(address):
