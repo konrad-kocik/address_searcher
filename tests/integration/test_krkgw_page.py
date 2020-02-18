@@ -20,6 +20,7 @@ test_cases = ['no_result',
               'multiple_results_twice',
               'multiple_results_on_multiple_pages_all_allowed',
               'multiple_results_on_multiple_pages_indirect_matches_skipped',
+              'multiple_results_with_empty_details',
               'basic_use_cases'
               ]
 
@@ -418,6 +419,20 @@ def test_multiple_results_on_multiple_pages_indirect_matches_skipped(create_repo
         'Results found: 3'
 
     data_dir_path, report_dir_path = get_io_dir_paths(test_suite, test_case='multiple_results_on_multiple_pages_indirect_matches_skipped')
+    searcher = run_krkgw_searcher(data_dir_path, report_dir_path)
+    assert_report_file_content_equals(expected_report, searcher.report_file_path)
+
+
+def test_multiple_results_with_empty_details(create_reports_dirs, remove_reports_dirs):
+    expected_report = \
+        '======================================================================' + '\n' + \
+        '89-200 TUR' + '\n\n' + \
+        'Koło Gospodyń Wiejskich Centrum Kultury Ostrowite' + '\n' + \
+        'ul. Szkolna 22' + '\n' + \
+        '89-620 Ostrowite' + '\n\n' + \
+        'Results found: 1'
+
+    data_dir_path, report_dir_path = get_io_dir_paths(test_suite, test_case='multiple_results_with_empty_details')
     searcher = run_krkgw_searcher(data_dir_path, report_dir_path)
     assert_report_file_content_equals(expected_report, searcher.report_file_path)
 
