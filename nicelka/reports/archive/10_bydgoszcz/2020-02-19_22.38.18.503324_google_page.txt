@@ -1,0 +1,8588 @@
+======================================================================
+89-210 KĄPIE
+
+======================================================================
+89-210 ŁABISZYN
+
+#Urząd
+
+Urząd Miejski w Łabiszynie
+plac 1000-lecia 1
+89-210 Łabiszyn
+
+#Ośrodek
+
+Samodzielny Publiczny Zakład Opieki Zdrowotnej
+Powstańców Wielkopolskich 17
+89-210 Łabiszyn
+
+#Dom kultury
+
+Łabiszyński Dom Kultury
+Parkowa 1
+89-210 Łabiszyn
+
+#Szkoła
+
+Zespół Szkół w Łabiszynie
+Nadnotecka 2
+89-210 Łabiszyn
+
+Szkoła Podstawowa
+Poznańska 12
+89-210 Łabiszyn
+
+Zespół Szkół Branżowych i Ogólnokształcących w Łabiszynie
+Poznańska 10
+89-210 Łabiszyn
+
+#Przedszkole
+
+Przedszkole Miejskie im. J. Tuwima
+Poznańska 9
+89-210 Łabiszyn
+
+#Biblioteka
+
+Biblioteka Publiczna Miasta i Gminy im. dr. Juliana Gerpe
+Parkowa 1
+89-210 Łabiszyn
+
+#Szpital
+
+Samodzielny Publiczny Zakład Opieki Zdrowotnej (independent public health care)
+Powstańców Wielkopolskich 17
+89-210 Łabiszyn
+
+#Bank
+
+Bank Spółdzielczy Pałuki w Żninie
+Sienkiewicza 5
+89-210 Łabiszyn
+
+PKO Bank Polski S.A.- Bankomat
+ul
+11 Stycznia 5
+89-210 Łabiszyn
+
+Gospodarczy Bank Wielkopolski S.A. Bankomat
+Sienkiewicza 5
+89-210 Łabiszyn
+
+Euronet Polska Sp. z o. o.
+Wspólna 6
+89-210 Łabiszyn
+
+#Policja
+
+Komisariat Policji
+plac 1000-lecia 1
+89-210 Łabiszyn
+
+#Przedsiębiorstwo
+
+Przedsiębiorstwo Usługowo- Handlowe "DOMENA"
+11 Stycznia 5
+89-210 Łabiszyn
+
+#Produkcja
+
+ARKOM-Meble na zamówienie
+Powstańców Wielkopolskich 34
+89-210 Łabiszyn
+
+#Poczta
+
+Poczta Polska
+Poznańska 3
+89-210 Łabiszyn
+
+#ZUS
+
+Urząd Stanu Cywilnego
+plac 1000-lecia 1
+89-210 Łabiszyn
+
+#PZU
+
+PZU Ubezpieczenia Łabiszyn - Agent Jolanta Kamińska
+Powstańców Wielkopolskich 24
+89-210 Łabiszyn
+
+======================================================================
+86-005 TRZCINIEC
+
+#Szkoła
+
+Willa Maksymilian
+Gminna 20
+86-005 Trzciniec
+
+"Cegielnie Bydgoskie" S.a.
+Gminna 17
+86-005 Trzciniec
+
+DESTA Biuro Rachunkowe
+Żubrowa 16
+86-005 Trzciniec
+
+Neron Nieruchomości
+Żubrowa 5
+86-005 Trzciniec
+
+#Produkcja
+
+Taśmy transportujące, pasy napędowe - rona serwis
+Sowia 1
+86-005 Trzciniec
+
+Nina. Produkcja zabawek edukacyjnych, zręcznościowych i sezonowych
+Jemiołowa 13
+86-005 Trzciniec
+
+Centrostal Handel Sp. z o.o.
+Jemiołowa 37
+86-005 Trzciniec
+
+======================================================================
+86-005 PRZYŁĘKI
+
+#Szkoła
+
+Szkoła Podstawowa
+Zabytkowa 5
+86-005 Przyłęki
+
+#Bank
+
+Biuro Rachunkowe Małgorzata Loret
+Porostowa 4
+86-005 Przyłęki
+
+APCONTROL
+86-005 Przyłęki
+
+#Produkcja
+
+TLH Polska Sp. z o.o.
+Biznesowa 11
+86-005 Przyłęki
+
+Sprint Henryk Nowak
+Usługowa 9
+86-005 Przyłęki
+
+Lux s.c.
+Mostowa 20
+86-005 Przyłęki
+
+ZPUH OSKA
+Wydmowa
+86-005 Przyłęki
+
+Sadłowski Ryszard. Produkcja opakowań drewnianych
+Korzenna 6
+86-005 Przyłęki
+
+Sprint - automatyka do bram garażowych i szlabanów Bydgoszcz
+Usługowa 9
+86-005 Przyłęki
+
+PK Met. Hurtownia metali nieżelaznych
+Zabytkowa 42
+86-005 Przyłęki
+
+#Spółka
+
+WARDA Sp. z o.o.
+Korzenna 5
+86-005 Przyłęki
+
+EKO-GAZ Piotr Gadaszewski
+Zabytkowa 2
+86-005 Przyłęki
+
+Zakład Produkcyjno Usługowo Handlowy Oska Zbigniew Oskwarek Kazimierz Kasprowicz Jarosław Kasprowicz Spółka Jawna
+Wydmowa 7
+86-005 Przyłęki
+
+#Klub
+
+Fitness Klub Relaks
+Antoniego Przysieckiego 26
+86-005 Bydgoszcz Przyłęki
+
+#Firma
+
+Przyłęki Planetarna
+Księżycowa 23
+86-005 Przyłęki
+
+Skład opału Przyłęki
+Dymna 15
+86-005 Przyłęki
+
+Tremedic Fizjoterapia Mobilna
+Dojazdowa 16
+86-005 Przyłęki
+
+Świadectwa i audyty energetyczne, roboty ogólnobudowlane MS-BUD
+Piękna 10
+86-005 Przyłęki
+
+Sobitech
+Gwieździsta 15
+86-005 Przyłęki
+
+Ogift
+Mostowa 7
+86-005 Przyłęki
+
+Wanex. Cynkowanie galwaniczne, wannowe, hartowanie
+Przysieckiego 6
+86-005 Przyłęki
+
+Tremedic mgr Michał Trepanowski Fizjoterapia Mobilna
+Dojazdowa 16
+86-005 Przyłęki
+
+McA elektra
+ul
+Przysieckiego 34
+86-005 Przyłęki
+
+Certyfikat Energetyczny Bydgoszcz Remas-Bud
+Pokosowa 5
+86-005 Przyłęki
+
+PW Krecik Daniel Sobek Usługi Kanalizacyjne
+Dymna 5
+Przyłęki
+86-005 Białe Błota
+
+Catering Rozmaryn
+Młyńska 4
+86-005 Przyłęki
+
+Netbook Agadas
+Przysieckiego 38
+86-005 Przyłęki
+
+======================================================================
+89-210 NOWE DĄBIE
+
+#Urząd
+
+Niepubliczna Szkoła Podstawowa w Nowym Dąbiu
+Nowe Dąbie 56
+89-210 Nowe Dąbie
+
+#Bank
+
+KTK Łabiszyn Sp. Z o.o
+Nowe Dąbie 1
+89-210 Nowe Dąbie
+
+Sklep Spożywczy "Bajerek"
+Nowe Dąbie 54C
+89-210 Nowe Dąbie
+
+#Spółka
+
+El-Przem Sp. z o.o.
+67B
+89-210 Nowe Dąbie
+
+#Firma
+
+UTB Serwis
+Nowe Dąbie 1
+89-210 Łabiszyn
+
+Usługi asenizacyjne Tomasz Zawadzki(wywóz ścieków)
+Nowe Dąbie 87
+89-210 Nowe Dąbie
+
+Ubezpieczenia Łabiszyn
+Nowe Dąbie 76
+89-210 Nowe Dąbie
+
+Nowe Dąbie 301
+89-210 Łabiszyn
+
+Rychlik Mirosław. Wielobranżowy zakład usługowo - produkcyjno - handlowy
+89-210 Nowe Dąbie
+
+Usługi Transportowo Koparkowe Żarkowska Teresa
+Nowe Dąbie 77
+89-210 Nowe Dąbie
+
+Usługi Transportowo Koparkowe Żarkowska Teresa
+77
+Nowe Dąbie 77
+89-210 Łabiszyn
+
+EcoLive Przydomowe Oczyszczalnie Ścieków
+Nowe Dąbie 81
+89-210 Nowe Dąbie
+
+Stadnina Koni Olimpia
+Nowe Dąbie 623
+89-210 Nowe Dąbie
+
+#Poczta
+
+Oddział Przedszkolny przy Filii Szkoły Podstawowej w Łabiszynie
+89-210 Nowe Dąbie
+
+Nowe Dąbie 91e
+Nowe Dąbie 91e
+89-210 Nowe Dąbie
+
+Śluza nr 3 - Antoniewo
+89-210 Nowe Dąbie
+
+KTK Łabiszyn Sp. z o.o. - Kopalnia Torfu i Kruszyw
+Nowe Dąbie 1
+89-210 Łabiszyn
+
+#Centrum
+
+Olimpia English Centre
+Nowe Dąbie 623
+89-210 Nowe Dąbie
+
+======================================================================
+62-107 KOZIELSKO
+
+======================================================================
+62-110 GRUNTOWICE
+
+======================================================================
+62-110 MOKRONOSY
+
+======================================================================
+62-110 MIĄŻA
+
+======================================================================
+62-107 NIEMCZYN
+
+#Szkoła
+
+Szkoła Podstawowa
+62-107 Niemczyn; 39
+
+#Poczta
+
+Poczta Polska
+Niemczyn 62
+62-107 Niemczyn
+
+======================================================================
+62-120 PODOLIN
+
+#Poczta
+
+Maszpol
+Podolin 19
+62-120 Podolin
+
+Samorząd Mieszkańców Wsi
+62-120 Podolin
+
+======================================================================
+62-120 WAPNO
+
+#Szkoła
+
+Szkoła Podstawowa im. A.Mickiewicza w Wapnie
+plac Mickiewicza 2
+62-120 Wapno
+
+#Przedszkole
+
+Przedszkole Publiczne
+62-120 Wapno; gen. Karola Świerczewskiego 20
+
+#Biblioteka
+
+Biblioteka Publiczna Gminy Wapno
+Solna 20
+62-120 Wapno
+
+#Bank
+
+Pałucki Bank Spółdzielczy w Damasławku. Filia
+Solna 8
+62-120 Wapno
+
+#Spółdzielnia
+
+Spółdzielnia Mieszkaniowa
+62-120 Wapno
+
+#Poczta
+
+Urząd Pocztowy
+Solna 1
+62-120 Wapno
+
+Poczta Polska
+Solna 1/1
+62-120 Wapno
+
+Urząd Gminy Wapno
+Solna 1A
+62-120 Wapno
+
+Kościół Rzymskokatolicki pw. św. Barbary
+62-120 Wapno
+
+Ochotnicza Straż Pożarna
+62-120 Wapno
+
+Poczta Wapno
+Solna 6
+62-120 Wapno
+
+======================================================================
+62-120 SREBRNA GÓRA
+
+#Szpital
+
+DPS w Srebrnej Górze
+Srebrna Góra 52
+62-120 Srebrna Góra
+
+Kościół Rzymskokatolicki pw. św. Mikołaja
+Srebrna Góra
+Wapno 57
+62-120 Wapno
+
+======================================================================
+62-110 TURZA
+
+======================================================================
+62-110 DAMASŁAWEK
+
+#Urząd
+
+Urząd Gminy Damasławek
+Rynek 8
+62-110 Damasławek
+
+#Dom kultury
+
+Gminny Ośrodek Kultury (municipal Cultural Center)
+Żnińska 9
+DW251
+62-110 Damasławek
+
+#Szkoła
+
+Zespół Szkół Powszechnych im. Pierwszych Piastów w Damasławku
+Słoneczna 4
+62-110 Damasławek
+
+#Przedszkole
+
+Przedszkole Publiczne w Damasławku
+Kościelna 2
+62-110 Damasławek
+
+#Biblioteka
+
+Biblioteka Publiczna
+Żnińska 9
+62-110 Damasławek
+
+#Szpital
+
+Przychodnia Lekarska s.c.Vena
+62-110 Damasławek; Długa 1
+DW251
+62-110
+
+#Bank
+
+Bank Spółdzielczy. Oddział
+Kcyńska 6
+62-110 Damasławek
+
+#Policja
+
+Policja. Komenda Powiatowa w Wągrowcu. Zespół Dzielnicowych
+Kcyńska 22
+62-110 Damasławek
+
+#Przedsiębiorstwo
+
+Damłyn Sp. z o.o. Przedsiębiorstwo zbożowo - młynarskie
+62-110 Damasławek; Wągrowiecka 4a
+
+#Produkcja
+
+Krys-Pak. Producent tabletki solnej
+Kcyńska 17
+62-110 Damasławek
+
+#Klub
+
+PKP
+62-110 Damasławek
+
+Gminny Ośrodek Kultury
+Żnińska 9
+DW251
+62-110 Damasławek
+
+Sokół. Klub jeździecki
+62-110 Damasławek; Żnińska 11
+
+#Poczta
+
+Urząd Pocztowy - Damasławek
+Kolejowa 7
+62-110 Damasławek
+
+#Centrum
+
+Centrum Zarządzania Kryzysowego
+Rynek 6
+62-110 Damasławek
+
+Skrzydła
+Żnińska 11
+62-110 Damasławek
+
+"HENPASZ"
+Nowa
+62-110 Damasławek
+
+Kościół Rzymskokatolicki
+Kościelna 6
+62-110 Damasławek
+
+Politowska Halina. Zakład fryzjerski
+62-110 Damasławek; Kcyńska 17
+
+Elnap. Handel obwoźny i sprzedaż internetowa. AGD
+Nowa 4
+62-110 Damasławek
+
+CHOŁODY ecopellet
+Kcyńska 17 c
+62-110 Damasławek
+
+======================================================================
+88-430 ZRAZIM
+
+#Produkcja
+
+Agroprim. Głowski Dariusz
+Zrazim
+Janowiec Wielkopolski 44
+88-430 Janowiec Wielkopolski
+
+#Poczta
+
+Kościół
+88-430 Zrazim
+
+======================================================================
+88-430 JANOWIEC WIELKOPOLSKI
+
+#Urząd
+
+Urząd Miejski w Janowcu Wielkopolskim
+Gnieźnieńska 3
+88-430 Janowiec Wielkopolski
+
+#Ośrodek
+
+Miejsko - Gminny Ośrodek Kultury
+Powstańców Wielkopolskich 16
+88-430 Janowiec Wielkopolski
+
+Samodzielny Publiczny Zakład Opieki Zdrowotnej
+Gnieźnieńska 4
+88-430 Janowiec Wielkopolski
+
+Vena. Pielęgniarski ośrodek medycyny
+Dworcowa 13
+88-430 Janowiec Wielkopolski
+
+#Szkoła
+
+Szkoła Podstawowa imienia Tadeusza Kościuszki w Janowcu Wielkopolskim
+Szkolna 8
+88-430 Janowiec Wielkopolski
+
+#Przedszkole
+
+Przedszkole Samorządowe
+Szkolna 2
+88-430 Janowiec Wielkopolski
+
+#Biblioteka
+
+Biblioteka Publiczna im. Stefanii Popiołek
+Gnieźnieńska 3a
+88-430 Janowiec Wielkopolski
+
+#Bank
+
+Pałucki Bank Spółdzielczy w Wągrowcu. Oddział
+plac Wolności 6
+88-430 Janowiec Wielkopolski
+
+PKO Bank Polski. Agencja
+3 Maja 9
+88-430 Janowiec Wielkopolski
+
+Fines
+22 Stycznia 1
+88-430 Janowiec Wielkopolski
+
+Punkt sprzedaży Plusa i Cyfrowego Polsatu
+plac Wolności 14
+88-430 Janowiec Wielkopolski
+
+Gospodarczy Bank Wielkopolski S.A. Bankomat
+plac Wolności 6
+88-430 Janowiec Wielkopolski
+
+#Policja
+
+Posterunek Policji
+Szkolna 7
+88-430 Janowiec Wielkopolski
+
+#Produkcja
+
+Tibro-JV Sp. z o.o. Producent stopek
+Kościuszki 24
+88-430 Janowiec Wielkopolski
+
+Wan-Vit. Produkcja cukiernicza
+Śniadeckich 17
+88-430 Janowiec Wielkopolski
+
+Oczyszczalnia ścieków
+Kościuszki 24
+88-430 Janowiec Wielkopolski
+
+SAN-VIT
+Janowiec Wielkopolski 10
+88-430 Janowiec Wielkopolski
+
+Stol-Meb
+88-430 Janowiec Wielkopolski; os. Bielawy 6
+
+Golpasz S.A. Wytwórnia pasz w Janowcu Wielkopolskim
+Działkowa 1
+88-430 Janowiec Wielkopolski
+
+Kapsa Krzysztof. Stolarstwo
+Pułaskiego 10
+88-430 Janowiec Wielkopolski
+
+Majewscy Tomasz, Grzegorz. Tartak s.c.
+Gnieźnieńska 18
+88-430 Janowiec Wielkopolski
+
+Szrajbrowski Maciej. Zakład stolarski
+Konopnickiej 7A
+88-430 Janowiec Wielkopolski
+
+Hekpol Sp. z o.o.
+Zielona 1A
+88-430 Janowiec Wielkopolski
+
+ZARZECZNY MEBLE Krzysztof Zarzeczny
+Związku Walki Młodych 12
+88-430 Janowiec Wielkopolski
+
+Wama. Sprzedaż pasz, koncentratów paszowych i środków do produkcji rolnej
+Nowa 1
+88-430 Janowiec Wielkopolski
+
+Produkcja zniczy Zenon Purolnik
+Zielona 4
+88-430 Janowiec Wielkopolski
+
+Jur-Pol A.D.P s.c. Producent opakowań foliowych, woreczków
+Nowa 6
+88-430 Janowiec Wielkopolski
+
+Purolnik Zenon. Produkcja zniczy
+Spółdzielcza 8
+88-430 Janowiec Wielkopolski
+
+Sima. PHUP. Staśkiewicz I.
+22 Stycznia 3
+88-430 Janowiec Wielkopolski
+
+#Zakład
+
+Wypych A. Zakład elektroinstalacyjny
+Pułaskiego 7
+88-430 Janowiec Wielkopolski
+
+Ławniczak M.P. Zakład przemysłu mięsnego sp.j.
+Powstańców Wielkopolskich 28
+88-430 Janowiec Wielkopolski
+
+Wodociąg. Zakład Usług Miejskich
+Śniadeckich 11
+88-430 Janowiec Wielkopolski
+
+Zakład ogólnobudowlany
+Bielawska 3
+88-430 Janowiec Wielkopolski
+
+Macioszek W. Zakład malarsko - tapeciarski
+3 Maja 28
+88-430 Janowiec Wielkopolski
+
+Rzeźnik Krzysztof. Usługi wielobranżowe
+Tysiąclecia 3
+88-430 Janowiec Wielkopolski
+
+Zakład Ogólnobudowlany. Usługi ciesielskie
+Polna
+88-430 Janowiec Wielkopolski
+
+Propex. Recykling tworzyw sztucznych. Tokarski S.
+Zielona 9
+88-430 Janowiec Wielkopolski
+
+PDO. Pałucka Drukarnia Opakowań. Opakowania foliowe, laminaty, druk
+Zielona 10
+88-430 Janowiec Wielkopolski
+
+Zaklad Ogolnobudowlany Tomasz Rymer
+Krasickiego 6
+88-430 Janowiec Wielkopolski
+
+Faltyński Damian. Zakład Budowlany
+Parkowa 8
+88-430 Janowiec Wielkopolski
+
+Fotoraj. Zakład foto - video
+Parkowa 6
+88-430 Janowiec Wielkopolski
+
+#Grupa
+
+Sparta Janowiec Wlkp.
+Strzelecka 29
+88-430 Janowiec Wielkopolski
+
+#Spółdzielnia
+
+Spółdzielnia Mieszkaniowa
+Gnieźnieńska 12
+88-430 Janowiec Wielkopolski
+
+#Związek
+
+Związek Ochotniczych Straży Pożarnych. Zarząd miejsko - gminny
+Gnieźnieńska 3
+88-430 Janowiec Wielkopolski
+
+Przystanek PKS
+Gnieźnieńska 16
+88-430 Janowiec Wielkopolski
+
+Poczta Polska
+Gnieźnieńska 1
+88-430 Janowiec Wielkopolski
+
+Tomczak Borysław. Usługi wielobranżowe
+Związku Walki Młodych 10
+88-430 Janowiec Wielkopolski
+
+Borkowski Jarosław. Autonaprawa
+Związku Walki Młodych 10A
+88-430 Janowiec Wielkopolski
+
+Usowska Wanda, lek. med. pediatra
+Związku Walki Młodych 24
+88-430 Janowiec Wielkopolski
+
+Ochotnicza Straż Pożarna
+Gnieźnieńska 3
+88-430 Janowiec Wielkopolski
+
+Pałucka Drukarnia Opakowań s.c. Biuro handlowe
+Zielona 10
+88-430 Janowiec Wielkopolski
+
+Serafiński Tomasz. Usługi kamieniarskie
+Związku Walki Młodych 18
+88-430 Janowiec Wielkopolski
+
+Marta. Salon piękności. Zamiar M.
+Związku Walki Młodych 26
+88-430 Janowiec Wielkopolski
+
+Kościół Rzymskokatolicki pw. Św. Mikołaja
+plac Wolności 22
+88-430 Janowiec Wielkopolski
+
+Stadion LKS Sparta Janowiec
+Strzelecka 29
+88-430 Janowiec Wielkopolski
+
+Markwitz Jerzy. Zakład remontowo - budowlany
+Związku Walki Młodych 14
+88-430 Janowiec Wielkopolski
+
+#Towarzystwo
+
+Dolina Wełny. Stowarzyszenie
+Powstańców Wielkopolskich 14
+88-430 Janowiec Wielkopolski
+
+HydroKraft
+22 Stycznia
+88-430 Janowiec Wielkopolski
+
+Macio
+Spółdzielcza 21
+88-430 Janowiec Wielkopolski
+
+Janowiec Wielkopolski
+Powstańców Wielkopolskich 1
+88-430 Janowiec Wielkopolski
+
+"LAMAKO" Wojciech Lauber
+Kręta 2B
+88-430 Janowiec Wielkopolski
+
+#Firma
+
+Lipowicz S.W. Firma handlowo - usługowa s.c.
+3 Maja 9D
+88-430 Janowiec Wielkopolski
+
+Pogotowie Hydrauliczne - Piotr Bogucki
+Spółdzielcza 39
+88-430 Janowiec Wielkopolski
+
+Bartex. PPHU. Dobersztyn P.
+3 Maja 29B
+88-430 Janowiec Wielkopolski
+
+COMPIT Tomasz Warkoczewski
+22 Stycznia 2A
+88-430 Janowiec Wielkopolski
+
+Firma ogólnobudowlana
+Bielawska 9
+88-430 Janowiec Wielkopolski
+
+#Poczta
+
+Poczta Polska (Post Office)
+Gnieźnieńska 1
+88-430 Janowiec Wielkopolski
+
+#ZUS
+
+Urząd Stanu Cywilnego
+Gnieźnieńska 3
+88-430 Janowiec Wielkopolski
+
+#PZU
+
+PZU Ubezpieczenia Janowiec Wielkopolski - Agent Aneta Szrajbrowska
+3 Maja 9
+88-430 Janowiec Wielkopolski
+
+#Czerwony Krzyż
+
+Urząd Miejski w Janowcu Wielkopolskim (City Hall in Janowiec Wielkopolski)
+Gnieźnieńska 3
+88-430 Janowiec Wielkopolski
+
+#Diabetycy
+
+Zespół Szkół Ponadgimnazjalnych
+3 Maja 30
+88-430 Janowiec Wielkopolski
+
+Zasadnicza Szkoła Zawodowa Niepubliczna dla Młodocianych Pracowników
+3 Maja 30
+88-430 Janowiec Wielkopolski
+
+======================================================================
+88-430 GĄCZ
+
+#Poczta
+
+MATEKS Krzysztof Materna
+Gącz 18B
+88-430 Gącz
+
+======================================================================
+62-213 ŁOPIENNO
+
+#Szkoła
+
+Szkoła Podstawowa
+62-213 Łopienno
+
+#Biblioteka
+
+Biblioteka Publiczna Gminy Mieleszyn. Filia
+62-213 Łopienno
+
+#Bank
+
+Auto-Naprawa Arkadiusz Gulczyński
+Łopienno 121
+62-213 Łopienno
+
+Stowarzyszenie Na Rzecz Osób Niepełnosprawnych "Uśmiech Nadziei"
+Łopienno 119
+62-213 Łopienno
+
+#Poczta
+
+Koścół
+Łopienno 14
+62-213 Łopienno
+
+======================================================================
+89-240 ŻARCZYN
+
+#Szkoła
+
+HAWROL - usługi rolnicze
+Żarczyn 7
+89-240 Żarczyn
+
+Kurek-Babula Anna, lek. medycyny rodzinnej. Gabinet
+25
+89-240 Żarczyn
+
+======================================================================
+88-430 CHRZANOWO
+
+#Szkoła
+
+AGROMASAR
+Chrzanowo 3
+88-430 Chrzanowo
+
+======================================================================
+88-430 TONOWO
+
+#Szkoła
+
+P.H.U. WIT-POŻ Andrzej Witkowski Naprawa i Konserwacja Sprzętu P-poż, Ratownictwo Medyczne
+Tonowo 2
+88-430 Tonowo
+
+======================================================================
+88-420 SKÓRKI
+
+#Szkoła
+
+Zielony Zakątek- Sala bankietowa Konferencyjna Weselna Uroczystościowa 150/200 os
+Skórki 17
+88-420 Skórki
+
+======================================================================
+88-430 KOŁDRĄB
+
+#Dom kultury
+
+Słoneczna Przystań. Dom Dziecka Caritas Archidiecezji Gnieźnieńskiej
+Kołdrąb 8
+88-430 Janowiec Wielkopolski
+
+#Szkoła
+
+TOK-ART Artur Domagalski
+Kołdrąb 4
+88-430 Kołdrąb
+
+#Poczta
+
+Kościół pw. św. Jana Chrzciciela
+88-430 Kołdrąb
+
+Leśnictwo Zagórzyce. Nadleśnictwo Łobez
+88-430 Kołdrąb
+
+Pałac
+Kołdrąb 8
+88-430 Kołdrąb
+
+======================================================================
+88-430 GĄCZ
+
+======================================================================
+88-430 SARBINOWO DRUGIE
+
+#Szkoła
+
+Szkoła Podstawowa
+88-430 Sarbinowo Drugie
+
+#Biblioteka
+
+Biblioteka Publiczna Miasta i Gminy Janowiec Wielkopolski. Filia
+88-430 Sarbinowo Drugie
+
+======================================================================
+88-400 PODOBOWICE
+
+======================================================================
+88-400 BRZYSKORZYSTEW
+
+#Szkoła
+
+Niepubliczna Szkoła Podstawowa
+88-400 Brzyskorzystew; 61a
+88-400
+
+#Spółdzielnia
+
+Spółdzielnia Mieszkaniowa "Na Wzgórzu"
+88-400 Brzyskorzystewko
+
+======================================================================
+88-400 DOCHANOWO
+
+======================================================================
+88-400 SULINOWO
+
+======================================================================
+89-430 CERKWICA
+
+#Szkoła
+
+Szkoła Podstawowa
+Duża Cerkwica 32
+89-430 Duża Cerkwica
+
+#Produkcja
+
+GoodMills Poland
+Duża Cerkwica 2
+89-430 Duża Cerkwica
+
+======================================================================
+88-400 KACZKOWO
+
+======================================================================
+88-420 RZYM
+
+======================================================================
+87-515 ROGOWO
+
+#Urząd
+
+Urząd Gminy Rogowo
+Rogowo 51
+87-515 Rogowo
+
+#Szkoła
+
+Szkoła Podstawowa im. Henryka Napiórkowskiego w Rogowie
+Rogowo 31
+87-515 Rogowo
+
+Szkoła Podstawowa
+87-515 Rogowo; 31
+44-230
+
+Leszek
+87-515 Rogowo
+
+#Biblioteka
+
+Biblioteka Publiczna Gminna
+Rogowo 44
+87-515 Rogowo
+
+#Przychodnia
+
+Kamed. NZOZ
+Rogowo 32
+87-515 Rogowo
+
+#Bank
+
+Bank Spółdzielczy w Skępem. Filia. Punkt kasowy
+87-515 Rogowo
+
+#Poczta
+
+Poczta Polska
+Rogowo 44
+87-515 Rogowo
+
+======================================================================
+88-420 GROCHOWISKA SZLACHECKIE
+
+#Dom kultury
+
+Restauracja - Hotel Pałacowa
+2
+2
+88-420 Grochowiska Szlacheckie
+
+#Szpital
+
+Pałac
+Grochowiska Szlacheckie 2
+88-420 Grochowiska Szlacheckie
+
+======================================================================
+88-420 GROCHOWISKA KSIĘŻE
+
+#Bank
+
+Wycena nieruchomości Tomasz Ciesielski
+Grochowiska Księże 3
+88-420 Grochowiska Księże
+
+Producent wędlin domowych, tradycyjnych i mięsa - Wędliny Morawscy
+Grochowiska Księże 24b
+88-420 Grochowiska Księże
+
+======================================================================
+88-420 CZEWUJEWO
+
+#Szkoła
+
+Unimet. FHU
+E261 53
+88-420 Czewujewo
+
+Kapral-Car Sprzedaż samochodów
+Czewujewo 20
+88-420 Czewujewo
+
+#Centrum
+
+Dinozaury
+Unnamed Road
+Czewujewo 88-420
+88-420 Czewujewo
+
+Tomasz Jaźwiński CAD DESIGN
+Czewujewo 39
+88-420 Czewujewo
+
+======================================================================
+88-410 BISKUPIN
+
+#Dom kultury
+
+Muzeum Archeologiczne w Biskupinie
+Biskupin 3
+88-410 Biskupin
+
+#Szkoła
+
+Interaktywne Muzeum Rybactwa
+Biskupin Biskupin 6 Biskupin
+88-410
+
+Przystań Biskupińska
+Biskupin 30
+88-410 Biskupin
+
+#Szpital
+
+Muzeum Archeologiczne w Biskupinie (Archaeological Museum in Biskupin)
+Biskupin 3
+88-410 Biskupin
+
+======================================================================
+88-400 ŻNIN
+
+#Urząd
+
+Urząd Miasta Żnin
+ul
+700-lecia 39
+88-400 Żnin
+
+Powiatowy Urząd Pracy
+Składowa 4
+88-400 Żnin
+
+Starostwo Powiatowe
+Potockiego 1
+88-400 Żnin
+
+Filia Urzędu Pocztowego Żnin - FUP Żnin 1
+Tysiąclecia 3
+88-400 Żnin
+
+Poczta Polska
+Pocztowa 19
+88-400 Żnin
+
+Samorządowe Centrum Usług Wspólnych w Żninie
+Potockiego 1A
+88-400 Żnin
+
+Powiatowy Zespół Oświaty w Żninie
+Licealna 1
+88-400 Żnin
+
+Poczta Polska
+Tysiąclecia 3
+88-400 Żnin
+
+ZUS w Żninie
+700-lecia 37
+88-400 Żnin
+
+Pałuki-Wspólna Sprawa. Lokalna Grupa Działania
+plac Działowy 6
+88-400 Żnin
+
+Centrum Organizacji Porządowych
+Śniadeckich 15
+88-400 Żnin
+
+Urząd Pocztowy
+700-lecia 32
+88-402 Żnin
+
+KRUS
+Szpitalna 20
+88-400 Żnin
+
+Ohotniczne Hufce Pracy
+Browarowa 9
+88-400 Żnin
+
+Pogotowie energetyczne
+Adama Mickiewicza 14
+88-400 Żnin
+
+Parking przy Urzędzie Miasta
+700-lecia 41
+88-400 Żnin
+
+#Ośrodek
+
+Miejski Ośrodek Sportu w Żninie
+Gnieźnieńska 7
+88-400 Żnin
+
+Powiatowe Centrum Pomocy Rodzinie
+Szpitalna 32
+88-400 Żnin
+
+Kujawsko-Pomorski Ośrodek Doradztwa Rolniczego
+ul
+700-lecia 32
+88-400 Żnin
+
+Team Haręza. Miejski ośrodek sportowy
+Szkolna 18
+88-400 Żnin
+
+Ośrodek Zamiejscowy Prokuratury Rejonowej W Szubinie Z Siedzibą W Żninie
+Sądowa 2
+88-400 Żnin
+
+Stadion Miejskiego Ośrodka Sportu
+Gnieźnieńska 7
+88-400 Żnin
+
+Ośrodek Szkolenia Zawodowego KURS Andrzej Mulczyński - Kursy i szkolenia
+Wrzosowa 6
+88-400 Żnin
+
+Auto-Trans. Ośrodek szkolenia kierowców
+Sienkiewicza 1a
+88-400 Żnin
+
+Michał Goc
+Moniuszki 1
+88-400 Żnin
+
+Usługi Geodezyjne GEmikO Mikołaj Nowak
+Dworcowa 10c
+88-400 Żnin
+
+Ośrodek Kształcenia Zawodowego Bydgoskiego Zakładu Doskonalenia Zawodowego
+plac Wolności 21
+88-400 Żnin
+
+Pałuckie Centrum Zdrowia Sp. z o.o.
+Szpitalna 30
+88-400 Żnin
+
+Szpital Powiatowy
+Szpitalna 30
+88-400 Żnin
+
+Środowiskowy Dom Samopomocy
+Szpitalna 32
+88-400 Żnin
+
+Galeria Pałucka
+Gnieźnieńska 1F
+88-400 Żnin
+
+#Dom kultury
+
+Żniński Dom Kultury
+Pocztowa 15
+88-400 Żnin
+
+#Szkoła
+
+Zespół Szkół Technicznych ul.Browarowa 14
+Browarowa 14
+88-400 Żnin
+
+Szkoła Podstawowa nr 5
+1 Stycznia
+88-400 Żnin
+
+Szkoła Podstawowa Nr 1 im. Powstańców Wielkopolskich
+Szkolna 4
+88-400 Żnin
+
+Zespół Szkół Społecznych " Trójka" im. Armii Krajowej, Szkoła Podstawowa
+Janickiego 33
+88-400 Żnin
+
+Szkoła Podstawowa nr 2 im. Jana Śniadeckiego
+W. Pieniężnej 19
+88-400 Żnin
+
+Zespół Szkół Ekonomiczno-Handlowych
+Śniadeckich 18
+88-400 Żnin
+
+Zespół Szkół Specjalnych
+Adama Mickiewicza 32
+88-400 Żnin
+
+"Trójka" Zespół Szkół Społecznych im. Armii Krajowej
+Janickiego 33
+88-400 Żnin
+
+Centrum Kształcenia Ustawicznego
+Sienkiewicza 1a
+88-400 Żnin
+
+Zespół Szkół Technicznych
+Browarowa 14
+88-400 Żnin
+
+Szkoła Specjalna Przysposabiająca do Pracy
+Adama Mickiewicza 32
+88-400 Żnin
+
+Manhattan. Szkoła języków obcych
+I Liceum Ogólnokształcące
+ul. Sienkiewicza 1
+88-400 Żnin
+
+I Liceum Ogólnokształcące im. Braci Śniadeckich w Żninie
+Sienkiewicza 1
+88-400 Żnin
+
+Zasadnicza Szkoła Zawodowa
+Kościuszki 23
+88-400 Żnin
+
+Technikum Ekonomiczne
+Śniadeckich 18
+88-400 Żnin
+
+#Przedszkole
+
+Przedszkole Miejskie nr 2
+Janickiego 10
+88-400 Żnin
+
+Przedszkole Miejskie nr 1
+Browarowa 16
+88-400 Żnin
+
+Przedszkole Niepubliczne „U Boba”
+Szpitalna 20
+88-400 Żnin
+
+Publiczne Przedszkole nr 2 Budynek B
+Jasna 5
+88-400 Żnin
+
+Zgromadzenie zakonne Sióstr Służebniczek Niepokalanego Poczęcia NMP
+700-lecia 22
+88-400 Żnin
+
+#Biblioteka
+
+Miejska i Powiatowa Biblioteka Publiczna
+Sienkiewicza 4
+88-400 Żnin
+
+#Przychodnia
+
+Przychodnia Rodzinna
+Żytnia 1
+88-400 Żnin
+
+EPOKA NZOZ Piotr Chodkiewicz Sp. z o.o.
+Aliantów 1a
+88-400 Żnin
+
+Epoka. NZOZ
+Janickiego 6
+88-400 Żnin
+
+Przychodnia specjalistyczna
+Szpitalna 30
+88-400 Żnin
+
+dr n. med. Renata Bijata-Bronisz, specjalista pulmonolog
+Żytnia 1
+88-400 Żnin
+
+Czarnecka Krystyna, lek. med. okulista. Gabinet
+Szpitalna 20
+88-400 Żnin
+
+Eskulap. NZOZ
+Aliantów 14A
+88-400 Żnin
+
+Poradnia Psychologiczno - Pedagogiczna
+Browarowa 14
+88-400 Żnin
+
+lek. Tomasz Kuss, Prywatna Praktyka Lekarska
+Janickiego 6
+88-400 Żnin
+
+Drabik Adrian, lek. med. internista. Praktyka
+Powstańców Wielkopolskich 16
+88-400 Żnin
+
+Zwolenkiewicz Maria, lek. med. okulista. Gabinet
+Szpitalna 30
+88-400 Żnin
+
+NZOZ "Przychodnia Rodzinna"
+Żytnia 1
+88-400 Żnin
+
+#Bank
+
+Bank Spółdzielczy "Pałuki"
+700-lecia 41
+88-400 Żnin
+
+Bank Spółdzielczy
+Śniadeckich 19
+88-400 Żnin
+
+Alior Bank - Placówka Partnerska
+700-lecia 7
+88-400 Żnin
+
+Bank Spółdzielczy Pałuki w Żninie
+Tysiąclecia 3
+88-400 Żnin
+
+PKO Bank Polski S.A.-Oddział 1 w Żninie
+Żytnia 1
+88-400 Żnin
+
+Eurobank
+Spokojna 24
+88-400 Żnin
+
+Żnin Oddział Partnerski Santander Consumer Bank
+Śniadeckich 14
+88-400 Żnin
+
+Bank Spółdzielczy Pałuki w Żninie
+Śniadeckich 19
+88-400 Żnin
+
+Nest Bank - Żnin (placówka partnerska)
+plac Wolności 12
+88-400 Żnin
+
+Credit Agricole Bank Polska S.A. - Placówka Partnerska
+plac Wolności 10
+88-400 Żnin
+
+Agencja PKO Banku Polskiego
+Śniadeckich 15
+88-400 Żnin
+
+BNP Paribas Bank Polska S.A. Oddział w Żninie
+plac Wolności 7
+88-400 Żnin
+
+Bank Spółdzielczy Pałuki w Żninie - Grupa SGB
+700-lecia 41
+88-400 Żnin
+
+Credit Agricole Bank Polska S.A. - Placówka CA Express
+700-lecia 34
+88-400 Żnin
+
+Oddział Millennium
+Śniadeckich 2
+88-400 Żnin
+
+Kantor Wymiany Walut
+700-lecia 31A
+88-400 Żnin
+
+Bank Spółdzielczy Pałuki w Żninie
+Tysiąclecia 3
+88-400 Żnin
+
+Fines
+700-lecia 25
+88-400 Żnin
+
+Firma Komputerowa Kozłowski Marek
+Słoneczna 38/4
+88-400
+88-400 Żnin
+
+#Policja
+
+Komenda Powiatowa Policji
+plac Wolności 4
+88-400 Żnin
+
+#Sąd
+
+Sąd Rejonowy
+plac Wolności 17
+88-400 Żnin
+
+#Produkcja
+
+Zakład produkcji chodaków medycznych "marcus" - obuwie dla lekarzy: klapki, chodaki i trepy
+Składowa 20
+88-400 Żnin
+
+POLINAL Producent oznakowań
+Sądowa 4/210
+88-400 Żnin
+
+LIPRO Roman Lipowicz
+Adama Mickiewicza 52
+88-400 Żnin
+
+LIPRO e-Liquid Production sp. z o.o. sp.k.
+Aliantów 4
+88-400 Żnin
+
+Maszyny Piekarnicze i Cukiernicze MMB - Mechanika Maszyn Bartkowiak
+Fabryczna 7
+88-400 Żnin
+
+DRUK ON - Drukarnia, Reklama, Poligrafia, Druk wielkoformatowy
+700-lecia 32
+88-400 Żnin
+
+Walber Beata Brenk / PREVA / EREVA
+Szpitalna 20L
+Wjazd od ul. Dąbrowskiego 3 (zakład PREVA)
+88-400 Żnin
+
+Kandex sp.j. Dodatki piekarsko - cukiernicze
+Adama Mickiewicza 37
+88-400 Żnin
+
+Indeco. Meble na wymiar
+700-lecia 19
+88-400 Żnin
+
+Plast Pol. Stolarskie usługi. Kozieł P.
+Browarowa 7
+88-400 Żnin
+
+Kilian Cukiernia Kulinaria
+Śniadeckich 23
+88-400 Żnin
+
+Martek Motocykle
+Sienkiewicza 4B
+88-400 Żnin
+
+Bartek. Zakład stolarski. Staniszewski P.
+Glicznera 10A
+88-400 Żnin
+
+Bajczyk Michał. Zakład stolarsko - budowlany
+Spokojna 6
+88-400 Żnin
+
+Media Expert
+Dworcowa 19
+88-400 Żnin
+
+Karczyński Tadeusz. Stolarskie usługi
+Piwna 1
+88-400 Żnin
+
+Inter-Vax sp.j. - Środki Ochrony Roślin, Nawożenie Dolistne, Materiał Siewny, Produkty Do Pakowania Plonów I Akcesoria Ogrodnicze
+Dworcowa 25
+88-400 Żnin
+
+LUMEN Lech Robakowski
+Pałucka 10
+88-400 Żnin
+
+POLINAL Drukarnia naklejek
+Sądowa 4
+88-400 Żnin
+
+#Agencja
+
+Daremil. Zarządzanie nieruchomościami
+Cicha 4
+88-400 Żnin
+
+Agencja Restrukturyzacji i Modernizacji Rolnictwa. Biuro powiatowe
+88-400 Żnin
+
+Drukoma Maciej Domagała Reklama wielkoformatowa
+88-400 Żnin
+
+Adverteam. Agencja marketingowa. Łukomski A.
+Sadowa 4
+88-400 Żnin
+
+Gjamat. Grzegorczyk J.
+Kościuszki 3
+88-400 Żnin
+
+Biuro Pośrednictwa w Obrocie Nieruchomosciami Nieruchomościdom Roland Pilarski
+Przemysława IV 5
+88-400 Żnin
+
+CUK Ubezpieczenia Żnin
+Gnieźnieńska 1e
+88-400 Żnin
+
+PDU Polski dom ubezpieczeń "Kruszelnicka"
+700-lecia 31A
+88-400 Żnin
+
+Kozber Zbigniew. Agencja ubezpieczeniowa. Ubezpieczenia majątkowe, komunikacyjne
+700-lecia 30
+88-400 Żnin
+
+Kancelaria Finansowa Irena Słomkowska - Multiagencja ubezpieczeniowa
+Pocztowa 6
+88-400 Żnin
+
+Biuro Pośrednictwa w Obrocie Nieruchomościami "TARA"
+Czarnieckiego 5
+88-400 Żnin
+
+HDI Asekuracja Towarzystwo Ubezpieczeń S.A. Filia
+700-lecia 34
+88-400 Żnin
+
+Olivier. PPHU. Tomaszewska A.
+700-lecia 1
+88-400 Żnin
+
+c. Ubezpieczenia
+700-lecia 25
+88-400 Żnin
+
+PREMIUM FINANCE Marek Kozłowski
+Słoneczna 38/4
+88-400 Żnin
+
+Ergraf. Przewoda R.
+Dąbrowskiego 51
+88-400 Żnin
+
+Promex. FHU. Biuro ubezpieczeń. Dąbrowski S.
+700-lecia 32
+88-400 Żnin
+
+Unilink Polski Dom Ubezpieczeń Kruszelnicka Marlena
+700-lecia 31a
+88-400 Żnin
+
+Polska Kasa Opłat. Agencja Bankowa
+Aliantów 2
+88-400 Żnin
+
+#Spółdzielnia
+
+Spółdzielnia Mieszkaniowa
+Kopernika 5
+88-400 Żnin
+
+#Stowarzyszenie
+
+Centrum Organizacji Pozarządowych w Żninie
+Śniadeckich 15/Piętro I
+88-400 Żnin
+
+My Ruch Społeczny
+ul
+Janickiego 33
+88-400 Żnin
+
+Solidarność. NSZZ. Zarząd Regionu Bydgoskiego. Oddział
+Śniadeckich 15
+88-400 Żnin
+
+Kujawsko–Pomorskie Zrzeszenie Handlu i Usług. Biuro terenowe
+plac Wolności 6
+88-400 Żnin
+
+Kościół św. Floriana w Żninie
+Kościelna 4
+88-400 Żnin
+
+Kościół Rzymskokatolicki pw. św. Marcina
+Pałucka 1
+88-400 Żnin
+
+Miejskie Ogródki
+Graniczna 19
+88-400 Żnin
+
+SKOK. Wielkopolska Spółdzielcza Kasa Oszczędnościowo - Kredytowa
+700-lecia 32
+88-400 Żnin
+
+PCK Oddział rejonowy w Żninie
+Aliantów 10
+88-400 Żnin
+
+Przystań Jachtowa
+88-400 Żnin
+
+Poczta Polska
+ul
+700-lecia 32
+88-402 Żnin
+
+Kasa Stefczyka
+Kościuszki 22
+88-400 Żnin
+
+ACS Słuchmed Sp. z o.o.
+Aliantów 1A
+88-400 Żnin
+
+#Klub
+
+"Turbo" - Sala Muzyczna Zespołu "Free Road"
+Sadowa 6
+88-400 Żnin
+
+Międzyszkolny Klub Żeglarski
+Szkolna 40
+88-400 Żnin
+
+Klub Morsa
+Szkolna 35
+88-400 Żnin
+
+Stadion Miejski
+Gnieźnieńska 7
+88-400 Żnin
+
+Pałuki Żnin. Międzyzakładowy ludowy klub sportowy
+Potockiego 1A
+88-400 Żnin
+
+Przystań Miejskiego Klubu Żeglarskiego
+88-400 Żnin
+
+Strefa Beauty - Centrum Fitness
+Browarowa 4
+88-400 Żnin
+
+Fan Gym Żnin
+Gnieźnieńska 14
+88-400 Żnin
+
+Działki Rekreacyjne
+Szkolna 35
+88-400 Żnin
+
+Żniński Klub Morsa
+Szkolna 12
+88-400 Żnin
+
+Siłownia plenerowa
+Browarowa 9
+88-400 Żnin
+
+Żabka
+Kopernika 5A
+88-400 Żnin
+
+#muzeum
+
+Muzeum Ziemi Pałuckiej
+plac Wolności 1
+88-402 Żnin
+
+#Czerwony Krzyż
+
+Stołówka dla bezdomnych i ubogich PCK Kujawsko-Pomorskiego ZO
+Aliantów 10
+88-400 Żnin
+
+======================================================================
+88-400 CEREKWICA
+
+#Szkoła
+
+Szkoła Podstawowa w Cerekwicy
+88-400 Cerekwica Nowa
+
+#Poczta
+
+Poczta Polska
+Cerekwica 4
+88-400 Cerekwica
+
+======================================================================
+88-400 BOŻEJEWICZKI
+
+#Spółka
+
+PPUH Kwiecińscy Sp.J.
+Żnińska 4
+88-400 Bożejewiczki
+
+======================================================================
+88-400 SKARBIENICE
+
+#Ośrodek
+
+Pod Żurawiem ,Gospodarstwo Agroturystyczne
+Skarbienice 1
+88-400 Skarbienice
+
+#muzeum
+
+BUNKIER
+88-400 Skarbienice
+
+======================================================================
+88-400 JAROSZEWO
+
+#Produkcja
+
+Mech-Masz
+Jaroszewo 80
+88-400 Jaroszewo
+
+======================================================================
+88-400 BRZYSKORZYSTEWKO
+
+#Szkoła
+
+Brzysko-Rol Sp. z o.o. Przedsiębiorstwo rolno - przetwórcze
+Brzyskorzystewko 1
+88-400 Brzyskorzystewko
+
+======================================================================
+88-400 SOBIEJUCHY
+
+#Poczta
+
+Kościół Rzymskokatolicki
+88-400 Sobiejuchy
+
+======================================================================
+88-400 WAWRZYNKI
+
+#Firma
+
+NOVAGO Żnin Sp. z o.o.
+Wawrzynki 35
+88-400 Wawrzynki
+
+#Poczta
+
+Ochotnicza Straż POżarna
+88-400 Wawrzynki
+
+======================================================================
+88-400 JANUSZKOWO
+
+======================================================================
+88-400 WENECJA
+
+#Ośrodek
+
+Przystań Wenecka - ośrodek wypoczynkowy
+Wenecja 12
+88-400 Wenecja
+
+#Szkoła
+
+Muzeum Kolejki Wąskotorowej
+Wenecja
+88-410 Żnin
+
+#Produkcja
+
+STAPAR
+Wenecja 62
+88-400 Wenecja
+
+#Poczta
+
+Kościół Narodzenia Najświętszej Maryi Panny w Wenecji
+Wenecja 6
+88-400
+
+#Centrum
+
+Przystań Wenecka - ośrodek wypoczynkowy (Przystań Wenecka)
+Wenecja 12
+88-400 Wenecja
+
+======================================================================
+88-410 GĄSAWA
+
+#Urząd
+
+Urząd Gminy w Gąsawie
+Żnińska 8
+88-410 Gąsawa
+
+#Dom kultury
+
+Gminny Zespół Oświaty, Kultury i Kultury Fizycznej
+88-410 Gąsawa
+
+#Szkoła
+
+Zespół Szkół Niepublicznych
+Żnińska 6
+88-410 Gąsawa
+
+Zespół Publicznych Szkół
+Leszka Białego 6
+88-410 Gąsawa
+
+#Przedszkole
+
+Przedszkole Samorządowe
+Żnińska 17
+88-410 Gąsawa
+
+#Szpital
+
+POZ Gąsawa (Niepubliczny Zakład Opieki Zdrowotnej)
+Półwiejska 1
+88-410 Gąsawa
+
+#Bank
+
+Bank Spółdzielczy Pałuki w Żninie. Oddział
+Jeziorna 6
+88-410 Gąsawa
+
+#Klub
+
+Ludowy Klub Sportowy
+88-410 Gąsawa; Półwiejska 1a
+88-410
+
+#Poczta
+
+Poczta, Urząd Pocztowy
+Rynek 3
+88-410 Gąsawa
+
+#ZUS
+
+Ochotnicza Straż Pożarna w Gąsawie
+Żnińska 19
+88-410 Gąsawa
+
+#PZU
+
+Lok. Pole biwakowe
+Żnińska 10a
+88-410 Gąsawa
+
+======================================================================
+88-410 SZELEJEWO
+
+#Szkoła
+
+Szkoła Podstawowa w Gąsawie. Filia
+Szelejewo; 19
+88-410
+
+#Bank
+
+Agencja Pocztowa
+Szelejewo k Znina 15
+88-410 Szelejewo k Znina
+
+======================================================================
+88-410 OĆWIEKA
+
+#Szkoła
+
+Ośrodek Rekolekcyjny EDEN
+Oćwieka 3
+88-410 Oćwieka
+
+Ścieżka przyrodniczo-leśna Dolina Rzeki Gąsawki
+88-410 Oćwieka
+
+Zagroda Dzicza Maciejówka
+Oćwieka 6
+88-410 Oćwieka
+
+#Poczta
+
+Leśnictwo Oćwieka Nadleśnictwo Gołąbki
+Oćwieka 32
+88-410 Oćwieka
+
+======================================================================
+88-400 MURCZYN
+
+#Szkoła
+
+MEBLOMAR Mariusz Duch
+Murczyn 34
+88-400 Murczyn
+
+Inspirujący Ogród
+Murczyn 66
+88-400 Murczyn
+
+PrzewozyOsobowe.pl
+Murczyn 48 b
+88-400 Murczyn
+
+======================================================================
+89-210 JABŁÓWKO
+
+#Szkoła
+
+Firma Handlowo Usługowa Jacek Kiełboń
+Jabłówko 15
+89-210 Jabłówko
+
+======================================================================
+88-190 MŁODOCIN
+
+#Zakład
+
+Zakład Bednarski Beka Sp.c. Drozdowski, Beczki dębowe, wiadra drewniane, balie do sauny
+Młodocin 48
+88-190 Młodocin
+
+======================================================================
+88-400 JADOWNIKI RYCERSKIE
+
+#Urząd
+
+Poczta Polska
+Jadowniki Rycerskie 54
+88-400 Jadowniki Rycerskie
+
+#Szkoła
+
+Ochotnicza Straż Pożarna
+Jadowniki Rycerskie 53
+88-400 Jadowniki Rycerskie
+
+#Bank
+
+e-kajtek.pl - sklep internetowy z ubrankami dla dzieci i niemowląt
+Jadowniki Rycerskie 34
+88-400 Jadowniki Rycerskie
+
+#ZUS
+
+Zagroda Zacisze
+88-400 Jadowniki Rycerskie; 40
+
+======================================================================
+88-400 CHOMIĄŻA KSIĘŻA
+
+#Ośrodek
+
+Zatoka Zabłockich Ośrodek Wypoczynkowy
+Chomiąża Księża 6a
+88-400 Chomiąża Księża
+
+#Bank
+
+Brzezina Resort
+Chomiąża Księża 14
+88-400 Chomiąża Księża
+
+======================================================================
+88-410 ROZALINOWO
+
+#Szkoła
+
+Agroturystyka Rozalinowo
+Rozalinowo 2C
+88-410 Rozalinowo
+
+Agroturystyka "Na ciupie"
+Krystyna Pieczara
+Rozalinowo 2
+88-410 Rozalinowo
+
+Agroturystyka "Nad Strumieniem"
+Rozalinowo 7
+88-410 Rozalinowo
+
+Rodzinny Dom Dziecka
+88-410 Rozalinowo; 16
+88-410
+
+======================================================================
+88-140 LASKI MAŁE
+
+#Bank
+
+Dom na sprzedaż
+Laski Małe 1
+88-410 Laski Małe
+
+#Poczta
+
+Nadleśnictwo Gołąbki
+88-410 Laski Małe
+
+======================================================================
+88-410 LASKI WIELKIE
+
+#Urząd
+
+Urząd Pocztowy
+88-410 Laski Wielkie
+
+#Szkoła
+
+Szkoła Podstawowa im. J. Unruga
+Laski Wielkie 25
+88-410 Laski Wielkie
+
+#Bank
+
+Poczta Polska
+88-410 Laski Wielkie
+
+======================================================================
+88-140 CHOMIĄŻA SZLACHECKA
+
+#Dom kultury
+
+Ośrodek rehabilitacyjno-wypoczynkowy Gród Piasta
+88-410 Chomiąża Szlachecka
+
+HERBARIUM HOTEL&SPA
+Chomiąża Szlachecka 2
+88-410 Chomiąża Szlachecka
+
+Ośrodek Wypoczynkowy "RELAX"
+88-410 Chomiąża Szlachecka
+
+#Bank
+
+Restauracja Werbena
+Chomiąża Szlachecka 2
+88-410 Chomiąża Szlachecka
+
+Kościół Rzymskokatolicki pw. Jana Chrzciciela
+Chomiąża Szlachecka 1
+88-410 Chomiąża Szlachecka
+
+======================================================================
+88-410 BEŁKI
+
+======================================================================
+89-210 OPOROWO
+
+======================================================================
+89-210 LUBOSTROŃ
+
+#Dom kultury
+
+Pałac Lubostroń
+Lubostroń
+89-210 Łabiszyn
+
+#Szkoła
+
+Zespół Szkół w Lubostroniu
+89-210 Lubostroń
+
+#Bank
+
+Agencja Pocztowa Lubostroń
+15,89-211 Lubostroń
+Lubostroń
+
+#Poczta
+
+Ochotnicza Straż Pożarna
+Lubostroń 19
+89-210 Łabiszyn
+
+======================================================================
+88-190 JÓZEFINKA
+
+#Szkoła
+
+Mini Zoo i bar
+Józefinka 31
+88-190 Józefinka
+
+Gawrońscy Sp. z o.o.
+Józefinka 29
+88-190 Józefinka
+
+======================================================================
+88-190 KNIEJA
+
+#Szkoła
+
+Sped-Bud. PPHU. Szałkowski W.
+Knieja 48
+88-190 Knieja
+
+======================================================================
+88-190 WOLICE
+
+======================================================================
+88-306 SZCZEPANOWO
+
+#Szkoła
+
+Szkoła Podstawowa
+Szkolna 1
+88-306 Szczepanowo
+
+#Bank
+
+MATTRANS Mateusz Rosiński
+Kalinowa 3
+88-306 Szczepanowo
+
+#Poczta
+
+Poczta Polska
+Barcińska 1
+88-306 Szczepanowo
+
+======================================================================
+88-306 MOKRE
+
+#Produkcja
+
+Tylna Belka ANTALEX
+Mokre 77
+88-306 Mokre
+
+======================================================================
+88-306 DĄBROWA
+
+#Urząd
+
+Urząd Gminy
+Kasztanowa 16
+88-306 Dąbrowa
+
+#Przedszkole
+
+ZS Przedszkole w Dąbrowie
+Parkowa 2
+88-306 Dąbrowa
+
+#Szpital
+
+Morzyńska Bożena, lek. medycyny rodzinnej
+88-306 Dąbrowa; Dworcowa 1
+
+#Bank
+
+Bank Spóldzielczy. Bankomat
+Centralna 12
+88-306 Dąbrowa
+
+Bank Spółdzielczy W Pruszczu Pomorskim
+Centralna 12
+88-306 Dąbrowa
+
+Poczta Polska
+Kasztanowa 15
+88-306 Dąbrowa
+
+#muzeum
+
+Kościół ewangelicki
+Aleja Lipowa 1
+88-306 Dąbrowa
+
+======================================================================
+88-306 PARLIN
+
+#Szkoła
+
+Szkoła Podstawowa
+Parlin 17
+88-306 Parlin
+
+#Bank
+
+OSP Parlin
+Parlin 63
+88-306 Parlin
+
+#Poczta
+
+Kościół pw. św. Wawrzyńca
+88-306 Parlin
+
+======================================================================
+88-190 BARCIN
+
+#Urząd
+
+Urząd Miejski Barcin
+Artylerzystów 9
+88-190 Barcin
+
+#Ośrodek
+
+Samodzielny Publiczny Zakład Opieki Zdrowotnej w Barcinie
+Mogileńska 5
+88-190 Barcin
+
+#Dom kultury
+
+Miejski Dom Kultury
+Artylerzystów
+88-190 Barcin
+
+#Szkoła
+
+Zespół Szkół w Barcinie
+Artylerzystów 13
+88-190 Barcin
+
+Szkoła Podstawowa nr 2 im. J. Brzechwy
+Artylerzystów
+88-190 Barcin
+
+Gimnazjum nr 1
+Polna 1
+88-190 Barcin
+
+Szkoła Podstawowa nr 1 im.dr. Stanisława Krzysia w Barcinie
+plac 1 Maja
+88-193 Barcin
+
+#Biblioteka
+
+Biblioteka Publiczna Miasta i Gminy Barcin im. Jakuba Wojciechowskiego
+Wojska Polskiego 4a
+88-190 Barcin
+
+#Bank
+
+Bank Spółdzielczy
+Kościelna 8
+88-190 Barcin
+
+Agencja PKO Banku Polskiego
+Artylerzystów 5
+88-190 Barcin
+
+Bank Spółdzielczy. Punkt kasowy
+Lotników 13
+88-190 Barcin
+
+Alior Bank - Placówka Partnerska w Barcinie
+Polna 4A
+88-190 Barcin
+
+Credit Agricole Bank Polska S.A. - Placówka Partnerska
+4 Stycznia 44
+88-190 Barcin
+
+Santander Bank Polska S.A.
+88-190 Barcin
+
+Bank Polskiej Spółdzielczości S.A. Bankomat
+Lotników 13
+88-190 Barcin
+
+Fines
+Marii Konopnickiej 3
+88-190 Barcin
+
+PKO Bank Polski S.A.- Bankomat
+Pakoska 3
+88-190 Barcin
+
+#Policja
+
+Komisariat Policji
+Artylerzystów 9A
+88-190 Barcin
+
+#Produkcja
+
+Mikulski Cyryl. Produkcja mebli.
+Polna 2
+88-190 Barcin
+
+PPHU TABO Zakład Tapicerski
+Polna 29
+88-190 Barcin
+
+ElektroSystem Automatyka Przemysłowa
+4 Stycznia 44
+88-190 Barcin
+
+Sklep spożywczo - chemiczny GS Samopomoc Chłopska
+Pakoska 18
+88-190 Barcin
+
+Lafarge MOWAP - Zakład Produkcji Mączki Wapiennej
+Wapienno
+88-190 Barcin
+
+Drukarnia Żądza Czynów Bartosz Woźniak
+4 Stycznia 16
+88-190 Barcin
+
+Rysmet. Rowery, akcesoria rowerowe. Flejter R.
+4 Stycznia 34
+88-190 Barcin
+
+Omega-trans. PPHU
+Artylerzystów 15
+88-190 Barcin
+
+Akord BHP Anna Królczewska Szkolenia BHP, Odzież robocza, Szycie, Sprzedaż, Nadruki, Producent wkładów do zniczy
+Polna 31A
+88-190 Barcin
+
+Tele-Strop-System
+Barcin-Wieś 71
+88-190 Barcin-Wieś
+
+Firma Handlowa MAR-JOLA o\ Mickiewicza2
+Adama Mickiewicza 2
+88-190 Barcin
+
+Bedibek - meble po bednarsku
+Kościelna 22/1
+88-190 Barcin
+
+Samopomoc Chłopska. Gminna Spółdzielnia
+Dworcowa 10
+88-190 Barcin
+
+Siatka ogrodzeniowa, produkcja i sprzedaż
+Juliusza Słowackiego 26
+88-190 Barcin
+
+#Agencja
+
+Poczta Polska
+Świętego Wojciecha 5/1
+88-193 Barcin
+
+Andler Dawid. Agencja ubezpieczeniowa
+plac 1 Maja 4
+88-190 Barcin
+
+PZU Ubezpieczenia Barcin - Agent Leszek Pękała
+Artylerzystów 9
+88-190 Barcin
+
+Euroagent Sp. z o.o. Biuro terenowe
+plac 1 Maja 4
+88-190 Barcin
+
+Ubezpieczenia
+4 Stycznia 44
+88-190 Barcin
+
+Centrum Ubezpieczeń - Moto Brewka
+Barcin-Wieś 73
+88-190 Barcin-Wieś
+
+Licencjonowany Zakład Ochrony Instytucji. Kałużny R.
+plac 1 Maja 88
+88-190 Barcin
+
+Ergo Partner
+4 Stycznia 44
+88-190 Barcin
+
+Poczta Polska
+Artylerzystów 5
+88-190 Barcin
+
+Sypniewski Robert. Przedsiębiorstwo usługowo - handlowe
+Konopnickiej 3
+88-190 Barcin
+
+Punkt sprzedaży Plusa i Cyfrowego Polsatu
+4 Stycznia 43
+88-190 Barcin
+
+Kowalska B. Usługi pośrednictwa ubezpieczeniowego
+Polna 17
+88-190 Barcin
+
+PKO Bank Polski S.A. Agencja
+Lotników 11
+88-190 Barcin
+
+#Spółdzielnia
+
+Kujawy. Spółdzielnia Mieszkaniowa
+Mogileńska 1
+88-190 Barcin
+
+#Stowarzyszenie
+
+Ochotnicza Straż Pożarna w Barcinie
+Mogileńska 9
+88-190 Barcin
+
+#Klub
+
+Up Barcin 1
+Artylerzystów 5
+88-190 Barcin
+
+Fitness club A.Radzikowska
+88-190
+Podgórna 1
+Barcin
+
+Barciński Ośrodek Sportu I Rekreacji Sp. z o.o.
+Jakuba Wojciechowskiego 1
+88-190 Barcin
+
+Klub Abstynentów
+Lotników 13
+88-190 Barcin
+
+Stanica wodna Klubu Żeglarskiego Neptun
+Wyzwolenia
+88-193 Barcin
+
+#ZNP
+
+Związek Nauczycielstwa Polskiego. Zarząd oddziału
+Henryka Sienkiewicza 1
+88-190 Barcin
+
+======================================================================
+88-190 WAPIENNO
+
+#Bank
+
+Lafarge Zakład Produkcji Grysów i Mieszanek Wapiennych Kujawy
+Wapienno
+88-190 Barcin
+
+======================================================================
+88-306 KRZEKOTOWO
+
+#Bank
+
+Łowisko karpiowe Krzekotowo
+Krzekotowo 20
+88-306 Krzekotowo
+
+======================================================================
+88-306 MIERUCIN
+
+#Szkoła
+
+Leśnictwo Mierucinek. Nadleśnictwo Gołąbki
+Mierucin 14
+88-306 Mierucin
+
+======================================================================
+88-190 MAMLICZ
+
+#Szkoła
+
+Szkoła Podstawowa w Mamliczu
+Mamlicz 72
+88-190 Mamlicz
+
+#Bank
+
+Kapral-Car
+88-190 Mamlicz
+
+Kapral-Car - złomowanie, skup aut, auto kasacja, stacja demontażu pojazdów, części
+Mamlicz 145
+88-190 Mamlicz
+
+Kapral-Car. PUH. Skup aut. Części zamienne
+88-190 Mamlicz; 14
+
+#Firma
+
+Osp Mamlicz
+77,88-190
+Mamlicz
+
+C E R W I T GOSPODARSTWO ROLNO-WARZYWNE Andrzej Rafiński
+Mamlicz 149
+88-190 Mamlicz
+
+#Poczta
+
+Poczta Polska
+Mamlicz 80
+88-190 Mamlicz
+
+Ochotnicza Straż Pożarna
+Mamlicz 77
+88-190 Mamlicz
+
+======================================================================
+88-190 ZŁOTOWO
+
+#Bank
+
+JOLGLASS Sp. z o.o.
+Złotowo 10
+88-190 Złotowo
+
+#muzeum
+
+Megalityczny grobowiec
+88-190 Złotowo
+
+======================================================================
+88-192 BIELAWY
+
+#Przedsiębiorstwo
+
+Przedsiębiorstwo Transportowe TRANSBUD BIS Bielawy Sp. z o.o.
+Bielawy 55
+88-192 Bielawy
+
+#Zakłady
+
+Trzuskawica S.A. - Zakład Kujawy
+Bielawy 1
+88-192 Piechcin
+
+======================================================================
+88-160 KOŁODZIEJEWO
+
+#Dom kultury
+
+Grzegorczyk Mirosław. Gospodarstwo agroturystyczne
+Długa 21a
+88-160 Kołodziejewo
+
+#Szkoła
+
+Szkoła Podstawowa im. J. Kusocińskiego
+Kołodziejewo; Szkolna 10
+88-160
+
+#Produkcja
+
+Ekopasz sp.j. Wytwórnia pasz i koncentratów
+Długa 3
+88-160 Kołodziejewo
+
+======================================================================
+88-160 SOSNOWIEC
+
+#Produkcja
+
+Agra Wood Polska Sp. z o.o.
+Sosnowiec 1
+88-160 Sosnowiec
+
+======================================================================
+88-170 WOJDAL
+
+#Firma
+
+Firma wielobranżowa Benz-Krusz Kazimierz Janiszewski. Piasek suszony.
+88-170 Wojdal; 2
+88-170
+
+======================================================================
+88-192 PIECHCIN
+
+#Urząd
+
+Urząd Pocztowy w Piechcinie
+11 listopada 3
+88-192 Piechcin
+
+#Dom kultury
+
+Miejski Dom Kultury
+88-192 Piechcin; 11 Listopada 5a
+11 listopada
+88-192
+
+#Szkoła
+
+Zespół Publicznych Szkół nr 1
+11 listopada 5
+88-192 Piechcin
+
+#Biblioteka
+
+Biblioteka Publiczna w Piechcinie
+11 listopada 1B
+88-192 Piechcin
+
+#Przychodnia
+
+Ośrodek Zdrowia
+11 listopada 3
+88-192 Piechcin
+
+#Bank
+
+Bank Spółdzielczy w Barcinie. Punkt kasowy
+Wiertników 13
+88-192 Piechcin
+
+#Spółdzielnia
+
+Kujawy. Spółdzielnia Mieszkaniowa
+88-192 Piechcin; Radłowska 1
+Fabryczna
+88-192
+
+#Centrum
+
+Centrum Nurkowe Piechcin
+Radłowska 2
+88-192 Piechcin
+
+Lafarge Centrum Badania Betonów Kujawy
+88-192 Piechcin
+
+Sklep na rogu
+11 listopada 2H
+88-192 Piechcin
+
+BHP Piotr Stawiszyński
+15
+Okrężna 8
+88-192 Piechcin
+
+======================================================================
+88-170 LUDKOWO
+
+======================================================================
+88-170 PAKOŚĆ
+
+#Urząd
+
+Urząd Miejski w Pakości
+Rynek 4
+88-170 Pakość
+
+#Ośrodek
+
+Centrum Informacji Miejskiej w Pakości
+Barcińska 11
+88-170 Pakość
+
+Ośrodek Szkolenia Spawaczy. Parkosz Andrzej
+Lipowa 11
+88-170 Pakość
+
+Ośrodek Kultury i Turystyki
+świętego Jana 12
+88-170 Pakość
+
+#Szkoła
+
+Gimnazjum
+Szkolna 44
+88-170 Pakość
+
+Szkoła Podstawowa im. Powstańców Wielkopolskich
+Błonie 2
+88-170 Pakość
+
+Tyrion. Czechlowski P.
+Mogileńska 21 a
+88-170 Pakość
+
+Bawialnia Edukacyjna Hop-Siup
+Mogileńska 21A
+88-170 Pakość
+
+Szkoła Językowa "Hello"
+Rynek 6
+88-170 Pakość
+
+#Przedszkole
+
+Przedszkole Miejskie
+Błonie 2
+88-170 Pakość
+
+#Akademia
+
+Akademia Urody Magdalena Foleher
+świętego Jana 13
+88-170 Pakość
+
+#Biblioteka
+
+Biblioteka Publiczna
+Szkolna 2
+88-170 Pakość
+
+#Szpital
+
+NZOZ "Medicus" sp.j. Elżbieta i Jacek Gaj, Iwona Kotyńska, January Kaczmarek
+świętego Jana 19
+88-170 Pakość
+
+#Bank
+
+Bank Spółdzielczy
+Barcińska 14B
+88-170 Pakość
+
+Bankomat Santander Bank Polska S.A.
+świętego Jana 15
+88-170 Pakość
+
+Centrum Ubezpieczeń Brewka
+Jankowska 4
+88-170 Pakość
+
+Euronet Polska Sp z o. o.
+Jankowska 9
+88-170 Pakość
+
+Dom Maklerski BZ WBK S.A. Punkt obsługi
+świętego Jana 15
+88-170 Pakość
+
+MoneyGram
+Dworcowa 10
+88-170 Pakość
+
+Biuro Rachunkowe ATENA
+świętego Jana 21
+88-170 Pakość
+
+Biuro Usług Księgowych Joanna Błaszak
+Barcińska 3
+88-170 Pakość
+
+#Oddział
+
+Bank Spółdzielczy w Pruszczu Pomorskim. Oddział w Pakości
+Barcińska 14A
+88-170 Pakość
+
+#Policja
+
+Komisariat Policji
+Barcińska 1
+88-170 Pakość
+
+#Przedsiębiorstwo
+
+Instalpak s.c. Przedsiębiorstwo budowlane. Siembab J.S., Autoryzowany Instalator Junkers-Bosch
+Mieleńska 8
+88-170 Pakość
+
+Zaptech sp.j. Zakład produkcyjny nr 1 w Pakości
+Inowrocławska 12
+88-170 Pakość
+
+Przedsiębiorstwo Usług Gminnych w Pakości
+Inowrocławska 14
+88-170 Pakość
+
+Bogwit. Przedsiębiorstwo produkcyjno - usługowo - handlowo - transportowe. Bogatek T.
+Hankiewicza 10
+88-170 Pakość
+
+Produkt-Kontakt
+Inowrocławska 12
+88-170 Pakość
+
+Kamal Sp. z o.o. ZP. Przedsiębiorstwo budowlano - montażowe i prefabrykacji betonów
+Inowrocławska 12
+88-170 Pakość
+
+Hydraltech
+Różana 25
+88-170 Pakość
+
+Przedsiębiorstwo Wielobranżowe KRoK s.c.
+Rynek 24/1
+88-170 Pakość
+
+Firma Stand-ART
+Rynek 1
+88-170 Pakość
+
+Wietrzykowski Tomasz. Przedsiębiorstwo usługowo - handlowe
+Kwiatowa 31
+88-170 Pakość
+
+Tęcza. PW. Wywóz nieczystości płynnych, sprzedaż detaliczna cementu. Bryda H.
+Inowrocławska 12
+88-170 Pakość
+
+Marwoj sp.j. Przedsiębiorstwo przetwórstwa mięsnego. Mielcarek, Przybylski
+Żabia 1
+88-170 Pakość
+
+#Fabryka
+
+Noteć. Fabryka Maszyn i Urządzeń do Przemysłu i Górnictwa. Odlewnia żeliwa
+Fabryczna 4
+88-170 Pakość
+
+#Spółdzielnia
+
+Administracja 3 os. w Pakości, Kujawskiej Spółdzielni Mieszkaniowej
+Mogileńska 21A
+88-170 Pakość
+
+#Klub
+
+Notecianka. Klub sportowy
+świętego Jana 13
+88-170 Pakość
+
+#Poczta
+
+Poczta Polska
+Dworcowa 32
+88-170 Pakość
+
+#Amazonki
+
+Kalwaria Pakoska
+Barcińska 60
+88-170 Pakość
+
+#PZU
+
+Kosińska Zofia. Ubezpieczenia komunikacyjne, majątkowe. HDI Asekuracja, Ergo Hestia
+21 Stycznia 16
+88-170 Pakość
+
+======================================================================
+88-170 GIEBNIA
+
+#Produkcja
+
+ZPMB PROMAX Sp. z o.o.
+Giebnia 25
+88-170 Giebnia
+
+#Spółka
+
+POLOmarket Sp. z o.o.
+Giebnia 20
+88-170 Giebnia
+
+#Firma
+
+Zobacz też:
+Giebnia 25
+88-170 Giebnia
+
+======================================================================
+88-160 JANIKOWO
+
+#Urząd
+
+Urząd Miejski Janikowo
+Przemysłowa 6
+88-160 Janikowo
+
+#Ośrodek
+
+Miejsko-Gminny Ośrodek Kultury
+Przemysłowa 26
+88-160 Janikowo
+
+Środowiskowy Dom Samopomocy
+Północna 1
+88-160 Janikowo
+
+Janikowskie Zakłady Sodowe „Janikosoda”
+Przemysłowa 30
+88-160 Janikowo
+
+Zdrowie s.c. NZOZ
+Klonowa 9
+88-160 Janikowo
+
+Stadion Miejski im. Bolesława Ciesielskiego w Janikowie
+Główna 40
+88-160 Janikowo
+
+BHP Piotr Stawiszyński
+Ogrodowa 6
+88-160 Janikowo
+
+NZOZ "Vita" s.c. A.W. Klimaszewscy,D.J. Lesikowscy
+Klonowa 9
+88-160 Janikowo
+
+Międzynarodowe Centrum Promocji Dialogu
+1 Maja 8
+88-160 Janikowo
+
+Sportline
+Michała Kozala 3
+88-160 Janikowo
+
+Centrum Stomatologiczne Irena Rusak
+Klonowa 9
+88-160 Janikowo
+
+Centrum Ubezpieczeń CUK Janikowo
+Dworcowa 10F
+88-160 Janikowo
+
+#Dom kultury
+
+Zefir - Klub Osiedlowy Kujawskiej Spółdzielni Mieszkaniowej
+Dworcowa 1
+88-160 Janikowo
+
+Kino Manhattan Janikowo
+Przemysłowa 26
+88-160 Janikowo
+
+#Szkoła
+
+Szkoła Podstawowa
+Michała Kozala 3
+88-160 Janikowo
+
+Gimnazjum
+Główna 6
+88-160 Janikowo
+
+Prestige
+Szkolna 1
+88-160 Janikowo
+
+Przedszkole Froguś
+Główna 8
+88-160 Janikowo
+
+Buda
+Szkolna 1
+88-160 Janikowo
+
+Nauka Pływania Janikowo - Małgorzata Pietrala
+Ogrodowa 6/33
+88-160 Janikowo
+
+Przedszkole
+Słoneczna 31A
+88-160 Janikowo
+
+ODIS - Terapia Ruchem i Edukacyjna
+Ogrodowa 6/33
+88-160 Janikowo
+
+Szkoła Podstawowa W Janikowie
+Michała Kozala 3
+88-160 Janikowo
+
+Nauka Pływania - Jakub Woźniak
+Sportowa 6A
+88-160 Janikowo
+
+Prywatna Szkoła Policealna
+Szkolna 1
+88-160 Janikowo
+
+#Biblioteka
+
+Biblioteka Publiczna Miasta i Gminy
+88-160 Janikowo; Dworcowa 1
+88-170
+
+#Bank
+
+Piastowski Bank Spółdzielczy w Janikowie Oddział w Janikowie
+Przemysłowa 4
+88-160 Janikowo
+
+Alior Bank - Placówka Partnerska
+Klonowa 7
+88-160 Janikowo
+
+Santander Bank Polska S.A.
+Dworcowa 9
+88-160 Janikowo
+
+Credit Agricole Bank Polska S.A. - Placówka CA Express
+Główna 25a
+88-160 Janikowo
+
+Punkt sprzedaży Plusa i Cyfrowego Polsatu
+Mila
+Dworcowa 9
+88-160 Janikowo
+
+EMBERTO-EDEN-POLSKA
+Główna 31/26
+88-160 Janikowo
+
+Agencja PKO Banku Polskiego
+Przemysłowa 5
+88-160 Janikowo
+
+#Policja
+
+Komisariat Policji
+Przemysłowa 6
+88-160 Janikowo
+
+#Produkcja
+
+Janipol Meble Sp. z o.o.
+Przemysłowa 2
+88-160 Janikowo
+
+Zaptech sp.j. Zakład produkcyjny nr 2 Janikowo
+Przemysłowa 27A
+88-160 Janikowo
+
+Zaptech sp.j.
+Przemysłowa 8
+88-160 Janikowo
+
+Ciech Produkty Solne
+Przemysłowa 30
+88-160 Janikowo
+
+Inochłod-Serwis Sp. z o.o.
+Dworcowa 7
+88-160 Janikowo
+
+Przepompownia ścieków Janikowo
+88-160 Janikowo
+
+Strzała Adam. Rzemieślniczy zakład stolarski
+Słoneczna 10
+88-160 Janikowo
+
+Zakład Wodociągów i Kanalizacji Przedsiębiorstwa Gospodarki Komunalnej i Mieszkaniowej. Sp. z o.o.
+Kasprowicza 57
+88-160 Janikowo
+
+Meblowy-Raj
+Dworcowa 1
+88-160 Janikowo
+
+Cukiernia Piekarnia Marta
+Dworcowa 15
+88-160 Janikowo
+
+Wiking. Zakład handlowo - usługowo - wielobranżowy. Gąsiorowski P.
+1 Maja 6
+88-160 Janikowo
+
+Promet. PPHU. Kowalski M.
+Ustronie 16
+88-160 Janikowo
+
+Marlex sp.j. Hurtownia chemiczna
+Przemysłowa 27
+88-160 Janikowo
+
+#Spółdzielnia
+
+Administracja 3 os. w Janikowie, Kujawskiej Spółdzielni Mieszkaniowej
+Dworcowa 1
+88-160 Janikowo
+
+#Stowarzyszenie
+
+Klub Żeglarski Kormoran Janikowo
+Główna 39
+88-160 Janikowo
+
+Klub Sportowy Unia Janikowo
+Główna 40
+88-160 Janikowo
+
+Poczta Polska
+Dworcowa 9
+88-160 Janikowo
+
+Urząd Stanu Cywilnego
+Przemysłowa 6
+88-160 Janikowo
+
+Dar Serca. Janikowskie Stowarzyszenie Przyjaciół Dzieci Specjalnej Troski
+Miła 11
+88-160 Janikowo
+
+Kościół Ewangelicznych Chrześcijan
+1 Maja 15
+88-160 Janikowo
+
+Kościół św. Jana Chrzciciela w Janikowie
+Przyjezierna
+88-160 Janikowo
+
+Janikosoda. Międzyzakładowy Związek Zawodowy
+Przemysłowa 30
+88-160 Janikowo
+
+Stowarzyszenie Ogrodowe Stokrotka
+Słoneczna 41
+88-160 Janikowo
+
+"Jansat" Towarzystwo Eksploatacji Kablowej Sieci Telewizyjnej W Janikowie
+Ogrodowa 16
+88-160 Janikowo
+
+#Klub
+
+CUMA club & bar
+Główna 42
+88-160 Janikowo
+
+KAMFit Studio treningowe
+Dworcowa 2
+88-160 Janikowo
+
+#PZU
+
+PZU Ubezpieczenia Janikowo - Agent Dariusz Rosa
+Główna 34
+88-160 Janikowo
+
+#Centrum
+
+Agromax. Błachowiak K.
+Przemysłowa 20
+88-160 Janikowo
+
+BROSTER sp.j. Przedsiębiorstwo Usług Budowlanych
+Łączna 5
+88-160 Janikowo
+
+Jan Mik. Kowalska A.
+Wilkońskiego
+88-160 Janikowo
+
+AGROPRAKTYK
+ul.Wędkarska 2
+88-160 Janikowo
+
+Pol-Gran. Sobański W.
+Przemysłowa 27A
+88-160 Janikowo
+
+Pawlak R. Zakład optyczny
+Dworcowa 1
+88-160 Janikowo
+
+Paczkomat Janikowo
+88-160 Janikowo
+
+======================================================================
+88-160 BRONIEWICE
+
+#Szkoła
+
+Szkoła Podstawowa im. J. Korczaka
+3
+88-160 Broniewice
+
+======================================================================
+88-160 TRLĄG
+
+#Szkoła
+
+Fitochem sp.j. PPHU. Kowalewski M.Z.
+Trląg 14
+88-160 Trląg
+
+PPHU Agriteam Sp. z o.o.
+14
+Trląg
+88-160 Janikowo
+
+Perła Korytkowa
+88-160 Trląg
+
+======================================================================
+88-126 TUCZNO
+
+======================================================================
+88-110 PŁAWIN
+
+#Szkoła
+
+Pałac z XIX w.
+Pławin 17
+88-110 Pławin
+
+======================================================================
+88-170 RYCERZEWO
+
+======================================================================
+88-170 KOŚCIELEC
+
+#Ośrodek
+
+ZSP im. Jana Pawła II w Kościelcu
+Kościelec Kujawski 125
+88-170 Kościelec
+
+#Szkoła
+
+Zespół Szkół Ponadgimnazjalnych im. Jana Pawła II
+Kościelec Kujawski 125
+88-170 Kościelec
+
+Zespół Placówek Oświatowych
+14
+88-170 Kościelec
+
+Plac Zabaw
+Kościelec 31
+88-170 Kościelec
+
+#Bank
+
+Urząd pocztowy
+Kościelec 18A
+88-170 Kościelec
+
+#Produkcja
+
+"Skolej" S.C.
+Kościelec 95A
+88-170 Kościelec
+
+#Zakład
+
+Kupski Lucjan. Zakład remontowo - budowlany
+Kościelec Kujawski 71
+88-170 Kościelec
+
+#Agencja
+
+Agencja Pocztowa
+Kościelec Kujawski 18
+88-170 Kościelec
+
+#Poczta
+
+Kościół pw. św. Małgorzaty
+88-170 Kościelec
+
+pałac kościelecki
+Kościelec Kujawski 66
+88-170 Kościelec
+
+======================================================================
+88-181 JAKSICE
+
+#Szkoła
+
+Szkoła Podstawowa im. W. Broniewskiego
+Szosa Bydgoska 11
+88-181 Jaksice
+
+#Spółka
+
+Inelbud Spółka z ograniczoną odpowiedzialnością Sp. K
+ul
+Szosa Bydgoska 30
+88-181 Jaksice
+
+#Stowarzyszenie
+
+Stowarzyszenie NASZE PRAWO
+Szosa Bydgoska 44D
+88-181 Jaksice
+
+#Klub
+
+Jaksice
+Szosa Bydgoska 9
+88-181 Jaksice
+
+#Koło
+
+88-181
+Jaksice
+Wybranowo
+Oporówek
+Czyste
+Borkowo
+
+#muzeum
+
+browar Cieszyn
+88-181 Jaksice
+
+======================================================================
+87-704 BĄDKOWO
+
+#Urząd
+
+Urząd Gminy Bądkowo
+Włocławska 82
+87-704 Bądkowo
+
+#Dom kultury
+
+Gminny Ośrodek Kultury
+Włocławska 30
+87-704 Bądkowo
+
+#Przedszkole
+
+Zespół Szkolno Przedszkolny w Bądkowie
+Włocławska 13
+87-704 Bądkowo
+
+#Bank
+
+Kujawski Bank Spółdzielczy w Aleksandrowie Kujawskim. Oddział w Bądkowie
+Włocławska 35
+87-704 Bądkowo
+
+#Poczta
+
+Poczta Polska
+Kujawska 41
+87-704 Bądkowo
+
+#PZU
+
+PZU Ubezpieczenia Bądkowo - Agent Joanna Czernielewska
+Włocławska 21
+87-704 Bądkowo
+
+======================================================================
+88-101 ŻALINOWO
+
+#Spółdzielnia
+
+Spółdzielnia Socjalna WIGOR
+Żalinowo 7
+88-101 Żalinowo
+
+======================================================================
+88-160 KOŁUDA  WIELKA
+
+======================================================================
+88-160 LUDZISKO
+
+#Szkoła
+
+Szkoła Podstawowa im. Jana z Ludziska
+Ludzisko 10A
+88-160 Ludzisko
+
+#Bank
+
+Cmentarz
+Ludzisko 14B
+88-160 Ludzisko
+
+======================================================================
+88-320 MARKOWICE
+
+#Ośrodek
+
+Wiejski ośrodek zdrowia w Markowicach
+88-320 Markowice
+
+#Szkoła
+
+Szkoła Podstawowa im.Gustawa Zielińskiego
+Markowice 28
+88-320 Markowice
+
+#Szpital
+
+Kościół Rzymskokatolicki Sanktuarium Matki Bożej Królowej Miłości i Pokoju Pani Kujaw
+Markowice 5
+88-320 Markowice
+
+#Spółdzielnia
+
+Spółdzielnia mieszkaniowa w Markowicach
+Markowice 45
+88-320 Markowice
+
+#Poczta
+
+Poczta Polska
+Markowice 31
+88-320 Markowice
+
+Świetlica Wiejska
+Markowice 34
+88-320 Markowice
+
+Pokarmelicki zespół klasztorny w Markowicach
+Markowice 5
+88-320 Markowice
+
+Figura Świętego Józefa
+88-320 Markowice
+
+Figura Serca Jezusowego
+88-320 Markowice
+
+======================================================================
+88-320 WYMYSŁOWICE
+
+#Szkoła
+
+Sanplast SA
+Wymysłowice 1
+88-320 Wymysłowice
+
+Mechanika Pojazdowa Nowak Mariusz
+Wymysłowice 11
+88-320 Wymysłowice
+
+#Zakład
+
+Brukmar. Zakład brukarski | Brukarstwo Inowrocław | Układanie Kostki Brukowej | Brukarz Inowrocław
+Wymysłowice 24
+88-320 Wymysłowice
+
+======================================================================
+86-061 KOBYLARNIA
+
+#Ośrodek
+
+Gabinet weterynaryjny "Animal Patrol" Ośrodek Rehabilitacji Zwierząt Dzikich lek.wet. Renata Nowicka
+ul. Wierzbowa 2
+Kobylarnia
+86-061 Brzoza
+
+#Bank
+
+Przedsiębiorstwo Budowy Dróg i Mostów KOBYLARNIA S.A.
+Kobylarnia 8
+86-061 Brzoza
+
+Auto Serwis Tomasz Rybczyński
+Kobylarnia 35
+86-061 Brzoza
+
+======================================================================
+86-061 BRZOZA
+
+#Urząd
+
+Urząd Pocztowy Brzoza
+Łabiszyńska 1
+86-061 Brzoza
+
+#Szkoła
+
+Gimnazjum im. Karola Wojtyły w Brzozie
+Powstańców Wielkopolskich 50
+86-061 Brzoza
+
+Romanowski Krzysztof. Nauka jazdy
+86-061 Brzoza; Bydgoska 17 a
+86-061
+
+Welcome Szkoła Językowa
+Powstańców Wielkopolskich 42
+86-061 Brzoza
+
+#Przedszkole
+
+Przedszkole Samorządowe. Jarzębinka
+Łabiszyńska 23
+86-061 Brzoza
+
+#Bank
+
+Agencja PKO Banku Polskiego
+Łabiszyńska 3
+86-061 Brzoza
+
+#Produkcja
+
+Przedsiębiorstwo Produkcyjne KAUSA
+Powstańców Wielkopolskich 50
+86-061 Brzoza
+
+#Agencja
+
+Centrum Ubezpieczeń Komunikacyjnych
+Łabiszyńska 7
+86-061 Brzoza
+
+#Stowarzyszenie
+
+KATOLICKIE STOWARZYSZENIE EDUKACYJNO - SPORTOWE
+Łabiszyńska 20
+86-061 Brzoza
+
+#PZU
+
+Polskie Centra Ubezpieczeniowe Krzysztof Celusta
+Łabiszyńska 3
+86-061 Brzoza
+
+======================================================================
+86-060 CHMIELNIKI
+
+#Ośrodek
+
+Chmielniki 9 Holiday Resort
+Chmielniki 9
+86-060 Chmielniki
+
+#Klub
+
+Plaża Chmielniki
+Chmielniki 11
+86-060 Chmielniki
+
+#Poczta
+
+3 Bikers MC Poland
+DK25
+86-060 Chmielniki
+
+======================================================================
+86-060 PIECKI
+
+======================================================================
+86-050 ŁAŻYN
+
+======================================================================
+86-061 EMILIANOWO
+
+======================================================================
+86-050 WYPALENISKA
+
+#Produkcja
+
+Goliński. Odlewnia metali nieżelaznych
+86-050 Wypaleniska
+
+#Firma
+
+Wypaleniska 33
+86-050
+Wypaleniska 33
+85-880 Bydgoszcz
+
+======================================================================
+89-200 RUDY
+
+======================================================================
+86-050 MAKOWISKA
+
+#Dom kultury
+
+Świetlica "Makowianka"
+Makowiska
+86-050 Solec Kujawski
+
+#Szkoła
+
+Scania Serwis Bydgoszcz Hołowińscy - Scanserwis Sp. z o. o
+Makowiska 34
+86-050 Makowiska
+
+Drobex-Agro Sp. z o.o.
+Makowiska 12
+86-050 Makowiska
+
+Lovely Dreams - Artykuły dla niemowląt i dzieci
+Makowiska 20
+86-050 Makowiska
+
+#Produkcja
+
+Drobex-Pasz Sp. z o.o.
+Makowiska 13
+86-050 Solec Kujawski
+
+MakoPellets
+Makowiska 13
+86-050 Makowiska
+
+#Fabryka
+
+Restauracja Fabryka Smaków Makowiska Catering Jedzenie na wynos Obiady Przyjęcia okolicznościowe
+Makowiska 35
+86-050 Makowiska
+
+#Poczta
+
+Leśnictwo Łażyn. Nadleśnictwo Solec Kujawski
+Makowiska 18
+86-050 Makowiska
+
+Firma Wilobranżowa Jan Łojewski
+Makowiska 11
+86-050 Makowiska
+
+REGAN
+Makowiska 36
+86-050 Makowiska
+
+======================================================================
+86-050 OTOROWO
+
+#Szkoła
+
+Vetdiagnostica Sp. z o.o.
+Otorowo 30
+86-050 Otorowo
+
+Tylpol
+86-050 Otorowo; 28a
+86-050
+
+#Produkcja
+
+Kama. Producent krzeseł i stołów. Cicherska D.
+Otorowo
+Solec Kujawski 12
+86-050 Solec Kujawski
+
+#Zakłady
+
+Zakład stolarski Jawor
+Otorowo 12
+86-050 Otorowo
+
+======================================================================
+86-050 SOLEC KUJAWSKI
+
+#Urząd
+
+Urząd Miejski w Solcu Kujawskim
+23 Stycznia 7
+86-050 Solec Kujawski
+
+#Ośrodek
+
+Soleckie Centrum Kultury
+Generała Stefana Roweckiego-Grota 1
+86-050 Solec Kujawski
+
+Restauracja "Leśna" Ośrodek Szkoleniowy
+Leśna 64
+86-050 Solec Kujawski
+
+Ośrodek Sportu i Rekreacji
+Gen. Stefana Roweckiego 'Grota 3
+86-050 Solec Kujawski
+
+Regionalne Centrum Przedsiębiorczości Sp. z o.o.
+Unii Europejskiej 4
+86-050 Solec Kujawski
+
+#Uniwersytet
+
+Zespół Szkół Ogólnokształcących i Zawodowych
+29 Listopada 86
+86-050 Solec Kujawski
+
+#Przychodnia
+
+Solmed
+Powstańców 7A
+86-050 Solec Kujawski
+
+NZOZ Przychodnia Rodzinna
+Piastów 1
+86-050 Solec Kujawski
+
+Gabinety lekarskie
+Zbożowa 19
+86-050 Solec Kujawski
+
+Apteka W Przychodni
+Powstańców 7A
+86-050 Solec Kujawski
+
+#Bank
+
+PKO Bank Polski S.A.-Oddział 1 w Solcu Kujawskim
+ul
+23 Stycznia 20
+86-050 Solec Kujawski
+
+Bank Spółdzielczy w Szubinie Oddział w Solcu Kujawskim
+Toruńska 14
+86-050 Solec Kujawski
+
+Bank Pekao S.A.
+Garbary 2b
+86-050 Solec Kujawski
+
+Santander Consumer Bank Oddział Partnerski
+Plac Jana Pawła II 1A
+86-050 Solec Kujawski
+
+BNP Paribas Bank Polska S.A.
+29 Listopada 4
+86-050 Solec Kujawski
+
+Credit Agricole Bank Polska S.A. - Placówka CA Express
+Leśna 12
+86-050 Solec Kujawski
+
+Agar. PW. Mąka E.
+23 Stycznia 18
+86-050 Solec Kujawski
+
+Alior Bank - Oddział
+Żwirki i Wigury 1
+86-050 Solec Kujawski
+
+Sygma
+29 Listopada 3
+86-050 Solec Kujawski
+
+Punkt sprzedaży Plusa i Cyfrowego Polsatu
+Polo Market
+Leśna 12
+86-050 Solec Kujawski
+
+Bankomat Banku Pekao S.A.
+ul. 23 Stycznia 9
+Hala Targowa
+86-050 Solec Kujawski
+
+Bankomat Banku Pekao S.A.
+Sklep Wielobranżowy BLUE
+Toruńska 64
+86-050 Solec Kujawski
+
+Bankomat Banku Pekao S.A.
+Siedziba oddziału
+Garbary 2b
+86-050 Solec Kujawski
+
+Euronet Polska Sp z o. o.
+Sklep Spożywczy ABC
+Leśna 53c
+86-050 Solec Kujawski
+
+Bankomat - BS Szubin
+Toruńska 14
+86-050 Solec Kujawski
+
+PKO Bank Polski S.A.- Bankomat
+ul
+23 Stycznia 20
+86-050 Solec Kujawski
+
+PKO Bank Polski S.A.- Bankomat
+Leśna 12
+86-050 Solec Kujawski
+
+#Wydział
+
+Wydział Utrzymania Miasta w Solcu Kujawskim
+Toruńska 8a
+86-050 Solec Kujawski
+
+#Policja
+
+Komisariat Policji w Solcu Kujawskim
+Toruńska 15
+86-050 Solec Kujawski
+
+#Produkcja
+
+P.D. Drobex. Sp. z o.o.
+Powstańców 19
+86-050 Solec Kujawski
+
+#Zakład
+
+Zobacz też:
+Targowa 3
+86-050 Solec Kujawski
+
+#Zakłady
+
+Zakład Gospodarki Komunalnej Sp. z o.o. Solec Kujawski
+Targowa 3
+86-050 Solec Kujawski
+
+#Grupa
+
+Bm Grupa sp. z o.o. sp. k
+Toruńska 39F
+86-050 Solec Kujawski
+
+#Spółka
+
+Zobacz też:
+Powstańców 19
+86-050 Solec Kujawski
+
+#Koło
+
+JuraPark Solec Kujawski (JuraPark. Dinosaur Park)
+Sportowa 1
+86-050 Solec Kujawski
+
+#Towarzystwo
+
+Stowarzyszenie rozwoju Solca Kujawskiego
+Toruńska 8
+86-050 Solec Kujawski
+
+#Firma
+
+KMW Engineering Sp. z o.o.
+Powstańców 8a
+86-050 Solec Kujawski
+
+#ZUS
+
+Gmina Solec Kujawski
+23 Stycznia 7
+86-050 Solec Kujawski
+
+#PZU
+
+PZU Ubezpieczenia Solec Kujawski - Agent Anna Rybarczyk
+Żwirki i Wigury 1
+86-050 Solec Kujawski
+
+#muzeum
+
+Muzeum Solca im. Księcia Przemysła
+Toruńska 8
+86-050 Solec Kujawski
+
+#Centrum
+
+Centrum Optyczno-Okulistyczne
+Toruńska 6
+86-050 Solec Kujawski
+
+Galeria Inga
+Piastów 4
+86-050 Solec Kujawski
+
+HAAS szkolenia i programowanie
+Rzymska 4
+86-050 Solec Kujawski
+
+Polatowska Cezaria. Pracownia protez dentystycznych.
+Bydgoska 34
+86-050 Solec Kujawski
+
+Kino Kultura
+ul. Gen
+Stefana „Grota” Roweckiego 1
+86-050 Solec Kujawski
+
+Widuto. Centrum zaopatrzenia kamieniarstwa
+Toruńska 50
+86-050 Solec Kujawski
+
+Michalak Adam. Centrum zdrowia i sportu
+Bohaterów Września 3
+86-050 Solec Kujawski
+
+BeSMART
+Średnia 64
+86-050 Solec Kujawski
+
+P.W. "AGAR" Wynajem pokoi Solec Kujawski
+Prosta 17
+86-050 Solec Kujawski
+
+zurawka.pl
+Młyńska 6
+86-050 Solec Kujawski
+
+Vikdeko - centrum dekoracji i animacji
+Sosnowa 1A
+86-050 Solec Kujawski
+
+Botojan. Stacja kontroli pojazdów
+Wiśniowa 2 a
+86-050 Solec Kujawski
+
+======================================================================
+86-050 CHROŚNA
+
+======================================================================
+86-050 JEZIERCE
+
+#Poczta
+
+Leśnictwo Jezierce. Nadleśnictwo Solec Kujawski
+Kabat 1
+86-050 Solec Kujawski
+
+======================================================================
+87-133 RZĘCZKOWO
+
+#Biblioteka
+
+Biblioteka Publiczna Gminna. Filia
+87-133 Rzęczkowo
+
+#Bank
+
+Zakład Usług Komunalnych Zławieś Wielka Z Siedzibą W Rzęczkowie 48a Sp. Z O. O.
+DW597 55
+87-133 Rzęczkowo
+
+Nitstal Sp. z o.o.
+87-133 Rzęczkowo
+
+Zespół Szkół
+59
+87-133 Rzęczkowo
+
+======================================================================
+87-133 CICHORADZ
+
+#Bank
+
+Grupa Producentów Rolnych Ziarno Sp. z o.o.
+Cichoradz 18
+87-133 Rzęczkowo
+
+======================================================================
+86-070 DĄBROWA CHEŁMIŃSKA
+
+#Urząd
+
+Urząd Gminy
+86-070 Dąbrowa Chełmińska; Bydgoska 21
+
+#Dom kultury
+
+Gminny Ośrodek Kultury i Sportu (Community Center for Culture and Sport)
+Otowicka 2
+86-070 Dąbrowa Chełmińska
+
+#Szkoła
+
+Zespół Szkół im. C. Kamińskiego
+Sportowa 1
+86-070 Dąbrowa Chełmińska
+
+#Przedszkole
+
+ZS
+Sportowa 1
+86-070 Dąbrowa Chełmińska
+
+#Biblioteka
+
+Gminna Biblioteka Publiczna
+Bydgoska 19
+86-070 Dąbrowa Chełmińska
+
+#Bank
+
+Bank Spółdzielczy w Bydgoszczy O. Dąbrowa Chełmińska
+Bydgoska 44
+86-070 Dąbrowa Chełmińska
+
+#Produkcja
+
+KOMPLEX
+Produkcyjna 1-3
+86-070 Dąbrowa Chełmińska
+
+Megan Seating - fotele kinowe i teatralne
+Otowice 41
+86-070 Dąbrowa Chełmińska
+
+"Stol-Sław", "Kurzyńska"
+Otowicka 2
+86-070 Dąbrowa Chełmińska
+
+Drukarnia Raster Design - Multi Print
+Chełmińska 24
+86-070 Dąbrowa Chełmińska
+
+STOL -LAK Meble kuchenne i łazienkowe, lakierowanie frontów meblowych Piotr Delik
+Ptasia 12
+86-070 Dąbrowa Chełmińska
+
+PW Algum Sp. z o.o.
+Otowice 41
+86-070 Dąbrowa Chełmińska
+
+Meralliance Poland Sp. z o.o.
+Łososiowa 6
+86-070 Dąbrowa Chełmińska
+
+Wojtserw- Stihl, Viking, Stiga- Sprzedaż i serwis
+Bydgoska 60a
+86-070 Dąbrowa Chełmińska
+
+Oknovid Sp. z o.o.
+Fermowa 3
+86-070 Dąbrowa Chełmińska
+
+Błażex
+Bydgoska 3
+86-070 Dąbrowa Chełmińska
+
+Gratkowski
+Rysia 18
+86-070 Dąbrowa Chełmińska
+
+Greenyard
+Fermowa 3
+86-070 Dąbrowa Chełmińska
+
+mięsny
+Bydgoska 48
+86-070 Dąbrowa Chełmińska
+
+P.W. Budreko
+Rydygiera 2
+86-070 Dąbrowa Chełmińska
+
+#Zakład
+
+Gwizdała B.D. Zakład masarski
+Weterynaryjna 8
+86-070 Dąbrowa Chełmińska
+
+#Spółka
+
+Dulcet sp.j. Stacja paliw
+Bazowa 31
+86-070 Dąbrowa Chełmińska
+
+Pinguin Lutosa Foods Polska Sp. z o.o.
+Fermowa 1
+86-070 Dąbrowa Chełmińska
+
+Volvo Polska Sp. z o.o.
+Kamienna 1
+86-070 Dąbrowa Chełmińska
+
+Odido
+Bydgoska 23
+86-070 Dąbrowa Chełmińska
+
+Zespół Oświaty Samorządowej
+Sportowa 1
+86-070 Dąbrowa Chełmińska
+
+Ogrodnictwo E.R. Wigienka
+Bydgoska 14
+86-070 Dąbrowa Chełmińska
+
+Urząd Pocztowy
+Bydgoska 50A
+86-070 Dąbrowa Chełmińska
+
+PALISADA POLSKA Sp. z o.o.
+Gzin
+ul. Bohaterów 11
+86-070 Dąbrowa Chełmińska
+
+#Klub
+
+LKS Dąbrowa Chełmińska
+86-070 Dąbrowa Chełmińska
+
+#ZUS
+
+Poczta Polska
+Bydgoska 50a
+86-070 Dąbrowa Chełmińska
+
+Ochotnicza Straż Pożarna
+Strażacka 2
+86-070 Dąbrowa Chełmińska
+
+Gminny Ośrodek Kultury i Sportu
+Otowicka 2
+86-070 Dąbrowa Chełmińska
+
+Market Dino
+Wyzwolenia 2
+86-070 Dąbrowa Chełmińska
+
+======================================================================
+87-134 CZARNOWO
+
+#Ośrodek
+
+Centrum Zaopatrzenia Energetyki „PAS” Sp. z o.o. Sp. k.
+87-134 Czarnowo
+
+#Szkoła
+
+Zespół Szkół w Złejwsi Wielkiej Filia w Czarnowie
+87-134 Czarnowo
+
+#Spółka
+
+Zobacz też:
+Czarnowo 39
+87-134 Zławieś Wielka
+
+======================================================================
+86-070 MAŁA KĘPA
+
+======================================================================
+86-070 STRZYŻAWA
+
+#Grupa
+
+MGR GRUPA Sp. Z O.O.
+Strzyżawa 29
+86-070 Strzyżawa
+
+#Centrum
+
+PGH Jermir - motel, restauracja
+Strzyżawa 48
+86-070 Strzyżawa
+
+======================================================================
+86-070 OSTROMECKO
+
+#Dom kultury
+
+Zespół Pałacowo - Parkowy Miejskiego Ośrodka Kultury
+Bydgoska 9
+86-070 Ostromecko
+
+#Szkoła
+
+Zespół Szkół im. Mariana Rejewskiego w Ostromecku
+Szkolna 1
+86-070 Ostromecko
+
+#Biblioteka
+
+Biblioteka Publiczno - Szkolna. Filia
+86-070 Ostromecko; Parkowa 1
+86-070
+
+#Produkcja
+
+Wody Mineralne OSTROMECKO Sp. z o.o.
+Zdrojowa 3
+86-070 Ostromecko
+
+#Poczta
+
+Poczta Polska
+Bydgoska 17
+86-070 Ostromecko
+
+#muzeum
+
+Mauzoleum rodziny Schönborn
+86-070 Ostromecko
+
+Zespół pałacowo-parkowy w Ostromecku
+Bydgoska 9
+86-070 Ostromecko
+
+Restauracja Ostromecka
+Bydgoska 8
+86-070 Ostromecko
+
+#Centrum
+
+Przystanek Kolejowy Ostromecko
+Kolejowa 4
+86-070 Ostromecko
+
+Las Ostromecki
+86-070 Ostromecko
+
+Orlik Ostromecko
+Wiślana 1C
+86-070 Ostromecko
+
+PHU Morgut
+Bydgoska 11
+86-070 Ostromecko
+
+Restauracja Pałacowa
+86-070 Ostromecko
+
+Park Pałacowy / Ogród Włoski
+86-070 Ostromecko
+
+Park Pałacowy / Ogród Angielski
+86-070 Ostromecko
+
+Sment Zuzanna. Sklep wielobranżowy i monopolowy
+Bydgoska 17
+86-070 Ostromecko
+
+Pałac klasycystyczny / Nowy Palac
+Bydgoska 9
+86-070 Ostromecko
+
+Kościół Rzymskokatolicki pw. Świętych Mikołaja Biskupa, Stanisława Biskupa i Męczennika i Jana Chrzciciela
+Parkowa 2
+86-070 Ostromecko
+
+Cross-Serwis Serwis i sprzedaż maszyn i narzędzi ogrodniczych Maciej Krzywiński
+Cisowa 3
+86-070 Ostromecko
+
+Bogmar Sp. z o.o.
+Kasztanowa 9
+86-070 Ostromecko
+
+#Inwalidów
+
+Zespół pałacowo-parkowy w Ostromecku (Old Palace in Ostromecko)
+Bydgoska 9
+86-070 Ostromecko
+
+======================================================================
+86-070 REPTOWO
+
+#Szkoła
+
+TC Performance Chip Tuning
+DW551 9
+86-070 Reptowo
+
+Tab-Trans
+Reptowo 26a
+86-070 Reptowo
+
+======================================================================
+86-021 BOŻENKOWO
+
+#Koło
+
+86-021
+Maksymilianowo
+Żołędowo
+Bożenkowo
+Jagodowo
+Jastrzębie
+
+#Poczta
+
+Leśnictwo Jagodowo. Nadleśnictwo Żołędowo
+86-021 Bożenkowo
+
+#muzeum
+
+Dworek w Bożenkowie
+Palińskiego 12
+86-021 Bożenkowo
+
+======================================================================
+89-115 KRUKÓWKO
+
+#Szkoła
+
+Fiber Solutions
+Krukówko 24A
+89-115 Krukówko
+
+P.H.U. AUTO SZYBY "JARO" Jarosław Pawlikowski
+Krukówko 31
+89-115 Krukówko
+
+#Zakład
+
+Kulig Marian. Zakład mechaniki pojazdowej
+Krukówko 29
+89-115 Krukówko
+
+======================================================================
+86-010 NOWY JASINIEC
+
+#Ośrodek
+
+KRĘGIEL Sp.z o.o
+Koronowo 45
+86-010 Nowy Jasiniec
+
+#Dom kultury
+
+Świetlica M- GOK Nowy Jasiniec
+Szosa Kotomierska 3
+86-008 Koronowo
+
+M-GOK
+86-010 Nowy Jasiniec
+
+#Szkoła
+
+Luk-Technology
+Nowy Jasiniec 5
+86-010 Nowy Jasiniec
+
+Sala weselna - Przystań nad jeziorem
+86-010 Nowy Jasiniec
+
+#Klub
+
+Kręgiel marina YKP-KORONOWO
+Nowy Jasiniec 45a
+86-010 Nowy Jasiniec
+
+#Poczta
+
+Zamek Krzyżacki - ruiny
+86-010 Nowy Jasiniec
+
+Cmentarz
+86-010 Nowy Jasiniec
+
+Spływy kajakowe w Borach Tucholskich - 2
+86-010 Nowy Jasiniec
+
+======================================================================
+86-010 STARY JASINIEC
+
+#Bank
+
+Wolny Ogrody
+Stary Jasiniec 82
+86-010 Stary Jasiniec
+
+======================================================================
+86-021 ŻOŁĘDOWO
+
+#Dom kultury
+
+Świetlica w Żołędowie
+ul. Leona Wyczółkowskiego
+86-021 Żołędowo
+
+#Szkoła
+
+Szkoła Podstawowa w Żołędowie im. Janusza Korczaka
+Bydgoska 24
+86-021 Żołędowo
+
+#Przedszkole
+
+Humptydumpty. Mini przedszkole
+Jastrzębia 74
+86-021 Żołędowo
+
+#Stowarzyszenie
+
+Polski Związek Łowiecki. Zarząd okręgowy
+Koronowska 36
+86-021 Żołędowo
+
+======================================================================
+87-313 AUGUSTOWO
+
+======================================================================
+86-031 NIWY
+
+#Produkcja
+
+Europell Group Sp. z.o.o Hurtownia skór meblowych
+Karpacka 3
+86-031 Niwy
+
+======================================================================
+86-031 OSIELSKO
+
+#Urząd
+
+Urząd Gminy Osielsko
+Szosa Gdańska 55a
+86-031 Osielsko
+
+#Ośrodek
+
+Epimigren. Centrum Medyczne
+Botaniczna 38
+86-031 Osielsko
+
+Gminny Ośrodek Sportu i Rekreacji
+86-031 Osielsko; Tuberozy 2
+
+Szpital Eskulap - Centrum Leczenia Chorób Serca i Naczyń
+Koperkowa 2
+86-031 Osielsko
+
+Centrum Rehabilitacji - Szpital ESKULAP
+Koperkowa 2 wejście na prawo od wjazdu na teren szpitala
+86-031 Osielsko
+
+Galeria Osielsko
+Szosa Gdańska 49
+86-031 Osielsko
+
+GOSIR Osielsko
+Centralna 5A
+86-031 Osielsko
+
+Ośrodek Zdrowia
+Szosa Gdańska 34
+86-031 Osielsko
+
+Osielsko
+Szosa Gdańska 23
+86-031 Osielsko
+
+Rol-Pest
+Szosa Gdańska 7
+86-031 Osielsko
+
+Kujawsko-Pomorskie Centrum Szkoleń i Certyfikacji
+Szosa Gdańska 40
+86-031 Osielsko
+
+Gminna Przychodnia
+86-031 Osielsko
+
+DermoDent Centrum Medyczne Czajkowscy s.c.
+Tuberozy 3
+86-031 Osielsko
+
+Tombud Plus Sp. z o.o. Centrum budowlane
+Kolonijna 2
+86-031 Osielsko
+
+Centrum Rehabilitacji Kinesis S.C
+Słoneczna 16
+86-031 Osielsko
+
+Pietrzak Małgorzata. Centrum ogrodów
+86-031 Osielsko; Parowy 1
+
+Centrum podłóg
+Szosa Gdańska 66
+86-031 Osielsko
+
+CENTRUM ZAOPATRZENIA CHŁODNICTWA P.P.H. s.j. Marek i Piotr Dworscy Agregaty Chłodnicze Pompy Ciepła
+Szosa Gdańska 50A
+86-031 Osielsko
+
+Body Studio Osielsko
+Wiatrakowa 1
+86-031 Osielsko
+
+Centrum Edukacyjne NABLA
+Centralna 2R
+86-031 Osielsko
+
+#Dom kultury
+
+Gminny Ośrodek Kultury (municipal Cultural Center)
+Szosa Gdańska 57
+86-031 Osielsko
+
+#Szkoła
+
+Zespół Szkół
+Centralna 7
+86-031 Osielsko
+
+#Przedszkole
+
+Niepubliczne Przedszkole Blu
+Wiatrakowa 1
+86-031 Osielsko
+
+Przedszkole Żłobek Akademia Przedszkolaka, GRUPA AUTYSTYCZNA
+Orla 12
+86-031 Osielsko
+
+Chatka Puchatka
+86-031 Osielsko
+
+Publiczne Przedszkole nr 1
+Bałtycka 21
+86-031 Osielsko
+
+Domowe Przedszkole Chata Skrzata
+Jeżynowa 5
+86-031 Osielsko
+
+#Biblioteka
+
+Biblioteka Publiczna Gminna
+86-031 Osielsko; Centralna 6
+86-031
+
+#Szpital
+
+Osielsko
+Unnamed Road
+86-031 Osielsko
+
+Szpital
+Koperkowa
+86-031 Osielsko
+
+Osielsko
+Koperkowa
+86-031 Osielsko
+
+Tomografia Komputerowa - Szpital ESKULAP
+wejście główne
+Koperkowa 2
+86-031 Osielsko
+
+#Przychodnia
+
+Prof. Molski Stanisław - Chirurg Naczyniowy i Ogólny
+Poradnia Przyszpitalna
+Koperkowa 2
+86-031 Osielsko
+
+Eldent. Przychodnia stomatologiczna. Roman Chamier-Gliszczyński
+Tapicerska 2a
+86-031 Osielsko
+
+Prywatna Przychodnia Stomatologiczna ELDENT
+86-031 Osielsko
+
+#Bank
+
+Santander Bank Polska S.A.
+Centralna 2u
+86-031 Osielsko
+
+Bank Spółdzielczy w Bydgoszczy. Oddział
+Szosa Gdańska 55c
+86-031 Osielsko
+
+Punkt sprzedaży Plusa i Cyfrowego Polsatu
+Galeria Osielsko
+ul
+Szosa Gdańska 49
+86-031 Osielsko
+
+Bankomat Banku Pekao S.A.
+ul. Szosa Gdańska 56
+CH POLO MARKET
+86-031 Osielsko
+
+Bank Polskiej Spóldzielczosci S.A. Bankomat
+Szosa Gdańska 55C
+86-031 Osielsko
+
+Bankomat Santander Bank Polska S.A.
+Centralna 2U
+86-031 Osielsko
+
+Pekao SA
+Szosa Gdańska 56
+86-031 Osielsko
+
+Euronet
+Szosa Gdańska 49
+86-031 Osielsko
+
+Euronet Polska Sp z o. o.
+Biedronka
+Ziołowa 2
+86-031 Osielsko
+
+C&L Immobilien Sp. z o.o.
+Słoneczna 21
+86-031 Osielsko
+
+BP
+Szosa Gdańska 83
+86-031 Osielsko
+
+Planet Cash. Wpłatomat
+Szosa Gdańska 49
+86-031 Osielsko
+
+PKO Bank Polski S.A.- Bankomat
+ul
+Szosa Gdańska 49
+86-031 Osielsko
+
+#Oddział
+
+EKO-INSTAL R. Chabowski Sp. J. Oddział Osielsko
+ul
+Szosa Gdańska 29
+86-031 Osielsko
+
+IGLOTECH Sp. z o.o.
+Szosa Gdańska 25
+86-031 Osielsko
+
+Polisa. Agencja ubezpieczeniowa PZU. Oddział. Fiegel I.
+Szosa Gdańska 49
+86-031 Osielsko
+
+Dr N. Med. Andrzej Palewicz
+Koperkowa 2
+86-031 Osielsko
+
+Iglotech
+Szosa Gdańska 25
+86-031 Osielsko
+
+Green Floor
+Szosa Gdańska 1
+86-031 Osielsko
+
+Yama Sp. z o.o. Autoryzowany dealer Nissan i Suzuki
+Szosa Gdańska 28
+86-031 Osielsko
+
+Auto-Polo s.c. Autokomis
+Szosa Gdańska 21
+86-031 Osielsko
+
+#Produkcja
+
+Politech Sp. z o.o.
+Jana Pawła II 79
+86-031 Osielsko
+
+#Klub
+
+Uczniowski Klub Sportowy Dęby Osielsko
+Centralna 7
+86-031 Osielsko
+
+Fithouse Sport Club
+Botaniczna 1
+86-031 Osielsko
+
+Gminny Ośrodek Kultury
+Szosa Gdańska 57
+86-031 Osielsko
+
+#Poczta
+
+Poczta Polska
+Centralna 3
+86-031 Osielsko
+
+Urząd Pocztowy
+Szosa Gdańska 49
+86-031 Osielsko
+
+Paczkomat InPost
+Szosa Gdańska 83
+86-031 Osielsko
+
+Paczkomat InPost
+Szosa Gdańska 34
+86-031 Osielsko
+
+e-office24.pl - Twoje Wirtualne Biuro
+Centralna 2T
+86-031 Osielsko
+
+Straż Gminna
+86-031 Osielsko; Centralna 6
+86-031
+
+Paczkomat InPost
+Centralna 17
+86-031 Osielsko
+
+Urząd Stanu Cywilnego
+Szosa Gdańska 55a
+86-031 Osielsko
+
+Zespół do spraw oświaty
+Centralna 6
+86-031 Osielsko
+
+Wydział Komunikacji Osielsko
+Centralna 6
+86-031 Osielsko
+
+Opiekun RODO
+Jana Pawła II 73
+86-031 Osielsko
+
+#ZUS
+
+Nadleśnictwo Żołędowo
+Parkowa 4A
+86-031 Osielsko
+
+#PZU
+
+Multiagencja Panorama Ubezpieczeń
+Centralna 12A
+86-031 Osielsko
+
+#Centrum
+
+Cyprysik. Sklep ogrodniczy. Krygier J.
+86-031 Osielsko; Szosa Gdańska 54
+
+Maturus
+Centralna 7
+86-031 Osielsko
+
+Gorzycki - Okręgowa Stacja Kontroli Pojazdów, Serwis, Naprawa samochodów, Ubezpieczenia
+Szosa Gdańska 23
+86-031 Osielsko
+
+======================================================================
+86-022 STRZELCE DOLNE
+
+#Ośrodek
+
+Agroturystyka Anna i Józef Czerniak. Noclegi koło Bydgoszczy
+Strzelce Dolne 25
+86-022 Strzelce Dolne
+
+#Dom kultury
+
+Oscar
+Strzelce Dolne 27
+86-022 Strzelce Dolne
+
+Agroturystyka Śliwkowy sad
+Strzelce Dolne 40
+86-022 Strzelce Dolne
+
+#Szpital
+
+Agroturystyka u "Krakosika" Agroturystyka. Tanie Noclegi Pracownicze. Pokoje koło Bydgoszczy
+Strzelce Dolne 36B
+86-022 Strzelce Dolne
+
+Saj Waldemar Saj
+Strzelce Dolne 45
+86-022 Strzelce Dolne
+
+Gospodarstwo Rolne
+Strzelce Dolne 49
+86-022 Strzelce Dolne
+
+Sołtys
+86-022 Strzelce Dolne42
+
+======================================================================
+86-022 TRZĘSACZ
+
+======================================================================
+86-022 KOZIELEC
+
+#Przedszkole
+
+Szkoła Podstawowa w Kozielcu
+Kozielec 24
+86-022 Kozielec
+
+#Produkcja
+
+LAMIPLAST
+Kozielec 15
+86-022 Kozielec
+
+#Fundacja
+
+Fundacja Imerion
+Kozielec 2
+86-022 Kozielec
+
+#Poczta
+
+Kościół Niepokalanego Poczęcia NMP w Kozielcu
+86-022 Kozielec
+
+Zagroda edukacyjna
+Kozielec 22
+86-022 Kozielec
+
+Fundacja W788
+Kozielec 39a
+86-022 Kozielec
+
+Cmentarz Ewangelicki
+86-022
+87-152 Kozielec
+
+Szkoła Podstawowa im. Ligi Kobiet Polskich
+86-022
+Kozielec
+
+"Auto-Aleks" Aleksander Mieloch
+Kozielec 43
+86-022 Kozielec
+
+Klinika Now-Med. Andrzej Nowicki
+Kozielec 20
+86-022 Kozielec
+
+======================================================================
+86-070 CZARŻE
+
+#Przedszkole
+
+Przedszkole Publiczne w Czarżu
+Chełmińska 47
+86-070 Czarże
+
+#Uniwersytet
+
+Szkoła Podstawowa
+86-070 Czarże; 47
+86-070
+
+#Biblioteka
+
+Biblioteka publiczna
+Chełmińska 66
+86-070 Czarże
+
+#Przychodnia
+
+Ośrodek Zdrowia
+Chełmińska 38
+86-070 Czarże
+
+#Poczta
+
+Ochotnicza Straż Pożarna
+Chełmińska 66
+86-070 Czarże
+
+======================================================================
+86-070 GZIN
+
+#Szkoła
+
+EkoGościniec Pachotówko - Gospodarstwo ekoagroturystyczne
+Gzin 
+ul. Długa 30
+86-070 Gzin
+
+Odido
+Gzin 23
+86-070 Gzin
+
+Gzinianka - Green House. Agroturystyka
+Gzin 76
+86-070 Gzin
+
+Ochotnicza Straż Pożarna
+86-070 Gzin
+
+Gospodarstwo Agroturystyczne Zacisze
+Gzin 39
+86-070 Gzin
+
+Grodzisko Gzin
+86-070 Gzin
+
+#Związek
+
+Stowarzyszenie Psów i Kotów Rasowych Petrus
+Gzin Dolny 9 a
+86-070 Gzin Dolny
+
+======================================================================
+86-260 RACINIEWO
+
+#Bank
+
+Gazmar
+Bydgoska 2
+86-260 Raciniewo
+
+Auto-Land
+Bydgoska 7
+86-260 Raciniewo
+
+#Spółdzielnia
+
+Spółdzielnia Mieszkaniowa
+86-260 Raciniewo
+
+#Poczta
+
+InPost - Punkt Obsługi Paczek (POP)
+Bydgoska 2
+86-260 Raciniewo
+
+Leśnictwo Raciniewo. Nadleśnictwo Toruń
+Bydgoska 33
+86-260 Raciniewo Leśniczówka
+
+======================================================================
+86-260 UNISŁAW
+
+#Urząd
+
+Urząd Gminy Unisław
+Parkowa 20
+86-260 Unisław
+
+#Ośrodek
+
+Gminny Ośrodek Zdrowia
+Parkowa 16
+86-260 Unisław
+
+#Dom kultury
+
+Gminny Ośrodek Kultury w Unisławiu
+Parkowa 22
+86-260 Unisław
+
+#Szkoła
+
+Zespół Szkół W Unisławiu
+Lipowa 31
+86-260 Unisław
+
+#Przedszkole
+
+Niepubliczne Przedszkole ZIELONY ZAKĄTEK
+Lipowa 31A
+86-260 Unisław
+
+#Biblioteka
+
+Gminna Biblioteka Publiczna
+Parkowa 22
+86-260 Unisław
+
+#Bank
+
+SGB Bank Spółdzielczy w Toruniu (Oddział w Unisławiu)
+Wiślana 8
+86-260 Unisław
+
+#Produkcja
+
+Hungar-Pol Sp. z o.o. PPUH
+Lipowa 2
+86-260 Unisław
+
+Meble-Unisław Zubała
+Głażewska 2B
+86-260 Unisław
+
+EUROCOLOR Okna i Drzwi - Salon Sprzedaży
+Chełmińska 42A
+86-260 Unisław
+
+H & H. pw. Hennig p.
+Lipowa 2
+86-260 Unisław
+
+Trawniki Szybko
+34a
+86-260 Unisław
+
+Ritter
+Wiślana 10
+86-260 Unisław
+
+U Bułgara
+Chełmińska 37
+86-260 Unisław
+
+P.H.U. Artdom Dariusz Gwarek
+Lipowa 7
+86-260 Unisław
+
+Pracownia Artystyczna Vintage Your Style Agnieszka Świć
+Ul. Wyspiańskiego 1
+86-260 Unisław
+
+Unamel
+Chełmińska 1
+86-260 Unisław
+
+Słaf-Tech
+Toruńska 5
+86-260 Unisław
+
+Produkcja Handel Usługi "Artdom" Dariusz Gwarek
+Dworcowa 24
+86-260 Unisław
+
+Produkcja Kotły C.O. Stanisław Łupkowski
+Kwiatowa 5
+86-260 Unisław
+
+#Spółdzielnia
+
+Unisławska Spółdzielnia Socjalna UNI-ZIEL
+Parkowa 20
+86-260 Unisław
+
+#Klub
+
+KS Unislavia Unisław
+Chełmińska 67A
+86-260 Unisław
+
+Klub Magazyn
+Parkowa 19
+86-260 Unisław
+
+Aspen
+Wiślana 10
+86-260 Unisław
+
+Koło Łowieckie Bażant
+Lipowa 55
+86-260 Unisław
+
+Unislavia. Klub sportowy
+Parkowa 20
+86-260 Unisław
+
+Siłownia Mocar
+Spokojna 19
+86-260 Unisław
+
+Poczta Polska
+Parkowa 20
+86-260 Unisław
+
+Stowarzyszenie na rzecz Osób Niepełnosprawnych "Iskierka"
+Lipowa 33
+86-260 Unisław
+
+Błażex sp.j. FH
+Parkowa 19
+86-260 Unisław
+
+#Firma
+
+Budownictwo Pasywne i Energooszczędne Anna Krause
+Chełmińska 42A
+86-260 Unisław
+
+Budekspert - Biuro Projektów Budowlanych
+Chełmińska 69/2
+86-260 Unisław
+
+Firma APIO Usługi transportowe Piotr Siębor
+Bruki Unisławskie 79
+86-260 Bruki Unisławskie
+
+FHU Eko Term Daniel Borowiec - Wdmuchiwanie Izolacji i ocieplanie budynków
+Ogrodowa 9
+86-260 Unisław
+
+Eko-Tech
+Chełmińska 72
+86-260 Unisław
+
+Eko-Tech-Inwest / ATAG
+Chełmińska 36
+86-260 Unisław
+
+Adamex s.c.
+Szymanowskiego 6
+86-260 Unisław
+
+Qna Ochrona
+Na Skarpę 3
+86-260 Unisław
+
+Finc S.K. Firma piekarniczo - cukiernicza
+Magazynowa 1
+86-260 Unisław
+
+Montaż i ustawianie anten satelitarnych Ryszard Szerechan
+Lipowa 26
+86-260 Unisław
+
+Agromix. Sprzedaż nawozów
+Dworcowa 3a
+86-260 Unisław
+
+Usługi geodezyjne GEOMAX Łukasz Szpak
+Toruńska 33
+86-260 Unisław
+
+#Poczta
+
+Poczta Polska (Post Office - Unisław)
+Parkowa 20
+86-260 Unisław
+
+#PZU
+
+Pośrednictwo ubezpieczeniowe
+Parkowa 17
+86-260 Unisław
+
+#muzeum
+
+wzgórze zamkowe
+Unnamed Road
+86-260 Unisław
+
+#Klub Seniora
+
+Dzienny Dom Pobytu Seniora
+Lipowa 35-27
+86-260 Unisław
+
+#Centrum
+
+Hi5 Centrum Językowe
+Wiślana 8
+86-260 Unisław
+
+Active
+Chełmińska
+86-260 Unisław
+
+Dawna cukrownia Unisław
+Żwirki i Wigury
+86-260 Unisław
+
+Fhu Arpol Spółka Z Ograniczoną Odpowiedzialnością
+Parkowa 29
+86-260 Unisław
+
+Grupa AA Nadzieja
+Parkowa 22
+86-260 Unisław
+
+Jarząb B. Piekarnia, ciastkarnia Unisław
+Rynkowa 1
+86-260 Unisław
+
+Magiczny Stok w Unisławiu
+PL
+86-260 Raciniewo
+
+UKS Kmicic Unisław
+Lipowa 31
+86-260 Unisław
+
+Unisław Pomorski
+Dworcowa 5
+86-260 Unisław
+
+Rachmedia
+Wiślana 19
+86-260 Unisław
+
+Bułgar. Sklep wielobranżowy. Grozdew I.
+Chełmińska 63
+86-260 Unisław
+
+Góra Zamkowa Unisław
+86-260 Unisław
+
+Apteka "Unisław"
+Wiślana 18a
+86-260 Unisław
+
+======================================================================
+86-260 BŁOTO
+
+======================================================================
+87-152 WYBCZ
+
+#Szkoła
+
+Szkoła Podstawowa
+Konopnickiej 4
+87-152 Wybcz
+
+#Klub
+
+Eden
+gen. Władysława Sikorskiego 8
+87-152 Wybcz
+
+#Poczta
+
+Ochotnicza Straż Pożarna
+Strażacka 1
+87-152 Wybcz
+
+======================================================================
+86-260 GRZYBNO
+
+#Dom kultury
+
+Świetlica wiejska
+Grzybno 57
+86-260 Grzybno
+
+#Przedszkole
+
+Przedszkole Kubuś Puchatek
+Grzybno 61
+86-260 Grzybno
+
+#Uniwersytet
+
+Szkoła Podstawowa w Grzybnie
+Grzybno 61
+86-260 Grzybno
+
+#Poczta
+
+Ochotnicza Staż Pożarna Grzybno
+Grzybno 57
+86-260 Grzybno
+
+======================================================================
+87-140 NAWRA
+
+#Szkoła
+
+Pałac
+87-140 Nawra
+
+#Stowarzyszenie
+
+Stowarzyszenie Działamy Razem
+Nawra 5/1
+87-140 Chełmża
+
+#Poczta
+
+Figurka Św. Jana Nepomucena
+87-140 Nawra
+
+Kościół Rzymskokatolicki pw. Katarzyny Aleksandryjskiej
+Nawra
+DW551
+87-140
+
+======================================================================
+87-140 KOŃCZEWICE
+
+#Szkoła
+
+Szkoła Podstawowa nr 2 im. Jana Pawła II
+Kończewice 12
+87-140 Kończewice
+
+#Bank
+
+Respol. Jagodziński E.
+87-140 Kończewice; 62 A
+87-140
+
+#Produkcja
+
+Gran-Fol Krzysztof Fałkowski
+Kończewice 2
+87-140 Kończewice
+
+#Poczta
+
+Kościół pw. Św. Jana Pawła II
+Kończewice 46
+87-140 Kończewice
+
+Figurka Jezusa
+Kończewice 28
+87-140 Kończewice
+
+======================================================================
+87-140 BIELCZYNY
+
+#Poczta
+
+Kościół Rzymskokatolicki bł. Juty
+87-140 Bielczyny
+
+Boisko - Bielczyny
+Bielczyny 34
+87-140 Bielczyny
+
+======================================================================
+86-253 TRZEBCZ SZLACHECKI
+
+#Dom kultury
+
+Świetlica Wiejska
+Trzebcz Szlachecki 24A
+86-253 Trzebcz Szlachecki
+
+#Szkoła
+
+Szkoła Podstawowa
+Trzebcz Szlachecki 18
+86-253 Kijewo Królewskie
+
+#Poczta
+
+Ochotnicza Straż Pożarna Trzebcz Szlachecki
+Trzebcz Szlachecki 24A
+86-253 Trzebcz Szlachecki
+
+Figurka Św. Antoniego Padewskiego
+86-253 Trzebcz Szlachecki
+
+PIT-SPEED
+Za Torem 84
+86-253 Trzebcz Szlachecki
+
+Lewiatan
+Trzebcz Szlachecki 16A
+86-253 Trzebcz Szlachecki
+
+Trzebcz Szlachecki 16
+Trzebcz Szlachecki 13
+86-253 Trzebcz Szlachecki
+
+Sołtys
+86-253 Trzebcz Szlachecki; 52
+Marianki
+86-253
+
+Zabytkowy Park Dworski
+86-253 Trzebcz Szlachecki
+
+======================================================================
+86-260 STABLEWICE
+
+#Bank
+
+Stabrol. Gospodarstwo rolne
+Stablewice 32
+86-260 Stablewice
+
+forbibi.pl
+Stablewice 32/3
+86-260 Stablewice
+
+======================================================================
+86-253 BAJERZE
+
+#Dom kultury
+
+Świetlica Wiejska
+86-253 Bajerze
+
+#Szkoła
+
+Pałac Bajerskich
+86-253 Bajerze
+
+Kościół pw. Chrystusa Króla
+Bajerze 35
+86-253 Bajerze
+
+Towarzystwo Błogosławionego Zefiryna
+86-253 Bajerze
+
+#Poczta
+
+Bractwo Kapłańskie św. Piusa X
+86-253 Bajerze
+
+======================================================================
+86-221 ZEGARTOWICE
+
+#Szkoła
+
+Szkoła Podstawowa im. R. Traugutta
+Zegartowice; 13
+86-221
+
+#Bank
+
+P.W. ASTRA Anna Pelplińska
+Zegartowice 7
+86-221 Zegartowice
+
+======================================================================
+86-221 PAPOWO BISKUPIE
+
+#Urząd
+
+Urząd Stanu Cywilnego
+Papowo Biskupie 128
+86-221 Papowo Biskupie
+
+#Ośrodek
+
+Gminny Ośrodek Kultury
+86-221 Papowo Biskupie
+
+#Szkoła
+
+Gimnazjum
+86-221 Papowo Biskupie
+
+#Biblioteka
+
+Gminna Biblioteka Publiczna
+86-221 Papowo Biskupie
+
+#Szpital
+
+Ośrodek Zdrowia
+Papowo Biskupie 24
+86-221 Papowo Biskupie
+
+#Bank
+
+SGB Bank Spółdzielczy w Toruniu (Punkt Obsługi Klienta w Papowie Biskupim)
+Papowo Biskupie 131
+86-221 Papowo Biskupie
+
+#Klub
+
+LKS Kasztelan Papowo Biskupie
+127b
+Papowo Biskupie 86-221
+86-221 Papowo Biskupie
+
+#Poczta
+
+Urząd Pocztowy
+Papowo Biskupie 120
+86-221 Papowo Biskupie
+
+#ZUS
+
+Urząd Pocztowy - Papowo Biskupie
+Papowo Biskupie 120
+86-221 Papowo Biskupie
+
+Urząd Gminy Papowo Biskupie
+Papowo Biskupie 128
+86-221 Papowo Biskupie
+
+Ochotnicza Straż Pożarna
+86-221 Papowo Biskupie
+
+======================================================================
+86-221 JELENIEC
+
+#Poczta
+
+Jeleniec
+86-221 Jeleniec
+
+======================================================================
+86-253 KIJEWO KRÓLEWSKIE
+
+#Urząd
+
+Urząd Gminy Kijewo Królewskie
+Toruńska 2
+86-253 Kijewo Królewskie
+
+#Ośrodek
+
+Samodzielny Publiczny Zakład Opieki Zdrowotnej
+Chełmińska 7B
+86-253 Kijewo Królewskie
+
+#Szkoła
+
+Szkoła Podstawowa w Kijewie Królewskim
+86-253 Kijewo Królewskie; 61
+86-253
+
+#Biblioteka
+
+Biblioteka Publiczna Gminna
+św. Wawrzyńca 6
+86-253 Kijewo Królewskie
+
+#Szpital
+
+Ludowy Klub Sportowy "Pomowiec"
+Chełmińska 9c
+86-253 Kijewo Królewskie
+
+Antidotum. Apteka
+86-253 Kijewo Królewskie
+
+Ochotnicza Straż Pożarna
+Kijewo Królewskie 9A
+86-253 Kijewo Królewskie
+
+Kościół Rzymskokatolicki pw. św. Wawrzyńca
+św. Wawrzyńca 8
+86-253 Kijewo Królewskie
+
+Carrefour Express
+Chełmińska 3
+86-253 Kijewo Królewskie
+
+Salon Fryzjerski Wiola
+Chełmińska 4
+86-253 Kijewo Królewskie
+
+Zakole Dolnej Wisły
+Chełmińska 7b
+86-253 Kijewo Królewskie
+
+Klub Seniora
+św. Wawrzyńca 4
+86-253 Kijewo Królewskie
+
+Sklep Rolniczo - Chemiczny Ilona Chmielewska
+Chełmińska 5
+86-253 Kijewo Królewskie
+
+Pizzeria Fenix. Sobieralska Paulina
+Toruńska 15a
+86-253 Kijewo Królewskie
+
+Przychodnia Weterynaryjna
+Toruńska 3
+86-253 Kijewo Królewskie
+
+#Bank
+
+Mazowiecki Bank Regionalny S.A. Bankomat
+86-253 Kijewo Królewskie
+
+Bank Spółdzielczy w Chełmnie. Oddział
+86-253 Kijewo Królewskie
+
+#Oddział
+
+Zobacz też:
+86-253 Kijewo Królewskie; 61
+86-253
+
+#Poczta
+
+Filia Urzędu Pocztowego Unisław
+św. Wawrzyńca 1
+86-253 Kijewo Królewskie
+
+======================================================================
+86-120 TRĘPEL
+
+======================================================================
+86-212 WABCZ
+
+#Szkoła
+
+Szkoła Podstawowa
+86-212 Wabcz; 59
+
+#Bank
+
+Wabcz Sp. z o.o. Gospodarstwo rolne Produkcja Roślinna
+Wabcz 60
+86-212 Wabcz
+
+#Grupa
+
+FADROL Sp. z o.o. Grupa Producentów Rolnych
+Wabcz 60
+86-212 Wabcz
+
+#Poczta
+
+Kaplica Cmentarna
+86-212 Wabcz
+
+======================================================================
+86-212 STOLNO
+
+#Urząd
+
+Urząd Gminy Stolno
+Stolno 112
+86-212 Stolno
+
+#Szkoła
+
+Szkoła Podstawowa
+Stolno 88
+86-212 Stolno
+
+#Biblioteka
+
+Biblioteka Publiczna Gminna
+86-212 Stolno
+
+#Bank
+
+SGB Bank Spółdzielczy w Toruniu (Punkt Obsługi Klienta w Stolnie)
+Stolno 5
+86-212 Stolno
+
+Mazowiecki Bank Regionalny S.A. Bankomat
+86-212 Stolno
+
+Poczta Polska
+Stolno 112
+86-212 Stolno
+
+#Spółdzielnia
+
+Wiejska Spółdzielnia Handlowo - Produkcyjna
+Stolno 105
+86-212 Stolno
+
+#Inwalidów
+
+Urząd Gminy Stolno (Municipal Office Stolno)
+Stolno 112
+86-212 Stolno
+
+======================================================================
+86-200 KLAMRY
+
+#Bank
+
+Świetlica wiejska
+86-200 Klamry
+
+#muzeum
+
+Fort VIII Twierdzy Chełmno
+86-200 Klamry
+
+======================================================================
+86-200 DOLNE WYMIARY
+
+#Produkcja
+
+AMZII Intelligent Buildings
+Dolne Wymiary 38
+86-200 Dolne Wymiary
+
+======================================================================
+86-200 CHEŁMNO
+
+#Urząd
+
+Urząd Miasta Chełmno
+Dworcowa 1
+86-200 Chełmno
+
+Powiatowy Urząd Pracy w Chełmnie
+Świętojerska 1
+86-200 Chełmno
+
+Starostwo powiatowe
+Harcerska 1
+86-200 Chełmno
+
+Filia Urzędu Pocztowego Chełmno 1
+Młyńska 7
+86-200 Chełmno
+
+Urząd Stanu Cywilnego
+Dworcowa 1
+86-200 Chełmno
+
+Rarusz w Chełmnie
+Rynek 28
+86-200 Chełmno
+
+Poczta Polska
+Rybacka 2
+86-200 Chełmno
+
+#Ośrodek
+
+Specjalny Ośrodek Szkolno-Wychowawczy
+Parkowa 5
+86-200 Chełmno
+
+Komwencja Chełmno Europejskie Centrum Wymiany Młodzieży
+gen. Jastrzębskiego 5
+86-200 Chełmno
+
+Zespół Opieki Zdrowotnej w Chełmnie
+plac Rydygiera 1
+86-200 Chełmno
+
+Ilkam. Ośrodek szkolenia kursowego
+Łożyńskiego 2
+86-200 Chełmno
+
+Nowak Szkoła. Ośrodek kształcenia kierowców
+Dworcowa 39
+86-200 Chełmno
+
+Powiatowy Ośrodek Dokumentacji Geodezyjno - Kartograficznej
+Dworcowa 1
+86-200 Chełmno
+
+Camping nr 138 "Jezioro Starogrodzkie"
+gen. Jastrzębskiego 5
+86-200 Chełmno
+
+Powiatowe Centrum Pomocy Rodzinie
+Słowackiego 3
+86-200 Chełmno
+
+Szkoła Podstawowa Specjalna
+Dworcowa 20
+86-200 Chełmno
+
+Maxpol. Ośrodek Doskonalenia Zawodowego
+Kościuszki 2
+86-200 Chełmno
+
+Chełminski Dom Kultury
+Dworcowa 40a
+86-200 Chełmno
+
+Internat
+Parkowa 5
+86-200 Chełmno
+
+CENTRUM EDUKACYJNE SARAN MARTA SARAN-TABARKIEWICZ
+Dworcowa 7j
+86-200 Chełmno
+
+Dom Gościnny "Pod Górą"
+Podgórna 3
+86-200 Chełmno
+
+Ośrodek Wypoczynkowy
+gen. Jastrzębskiego 5
+86-200 Chełmno
+
+Zakład Doskonalenia Zawodowego Ośrodka Kształcenia Zawodowego
+Kościuszki 11
+86-200 Chełmno
+
+Górka. Gospodarstwo rolne. Ośrodek rekreacji konnej
+osiedle Wybudowanie 1
+86-200 Chełmno
+
+#Szkoła
+
+Zespół Szkół nr 2
+Szkolna 14
+86-200 Chełmno
+
+Szkoła Podstawowa nr 1
+Kościuszki 11
+86-200 Chełmno
+
+ZESPÓŁ SZKÓŁ OGÓLNOKSZTAŁCĄCYCH NR 1
+Dominikańska 35
+86-200 Chełmno
+
+Szkoła Podstawowa nr 2
+22 Stycznia 4
+86-200 Chełmno
+
+Gimnazjum nr 2 Chełmno
+Kościuszki 11
+86-200 Chełmno
+
+Gimnazjum i Liceum Katolickie Księży Pallotynów
+Słowackiego 1
+86-200 Chełmno
+
+Państwowa Szkoła Muzyczna I stopnia
+Świętojerska 3
+86-200 Chełmno
+
+Szkoła Techniczna Bydgoskiego Zakładu Doskonalenia Zawodowego
+Klasztorna
+86-200 Chełmno
+
+Świetlica im. Św. Wincentego a Paulo w Chełmnie
+Dominikańska 40
+86-200 Chełmno
+
+Gabriela Białecka angielski - perski
+Szkolna 4
+86-200 Chełmno
+
+#Przedszkole
+
+Brzdąc. Przedszkole Niepubliczne
+Kościuszki 9
+86-200 Chełmno
+
+Przedszkole nr 2 Miejskie. Tęczowy Zakątek
+Klasztorna 12
+86-200 Chełmno
+
+Calineczka. Przedszkole Niepubliczne
+osiedle Skłodowskiej 10
+86-200 Chełmno
+
+Pinokio. Przedszkole niepubliczne
+Dworcowa 13
+86-200 Chełmno
+
+Bajka. Przedszkole Niepubliczne
+Ignacego Danielewskiego 6
+86-200 Chełmno
+
+Przedszkole niepubliczne Bajka
+Jastrzębia 37
+86-200 Chełmno
+
+#Akademia
+
+Akademia Sportu i Zdrowia "Frączkowski Gym & Fitness"
+Toruńska 27 (wejście od
+Osnowska
+86-200 Chełmno
+
+Nr 1 Im. Akademii Chełmińskiej
+Szkolna 6
+86-200 Chełmno
+
+Football Academy Chełmno
+Dworcowa 27/7
+86-200 Chełmno
+
+#Biblioteka
+
+Miejska Biblioteka Publiczna im. Walentego Fiałka
+aleja 3 Maja 2
+86-200 Chełmno
+
+#Przychodnia
+
+Twój lekarz
+Łunawska 1
+86-200 Chełmno
+
+Szpital Rejonowy im. L. Rydygiera
+plac Rydygiera 1
+86-200 Chełmno
+
+Prywatne gabinety lekarskie
+Dworcowa 18
+86-200 Chełmno
+
+Przychodnia Weterynaryjna S.Fafiński M.Modrzyński T.Plichta
+Krótka 1B
+86-200 Chełmno
+
+Uni-Vet Przychodnia Weterynaryjna
+Kościuszki 6
+86-200 Chełmno
+
+ginekolog Aleksander Stadnicki-Kolendo
+Rybacka 4/7
+86-200 Chełmno
+
+GoStom, Klinika Stomatologii i Medycyny Estetycznej (stomatolog - dentysta, Chełmno)
+Młyńska 4/1
+86-200 Chełmno
+
+Naturalna klinika bioterapia Izabelii Śmiełowskej
+Chabrowa 3
+86-200 Chełmno
+
+#Placówka
+
+PLACÓWKA OPIEKUŃCZO - WYCHOWAWCZA
+l.Danielewskiego 8
+86-200 Chełmno
+
+#Bank
+
+SGB Bank Spółdzielczy w Toruniu (Oddział w Chełmnie)
+Dworcowa 5
+86-200 Chełmno
+
+PKO Bank Polski S.A.-Oddział 1 w Chełmnie
+Dworcowa 10
+86-200 Chełmno
+
+Oddział Millennium
+Dworcowa 3
+86-200 Chełmno
+
+Credit Agricole Bank Polska S.A. - Placówka Partnerska
+Rynek 22
+86-200 Chełmno
+
+Getin Noble Bank S.A. Placówka partnerska
+Dworcowa 17
+86-200 Chełmno
+
+BNP Paribas Bank Polska S.A. Oddział w Chełmnie
+Szkolna 2
+86-200 Chełmno
+
+Alior Bank - Placówka Partnerska
+Grudziądzka 1
+86-200 Chełmno
+
+Bankomat Bank Millennium SA
+Dworcowa 3
+86-200 Chełmno
+
+Bank Spółdzielczy w Brodnicy
+Grudziądzka 16
+86-200 Chełmno
+
+Chelmno
+Dworcowa 2
+86-200 Chełmno
+
+Dom Finansowy QS Chełmno
+Grudziądzka 17
+86-200 Chełmno
+
+Kasa Stefczyka
+Grudziądzka 20
+86-200 Chełmno
+
+Punkt sprzedaży Plusa i Cyfrowego Polsatu
+Grudziądzka 31
+86-200 Chełmno
+
+PKO BP Oddział nr 23
+Grudziądzka 17
+86-200 Chełmno
+
+Bank Spółdzielczy w Brodnicy
+Grudziądzka 16
+86-200 Chełmno
+
+Loombard
+Wodna 17
+86-200 Chełmno
+
+Teja V. Lombard
+Dworcowa 7
+86-200 Chełmno
+
+Fines
+Polna 8
+86-200 Chełmno
+
+PPHU Grażyna Matuszewska
+Toruńska 27
+86-200 Chełmno
+
+#Wydział
+
+Sąd Rejonowy
+Toruńska 3
+86-200 Chełmno
+
+#Policja
+
+Komenda Powiatowa Policji w Chełmnie
+Świętojerska 5
+86-200 Chełmno
+
+#Prokuratura
+
+Prokuratura Rejonowa w Chełmnie
+Krótka 1A
+86-200 Chełmno
+
+#Produkcja
+
+Adriana
+Dworcowa 40
+86-200 Chełmno
+
+Froch. Producent zszywek tapicerskich i stolarskich. Szepietowski C.
+Łunawska 26A
+86-200 Chełmno
+
+Ursus Sp. z o.o. Zakłady sprzętu mechanicznego
+Słowackiego 3
+86-200 Chełmno
+
+Fam-Technika Odlewnicza Sp. z o.o.
+Polna 8
+86-200 Chełmno
+
+Pierzchała Adam. Zakład stolarski
+Konwaliowa 1
+86-200 Chełmno
+
+Przybyszewski A. FHU. Handel maszynami do obróbki metali
+Szosa Grudziądzka 12
+86-200 Chełmno
+
+MAGAW Ochrona Dominik Michałowski
+Grzegorza Gorczyckiego 3
+86-200 Chełmno
+
+Media Expert
+Dojazdowa 1
+86-200 Chełmno
+
+Foxmotors.pl
+Dworcowa 4
+86-200 Chełmno
+
+Paczkowski Zbigniew. Zakład produkcji drzewnej
+Kamionka 3
+86-200 Chełmno
+
+Rzeźnik Chełmiński Skłodowska
+19
+osiedle Skłodowskiej
+86-200 Chełmno
+
+Woj-Bud. Szewc W.
+Biskupia 7
+86-200 Chełmno
+
+Rzeźnik Chełmiński
+Grudziądzka 31
+86-200 Chełmno
+
+Gzella. Delikatesy mięsne
+Dworcowa 16
+86-200 Chełmno
+
+BAJECZNA ZABAWKA
+22 Stycznia 51/4 wejście od ul. Podmurnej
+86-200 Chełmno
+
+Autoryzowana stacja napraw rowerów, motorowerów i motocykli
+Toruńska 62
+86-200 Chełmno
+
+Szutarski Dariusz. Szkolenia i obsługa BHP
+Sowia 2
+86-200 Chełmno
+
+Porkos. Sklep firmowy mięsny
+Młyńska 3
+86-200 Chełmno
+
+Salon meblowy BODZIO
+Łunawska 2
+86-200 Chełmno
+
+Media Expert
+Polna 18
+86-200 Chełmno
+
+#Zakład
+
+Zakład Usług Miejskich
+Przemysłowa 8
+86-200 Chełmno
+
+Zakład Wodociągów i Kanalizacji
+Nad Groblą 2
+86-200 Chełmno
+
+Zakład Wodociągów i Kanalizacji
+Kilińskiego 9
+86-200 Chełmno
+
+Gasikowska Joanna. Zakład fryzjerski
+Rycerska 10
+86-200 Chełmno
+
+Rutkowska Grażyna. Zakład fryzjerski
+Toruńska 7
+86-200 Chełmno
+
+Zakład fryzjerski
+osiedle Skłodowskiej
+86-200 Chełmno
+
+Kozłowski Sławomir Zakład usługowo - handlowo - produkcyjny
+Panieńska 16
+86-200 Chełmno
+
+ZUS Punkt Informacyjny w Chełmnie
+Dworcowa 1
+86-200 Chełmno
+
+Areszt Śledczy
+22 Stycznia 3a
+86-200 Chełmno
+
+Berg Edmund. Zakład ogólnobudowlany
+Powstańców Wielkopolskich 4
+86-200 Chełmno
+
+Adriana SA. Zakład produkcyjny
+Osnowska 30
+86-200 Chełmno
+
+Romięs
+Podgórna 36
+86-200 Chełmno
+
+Hajdera Sławomir. Zakład usługowo - handlowy
+Magazynowa 7
+86-200 Chełmno
+
+Tapicer-Chełmno. FPHU. Produkcja mebli tapicerowanych
+Zakole 2
+86-200 Chełmno
+
+Karola-Duet s.c. ZPU. Błaszczyk L.A.
+Dworcowa 40
+86-200 Chełmno
+
+Sanus. Zakład szwalniczy.Trzeciak K.
+Kamionka 14
+86-200 Chełmno
+
+#Zakłady
+
+Zakład Usług Administracyjnych "OJAR"
+Wojska Polskiego 1A
+86-200 Chełmno
+
+Gryszan Tatiana. Zakład usług transportowych
+Rynek 10
+86-200 Chełmno
+
+#Agencja
+
+Agencja reklamowa Heros
+ul
+Toruńska 68
+86-200 Chełmno
+
+Heros Agencja Reklamowa
+ul
+Toruńska 68
+86-200 Chełmno
+
+Reklama zewnętrzna - tablice informacyjne, banery, szyldy, RUBIKON
+Brzozowa 23
+86-200 Chełmno
+
+CUK Ubezpieczenia Chełmno
+Dworcowa 27
+86-200 Chełmno
+
+CUP Centrum Ubezpieczeń Przerada - Chełmno
+Dworcowa 2
+86-200 Chełmno
+
+Kalkowska Marzanna, agent ubezpieczeniowy
+Młyńska 7A
+86-200 Chełmno
+
+Centrum Nieruchomości Monika Śliwińska
+Rynek 19
+86-200 Chełmno
+
+Chełmińskie Centrum Ubezpieczeń
+gen. Józefa Hallera 2
+86-200 Chełmno
+
+Domo Nieruchomości
+Rynek 25
+86-200 Chełmno
+
+Kalkowska M. Doradca ubezpieczeniowy
+Rycerska 5
+86-200 Chełmno
+
+Agencja Edukacyjna
+Józefa Chociszewskiego 3
+86-200 Chełmno
+
+Evo-Design
+Brzozowa 4
+86-200 Chełmno
+
+Kędzierski Tadeusz. Agencja ubezpieczeniowa
+Toruńska 34
+86-200 Chełmno
+
+Śniegowski Z. Agent ubezpieczeniowy
+Gołębia 8
+86-200 Chełmno
+
+Ergo Hestia S.A. Filia
+Dworcowa 7
+86-200 Chełmno
+
+Smoliński A. Agencja ubezpieczeniowa TUiR Warta S.A.
+Rycerska 13
+86-200 Chełmno
+
+Agent Towarzystwa Ubezpieczeń Warta S.A.
+Rynkowa 4
+86-200 Chełmno
+
+Bigdesign agencja Reklamowa
+86-200 Chełmno
+
+Korzecki Andrzej, agent ubezpieczeniowy Warta S.A.
+Kościuszki 2
+86-200 Chełmno
+
+#Stowarzyszenie
+
+Stowarzyszenie Ludzie – Ludziom
+plac Rydygiera 1
+86-200 Chełmno
+
+Zrzeszenie Właścicieli Nieruchomości
+Rycerska 3
+86-200 Chełmno
+
+Towarzystwo Opieki nad Zwierzętami w Polsce. Koło
+Stare Planty 5A
+86-200 Chełmno
+
+Kujawsko-Pomorskie Stowarzyszenie Paralotniowe
+Żurawia 4
+86-200 Chełmno
+
+KOŁO ŁOWIECKIE "ORZEŁ" W CHEŁMNIE
+ul. Gen. J.Hallera 9/6
+86-200 Chełmno
+
+Spółdzielnia Mieszkaniowa
+Młyńska 7
+86-200 Chełmno
+
+Aparaty Słuchowe Rejowski
+plac Rydygiera 1
+86-200 Chełmno
+
+Pro Theria. Tomaszewski M.
+Józefa Chociszewskiego 6
+86-200 Chełmno
+
+Wiarus. Spółdzielnia Mieszkaniowa
+osiedle Jana Pawła II 3
+86-200 Chełmno
+
+Kościół Rzymskokatolicki pw. Św. Jana Chrzciciela i Jana Ewangelisty
+Dominikańska 40
+86-200 Chełmno
+
+GEERS Dobry Słuch
+Grudziądzka 25
+86-200 Chełmno
+
+#Klub
+
+Rock & Roll Bar
+Młyńska 7
+86-200 Chełmno
+
+Fiałka-3
+Walentego Fiałka 3
+86-200 Chełmno
+
+Tor motocrossowy
+Brzoskwiniowa
+86-200 Chełmno
+
+Gołębiewska Hanna. Firma handlowo - usługowa
+osiedle Jana Pawła II 3
+86-200 Chełmno
+
+Młodzieżowy Chełmiński Klub Koszykówki
+Szkolna 6
+86-200 Chełmno
+
+Nadwiślanin. Klub sportowy
+Rynek 7
+86-200 Chełmno
+
+Klub Turystów Wodnych
+Biskupia 16
+86-200 Chełmno
+
+Fam S.A. Zakładowy klub sportowy
+Kamionka 3
+86-200 Chełmno
+
+Stadion Miejski
+Słowackiego
+86-200 Chełmno
+
+Tarpan. Uczniowski Klub Sportowy
+22 Stycznia 12
+86-200 Chełmno
+
+Kręgielnia Grawitacja
+Młyńska 7/piętro 1
+86-200 Chełmno
+
+Wisła. Klub sportowy
+Rycerska 19
+86-200 Chełmno
+
+Start. Sport i rekreacja
+osiedle Mikołaja Kopernika 1
+86-200 Chełmno
+
+#Towarzystwo
+
+SKET. Chełmińskie Towarzystwo Koszykówki
+Brzozowa 43
+86-200 Chełmno
+
+Consalting Sp. z o.o. Towarzystwo finansowo - handlowe
+Dworcowa 7
+86-200 Chełmno
+
+Oddział PTTK w Chełmnie
+osiedle Mikołaja Kopernika 2
+86-200 Chełmno
+
+Stowarzyszenie Straży Ochrony Przyrody
+Kamionka 3
+86-200 Chełmno
+
+Fundacja "Centrum Dialogu Kultur" im. Jakuba Kołasa
+Podgórna 16
+86-200 Chełmno
+
+Światełko Nadziei. Stowarzyszenie Dzieci, Młodzieży i Osób Niepełnosprawnych
+osiedle Mikołaja Kopernika 8
+86-200 Chełmno
+
+#Fundacja
+
+Dla Dziecka. Fundacja
+Dworcowa 38
+86-200 Chełmno
+
+Fundacja Muzeum Ziemi Chełmińskiej
+Rynek 28
+86-200 Chełmno
+
+Fundacja 9 Hills
+32B
+Łunawska
+86-200 Chełmno
+
+Europejskie Centrum Wymiany Młodzieży im. Kurta Schumachera
+gen. Jastrzębskiego 5
+86-200 Chełmno
+
+#Instytut
+
+Zakład Optyczny Zawadzki Optyk Okulista
+Dworcowa 7
+86-200 Chełmno
+
+Komenda Powiatowa Państwowej Straży Pożarnej
+Łunawska 3a
+86-200 Chełmno
+
+Felsmann Janusz. Zakład elektromechaniczny
+Wodna 11
+86-200 Chełmno
+
+Salon Meblowy Gabryś
+Józefa Chociszewskiego 2
+86-200 Chełmno
+
+Feniks. Zakład naprawy gaśnic
+22 Stycznia 40
+86-200 Chełmno
+
+ENERGA Salon Sprzedaży - Chełmno
+Krótka 2
+86-200 Chełmno
+
+Zakład Wylęgu Drobiu Mariusz Modrzyński
+Osnowska 32
+86-200 Chełmno
+
+#ZNP
+
+Związek Nauczycielstwa Polskiego. Zarząd oddziału
+Grudziądzka 34
+86-200 Chełmno
+
+#PZU
+
+Oddział PZU - Chełmno, Dworcowa
+Dworcowa 16
+86-200 Chełmno
+
+#muzeum
+
+Muzeum Ziemi Chełmińskiej w Chełmnie
+Rynek 28
+86-200 Chełmno
+
+======================================================================
+86-200 BRZOZOWO
+
+#Dom kultury
+
+Świetlica Wiejska
+Brzozowo 72
+86-253 Brzozowo
+
+#Szkoła
+
+Szkoła Podstawowa
+Miodowa 2
+86-200 Brzozowo
+
+#Produkcja
+
+HM Technology
+Brzozowo 96
+86-200 Chełmno
+
+#Klub
+
+Uczniowski Klub Sportowy Brzózki Brzozowo
+Brzozowo 88
+86-253 Brzozowo
+
+#Poczta
+
+Leśnictwo Brzozowo. Nadleśnictwo Zamrzenica
+86-200 Brzozowo
+
+Ochotnicza Straż Pożarna
+Brzozowo 70
+86-253 Brzozowo
+
+Kaplica pw. Podwyższenia Krzyża Świętego w Brzozowie
+Brzozowo 95
+86-253 Brzozowo
+
+#muzeum
+
+Cmentarz Ewangelicki Brzozowo 1782-1945
+Brzozowa
+86-200 Chełmno
+
+======================================================================
+86-200 UŚĆ
+
+======================================================================
+86-200 KAŁDUS
+
+#Szpital
+
+Rutkowski Lech. Przedsiębiorstwo rolno - spożywcze
+Kałdus 16
+86-200 Kałdus
+
+======================================================================
+86-260 KOKOCKO
+
+#Szkoła
+
+Szkoła Podstawowa
+Kokocko 32
+86-260 Kokocko
+
+#Przedszkole
+
+Punkt przedszkolny Fundacji Edukacyjne Drogi Polek i Polaków
+Kokocko; 32
+86-260
+
+#Biblioteka
+
+Biblioteka Publiczna Gminna. Filia
+86-260 Kokocko
+
+#Bank
+
+Arena Club
+86-260 Kokocko
+
+#Agencja
+
+Agencja Pocztowa
+Kokocko 46
+86-260 Kokocko
+
+#Firma
+
+Zobacz też:
+86-260 Kokocko
+
+#Poczta
+
+Ochotnicza Straż Pożarna
+86-260 Kokocko
+
+Kościół Niepokalanego Serca Najświętszej Maryi Panny w Kokocku
+86-260 Kokocko
+
+======================================================================
+86-120 TOPOLNO
+
+#Szkoła
+
+Kościół Rzymskokatolicki Pw. Nawiedzenia NMP
+Topolno 48
+86-120 Topolno
+
+Winnica Przy Talerzyku
+Topolno 20
+86-120 Topolno
+
+#muzeum
+
+Ocalić od zapomnienia
+86-120 Topolno
+
+======================================================================
+86-120 Zbrachlin
+
+#Bank
+
+MOTEL S5 * * * Beata Faleńczyk
+Zbrachlin 44
+86-120 Zbrachlin
+
+#Zakład
+
+FIRMA KLF KLAUDIUSZ FALEŃCZYK,
+Zbrachlin 44
+86-120 Zbrachlin
+
+#Poczta
+
+PW "Zamstal"
+Zbrachlin 28c
+86-120 Zbrachlin
+
+======================================================================
+86-120 NIEWIEŚCIN
+
+#Szkoła
+
+Szkoła Podstawowa im. Marii Konopnickiej
+45
+86-120 Niewieścin
+
+#Produkcja
+
+Niewieścin Sp. z o.o.
+Niewieścin 8
+86-120 Niewieścin
+
+#Instytut
+
+Strefa Restauracyjna Niewieścin
+Niewieścin 8
+86-120 Niewieścin
+
+#muzeum
+
+Zespół Pałacowo-Dworski w Niewieścinie
+Niewieścin 88
+86-120 Niewieścin
+
+======================================================================
+86-105 DWORZYSKO
+
+======================================================================
+86-111 GRUCZNO
+
+#Urząd
+
+Urząd Pocztowy Świecie nad Wisłą 1. Filia
+Wojska Polskiego 2
+86-111 Gruczno
+
+#Ośrodek
+
+Przychodnia Miejsko - Gminna
+Ogrodowa 3
+86-105 Gruczno
+
+#Szkoła
+
+Szkoła Podstawowa im. Jana Pawła II w Grucznie
+Chełmińska 5
+86-105 Gruczno
+
+#Przedszkole
+
+Przedszkole nr 11
+Wojska Polskiego 4
+86-105 Gruczno
+
+#Biblioteka
+
+Miejska Biblioteka Publiczna. Filia nr 3 Gruczno
+Wojska Polskiego 19
+86-111 Gruczno
+
+#Bank
+
+Bank Spółdzielczy w Świeciu Punkt Kasowy w Grucznie
+Wojska Polskiego 7
+86-105 Gruczno
+
+#Spółka
+
+MAC-WIN Sp. z oo
+Świecka 34
+86-111 Gruczno
+
+#Poczta
+
+Poczta Polska
+Wojska Polskiego 2
+86-111 Gruczno
+
+======================================================================
+86-120 PARLIN
+
+#Szkoła
+
+Globi
+86-120 Parlin
+
+#Poczta
+
+Parlin
+86-120 Parlin
+
+======================================================================
+86-122 POLEDNO
+
+#Dom kultury
+
+Pałac Poledno
+Poledno
+86-122 Bukowiec
+
+#Zakłady
+
+Schumacher Packaging Zakład Bydgoszcz Sp. z o.o.
+Poledno 2A
+86-122 Bukowiec
+
+======================================================================
+86-122 RÓŻANNA
+
+#Szkoła
+
+Szkoła Podstawowa im. Ks. Jana Twardowskiego w Różannie
+Różanna 32
+86-122 Różanna
+
+======================================================================
+86-120 GOŁUSZYCE
+
+#Szkoła
+
+Stowarzyszenie Wspierania Osób Niepełnosprawnych
+Gołuszyce
+Pruszcz 26
+86-120 Pruszcz
+
+======================================================================
+86-120 PRUSZCZ
+
+#Urząd
+
+Urząd Gminy
+Główna 33
+86-120 Pruszcz
+
+#Ośrodek
+
+Międzygminny Ośrodek Opiekuńczy
+Łowińska 9
+86-120 Pruszcz
+
+#Szkoła
+
+Szkoła Podstawowa W Pruszczu
+Kościelna 4
+86-120 Pruszcz
+
+#Biblioteka
+
+Gminna Biblioteka Publiczna w Pruszczu
+Sportowa 1
+86-120 Pruszcz
+
+#Szpital
+
+Nowy Szpital Sp. z o.o. NZOZ
+Zamknięta 7
+86-120 Pruszcz
+
+#Bank
+
+Bank Spóldzielczy w Pruszczu Pomorskim Centrala
+Dworcowa 6
+86-120 Pruszcz
+
+Euronet Polska Sp z o. o.
+Biedronka
+Wyzwolenia 2
+86-120 Pruszcz
+
+Bank Spółdzielczy W Pruszczu Pomorskim
+Dworcowa 6
+86-120 Pruszcz
+
+MoneyGram
+Dworcowa 9
+86-120 Pruszcz
+
+Poczta Polska
+Dworcowa 9
+86-120 Pruszcz
+
+AKAP Usługi Księgowe
+Ogrodowa 20
+86-120 Pruszcz Pomorski
+
+Pruszcz Pomorski
+86-120 łowiska
+Łowicka 26
+Bydgoszcz
+
+Urząd Stanu Cywilnego w Pruszczu
+Główna 33
+86-120 Pruszcz
+
+Gminna Spółdzielnia
+Dworcowa 9
+86-120 Pruszcz
+
+Heka. Sp. z o.o. - Producent osłonek do wędlin
+Wyzwolenia 3b
+86-120 Pruszcz
+
+#Policja
+
+Posterunek Policji w Pruszczu
+Główna 33
+86-120 Pruszcz
+
+#Spółka
+
+Gmina Spółka Wodna
+Wyzwolenia 1
+86-120 Pruszcz
+
+#Firma
+
+ECO-Pol Sp. z o.o. Azbest, Eternit, Utylizacja Azbestu
+Dworcowa 9
+86-120 Pruszcz
+
+Malea Packaging
+B
+Słoneczna 1
+86-120 Pruszcz
+
+Ziembud. Prace ziemne, uzbrajanie terenu, przewierty
+Dworcowa 10
+86-120 Pruszcz
+
+MODAX HURTOWNIA MATERIAŁÓW BUDOWLANYCH I INSTALACYJNYCH
+Wyzwolenia 3c
+86-120 Pruszcz
+
+Grene
+Wincentego Witosa 3
+86-120 Pruszcz
+
+Brzdąc
+Główna
+86-120 Pruszcz
+
+Serwis Rowerowy GONCER
+Pocztowa 2/2
+86-120 Pruszcz Pomorski
+
+Kempimar
+plac Poniatowskiego 3
+86-120 Pruszcz
+
+Serwis Wulkanizacja Części ADRA
+Kościelna 3
+86-120 Pruszcz
+
+======================================================================
+86-022 DOBRCZ
+
+#Urząd
+
+Urząd Gminy Dobrcz
+Długa 50
+86-022 Dobrcz
+
+#Dom kultury
+
+Dom Kulltury
+Długa 52
+86-022 Dobrcz
+
+#Szkoła
+
+Szkoła Podstawowa w Dobrczu
+Ul. Długa 33
+86-022
+
+#Biblioteka
+
+Gminna Biblioteka Publiczna w Dobrczu
+Długa 30
+Pocztowa
+86-022 Dobrcz
+
+#Szpital
+
+Gminna Przychodnia Zdrowia w Dobrczu
+Ogrodowa 1
+86-022 Dobrcz
+
+#Bank
+
+Bank Spółdzielczy w Bydgoszczy. Oddział w Dobrczu. Punkt kasowy
+Ogrodowa 1
+86-022 Dobrcz
+
+Bank Spółdzielczy. Filia
+Pocztowa
+86-022 Dobrcz
+
+Bank Spółdzielczy w Bydgoszczy O. Dobrcz zs. w Kotomierzu
+Bankowa 1
+86-022 Kotomierz
+
+#Zakład
+
+Zakład usług komunalnych
+Jesionowa 9
+86-022 Dobrcz
+
+#Klub
+
+Klub Łuczniczy ULKS ZRYW Dobrcz
+Długa 33
+86-022 Dobrcz
+
+KLUB PIĘKNA Gabinet Kosmetyczny
+Osiedlowa 14
+86-022 Dobrcz
+
+Orlik w Dobrczu
+Szkolna 8
+86-022 Dobrcz
+
+Urząd Stanu Cywilnego w Dobrczu
+Ogrodowa 2
+86-022 Dobrcz
+
+Poczta Polska
+Pocztowa 10
+86-022 Dobrcz
+
+#PZU
+
+VB Ubezpieczenia i Finanse Violetta Batka
+Stawowa 2a
+86-022 Dobrcz
+
+======================================================================
+86-022 MAGDALENKA
+
+======================================================================
+86-020 KOTOMIERZ
+
+#Szkoła
+
+Zespół Szkół w Kotomierzu
+Koronowska 2
+86-022 Kotomierz
+
+#Przychodnia
+
+Gminna Przychodnia w Dobrczu, Przychodnia Kotomierz
+Koronowska 4
+86-022 Kotomierz
+
+#Bank
+
+Phinance ● Doradztwo Finansowe
+Lipowa 8
+86-022 Kotomierz
+
+Kotomierz
+86-020 Kotomierz
+
+Przychodnia Zdrowia w Kotomierzu
+Koronowska 4
+86-022 Kotomierz
+
+======================================================================
+86-022 STRONNO
+
+#Bank
+
+Stronno
+Okrężna 3
+86-022 Stronno
+
+======================================================================
+86-022 KAROLEWO
+
+#Szkoła
+
+Zespół Szkół Agro-Ekonomicznych im. Bronisława Zamojdzina
+Karolewo 8
+86-022 Dobrcz
+
+======================================================================
+86-120 ŁOWINEK
+
+#Ośrodek
+
+Strzecha Pod Dębami
+Dębowa 3A
+86-120 Łowinek
+
+#Dom kultury
+
+Dom Kultury w Łowinku
+Postępowa 5a
+86-120 Łowinek
+
+#Przedszkole
+
+Szkoła Podstawowa
+Szkolna 1
+86-120 Łowinek
+
+#Bank
+
+Mechanika Pojazdowa Radosław Orzechowski
+Jedności 6
+86-120 Łowinek
+
+Globi
+Młyńska 11
+86-120 Łowinek
+
+AGRO-ZBYT Skład opału
+Szkolna 1
+86-120 Łowinek
+
+Regeneracja Maszyn Rolniczych Krzysztof Barszcz
+Jedności 17
+86-120 Łowinek
+
+#Firma
+
+ARTUROSS SKUP TRZODY CHLEWNEJ
+Dębowa 32
+86-120 Łowinek
+
+Szkolna 24
+Szkolna 24
+86-120 Łowinek
+
+Ochotnicza Straż Pożarna w Łowinku
+Postępowa 3
+86-120 Łowinek
+
+======================================================================
+86-120 SEROCK
+
+#Szkoła
+
+Szkola Podstawowa w Serocku.
+Wyzwolenia 47
+86-120 Serock
+
+#Przedszkole
+
+Przedszkole samorządowe
+86-120 Serock
+
+#Bank
+
+Bankomat PBS
+Wyzwolenia
+86-120 Serock
+
+Bank Spółdzielczy w Pruszczu Pomorskim
+Wyzwolenia 15
+86-120 Serock
+
+Poczta Polska
+Aleja Adama Mickiewicza 1
+86-120 Serock
+
+Dworzec PKP - Serock
+Kolejowa 1
+86-120 Serock
+
+Pipowska Mirosława. Zakład fryzjerski
+Wąska 8
+86-120 Serock
+
+Punkt Apteczny Jana Pawła II
+Aleja Adama Mickiewicza 8
+86-120 Serock
+
+Carrefour Express
+Wyzwolenia 15
+86-120 Serock
+
+#ZUS
+
+Ochotnicza Straż Pożarna
+Wyzwolenia
+86-120 Serock
+
+======================================================================
+86-022 WUDZYN
+
+#Szkoła
+
+Zespół Szkół w Wudzynie
+Zamkowa 12
+86-022 Wudzyn
+
+#Przychodnia
+
+Gminna Przychodnia Zdrowia w Dobrczu, Przychodnia Wudzyn
+Zamkowa 4
+86-022 Wudzyn
+
+#Bank
+
+Naftrol. Stacja paliw. Siewert N.
+Długa 10
+86-022 Wudzyn
+
+Radex. PW. Radecki J.
+Długa 3
+86-022 Wudzyn
+
+#Zakład
+
+Zakład Stolarski DARMAK Dariusz Makowski
+Kwiatowa 21
+86-022 Wudzyn
+
+======================================================================
+89-526 LUBIEWICE
+
+#Bank
+
+Gościniec Lubiewice
+Lubiewice 14
+89-526 Lubiewice
+
+======================================================================
+89-526 TRUTNOWO
+
+======================================================================
+86-182 ZALESIE KRÓLEWSKIE
+
+#Bank
+
+Izba Regionalna w Zalesiu Królewskim
+Zalesie Królewskie 42
+86-182 Zalesie Królewskie
+
+Chata Pod Strzechą - Bory Tucholskie Agroturystyka Tanie pokoje Tanie noclegi Pokoje pracownicze Noclegi
+Zalesie Królewskie 73
+86-182 Zalesie Królewskie
+
+======================================================================
+89-512 IWIEC
+
+#Dom kultury
+
+Świetlica wiejska Iwiec
+89-512 Iwiec
+
+#Szkoła
+
+Szkoła Podstawowa im. Władysława Broniewskiego w Iwcu
+Iwiec 18
+89-512 Iwiec
+
+#Bank
+
+Leśna Chatka. Gospodarstwo agroturystyczne. Nowogrodzka T.
+Iwiec 31
+89-512 Iwiec
+
+#Jeździecki
+
+Ośrodek Jeździecki Skręt Marek Garlicki
+Iwiec 126
+89-512 Iwiec
+
+======================================================================
+89-505 PUSTELNIA
+
+======================================================================
+89-512 WIERZCHUCIN
+
+#Zakład
+
+Toruńskie Przedsiębiorstwo Przemysłu Drzewnego S.A. Zakład
+89-512 Wierzchucin
+
+======================================================================
+89-505 SUCHOM
+
+======================================================================
+86-141 MUKRZ
+
+#Szkoła
+
+Franke Jerzy. Tynki gipsowe
+86-141 Mukrz; 12
+
+======================================================================
+86-141 BŁĄDZIM
+
+#Szkoła
+
+Szkoła Podstawowa
+Błądzim; 54
+86-141
+
+#Bank
+
+PIT-STOP MECHANIKA POJAZDOWA MICHAŁ BABIŃSKI
+ul.Myśliwska1
+86-141 Błądzim
+
+Karczma RYKOWISKO
+Błądzim 99A
+86-141 Błądzim
+
+Poczta Polska
+Błądzim 31
+86-100 Błądzim
+
+Agencja Pocztowa
+86-141 Błądzim
+
+#Spółka
+
+Zobacz też:
+Błądzim; 54
+86-141
+
+#Poczta
+
+Ochotnicza Straż Pożarna
+Błądzim 12
+86-141 Błądzim
+
+#Inwalidów
+
+PUH. "KULCZYK" Hurtownia budowlana
+86-141 Błądzim; 16
+86-141 Lniano
+
+Kruczkowski Karol. Agroturystyka
+86-183 Błądzim; 3
+
+Błądzim
+86-141
+
+======================================================================
+86-182 SZEWNO
+
+======================================================================
+86-141 LNIANO
+
+#Urząd
+
+Urząd Gminy
+Wyzwolenia 7
+86-141 Lniano
+
+#Dom kultury
+
+Gminna Biblioteka Publiczna w Lnianie
+Wyzwolenia 9
+86-141 Lniano
+
+Ośrodek Zdrowia
+Wyzwolenia 24B
+86-141 Lniano
+
+#Szkoła
+
+Szkoła Podstawowa im. Jana Pawła II
+Szkolna 13
+86-141 Lniano
+
+#Oddział
+
+Bank Spółdzielczy w Osiu. Oddział
+Wyzwolenia 9A
+86-141 Lniano
+
+#Zakłady
+
+Zakłady Mięsne Viola
+Wyzwolenia 13a
+86-141 Lniano
+
+#Poczta
+
+Urząd Pocztowy
+Wyzwolenia 18a
+86-141 Lniano
+
+#Centrum
+
+Galeria Lniano
+Szkolna 18
+86-141 Lniano
+
+Jawi
+Wyzwolenia 20
+86-141 Lniano
+
+Jóskowiak Renata, lek. rodzinny. Gabinet
+86-141 Lniano; Wyzwolenia 20 c
+
+Dentysta
+Wyzwolenia 10
+86-141 Lniano
+
+Dentika. Indywidualna praktyka dentystyczna. Polenceusz K.
+86-141 Lniano; Wyzwolenia 10
+11-041
+
+Górka Mirosław. Autoryzowany diler Sthil. Handel wielobranżowy
+86-141 Lniano; Wyzwolenia 6a
+
+Punkt apteczny
+Wyzwolenia 18
+86-141 Lniano
+
+Apteka
+Dworcowa 4
+86-141 Lniano
+
+Dem-Pol sp.j.
+Kościelna 1
+86-141 Lniano
+
+Lewiatan
+Wyzwolenia 7e
+86-141 Lniano
+
+Urząd Stanu Cywilnego
+Wyzwolenia 7
+86-141 Lniano
+
+======================================================================
+86-122 BRANICA
+
+#Szkoła
+
+Agroturystyka Rumak
+ul. Branica 23 A
+86-122 Bukowiec
+
+======================================================================
+86-122 KRUPOCIN
+
+#Szkoła
+
+🏠 Pokoje Gościnne Krupocin 21
+Krupocin 21
+86-122 Krupocin
+
+Rolnicza Spółdzielnia Produkcyjna
+86-122 Krupocin
+
+Gospodarstwo Wiejskie "U Teresy i Wacława"
+Krupocin 18
+86-122 Krupocin
+
+======================================================================
+86-122 BUKOWIEC
+
+#Urząd
+
+Urząd Gminy
+Ceynowy 14
+86-122 Bukowiec
+
+#Szkoła
+
+Szkoła Podstawowa im. 16. Pułku Ułanów Wielkopolskich
+86-122 Bukowiec; Dworcowa 26
+Dworcowa
+58-420 Bukowiec
+
+#Przedszkole
+
+Publiczne Przedszkole w Bukowcu
+Dr. Floriana Ceynowy 11
+86-122 Bukowiec
+
+#Biblioteka
+
+Gminna Biblioteka Publiczna
+Dworcowa 7
+86-122 Bukowiec
+
+#Przychodnia
+
+Przychodnia gminna ZOZ
+Dr. Floriana Ceynowy 18a
+86-122 Bukowiec
+
+#Bank
+
+Bank Spółdzielczy w Świeciu Oddział w Bukowcu
+Dworcowa 29
+86-122 Bukowiec
+
+#Koło
+
+86-122
+Bukowiec
+Poledno
+Plewno
+Przysiersk
+Polskie Łąki
+WIĘCEJ
+
+#Centrum
+
+Karnowski Recycling
+Wiatrakowa 4
+86-122 Bukowiec
+
+Piekarnia GS Samopomoc Chłopska
+86-122 Bukowiec; 16
+Pułku Ułanów Wielkopolskich
+86-122 Bukowiec
+
+======================================================================
+86-122 BRAMKA
+
+#Firma
+
+Hydro Kar Hydraulika siłowa. Karol Minder
+Bramka 27
+86-122 Bramka
+
+======================================================================
+86-141 SIEMKOWO
+
+#Szkoła
+
+Przedsiębiorstwo Sur-Sped Tomasz Bagiński
+Siemkowo 6
+86-141 Siemkowo
+
+Sklep spożywczo - przemysłowy
+86-141 Siemkowo
+
+======================================================================
+86-141 LUBODZIEŻ
+
+#Szkoła
+
+Gospodarstwo Agroturystyczne "Spełnione Marzenie"
+Lubodzież 31
+86-141 Lubodzież
+
+#Poczta
+
+Leśnictwo Janiagóra. Nadleśnictwo Zamrzenica
+Lubodzież 33
+86-141 Lniano
+
+======================================================================
+86-122 BUDYŃ
+
+#Spółka
+
+Piast. PHU. Kurtys A.
+Budyń 1
+86-122 Budyń
+
+======================================================================
+86-140 DRZYCIM
+
+#Dom kultury
+
+Urząd Gminy w Drzycimiu
+Podgórna 10
+86-140 Drzycim
+
+#Szkoła
+
+Szkoła Podstawowa Zespołu Placówek Oświatowych
+Broniewskiego 2
+86-140 Drzycim
+
+#Bank
+
+Bank Spółdzielczy w Osiu. Oddział
+Dworcowa 8
+86-140 Drzycim
+
+Bank Spółdzielczy. Bankomat
+86-140 Drzycim
+
+Urząd Pocztowy
+Kościelna 2b
+86-140 Drzycim
+
+#Produkcja
+
+Espack Piotr Kufel Producent opakowań tekturowych
+Świecka 12
+86-140 Drzycim
+
+#Zakład
+
+Pukownik Waldemar. Wulkanizacja
+86-140 Drzycim; Kościelna 15
+
+Zrębki Wędzarnicze, Tartak, Zakład Drzewny Janusz Różycki
+Świecka 10
+86-140 Drzycim
+
+Transport Dostawczy Janusz Różycki
+ul. Świecka 10
+Drzycim
+86-140 Drzycim
+
+PHUP HERMET
+2
+Dworcowa 9
+86-140 Drzycim
+
+Schmidt Krzysztof. Kamieniarstwo
+86-140 Drzycim; Świecka 10a
+
+Spółdzielnia Mleczarska
+Podgórna 11
+86-140 Drzycim
+
+Dino
+Drzycim Dworcowa
+Dworcowa
+86-140 Drzycim
+
+Zakład fryzjerski
+86-140 Drzycim
+
+Punkt Apteczny Arnika
+Dworcowa 20
+86-140 Drzycim
+
+======================================================================
+86-140 BIECHOWO
+
+======================================================================
+86-122 PRZYSIERSK
+
+#Szkoła
+
+Szkoła Podstawowa
+Przysiersk 121
+86-122 Przysiersk
+
+#Przedszkole
+
+Przedszkole
+Przysiersk; 31
+86-122
+
+#Biblioteka
+
+Gminna Biblioteka Publiczna - filia w Przysiersku
+Świętego Floriana 3
+86-122 Przysiersk
+
+#Przedsiębiorstwo
+
+Przedsiębiorstwo Wielobranżowe Przysiersk Iwona Kędra Andrzej Kędra Spółka Jawna
+Tucholska 6
+86-122 Przysiersk
+
+#PZU
+
+Kwiaciarnia Maria
+DW240
+86-122 Przysiersk
+
+======================================================================
+86-140 SIEROSŁAW
+
+#Szkoła
+
+Niepubliczna Szkoła Podstawowa z oddziałami przedszkolnymi
+Sierosław 24
+86-140 Sierosław
+
+#Poczta
+
+OSP Sierosław
+86-140 Sierosław
+
+Kapliczka Przydrożna
+86-140 Sierosław
+
+======================================================================
+86-141 BRZEMIONA
+
+#Szkoła
+
+Polana. Agroturystyczne gospodarstwo. Lubińscy M.K.
+86-141 Brzemiona; 3a
+
+Bagniewski Norbert
+Brzemiona 22A
+86-141 Brzemiona
+
+======================================================================
+86-150 GRZYBEK
+
+#Ośrodek
+
+Ośrodek wypoczynkowy Grzybek
+Grzybek 1
+86-150 Grzybek
+
+Ośrodek wypoczynkowy "Białe Błota"
+86-150 Grzybek
+
+Parking ośrodka „Grzybek”
+86-150 Osie
+
+======================================================================
+86-150 ŻUR
+
+#Szkoła
+
+Klub Jeździecki Stajnia Żur
+Żur 2
+86-150 Żur
+
+willa tuŻur
+Żur 2A
+86-150 Osie
+
+Pole biwakowe - ogrodzone
+Żur 85
+86-150 Żur
+
+======================================================================
+86-140 WERY
+
+======================================================================
+86-140 GRÓDEK
+
+#Dom kultury
+
+Publiczne Gimnazjum im. Alfonsa Hoffmana
+ul.
+Szkolna 5
+86-140 Gródek
+
+Czarna Podkowa-Gródek. Jeździecki klub sportowy
+Laskowicka 1
+86-140 Gródek
+
+#Szkoła
+
+Lewiatan
+86-140 Gródek; Wędkarska 1a
+86-140
+
+Marstal - Gródek Sp. z o.o. Konstrukcje stalowe, zbiorniki, rurociągi, hale stalowe
+Inżyniera Alfonsa Hoffmana
+86-140 Gródek
+
+LUNA Dom weselny Sala weselna Restauracja wesele Ślub
+Kościelna 2A
+86-140 Gródek
+
+#Przedsiębiorstwo
+
+Pumat s.c. Pukrop W., Matusiak W.
+Hoffmana 4
+86-140 Gródek
+
+#Produkcja
+
+Vened
+Łąkowa 1
+86-140 Gródek
+
+#Firma
+
+Midroc Rodoverken Production Sp.z o.o.
+Inżyniera Alfonsa Hoffmana 4
+86-131 Gródek
+
+Elektrownie Wodne. Sp. z o.o.
+Hoffmana 1
+86-140 Gródek
+
+EC-SERVICE sp.zo.o.sp.k.
+Alfonsa Hoffmanna 4
+86-140 Gródek
+
+Horse-Music
+Gródek ul.Nowy Świat 1
+86-140
+
+MC LAS
+Gródek ul.Laskowicka 18
+86-140 Drzycim,Świecie
+
+Sklep Firmowy Masarnia Drzycim
+Kościelna 2
+86-140 Gródek
+
+Mobilny Salon Fryzjerski Michalina Wruk
+Podgórna 2c
+86-140 Gródek
+
+Lewiatan
+Laskowicka 7
+86-140 Gródek
+
+Leśnictwo Gródek. Nadleśnictwo Dąbrowa
+Laskowicka 1
+86-140 Gródek
+
+#Poczta
+
+OSP Gródek
+Słoneczna 1B
+86-140 Gródek
+
+#Centrum
+
+Plaża nad Zalewem Gródeckim
+86-140 Gródek
+
+Odido
+Laskowicka 2
+86-140 Gródek
+
+Zespół dworski VENED
+Droga Wojewódzka 239
+86-140 Gródek
+
+EC-SERVICE sp.z o.o.sp.k.
+Gródek ul.A.Hoffmana 4
+86-140 Drzycim
+
+Ruiny Zamku Krzyżackiego W Gródku
+Podgórna 11A
+86-140 Gródek
+
+======================================================================
+86-140 LEOSIA
+
+#Centrum
+
+Kamień św. Wojciecha
+86-131 Leosia
+
+======================================================================
+86-131 BELNO
+
+======================================================================
+86-100 SULNÓWKO
+
+#Ośrodek
+
+Deczno
+Sulnówko 30 D
+86-100 Sulnówko
+
+Ośrodek Wypoczynkowy Deczno
+Sulnówko 30D
+86-100 Sulnówko
+
+Deczno. Ośrodek wypoczynkowy, pole namiotowe, kemping
+86-100 Sulnówko
+
+eko wisla
+Sulnówko 74C
+86-100 Sulnówko
+
+Sklep spożywczy
+Sulnówko 43
+86-100 Sulnówko
+
+ArsLinguistica Anna Kleina
+Sulnówko 63
+86-100 Sulnówko
+
+Yacht Club Morski Columbus
+86-100 Sulnówko
+
+RRConsulting Rafał Rasmus
+Sulnówko 45B
+86-100 Sulnówko
+
+Eko-Wisła Sp. z o.o. Przedsiębiorstwo unieszkodliwiania odpadów
+86-100 Sulnówko; 74c
+86-100
+
+Pałubicki Jan. Zakład usług samochodowych
+Sulnówko 83A
+86-100 Sulnówko
+
+Biuro Ekspertyz i Doradztwa Przyrodniczego Renata Sobieralska
+Bolesława Chrobrego 21
+86-100 Sulnówko
+
+#Poczta
+
+USŁUGI TRANSPORTOWE JANUSZ SZYMAŃSKI
+Sulnówko 43
+86-100 Sulnówko
+
+======================================================================
+86-130 LASKOWICE
+
+#Urząd
+
+Poczta Polska
+Parkowa 2
+86-130 Laskowice
+
+#Dom kultury
+
+Księża Werbiści
+86-130 Laskowice; Długa 44
+DW239
+86-131 Laskowice
+
+#Szkoła
+
+Szkoła Podstawowa w Laskowicach
+Szkolna 6
+86-130 Laskowice
+
+#Przedszkole
+
+Przedszkole Samorządowe
+Długa 2
+86-131 Laskowice
+
+#Biblioteka
+
+Gminna Biblioteka Publiczna W Jeżewie
+Mickiewicza 3A
+86-130 Laskowice
+
+#Bank
+
+Zabytkowy dom w parku Gordonów
+40 A
+Parkowa
+86-130 Laskowice
+
+HEGMAR Sp.Z O.O.
+Oska 20
+86-130 Laskowice
+
+#Zakład
+
+Elwa. Zakład Cukierniczy
+Sienkiewicza 1
+86-130 Laskowice
+
+#Koło
+
+86-130
+Laskowice
+Krąplewice
+
+#Firma
+
+laskowice ul. Czesława Miłosza 7
+Ogrodowa 2B
+86-130 Laskowice
+
+Otlewski Krzysztof. Stolarnia
+Błotna 1
+86-130 Laskowice
+
+Pawel Electric Paweł Zakrzewski
+Parkowa 71
+86-130 Laskowice
+
+ROJAN. Janeczko
+Oska 18
+86-131 Laskowice
+
+Perfect Catering
+Kolejowa 9
+86-131 Laskowice
+
+Bistro L.A
+Kolejowa 4
+86-130 Laskowice
+
+Foto-Karol. Usługi fotograficzne
+86-13O Laskowice; pl. 1 Maja 5
+86-130 Laskowice
+
+Kolportaż Księży Werbistów
+86-130 Laskowice; Długa 44
+DW239
+86-131 Laskowice
+
+Glazik Felicja. Kwiaciarnia
+86-130 Laskowice; pl. 1 Maja
+
+PPH Kompap S.A.
+Parkowa 56
+86-130 Laskowice
+
+Firma IMPRIMUS Sp.z o.o.
+Parkowa 56
+86-130 Laskowice
+
+#Poczta
+
+Paczkomat InPost
+Parkowa 14
+86-131 Laskowice
+
+Dom Misyjny
+Długa 44
+86-130 Laskowice
+
+Kaplica
+Długa
+86-131 Laskowice
+
+Kapliczka przydrożna
+DW272 25-5
+86-130 Laskowice
+
+#Inwalidów
+
+Dino
+Parkowa 9
+86-130 Laskowice
+
+Cmentarz
+Oska 9
+86-130 Laskowice
+
+Laskowice Pomorskie
+86-130 Laskowice
+
+======================================================================
+86-131 JEŻEWO
+
+#Urząd
+
+Urząd Gminy w Jeżewie
+Świecka 12
+86-131 Jeżewo
+
+#Dom kultury
+
+DOM KULTURY
+DW272
+86-131 Jeżewo
+
+#Szkoła
+
+Szkoła Podstawowa im. Adama Mickiewicza w Jeżewie
+DW272 29
+86-131 Jeżewo
+
+#Przedszkole
+
+Przedszkole
+Czerska 2
+86-131 Jeżewo
+
+#Biblioteka
+
+Gminna Biblioteka Publiczna w JJeżewie-Filia Jeżewo
+Główna 2
+86-131 Jeżewo
+
+#Przychodnia
+
+Gminna Przychodnia W Jeżewie
+Czerska 4
+86-131 Jeżewo
+
+#Bank
+
+SGB Bank Spółdzielczy w NowemN/Wisłą Oddział w Jeżewie
+ul
+Główna 8
+86-131 Jeżewo
+
+#Produkcja
+
+Intro Packman
+Laskowicka 1
+86-131 Jeżewo
+
+#Spółdzielnia
+
+Gminna Spółdzielnia ,,Samopomoc Chłopska" w Jeżewie
+Główna 21
+86-131 Jeżewo
+
+Rolnicza Spółdzielnia Usługowo Handlowa Borowiak W Jeżewie
+Laskowicka 6
+86-131 Jeżewo
+
+Tuchmet. Spółdzielnia Inwalidów Branży Metalowej
+Laskowicka 1
+86-131 Jeżewo
+
+Express - Restaurant & Bar
+Dworcowa 4
+86-131 Jeżewo
+
+Lewiatan
+Główna 21
+86-131 Jeżewo
+
+Apteka Pomorska
+Wiatrakowa 2
+86-131 Jeżewo
+
+#Klub
+
+MUSCLE FIT SYSTEM
+Spacerowa
+86-131 Jeżewo
+
+#Poczta
+
+Poczta Polska
+Czerska 4
+86-131 Jeżewo
+
+#PZU
+
+Urząd Gminy Jeżewo
+Świecka 12
+86-131 Jeżewo
+
+#Centrum
+
+Gminny Ośrodek Kultury Jeżewo
+Główna 2
+86-131 Jeżewo
+
+Artum. Szkolenie kierowców
+Kwiatowa 14
+86-131 Jeżewo
+
+Celcom sp. z o.o. - dostawca usług internetowych, Jeżewo
+Dworcowa 2A
+86-131 Jeżewo
+
+Poczta Polska Jeżewo
+Czerska 4
+86-131 Jeżewo
+
+Dworzec PKP Jeżewo
+Dworcowa 8
+86-131 Jeżewo
+
+ABC
+86-131 Jeżewo
+
+Piekarnia - sklep
+86-131 Jeżewo
+
+Kościół Trójcy Świętej w Jeżewie
+Główna 4
+86-131 Jeżewo
+
+Ogrody Germino
+Główna 35
+86-131 Jeżewo
+
+======================================================================
+86-107 WIĄG
+
+#Szkoła
+
+Szkoła Podstawowa
+86-100 Wiąg; 50
+
+szkoła
+DK5 39
+86-100 Wiąg
+
+======================================================================
+86-108 SARTOWICE
+
+======================================================================
+86-130 KRĄPLEWICE
+
+#Szkoła
+
+Szkoła Podstawowa im. Janusza Korczaka
+Krąplewice 30
+86-130 Krąplewice
+
+#Produkcja
+
+Gorzelnia Rolnicza Krąplewice
+86-130 39
+Krąplewice
+
+Agri Plus Sp. z o.o. Wytwórnia Pasz w Krąplewicach
+Krąplewice
+86-130 Laskowice; Pomorskie/k. Świecia
+
+Prosiaczek Sp. z o.o.
+Krąplewice 35
+86-131 Jeżewo
+
+======================================================================
+86-131 SKRZYNKI
+
+======================================================================
+86-131 CZERSK ŚWIECKI
+
+#Bank
+
+P. W. AG-MAR Engineering
+Czersk Świecki 84
+86-131 Czersk Świecki
+
+#Poczta
+
+Straż Leśna
+86-131 Czersk Świecki
+
+Sklep Spożywczo - Przemysłowy
+Czersk Świecki 48
+86-131 Czersk Świecki
+
+Warmbier Piotr. Zakład usług ogólnobudowlanych
+86-131 Czersk Świecki
+
+Cmentarz ewangelicki
+Czerska 52
+86-131 Czersk Świecki
+
+======================================================================
+86-221 DUBIELNO
+
+#Szkoła
+
+Szkoła Podstawowa
+Dubielno; 14
+86-221
+
+======================================================================
+86-150 JASZCZ
+
+======================================================================
+86-150 KWIATKI
+
+======================================================================
+86-150 MIEDZNO
+
+#Szkoła
+
+Różycki Wilkowski S.C. Przedsiębiorstwo Handlowo-Usługowe Zakład Masarski
+Miedzno 32
+86-150 Miedzno
+
+======================================================================
+86-160 RYBNO
+
+======================================================================
+86-131 PIĘĆMORGI
+
+======================================================================
+86-160 LIPINKI
+
+#Szkoła
+
+Szkoła Podstawowa im. Przyjaciół Borów Tucholskich
+Lipinki 12
+86-160 Lipinki
+
+======================================================================
+86-160 ZAMCZYSKA
+
+======================================================================
+86-150 RADAŃSKA
+
+#Poczta
+
+Kruk. Konieczka Tomasz
+86-150 Radańska
+
+======================================================================
+86-150 WAŁKOWISKA
+
+#Poczta
+
+Robel - Zakład Usług Elektrycznych
+34;
+Wałkowiska 86-150
+86-150 Wałkowiska
+
+======================================================================
+86-150 TLEŃ
+
+#Ośrodek
+
+Promyk. Ośrodek rekreacyjno - wypoczynkowy Gzella Sp. z o.o.
+86-150 Tleń; Topolowa 7
+
+Le Quattro Stagioni. Ośrodek wczasowy
+Dębowa 10
+86-150 Tleń
+
+Przystanek Tleń Sp. z o. o.
+Bydgoska 2
+86-150 Tleń
+
+Ośrodek Szkoleniowy BART
+Czerska 8
+86-150 Tleń
+
+Wypożyczalnia sprzętu wodnego PROMYK
+Topolowa 7
+86-150 Tleń
+
+PATEX - Tleń, kemping i pole namiotowe (daw. PTTK)
+Tucholska 10
+86-150 Tleń
+
+PATEX - stanica wodna
+Sosnowa 3
+86-150 Tleń
+
+Prochem
+Dębowa 15
+86-150 Tleń
+
+Centrum Sportu I Rekreacji Geovita W Tleniu
+Czerska 11
+86-150 Tleń
+
+#Dom kultury
+
+Dom Seniora "Tucholanka"
+Bydgoska 4
+86-150 Tleń
+
+#Szkoła
+
+Evita Hotel & SPA
+Czerska 11
+86-150 Tleń
+
+Pensjonat Biała Koszula
+Czerska 8
+86-150 Tleń
+
+Ośrodek Wypoczynkowy PROMYK
+Topolowa 7
+86-150 Tleń
+
+Domek Letniskowy
+Sosnowa
+86-150 Tleń
+
+Spływy kajakowe Wdą - CHOROŚ-KAJAKI
+Czerska 4
+86-150 Tleń
+
+Pole namiotowe i kempingowe Wdeckie Wodne Ochotnicze Pogotowie Ratunkowe
+Czerska 4
+86-150 Tleń
+
+Maria Pokoje do Wynajęcia
+Bydgoska 20
+86-150 Tleń
+
+Tleniowo - agroturystyka
+Dębowa 1B
+86-150 Tleń
+
+Domki wakacyjne Bory Tucholskie
+Leśna 13
+86-150 Tleń
+
+#Bank
+
+Blue Bar. Usługi gastronomiczne. Gaca Z.
+Topolowa 3
+86-150 Tleń
+
+Restuaracja TUCHOLANKA
+Bydgoska 4
+86-150 Tleń
+
+Smażona Ryba Bar
+Bydgoska 3
+86-150 Tleń
+
+Lewiatan
+Tleń
+86-150 Wierzchy
+
+#Klub
+
+Przystań wodna w Tleniu
+Topolowa 7
+86-150 Tleń
+
+#Centrum
+
+Camping „Promyk”
+86-150 Tleń
+
+Przystanek Kolejowy Tleń
+86-150 Tleń
+
+Przystań Kajakarska Tleń
+Bydgoska 4
+86-150 Tleń
+
+Kościół Rzymskokatolicki
+Bydgoska 13
+86-150 Tleń
+
+WOWO Kajaki - Spływy kajakowe w Borach Tucholskich, Wda, Tleń, Tuchola
+Modrzewiowa 1
+86-150 Tleń
+
+Ośrodek Szkolenia Ratowników Wodnych
+86-150 Tleń
+
+======================================================================
+86-150 WIERZCHY
+
+#Ośrodek
+
+Ośrodek Wczasowy Wierzchy
+Wierzchy 41
+86-150 Wierzchy
+
+#Szkoła
+
+Szkoła Podstawowa Wierzchy
+Droga leśna
+86-150 Wierzchy
+
+#Poczta
+
+Oddział Przedszkolny przy Szkole Podstawowej
+86-150 Wierzchy
+
+Lewandrowska Danuta. Sklep spożywczo - przemysłowy
+86-150 Wierzchy
+
+#Centrum
+
+Ośrodek Wczasowy Wierzchy (Comet. Holiday center - camp)
+Wierzchy 41
+86-150 Wierzchy
+
+======================================================================
+86-150 PRUSKIE
+
+======================================================================
+89-505 ZDROJE
+
+#Bank
+
+Poczta Polska
+89-505 Zdroje
+
+Delta Gartenholz Polska Sp. z o.o.
+89-505 Zdroje; 93
+62-004
+
+======================================================================
+89-505 LUDWICHOWO
+
+======================================================================
+89-505 TRZEBCINY
+
+#Urząd
+
+Nadleśnictwo Trzebciny
+Trzebciny 30 Małe Gacno
+89-505 Trzebciny
+
+#PZU
+
+Leśna Kryjówka
+Trzebciny 37B
+89-505 Trzebciny
+
+======================================================================
+89-505 MAŁE GACNO
+
+#Ośrodek
+
+Ośrodek Neuron ♿ Rehabilitacja 🐴 Hipoterapia 😊 Turnusy i zabiegi rehabilitacyjne - Małe Gacno
+Małe Gacno 6
+89-505 Małe Gacno
+
+#Bank
+
+Agrojagienka
+Małe Gacno
+Trzebciny 21
+89-505 Trzebciny
+
+#Centrum
+
+Światowid
+Małe Gacno 31
+89-505 Małe Gacno
+
+Małe Gacno
+89-505
+
+Leśnictwo Smolarnia. Nadleśnictwo Trzebciny
+89-505 Małe Gacno
+
+Leśnictwo Wypalanki. Nadleśnictwo Tuchola
+Wypalanki
+89-505 Małe Gacno
+
+======================================================================
+89-505 WIELKIE GACNO
+
+#Centrum
+
+Zagroda Pod Kozim Rogiem Kamila Wereszko
+Wielkie Gacno 9
+89-505 Wielkie Gacno
+
+Bunkier AK - Jedliny 102
+89-505 Wielkie Gacno
+
+======================================================================
+86-150 STARA RZEKA
+
+#Bank
+
+Spływy Kajakowe Wdą w Borach Tucholskich i na Kociewiu "DARO"
+Stara Rzeka 10
+86-150 Stara Rzeka
+
+Kajaki Sowiński
+Stara Rzeka 21
+86-150 Stara Rzeka
+
+======================================================================
+86-070 DĘBOWIEC
+
+======================================================================
+86-150 POHULANKA
+
+#Poczta
+
+Leśnictwo Pohulanka
+86-150
+
+======================================================================
+86-160 NOWA HUTA
+
+Results found: 1648
