@@ -1,0 +1,2866 @@
+======================================================================
+RYBNIK
+
+#Urząd
+
+Urząd Miasta Rybnik
+Bolesława Chrobrego 2
+44-200 Rybnik
+
+#Ośrodek
+
+Stodoły. Ośrodek szkoleniowo - wypoczynkowy
+Cisowa 2
+44-292 Rybnik
+
+Hotel i Restauracja "Olimpia" - Ośrodek Przygotowań Sportowych
+Hotelowa 12
+44-213 Rybnik
+
+Ośrodek Interwencji Kryzysowej i Psychoterapii
+Bolesława Chrobrego 16
+44-200 Rybnik
+
+Specjalny Ośrodek Szkolno - Wychowawczy
+Mikołowska 21
+44-200 Rybnik
+
+Miejski Ośrodek Sportu i Rekreacji
+Gliwicka 72
+44-200 Rybnik
+
+Ośrodek sportów wodnych i rekreacji
+Rudzka 292
+44-200 Rybnik
+
+Ośrodek Żeglarski "Koga Kotwica"
+Rudzka 244
+44-292 Rybnik
+
+Regionalny Ośrodek Doskonalenia Nauczycieli i Informacji Pedagogicznej. Wojewódzki Ośrodek Metodyczny
+Parkowa 4A
+44-200 Rybnik
+
+Indeks. Ośrodek jeździecki
+Stalowa 1
+44-292 Rybnik
+
+Specjalny Ośrodek Szkolno-Wychowawczy
+Piasta 35
+44-200 Rybnik
+
+HOMOSUM Ośrodek Psychoedukacji
+Świętego Antoniego 10
+44-200 Rybnik
+
+Ośrodek Rekreacyjno - Sportowy RUDA
+Gliwicka 72
+44-200 Rybnik
+
+Andrzej i Syn. Ośrodek Szkolenia Kierowców
+Młyńska 8
+44-200 Rybnik
+
+Ośrodek Leczniczo - Rehabilitacyjny dla Dzieci Niepełnosprawnych im. Jana Pawła II
+ks. Henryka Jośki 55
+44-217 Rybnik
+
+Avant. Ośrodek szkolenia kierowców. Szulik D.
+Kościelna 1
+44-200 Rybnik
+
+Wojewódzki Ośrodek Ruchu Drogowego
+Ekonomiczna 21
+44-207 Rybnik
+
+Powiatowe Centrum Pomocy Rodzinie
+3 Maja 31
+44-200 Rybnik
+
+#Dom kultury
+
+Młodzieżowy Dom Kultury
+Władysława Broniewskiego 23
+44-217 Rybnik
+
+Dom Kultury Niedobczyce
+Barbary 23
+44-270 Rybnik
+
+Dom Kultury Niewiadom
+Ignacego Mościckiego 15
+44-273 Rybnik
+
+Dom Kultury Chwałowice
+44-206 Rybnik
+
+Teatr Ziemi Rybnickiej
+plac Teatralny 1
+44-200 Rybnik
+
+Dom Kultury Boguszowice
+Plac Pokoju 1
+44-253 Rybnik
+
+Klub Kultury Harcówka Teatr Ziemi Rybnickiej
+Zakątek 19
+44-203 Rybnik
+
+Dom Kultury Chwałowice
+1 Maja 91b
+44-206 Rybnik
+
+#Szkoła
+
+Zespół Szkół Technicznych nr 1 im. Stanisława Staszica w Rybniku
+Tadeusza Kościuszki 5
+44-200 Rybnik
+
+Szkoła Podstawowa nr 5 w Rybniku im. Mikołaja Kopernika
+Doktora Mariana Różańskiego 14
+44-200 Rybnik
+
+Zespół Szkół Ekonomiczno-Usługowych w Rybniku
+Świętego Józefa 30
+44-217 Rybnik
+
+Zespół Szkół nr 6 w Rybniku
+Stanisława Małachowskiego 145
+44-251 Rybnik
+
+Zespół Szkół nr 3
+Orzepowicka 15a
+44-200 Rybnik
+
+Szkoła Podstawowa nr 13 im. Bohaterskich Harcerzy Rybnika - Chwałowic
+1 Maja 51
+44-206 Rybnik
+
+Szkoła Podstawowa z Oddziałami Mistrzostwa Sportowego nr 9 im. Adama Mickiewicza w Rybniku
+Cmentarna 1/1
+44-200 Rybnik
+
+Szkoła Podstawowa nr 34 z Oddziałami Integracyjnymi
+Władysława Stanisława Reymonta 69
+44-200 Rybnik
+
+Liceum Ogólnokształcące nr VII. Zespół Szkół nr 5 im J. Rymera
+Józefa Rymera 20a
+44-270 Rybnik
+
+Rybnickie Centrum Edukacji Zawodowej
+Rudzka 13
+44-200 Rybnik
+
+Szkoła Podstawowa nr 3 im. św. Stanisława Kostki w Rybniku
+Wolna 17
+44-203 Rybnik
+
+TEB Edukacja
+Wojciecha Korfantego 6
+44-200 Rybnik
+
+Zespół Szkół Urszulańskich
+3 Maja 22
+44-200 Rybnik
+
+Szkoła Podstawowa nr 2
+Wodzisławska 46
+44-200 Rybnik
+
+Zespół Szkół Budowlanych
+Świerklańska 42
+44-200 Rybnik
+
+Państwowa Szkoła Muzyczna I i II st. im. Karola i Antoniego Szafranków w Rybniku
+Powstańców Śląskich 27
+44-200 Rybnik
+
+Szkoła Podstawowa nr 1 z Oddziałami Integracyjnymi im. J. Korczaka
+Bolesława Chrobrego 29
+44-200 Rybnik
+
+Zespół Szkół Mechaniczno-Elektrycznych im. Tadeusza Kościuszki
+Tadeusza Kościuszki 23
+44-200 Rybnik
+
+Zespół Szkolno-Przedszkolny nr 9
+Wodzisławska 123
+44-200 Rybnik
+
+Szkoła Podstawowa nr 11
+ks. Henryka Jośki 25
+44-217 Rybnik
+
+#Przedszkole
+
+Przedszkole nr 43 w Rybniku
+Władysława Broniewskiego 26
+44-217 Rybnik
+
+Przedszkole nr 21 w Rybniku
+Bracka 9
+44-251 Rybnik
+
+Przedszkole nr 7
+Ludwika Solskiego 2
+44-200 Rybnik
+
+Przedszkole nr 23 w Rybniku - Niedobczycach
+Górnośląska
+44-274 Rybnik
+
+Przedszkole nr 22
+Gotartowicka 24
+44-251 Rybnik
+
+Przedszkole nr 41
+Chabrowa 11
+44-210 Rybnik
+
+Przedszkole nr 25
+Obrońców Pokoju 10B
+44-270 Rybnik
+
+Przedszkole nr 50
+Sztolniowa 29C
+44-251 Rybnik
+
+Przedszkole nr 18 w Rybniku
+Stanisława Małachowskiego 40
+44-251 Rybnik
+
+Przedszkole nr 32
+Gminna 8
+44-213 Rybnik
+
+Przedszkole nr 17 z Oddziałami Integracyjnymi
+Krzyżowa 12
+44-200 Rybnik
+
+Przedszkole nr 1
+Tadeusza Kościuszki 12
+44-200 Rybnik
+
+Przedszkole nr 15
+Osiedle Południe 57
+44-251 Rybnik
+
+Przedszkole nr 3
+Za Torem 3B
+44-203 Rybnik
+
+Przedszkole nr 42
+Stanisława Moniuszki 3
+44-210 Rybnik
+
+Przedszkole nr 20 im. Gurala
+Czwartaków 1
+44-253 Rybnik
+
+Przedszkole nr 11
+Bohaterów Westerplatte 10
+44-217 Rybnik
+
+Przedszkole nr 9
+Henryka Wieniawskiego 9
+44-200 Rybnik
+
+Przedszkole nr 14
+Śląska 1
+44-206 Rybnik
+
+Przedszkole nr 31
+Grodzka 14
+44-292 Rybnik
+
+#Akademia
+
+Uniwersytet Ekonomiczny w Katowicach. Rybnicki Ośrodek Naukowo - Dydaktyczny
+Rudzka 13c
+44-200 Rybnik
+
+#Uniwersytet
+
+Zespół Szkół Wyższych
+Rudzka 13
+44-200 Rybnik
+
+#Politechnika
+
+Politechnika Śląska. Centrum Kształcenia Inżynierów. Studia inżynierskie i licencjackie
+Tadeusza Kościuszki 54
+44-200 Rybnik
+
+#Biblioteka
+
+Powiatowa i Miejska Biblioteka Publiczna im. Konstantego Prusa w Rybniku
+Księdza Józefa Szafranka 7
+44-200 Rybnik
+
+#Szpital
+
+Wojewódzki Szpital Specjalistyczny nr 3 SPZOZ
+Energetyków 46
+44-200 Rybnik
+
+Państwowy Szpital dla Nerwowo i Psychicznie Chorych
+Gliwicka 33
+44-200 Rybnik
+
+Szpital Rynik
+Energetyków 46
+44-200 Rybnik
+
+Centrum Medyczne OnkoTerm
+Rudzka 88
+44-200 Rybnik
+
+#Bank
+
+Nest Bank - oddział w Rybniku
+plac Wolności 14
+44-200 Rybnik
+
+Rybnicki Bank Spółdzielczy
+Rynek 10
+44-200 Rybnik
+
+ING Bank Śląski Oddział w Rybniku
+3 Maja 30
+44-200 Rybnik
+
+Bank Pekao S.A.
+ul. 3-go Maja 10
+44-200 Rybnik
+
+Rybnik I oddział Santander Consumer Bank
+Mikołaja Reja 2
+44-200 Rybnik
+
+PKO Bank Polski S.A.-Oddział 2 w Rybniku
+Zebrzydowicka 3
+44-200 Rybnik
+
+ING Bank Śląski Oddział w Rybniku
+Zebrzydowicka 24A
+44-217 Rybnik
+
+Bank Pekao S.A.
+Bolesława Chrobrego 8
+44-200 Rybnik
+
+Santander Bank Polska S.A.
+3 Maja 30
+44-200 Rybnik
+
+BNP Paribas Bank Polska S.A.
+Łony 7
+44-200 Rybnik
+
+Oddział Millennium
+3 Maja 7
+44-200 Rybnik
+
+Bank Spółdzielczy w Jastrzębiu Zdroju punkt kasowy Rybnik Nowiny
+Kardynała Bolesława Kominka 50
+44-210 Rybnik
+
+Nest Bank - Rybnik (placówka partnerska)
+Raciborska 25
+44-200 Rybnik
+
+Bank Pocztowy
+Pocztowa 2
+44-200 Rybnik
+
+Oddział w Rybniku
+Jankowicka 59
+44-200 Rybnik
+
+PLUS BANK S.A.
+Wiejska 4
+44-200 Rybnik
+
+Alior Bank - Placówka Partnerska
+Kościelna 4
+44-200 Rybnik
+
+Bank Pekao S.A.
+Józefa Rymera 4
+44-270 Rybnik
+
+Bank Spółdzielczy w Rybniku. Punkt kasowy
+Bolesława Chrobrego 2
+44-200 Rybnik
+
+Getin Bank
+Rynkowa 5
+44-200 Rybnik
+
+#Wydział
+
+Sąd Rejonowy w Rybniku
+plac Kopernika 2
+44-200 Rybnik
+
+Starostwo Powiatowe w Rybniku
+3 Maja 31
+44-200 Rybnik
+
+Sąd Rejonowy w Rybniku
+Józefa Piłsudskiego 33
+44-200 Rybnik
+
+#Policja
+
+Komisariat Policji w Rybniku-Boguszowicach
+Osiedle Południe 37A
+44-253 Rybnik
+
+#Prokuratura
+
+Prokuratura Rejonowa w Rybniku
+Bolesława Chrobrego 41
+44-200 Rybnik
+
+#Wojsko
+
+Wojskowa Komenda Uzupełnień w Rybniku
+Józefa Piłsudskiego 2
+44-200 Rybnik
+
+#Przedsiębiorstwo
+
+Przedsiębiorstwo Wodociągów i Kanalizacji Sp. z o.o.
+Pod Lasem 62
+44-210 Rybnik
+
+#Produkcja
+
+Greif Poland Sp. z o.o.
+Przemysłowa 3
+44-203 Rybnik
+
+Kapak. Producent opakowań tekturowych. Szolc M.
+Brzezińska 48d
+44-203 Rybnik
+
+PROFISYSTEM CNC Sp. z o.o.
+39
+Bolesława Chrobrego
+44-200 Rybnik
+
+Vimini
+Rybnicka 15
+44-207 Rybnik
+
+Inter Team. Chemia. Produkcja środków czystości
+Poligonowa 18
+44-251 Rybnik
+
+Grupa Marat
+Brzezińska 8
+44-203 Rybnik
+
+PGE Ekoserwis Sp.z o.o. Biuro Zarządu, Zakład Produkcyjny w Rybniku
+Podmiejska 119A
+44-207 Rybnik
+
+Filtromex. PPHU. Szypuła B.T.
+Żorska 18a
+44-203 Rybnik
+
+FAMUR S.A. Systemy Ścianowe RYFAMA Oddział w Rybniku
+Bolesława Chrobrego 39
+44-200 Rybnik
+
+Yano Sp. z o.o.
+Podmiejska 69
+44-207 Rybnik
+
+PGE Energia Ciepła
+Podmiejska
+44-207 Rybnik
+
+#Zakład
+
+ZUS Oddział w Rybniku
+Reymonta 2
+44-200 Rybnik
+
+#Agencja
+
+NoMonday Sp. z o.o.
+Przemysłowa 3
+44-203 Rybnik
+
+Grafnet Kinga Lewandowska
+Raciborska 74B
+44-200 Rybnik
+
+Roma. Agencja nieruchomości. Brzezina B.
+Raciborska 9
+44-200 Rybnik
+
+Nextday
+Prosta 135B
+44-200 Rybnik
+
+VIMEX REKLAMA
+Rudzka 115
+44-200 Rybnik
+
+FlatArt
+Żorska 234
+44-203 Rybnik
+
+JU: sp. z o.o.
+Raciborska 35A
+44-200 Rybnik
+
+Soley. Agencja nieruchomości, kredyty
+Tadeusza Kościuszki 59
+44-200 Rybnik
+
+A.Media. Agencja reklamowa. Musioł A.
+Bolesława Chrobrego 25
+44-200 Rybnik
+
+Fabryka Barw
+Wodzisławska 190
+44-200 Rybnik
+
+Sobaszek A. Handel i pośrednictwo handlowe
+Wodna 10
+44-200 Rybnik
+
+RightBrain Interactive
+Mała 31
+44-200 Rybnik
+
+E-graficy
+Wyzwolenia 45
+44-200 Rybnik
+
+Perspective Minds | Reklama Grafika Foto Strony internetowe Rybnik
+Stanisława Małachowskiego 70
+44-251 Rybnik
+
+ORTH Multimedia
+Wodzisławska 112
+44-200 Rybnik
+
+Plastograf
+Ogródki 6a
+44-200 Rybnik
+
+RM Concept. Studio reklamy
+Reymonta 20
+44-200 Rybnik
+
+LOREM
+Rudzka 162
+44-200 Rybnik
+
+"ET" Nieruchomości
+Rynek 1
+44-200 Rybnik
+
+#Spółdzielnia
+
+Rybnicka Spółdzielnia Mieszkaniowa
+Wyzwolenia 35
+44-200 Rybnik
+
+Spółdzielnia Mieszkaniowa "Południe"
+os. Południe 37
+44-253 Rybnik
+
+Administracja os. Nowiny Rybnickiej Spółdzielni Mieszkaniowej
+Chabrowa 1b
+44-210 Rybnik
+
+Administracja os. Nowiny Rybnickiej Spółdzielni Mieszkaniowej
+Władysława Broniewskiego 23
+44-217 Rybnik
+
+Spółdzielnia Mieszkaniowa
+Podmiejska 48
+44-207 Rybnik
+
+Administracja os. Dąbrówki Rybnickiej Spółdzielni Mieszkaniowej
+Dąbrówki 15a
+44-210 Rybnik
+
+Rybnicka Spółdzielnia Mieszkaniowa
+Gustawa Morcinka 3
+44-273 Rybnik
+
+Rybnicka Spółdzielnia Mieszkaniowa. Administracja
+Smolna 27C
+44-200 Rybnik
+
+Rybnicka Spółdzielnia Mieszkaniowa. Administracja
+Sławików 6
+44-200 Rybnik
+
+Rybnicka Spółdzielnia Mieszkaniowa
+Saint Vallier 4
+44-200 Rybnik
+
+Administracja os. Rybnik-Chwałowice Rybnickiej Spółdzielni Mieszkaniowej
+1 Maja 95
+44-206 Rybnik
+
+Centrum. Spółdzielnia Mieszkaniowa
+Śląska 18
+44-206 Rybnik
+
+#Klub
+
+Night Club Columbiana
+1
+plac Wolności
+Rybnik
+
+Klub Imperium
+Raciborska 9a
+44-200 Rybnik
+
+Ambrozja Exclusive Music Club, Cafe & Coctail Bar
+Wojciecha Korfantego 6
+44-200 Rybnik
+
+ROW Rybnik
+Gliwicka 72
+44-200 Rybnik
+
+MKMŻ Rybki Rybnik
+Pod Hałdą 37A
+44-206 Rybnik
+
+Sub-Club
+Józefa Piłsudskiego 4
+44-200 Rybnik
+
+Face 2 Face
+Wiejska 1A
+44-200 Rybnik
+
+Kulturalny Club
+Rynek 3
+44-200 Rybnik
+
+Klub Sportowy Rymer Rybnik
+Górnośląska 46
+44-270 Rybnik
+
+Luzztro Club
+Pasaż Sobieskiego 15
+44-200 Rybnik
+
+Wrotkarnia Roller Cafe Club wrotkarniarybnik.pl
+Kardynała Bolesława Kominka 15E
+44-217 Rybnik
+
+Klub Piłkarski "Kamień"
+Hotelowa 28A
+44-213 Rybnik
+
+Monster Akademia Rio Grappling Club Rybnik
+Władysława Broniewskiego 23
+44-217 Rybnik
+
+MKS LOK Rybnik - Klub Strzelecki
+Prosta 11
+44-200 Rybnik
+
+KS Polonia Rybnik
+Powstańców Śląskich 42
+44-200 Rybnik
+
+Stowarzyszenie Miłośników Kotów Cat Club Rybnik - CCR
+Pod Lasem 43
+44-210 Rybnik
+
+Kejza Team Rybnik
+Grunwaldzka 46
+44-200 Rybnik
+
+Klub Żeglarski CIOSEK
+Rudzka 238
+44-292 Rybnik
+
+Ludowy Klub Sportowy Płomień Ochojec
+Cystersów 34
+44-207 Rybnik
+
+#Koło
+
+Polski Związek Wędkarski Koło nr.49 Rybnik
+Władysława Stanisława Reymonta 69
+44-200 Rybnik
+
+#Fundacja
+
+FPD - Subkonta
+Jankowicka 9
+44-201 Rybnik
+
+Fundacja PGE Energia Ciepła
+Podmiejska 43
+44-207 Rybnik
+
+Fundacja FORCE
+Raciborska 35a
+44-200 Rybnik
+
+Fundacja Jestem Głosem Tych Co Nie Mówią
+Rybacka 54 A
+44-207 Rybnik
+
+Fundacja Miej Serce
+Jankowicka 9
+44-201 Rybnik
+
+#Poczta
+
+Poczta Polska
+Pocztowa 2
+44-200 Rybnik
+
+Poczta Polska
+Kupiecka 2
+44-206 Rybnik
+
+Poczta Polska
+Gliwicka 45
+44-274 Rybnik
+
+Urząd Pocztowy Rybnik 10 Filia
+Ignacego Mościckiego 3
+44-273 Rybnik
+
+Poczta Polska
+ul
+Doktora Jana Adamskiego 1
+44-270 Rybnik
+
+Poczta Polska
+Gliwicka 134
+44-200 Rybnik
+
+Post Office Rybnik Paruszowiec
+Stawowa 9
+44-203 Rybnik
+
+Poczta Polska
+os.Południe 37
+44-253 Rybnik
+
+Poczta Polska
+Gminna 10
+44-200 Rybnik
+
+Poczta Polska
+Władysława Broniewskiego 23
+44-217 Rybnik
+
+Poczta Polska
+plac Armii Krajowej 3
+44-200 Rybnik
+
+Poczta Polska
+Sztolniowa 20
+44-251 Rybnik
+
+Poczta Polska
+Jana Kilińskiego 37c
+44-200 Rybnik
+
+Urząd Pocztowy Rybnik - Niedobczyce. Filia 10
+Górnośląska 138
+44-270 Rybnik
+
+Poczta Polska
+Górnośląska 138
+44-270 Rybnik
+
+Poczta Polska
+1 Maja 93
+44-205 Rybnik
+
+Poczta Polska
+Ignacego Mościckiego 3
+44-270 Rybnik
+
+Poczta Polska
+Kupiecka 2
+44-200 Rybnik
+
+Poczta Polska
+Grunwaldzka 46
+44-210 Rybnik
+
+Poczta Polska
+Żorska 60
+44-200 Rybnik
+
+#Emeryci
+
+Polski Związek Emerytów, Rencistów i Inwalidów. Oddział rejonowy
+Jadwigi i Feliksa Białych 7
+44-200 Rybnik
+
+#Amazonki
+
+Odnowa. Stowarzyszenie Amazonek
+Rybnik. ul.J.F
+Białych 7
+44-200 Rybnik
+
+#ZNP
+
+Związek Nauczycielstwa Polskiego. Zarząd oddziału
+Tadeusza Kościuszki 5
+44-200 Rybnik
+
+#PZU
+
+PZU
+Henryka Wieniawskiego 3
+44-200 Rybnik
+
+Oddział PZU - Rybnik, Wolności
+plac Wolności 13
+44-200 Rybnik
+
+PZU Ubezpieczenia Rybnik - Agent Celina Broża
+Wyzwolenia 33
+44-200 Rybnik
+
+PZU Ubezpieczenia Rybnik - Agent Elżbieta Matyka
+Chabrowa 24 ab
+Chabrowa 24
+44-210 Rybnik
+
+PZU Ubezpieczenia Rybnik - Agent Łukasz Janik
+Kardynała Bolesława Kominka 2
+44-217 Rybnik
+
+PZU Ubezpieczenia Rybnik - Agent Anna Stachura
+Rudzka 193
+44-211 Rybnik
+
+PZU Ubezpieczenia Rybnik - Agent Barbara Piełka
+Os Południe 37
+44-253 Rybnik
+
+PZU Ubezpieczenia Rybnik - Agent Monika Robek
+Stanisława Małachowskiego 15
+44-251 Rybnik
+
+PZU Ubezpieczenia Rybnik - Agent Arkadiusz Szweda
+Krzyżowa 28
+44-200 Rybnik
+
+Multiagencja Rybnik PZU/ Hestia/ Warta/ Benefia/ AXA
+Mikołowska 70A
+44-203 Rybnik
+
+#muzeum
+
+Muzeum w Rybniku
+Rynek 18
+44-200 Rybnik
+
+#Czerwony Krzyż
+
+Polski Czerwony Krzyż. Śląski Zarząd Okręgowy. Zarząd Rejonowy
+Bolesława Chrobrego 16
+44-200 Rybnik
+
+#Klub Seniora
+
+Kamień. Klub seniora
+Robotnicza 95
+44-213 Rybnik
+
+#Seniorzy
+
+Dom Seniora Pod Jodłami
+Jodłowa 66F
+44-213 Rybnik
+
+#Centrum
+
+Rybnik Plaza
+Raciborska 16
+44-200 Rybnik
+
+Focus Park w Rybniku
+Bolesława Chrobrego 1
+44-200 Rybnik
+
+Rybnik Centrum
+Powstańców Śląskich 3/108
+44-200 Rybnik
+
+Hostel rybnik centrum
+Wiejska 1B
+44-200 Rybnik
+
+Galeria Śląska
+Gliwicka 45
+44-200 Rybnik
+
+Rybnik
+Bolesława Chrobrego
+44-200 Rybnik
+
+Regionalne Centrum Krwiodawstwa i Krwiolecznictwa w Raciborzu, Oddział Terenowy w Rybniku
+Rudzka 15
+44-200 Rybnik
+
+Centrum Usług Wspólnych w Rybniku
+Władysława Stanisława Reymonta 69
+44-200 Rybnik
+
+NZOZ Centrum Medyczne Sp. z o.o.
+Byłych Więźniów Politycznych 3
+44-200 Rybnik
+
+5.10.15. Ubrania dla dzieci | Odzież dziecięca | Plaza Rybnik
+Raciborska 16
+44-200 Rybnik
+
+Przychodnia Centrum Naturalnie, Leczenie Niepłodności, diagnostyka poronień, endometrioza, policystyczny zespół jajników
+Żorska 267
+44-251 Rybnik
+
+Sklep Martes Sport - Centrum Handlowo-Rozrywkowe Rybnik Plaza
+Raciborska 16
+44-200 Rybnik
+
+Opal Centrum Usługowe
+Powstańców Śląskich 3
+44-200 Rybnik
+
+Centrum przygotowania kadr
+3 Maja 30
+44-200 Rybnik
+
+Centrum Kredytowe CREDIT CENTER Rybnik
+plac Kopernika 3
+44-200 Rybnik
+
+DOBRAS & DOBRAS Centrum Stomatologii
+Tadeusza Kościuszki 19
+44-200 Rybnik
+
+Sklep Martes Sport - Centrum Handlowe Focus Park
+ul. Króla
+Bolesława Chrobrego 1
+44-200 Rybnik
+
+Centrum Edukacyjne BEST
+Fabryczna 13
+44-251 Rybnik
+
+Rybnik Centrum
+Raciborska 16
+44-200 Rybnik
+
+#Uniwersytet Trzeciego Wieku
+
+Zobacz też:
+Jana III Sobieskiego 15
+44-200 Rybnik
+
+#Niepełnosprawni
+
+Powiatowy Zespół do Spraw Orzekania o Niepełnosprawności w Rybniku
+Bolesława Chrobrego 39
+44-200 Rybnik
+
+======================================================================
+47-417 SŁAWIKÓW
+
+#Szkoła
+
+Pałac w Sławikowie
+Parkowa 8
+47-417 Sławików
+
+#Związek
+
+DFK Sławików
+Parkowa 2
+47-417 Sławików
+
+#Poczta
+
+Ochotnicza Straż Pożarna
+47-411
+Strażacka 15
+47-417 Sławików
+
+Dom Opieki "Domowe Zacisze"
+Parkowa 15
+47-417 Sławików
+
+GTrans. Firma Handlowo-Usługowa.
+Słowackiego 26
+47-411 Sławików
+
+======================================================================
+47-417 ŁUBOWICE
+
+#Dom kultury
+
+Górnośląskie Centrum Kultury i Spotkań im. Eichendorffa
+Zamkowa 1
+47-411 Łubowice
+
+======================================================================
+47-253 PRZEWÓZ
+
+#Dom kultury
+
+Wiejski Dom Spotkań
+47-253 Przewóz
+
+======================================================================
+44-285 POGRZEBIEŃ
+
+#Dom kultury
+
+Dom Kultury
+Ulica Grabowa 4
+44-285 Pogrzebień
+
+#Szkoła
+
+Szkoła Podstawowa Zespołu Szkolno - Przedszkolnego
+Pamiątki 25
+44-285 Pogrzebień
+
+#Uniwersytet
+
+Przedszkole
+Pamiątki 23A
+44-285 Pogrzebień
+
+#Placówka
+
+Wielofunkcyjna Placówka Opiekuńczo - Wychowawcza im. Matki Laury Meozzi
+44-285 Pogrzebień; Klasztorna 8
+44-285
+
+#Bank
+
+Bankomat B.S Gorzyce
+Pamiątki 76
+44-285 Pogrzebień
+
+Planet Cash. Bankomat
+Pamiątki 76
+44-285 Pogrzebień
+
+#Związek
+
+Oratorium Młodzieżowe w Pogrzebieniu
+Farna 2
+44-285 Pogrzebień
+
+#Poczta
+
+Zgromadzenie zakonne Córek Maryi Wspomożycielki (Salezjanki)
+Brzezka 9
+44-285 Pogrzebień
+
+Ochotnicza Straż Pożarna
+Ulica Grabowa 4
+44-285 Pogrzebień
+
+Grota Matki Boskiej
+Klasztorna 14
+44-285 Pogrzebień
+
+Kościół pw. św. Bartłomieja
+44-285 Pogrzebień
+
+======================================================================
+44-360 LUBOMIA
+
+#Urząd
+
+Urząd Gminy
+Szkolna 1
+44-360 Lubomia
+
+#Szkoła
+
+Zespół Szkół Ogólnokształcących w Lubomi
+Szkolna 2
+44-360 Lubomia
+
+#Przedszkole
+
+Przedszkole im Elżbiety Sojki
+Szkolna 5
+44-360 Lubomia
+
+#Biblioteka
+
+Biblioteka Publiczna Gminna
+Adama Mickiewicza 4
+44-360 Lubomia
+
+#Przychodnia
+
+Przychodnia Mat-Med
+Pogrzebieńska 1
+44-360 Lubomia
+
+#Bank
+
+Bank Spółdzielczy w Gorzycach. Punkt kasowy
+Szkolna 1
+44-360 Lubomia
+
+Bank Polskiej Spółdzielczości S.A. Bankomat
+44-360 Lubomia
+
+#Zakład
+
+Zakład wodociągowo - kanalizacyjny
+Korfantego 71
+44-360 Lubomia
+
+#Spółka
+
+Zakład Masarski SEGET Spółka Jawna
+Ulica
+Środkowa 15
+44-360 Lubomia
+
+#Klub
+
+LKS Silesia Lubomia
+Jana Nepomucena 20
+44-360 Lubomia
+
+#Koło
+
+44-360
+Lubomia
+Wielikąt
+Grabówka
+
+#Poczta
+
+Urząd Pocztowy
+Szkolna 1
+44-360 Lubomia
+
+Paczkomat InPost
+Adama Mickiewicza 1
+44-360 Lubomia
+
+OSP w Lubomi
+Adama Mickiewicza 6
+44-360 Lubomia
+
+Kaplica Matki Boskiej Częstochowskiej
+44-360 Lubomia
+
+Kaplica św. Jana Nepomucena w Lubomi
+Jana Nepomucena 38
+44-360 Lubomia
+
+Kaplica przedpogrzebowa
+Adama Mickiewicza 4
+44-360 Lubomia
+
+Kościół rzymskokatolicki p.w. św. Marii Magdaleny
+Korfantego 73
+44-360 Lubomia
+
+Kaplica cmentarna
+Sportowa 3
+44-360 Lubomia
+
+Pomnik św.Jana Nepomucena
+Jana Nepomucena 50-66
+44-360 Lubomia
+
+Św. Stanisław Kostka
+44-360 Lubomia
+
+#muzeum
+
+figura św. Jana Nepomucena
+Jana Nepomucena 50-66
+44-360 Lubomia
+
+======================================================================
+44-285 RZUCHÓW
+
+#Szkoła
+
+Zespół szkolno-przedszkolny w Rzuchowie
+Miarki 6
+44-285 Rzuchów
+
+#Produkcja
+
+ZAPAMET Sp. z o.o.
+Rybnicka 86
+44-285 Rzuchów
+
+#Poczta
+
+Paczkomat InPost
+Rybnicka 40
+44-285 Rzuchów
+
+OSP Rzuchów
+Miarki 8B
+44-285 Rzuchów
+
+Kościół Rzymskokatolicki Pw. św. Krzysztofa
+Lęgów 2
+44-285 Rzuchów
+
+======================================================================
+44-282 CZERNICA
+
+#Ośrodek
+
+Ośrodek Kultury Zameczek w Czernicy
+Wolności 39
+44-282 Czernica
+
+.
+Reja 6a
+44-282 Czernica
+
+Servimed s.c. Ośrodek Zdrowia
+Wolności 72
+44-282 Czernica
+
+Ośrodek Kultury Zameczek w Czernicy
+Wolności 39
+44-282 Czernica
+
+Servimed
+Wolności 73
+44-282 Czernica
+
+Nowek-Żydek Olga. Gabinet urody
+Podleśna
+44-282 Czernica
+
+Szkoła Podstawowa im. Henryka Mikołaja Góreckiego w Czernicy
+Wolności 41
+44-282 Czernica
+
+PZD ROD "Przyroda"
+Fara
+Jana III Sobieskiego
+44-282 Czernica
+
+LKS Zameczek Czernica
+Biskupa 2A
+44-282 Czernica
+
+Kaplica przedpogrzebowa
+Jana III Sobieskiego
+44-282 Czernica
+
+Poczta Polska
+Wolności 66
+44-282 Czernica
+
+STEDAN Transport Krajowy Transport Międzynarodowy Usługi Transportowe
+Powstańców 1
+44-282 Czernica
+
+#Przedszkole
+
+Przedszkole
+Wolności 41
+44-282 Czernica
+
+#Akademia
+
+Akademia Ciała
+Wolności 16
+44-282 Czernica
+
+#Koło
+
+44-282
+Czernica
+Łuków Śląski
+Luków
+
+======================================================================
+44-293 GASZOWICE
+
+#Urząd
+
+Urząd Gminy Gaszowice
+Rydułtowska 2
+44-293 Gaszowice
+
+#Dom kultury
+
+Ośrodek Kultury i Sportu w Gaszowicach
+Rydułtowska 7
+44-293 Gaszowice
+
+Dom przyjęć Pod Trojokiem
+Rydułtowska 4
+44-293 Gaszowice
+
+#Szkoła
+
+Szkoła Podstawowa im. Tadeusza Kościuszki w Gaszowicach
+Rydułtowska 8
+44-293 Gaszowice
+
+#Przedszkole
+
+Przedszkole im. Przyjaciół Kubusia Puchatka w⁠⁠⁠ Gaszowicach
+Rydułtowska 5
+44-293 Gaszowice
+
+#Biblioteka
+
+Gminna Biblioteka Publiczna w Gaszowicach
+Rydułtowska 7
+44-293 Gaszowice
+
+#Przychodnia
+
+Gminny Ośrodek Zdrowia
+Rydułtowska 1
+44-293 Gaszowice
+
+#Bank
+
+Bank Spółdzielczy w Jastrzębiu Zdroju, Punkt Kasowy w Gaszowicach
+Rydułtowska 1
+44-293 Gaszowice
+
+Bank Spółdzielczy w Rybniku. Punkt kasowy
+Rydułtowska 2
+44-293 Gaszowice
+
+#Policja
+
+Komisariat Policji w Gaszowicach
+Rydułtowska 2
+44-293 Gaszowice
+
+#Zakład
+
+Zakład Obsługi Komunalnej w Gaszowicach
+Rydułtowska 7
+44-293 Gaszowice
+
+#Agencja
+
+Agencja Ubezpieczeniowa "KA-MA"
+Rydułtowska 4
+44-293 Gaszowice
+
+#Klub
+
+GKS Dąb Gaszowice
+44-293 Piece
+
+#Koło
+
+44-293
+Szczerbice
+Rydułtowy
+Gaszowice
+Piece
+
+#Poczta
+
+Urząd Pocztowy w Gaszowicach
+Rydułtowska 6
+44-293 Gaszowice
+
+#Centrum
+
+Delikatesy Centrum
+Rybnicka 11B
+44-293 Gaszowice
+
+Plac zabaw
+Rydułtowska 7
+44-293 Gaszowice
+
+Unimarket
+Rybnicka 11 B
+44-293 Gaszowice
+
+GardenTech
+Rudzka 14
+44-293 Gaszowice
+
+======================================================================
+44-295 LYSKI
+
+#Urząd
+
+Urząd Gminy Lyski
+Dworcowa 1a
+44-295 Lyski
+
+#Szkoła
+
+Szkoła Podstawowa
+44-295 Lyski
+
+Gimnazjum w Lyskach
+Dworcowa 4
+44-295 Lyski
+
+#Biblioteka
+
+Biblioteka Publiczna Gminna
+Rybnicka 2
+44-295 Lyski
+
+#Przychodnia
+
+NZOZ "Servimed" S.C.
+Rybnicka 2
+44-295 Lyski
+
+#Bank
+
+Agencja PKO Banku Polskiego (Agency PKO Polish Bank)
+Rybnicka 30
+44-295 Lyski
+
+#Spółka
+
+PE-GAS Spółka z o.o.
+Kamionki
+44-295 Lyski
+
+#Stowarzyszenie
+
+LYSKOR
+Sikorskiego 2
+44-295 Lyski
+
+#Klub
+
+Uczniowski Klub Sportowy "GRACZ"
+Dworcowa 4
+44-295 Lyski
+
+#Koło
+
+44-295
+Bogunice
+Dzimierz
+Lyski
+Gaszowice
+Górki Śląskie
+Sumina
+Nowa Wieś
+
+#Poczta
+
+Poczta Polska
+Rybnicka 2
+44-295 Lyski
+
+#muzeum
+
+Grób matki Karola Goduli
+44-295 Lyski
+
+#Centrum
+
+Auto Centrum Świdergał s.c
+Łukowska 21
+44-295 Lyski
+
+======================================================================
+44-295 BOGUNICE
+
+#Bank
+
+Meble Bolex 2 Bolesław Kłosek
+Raciborska 50a
+44-295 Bogunice
+
+#Produkcja
+
+Zefirek Meble Ogrodowe
+Raciborska 3
+44-295 Bogunice
+
+#Zakład
+
+PPHU Zakład Stolarski Tomasz Jezusek "TomStol"
+Raciborska 10B
+44-295 Bogunice
+
+#Klub
+
+Bogunice. Ludowy klub sportowy
+44-295 Bogunice; Szkolna 20
+
+======================================================================
+44-153 BARGŁÓWKA
+
+#Szkoła
+
+Szkoła Podstawowa
+44-153 Bargłówka; Raciborska 67
+44-153
+
+#Bank
+
+RACHUNKOWE M-S SYLWIA MASARCZYK
+Przedszkolna 3A
+44-153 Bargłówka
+
+Rancho u Marka
+44-153 Bargłówka; Górna 49
+44-153
+
+Grillo-Wędzarnia Zero Chemii
+DW919 21
+44-153 Bargłówka
+
+Rancho u Marka
+Górna 49
+44-153 Bargłówka
+
+SEPID Automatyka(PLC),Industry solution and support, Maszyny specjalistyczne
+Dolna 11
+44-153 Bargłówka
+
+#Poczta
+
+OSP Bargłówka
+Raciborska 28
+44-153 Bargłówka
+
+Kościół Rzymskokatolicki Świętej Trójcy
+Kościelna
+44-153 Bargłówka
+
+======================================================================
+44-145 PILCHOWICE
+
+#Urząd
+
+Urząd Gminy Pilchowice
+Konstantego Damrota 6
+44-145 Pilchowice
+
+#Dom kultury
+
+Sala Damrota 5 (filia GOK Pilchowice)
+Damrota 5
+44-145 Pilchowice
+
+Dom Kultury w Żernicy (filia GOK Pilchowice)
+Józefa Szafranka 9
+44-144 Żernica
+
+#Szkoła
+
+Zespół Szkół w Pilchowicach
+Szkolna 1
+44-145 Pilchowice
+
+#Szpital
+
+Szpital Chorób Płuc im. św. Józefa
+Dworcowa 31
+44-145 Pilchowice
+
+#Przychodnia
+
+Wiejski Ośrodek Zdrowia
+44-145 Pilchowice
+
+#Bank
+
+Bank Spółdzielczy w Sośnicowicach. Oddział
+Rynek
+44-145 Pilchowice
+
+Biuro Rachunkowe JURCZYGA Sp. z o.o.
+Powstańców 6
+44-145 Pilchowice
+
+#Oddział
+
+LUBAR S.A. Oddział Pilchowice
+Spółdzielcza 11
+44-145 Pilchowice
+
+#Klub
+
+LKS Victoria Pilchowice
+Szkolna 3
+44-145 Pilchowice
+
+#Koło
+
+44-145
+Stanica
+Pilchowice
+Leboszowice
+
+#Poczta
+
+Urząd Pocztowy
+Dworcowa 8
+44-145 Pilchowice
+
+#Centrum
+
+Pilchowice Centrum
+Dworcowa
+44-145 Pilchowice
+
+Śląskie Centrum Eko-Opału
+Gliwicka 3
+44-145 Pilchowice
+
+Stacja Wąskotorowa Pilchowice
+Dworcowa 19
+44-145 Pilchowice
+
+Teddy School - szkoła języków obcych
+Stanicka 17
+44-145 Pilchowice
+
+U Tadka
+Dolna Wieś 62
+44-145 Pilchowice
+
+======================================================================
+44-310 RADLIN
+
+#Urząd
+
+Urząd Miasta
+Józefa Rymera 15
+44-310 Radlin
+
+#Ośrodek
+
+Miejski Ośrodek Kultury w Radlinie
+Miejski Ośrodek Kultury w Radlinie ul.
+Mariacka 9
+44-310 Radlin
+
+Medicator Sp.p.
+Orkana 8
+44-310 Radlin
+
+Miejski Ośrodek Sportu i Rekreacji w Radlinie
+Wojciecha Korfantego 17
+44-310 Radlin
+
+#Dom kultury
+
+Rejonowa Specjalistyczna Przychodnia ZOZ w Rydułtowach
+Władysława Reymonta 8
+44-310 Radlin
+
+Feniks
+Rydułtowska 27
+44-310 Radlin
+
+Wrotka: Music Caffe Club
+Wojciecha Korfantego 4
+44-310 Radlin
+
+#Szkoła
+
+Sportowa Szkoła Podstawowa nr 2 im. Komisji Edukacji Narodowej
+44-310 Radlin; mjr. Rogozina 55
+majora Piotra Rogozina Iwanowicza 55
+44-310 Radlin
+
+Szkoła Podstawowa nr 4 im. G. Morcinka
+Wiosny Ludów 287
+44-310 Radlin
+
+Szkoła Podstawowa nr 3 im. Ziemi Radlińskiej
+Józefa Rymera 170
+44-310 Radlin
+
+Szkoła Podstawowa nr 1 im. A. Mickiewicza
+Makuszyńskiego 17
+44-310 Radlin
+
+Szkoła podstawowa.nr w Ralinie
+Józefa Rymera 451
+44-310 Radlin
+
+Branżowa Szkoła I stopnia w Radlinie
+Władysława Orkana 23
+44-310 Radlin
+
+#Przedszkole
+
+Przedszkole Publiczne Nr 3
+Mariacka 1
+44-310 Radlin
+
+Przedszkole nr 1 Publiczne
+Józefa Rymera 170
+44-310 Radlin
+
+Przedszkole nr 2 Publiczne
+Andrzeja Mielęckiego 13
+44-310 Radlin
+
+Terapeutyczny Punkt Przedszkolny Słoneczna Kraina
+Józefa Rymera 169
+44-310 Radlin
+
+#Uniwersytet
+
+Sales Power School
+Rybnicka 64
+44-310 Radlin
+
+#Biblioteka
+
+Biblioteka Publiczna Miejska
+Władysława Orkana 5
+44-310 Radlin
+
+#Szpital
+
+Przychodnia Ovikor Dr Kordian Waroński Medical Clinic of Silesia Poradnia Medycyny Pracy
+Władysława Orkana 8
+44-310 Radlin
+
+#Przychodnia
+
+Centrum. NZOZ
+Władysława Orkana 10
+44-310 Radlin
+
+#Bank
+
+ING Bank Śląski Oddział w Radlinie
+Wojciecha Korfantego 3
+44-310 Radlin
+
+Bank Spółdzielczy w Wodzisławiu Śląskim. Punkt kasowy
+Mariacka 30
+44-310 Radlin
+
+Wpłatomat PKO Bank Polski
+Wojciecha Korfantego 4
+44-310 Radlin
+
+Millennium Partner
+Wojciecha Korfantego 3
+44-310 Radlin
+
+Punkt sprzedaży Cyfrowy Polsat i Plus
+ul. Rogozina 61
+44-310 Radlin
+
+SKOK Ziemi Rybnickiej
+Wojciecha Korfantego 3
+44-310 Radlin
+
+Lombard Marek Antończyk
+44-310 Radlin; mjr. Rogozina 54
+
+PKO Bank Polski S.A.- Bankomat
+ul
+Wojciecha Korfantego 4
+44-310 Radlin
+
+PKO Bank Polski S.A.- Bankomat
+Józefa Hallera 15a
+44-310 Radlin
+
+PKO Bank Polski S.A.- Bankomat
+Mariacka 38
+44-310 Radlin
+
+#Policja
+
+Komisariat Policji w Radlinie
+Mariacka 93
+44-310 Radlin
+
+#Produkcja
+
+Testchem produkcja
+Mikołajczyka 19
+44-310 Radlin
+
+#Fabryka
+
+Wypożyczalnia Autolawet juzjade.pl Okręgowa Stacja Kontroli Pojazdów PRODUKCJA LAWET ALUMINIOWYCH
+Rybnicka 108
+44-310 Radlin
+
+#Grupa
+
+Grupa Fibra sp. z o.o.
+Józefa Rymera 177
+44-310 Radlin
+
+#Spółdzielnia
+
+Spółdzielnia Mieszkaniowa Marcel
+Mariacka 30
+44-310 Radlin
+
+#Koło
+
+44-310
+Radlin
+Rybnik
+Wodzisław Śląski
+Rydułtowy
+
+#Poczta
+
+Poczta Polska
+Wojciecha Korfantego 3
+44-310 Radlin
+
+Poczta Polska
+Domeyki 29
+44-310 Radlin
+
+GlobBox
+Józefa Rymera 231
+44-310 Radlin
+
+Paczkomat InPost
+Wojciecha Korfantego 12
+44-310 Radlin
+
+Paczkomat InPost
+Józefa Rymera 103
+44-310 Radlin
+
+Paczkomat InPost
+Wojciecha Korfantego 47
+44-310 Radlin
+
+Paczkomat InPost
+Generala Hallera 15
+44-310 Radlin
+
+InPost - Punkt Obsługi Paczek (POP)
+Skautów 6
+44-310 Radlin
+
+Paczkomat InPost
+Józefa Rymera 168
+44-310 Radlin
+
+Paczkomat InPost
+Józefa Rymera 7
+44-310 Radlin
+
+Wodociągi - ESOX Spółka z o.o.
+Odległa 138
+44-310 Radlin
+
+#PZU
+
+PZU Ubezpieczenia Radlin - Agent Ewa Szojer
+Sienkiewicza 45
+44-310 Radlin
+
+Paszek Maria. Agencja ubezpieczeniowa PZU S.A.
+Spacerowa 40
+44-310 Radlin
+
+Nosiadek Stanisława. Agencja ubezpieczeniowa.
+Sienkiewicza 45
+44-310 Radlin
+
+Superpolisa.pl GSU oddział Radlin
+Wojciecha Korfantego 52
+44-310 Radlin
+
+Ubezpieczenia Radlin
+Władysława Orkana 6
+44-310 Radlin
+
+CUK Ubezpieczenia Radlin
+majora Piotra Rogozina Iwanowicza 97
+44-310 Radlin
+
+#muzeum
+
+Dziwny Dom
+Józefa Rymera 207A
+44-310 Radlin
+
+#Centrum
+
+Lidl
+Józefa Rymera 11
+44-310 Radlin
+
+Centrum Okulistyki Klinicznej OKOLUX
+Rybnicka 64
+44-310 Radlin
+
+Tesco
+Wojciecha Korfantego 59
+44-310 Radlin
+
+Revital Centrum Zdrowia i Urody Marta Majka
+Wojciecha Korfantego 5b
+44-310 Radlin
+
+Delikatesy Centrum
+Wojciecha Korfantego 4
+44-310 Radlin
+
+Delikatesy Centrum
+Ul. Kominka 193
+44-310 Radlin
+
+Inspiracja centrum florystyczne
+Józefa Rymera 272
+44-310 Radlin
+
+Centrum Pojazdów Używanych MAN TopUsed Radlin
+Rybnicka 123a
+44-310 Radlin
+
+Centrum Dietetyki i Poradnictwa Żywieniowego Patrycja Szewczyk-Nagietowicz
+Władysława Orkana 6
+44-310 Radlin
+
+Irys. Sklep ogrodniczy. Kowol J.
+Domeyki 48
+44-310 Radlin
+
+Usługi BHP i P-poż. R.M.M. Tkocz s.c. Ośrodek szkolenia zawodowego
+Kwiatowa 31
+44-310 Radlin
+
+Ubezpieczenia RGM Insurance & Trade
+majora Piotra Rogozina Iwanowicza 35
+44-310 Radlin
+
+Lando Centrum Języków Obcych
+Mariacka 9
+44-310 Radlin
+
+#Seniora
+
+NZOZ "SANUS"- S.C. Zakład Pielęgnacyjno - Opiekuńczy
+Władysława Orkana 8
+44-300 Radlin
+
+======================================================================
+44-290 JEJKOWICE
+
+#Urząd
+
+Urząd Gminy
+Główna 38a
+44-290 Jejkowice
+
+#Szkoła
+
+Szkoła Podstawowa im. Jana III Sobieskiego
+Główna 42
+44-290 Jejkowice
+
+#Biblioteka
+
+Gminna Biblioteka Publiczna w Jejkowicach
+Poprzeczna 3a
+44-290 Jejkowice
+
+#Bank
+
+Bank Pekao S.A.
+ul
+Główna 38a
+44-290 Jejkowice
+
+#Produkcja
+
+TARTAK HAJDUCZEK - Michał Hajduczek
+Dworcowa 33
+44-290 Jejkowice
+
+#Zakłady
+
+Kłosek, Powroł. Zakład betoniarski s.c.
+Leśna
+44-290 Jejkowice
+
+#Klub
+
+Stadion klubu LKS Jedność Jejkowice
+Poprzeczna 3A
+44-290 Jejkowice
+
+#Firma
+
+Zobacz też:
+Dworcowa 8
+44-290 Jejkowice
+
+#Poczta
+
+Urząd Pocztowy. Filia
+Główna 26
+44-200 Jejkowice
+
+Paczkomat InPost
+Główna 24D
+44-290 Jejkowice
+
+OSP Jejkowice
+Poprzeczna 3a
+44-290 Jejkowice
+
+Ochotnicza Straż Pożarna
+Główna 26
+44-290 Jejkowice
+
+======================================================================
+44-213 KSIĄŻENICE
+
+#Spółka
+
+Biuro Rachunkowe IMPOSTA Sp. z o.o.
+Nad Potokiem 55
+44-213 Książenice
+
+#Klub
+
+LKS Unia Książenice
+Ks. Jana Pojdy 20D
+44-213 Książenice
+
+#Koło
+
+44-213
+Książenice
+Rybnik
+Przegędza
+
+#Poczta
+
+OSP Książenice
+Klimka 13
+44-213 Książenice
+
+Ochotnicza Straż Pożarna
+Klimka 7
+44-213 Książenice
+
+======================================================================
+44-144 NIEBOROWICE
+
+#Dom kultury
+
+Gminny Ośrodek Kultury
+44-144 Nieborowice; Główna 50
+
+#Szkoła
+
+Przedszkole Publiczne Z Oddziałem Integracyjnym
+Główna 50
+44-144 Nieborowice
+
+#Szpital
+
+Klinika Nieborowice Sp. z o.o.
+Kasztanowa 5
+44-144 Nieborowice
+
+#Przychodnia
+
+Klinika Nieborowice
+Kasztanowa 5
+44-144 Nieborowice
+
+#Zakład
+
+Zakład Specjalistyczny Dezynfekcji Dezynsekcji Deratyzacji Eko-Pest Mateusz Sobiecki
+Główna 27
+44-144 Nieborowice
+
+#Grupa
+
+Grupa Niekotrans-Nova Sp. z o.o. Sp. k.
+Główna 69
+44-144 Nieborowice
+
+#Agencja
+
+Polak Robert. Usługi ubezpieczeniowe
+44-144 Nieborowice; Spacerowa 1
+44-144
+
+#Klub
+
+Klub Nieborowice (filia GOK Pilchowice)
+Główna 50
+44-144 Nieborowice
+
+#Firma
+
+KK-Engineering
+Dębowa 12
+44-144 Nieborowice
+
+#Poczta
+
+Kaplica Nieborowice
+44-144
+
+#muzeum
+
+Stacja Kolejowa Nieborowice
+44-144 Pilchowice
+
+======================================================================
+KNURÓW
+
+#Urząd
+
+Urząd Miasta Knurów
+dr. Floriana Ogana 5
+44-100 Knurów
+
+#Ośrodek
+
+Matka Boża Uzdrowienie Chorych. Ośrodek Caritas Archidiecezji Katowickiej
+Szpitalna 29
+44-194 Knurów
+
+Miejski Ośrodek Sportu i Rekreacji
+Górnicza 2
+44-193 Knurów
+
+Ośrodek Wsparcia
+1 Maja 45
+44-190 Knurów
+
+#Dom kultury
+
+Dom Kultury w Knurowie
+Górnicza 1
+44-193 Knurów
+
+#Szkoła
+
+Miejska Szkoła Podstawowa nr 9 im. Marii Konopnickiej w Knurowie
+Aleja Lipowa 12
+44-100 Knurów
+
+Zespół Szkół im. I. J. Paderewskiego
+1 Maja 21
+44-190 Knurów
+
+Miejska Szkoła Podstawowa Nr 2 Z Oddziałami Integracyjnymi Imienia Karola Miarki
+Thomasa Woodrowa Wilsona 22
+44-100 Knurów
+
+Zespół Szkół Specjalnych w Knurowie
+Szpitalna 25
+44-194 Knurów
+
+Miejska Szkoła Podstawowa nr 6 im. Królowej Jadwigi w Knurowie
+Stefana Batorego 5
+44-194 Knurów
+
+Zespół Szkolno-Przedszkolny im. Feliksa Michalskiego Miejska Szkoła Podstawowa nr 3 w Knurowie
+Feliksa Michalskiego 27
+44-193 Knurów
+
+Miejska Szkoła Podstawowa nr 7
+Jedności Narodowej 5
+44-194 Knurów
+
+Miejska Szkoła Podstawowa nr 1 im. Powstańców Śląskich w Knurowie budynek A
+Antoniego Słoniny 1
+44-190 Knurów
+
+Zespół Szkół Zawodowych nr 2
+Szpitalna
+44-196 Knurów
+
+Miejska Szkoła Podstawowa nr 4 w Knurowie
+Jana Kilińskiego 6
+44-193 Knurów
+
+Technikum nr 1
+Szpitalna 25
+44-194 Knurów
+
+Miejska Szkoła Podstawowa nr 1 im. Powstańców Śląskich w Knurowie budynek B
+Księdza Alojzego Koziełka 7
+44-190 Knurów
+
+Zespół Szkół nr 1 w Knurowie, Miejskie Gimnazjum nr 3
+Aleja Lipowa 12
+44-196 Knurów
+
+Podstawowa Szkoła Specjalna
+Szpitalna 25
+44-194 Knurów
+
+Niepubliczna Policealna Szkoła Techniczna dla Dorosłych
+Szpitalna 29
+44-194 Knurów
+
+ŚDS Knurów
+Szpitalna 29
+44-194 Knurów
+
+Gimnazjum Specjalne
+Szpitalna 25
+44-196 Knurów
+
+msp1
+Koziełka 7
+44-190 Knurów
+
+CJO Focus
+Władysława Łokietka 1A
+44-194 Knurów
+
+Szkoła Języków Obcych LEADER
+Generała Jerzego Ziętka 14A
+44-100 Knurów
+
+#Przedszkole
+
+Miejskie Przedszkole nr 12 im. Janusza Korczaka w Knurowie
+Armii Krajowej 5
+44-194 Knurów
+
+Miejskie Przedszkole nr 2 im. Jana Brzechwy
+Lotników 3
+44-196 Knurów
+
+Miejskie Przedszkole nr 13 Integracyjne
+Piłsudczyków 4
+44-196 Knurów
+
+Miejskie Przedszkole nr 7
+Jarosława Dąbrowskiego 21A
+44-194 Knurów
+
+Niepubliczne Przedszkole Ceduś
+Rybnicka 37
+44-194 Knurów
+
+Niepubliczne Przedszkole Planeta
+Szpitalna 24B
+44-100 Knurów
+
+Wesołe Nutki. Przedszkole Niepubliczne
+Sztygarska 4
+44-193 Knurów
+
+Miejskie Centrum Edukacji w Knurowie
+Aleja Lipowa 12
+44-194 Knurów
+
+Żłobek Ceduś
+Ułanów 4
+44-194 Knurów
+
+#Szpital
+
+Szpital w Knurowie Sp. z o. o. (Hospital Knurów Sp. o.o.)
+Niepodległości 8
+44-190 Knurów
+
+#Przychodnia
+
+Przychodnia Rejonowa nr 2
+Kazimierza Wielkiego 6
+44-100 Knurów
+
+Zespół Opieki Zdrowotnej w Knurowie
+Niepodległości 8
+44-190 Knurów
+
+Przychodnia Bracka Knurów
+Dworcowa 3
+44-190 Knurów
+
+Przychodnia Rejonowa nr 1. ZOZ. Poradnia dla Dzieci
+Księdza Alojzego Koziełka 8
+44-190 Knurów
+
+Sanvita
+Kazimierza Wielkiego 13
+44-194 Knurów
+
+Nasze zdrowie - Centrum Usług Medycznych
+Szarych Szeregów 3
+44-194 Knurów
+
+Prognostic. Przychodnia specjalistyczna. USG, EKG, RTG, KTG.
+Jana Kilińskiego 4
+44-193 Knurów
+
+Szpital w Knurowie Sp. z o. o.
+Niepodległości 8
+44-190 Knurów
+
+NZOZ Centrum Zdrowia SZYRMEL
+Henryka Sienkiewicza 9
+44-190 Knurów
+
+Poradnia Podstawowej Opieki Zdrowotnej
+Marynarzy 11
+44-196 Knurów
+
+Przychodnia Rejonowa nr 3
+Aleja Piastów 4B
+44-193 Knurów
+
+Centrum Medyczne MEDAN
+Stefana Batorego 1
+44-100 Knurów
+
+Poradnia Lekarza Podstawowej Opieki Zdrowotnej
+Dywizjonu 303 8
+44-196 Knurów
+
+Przychodnia Rejonowa nr 4
+Dworcowa 38A
+44-190 Knurów
+
+Poradnia dla Dzieci
+Aleja Piastów 4B
+44-193 Knurów
+
+Poradnia rodzinna Total-Med. Stomatolog i Ginekolog
+Piłsudczyków 18
+44-196 Knurów
+
+Poradnia Psychologiczno - Pedagogiczna
+Kosmonautów 5A
+44-194 Knurów
+
+Przychodnia
+26 Stycznia 3
+44-196 Knurów
+
+Centrum Zdrowia Medan
+Szarych Szeregów 3
+44-196 Knurów
+
+Apteka Jagiellońska
+13
+Kazimierza Wielkiego 194
+44-194 Knurów
+
+#Bank
+
+Bank Spółdzielczy
+Kosmonautów 9A
+44-194 Knurów
+
+OK Bank Społdzielczy
+Stanisława Staszica 1
+44-193 Knurów
+
+ING Bank Śląski Oddział w Knurowie
+Władysława Łokietka 1
+44-194 Knurów
+
+Getin Noble Bank S.A. Oddział
+Kazimierza Wielkiego 20C
+44-194 Knurów
+
+Bank Pekao S.A.
+ul
+Kapelanów Wojskowych 17
+44-194 Knurów
+
+BNP Paribas Bank Polska S.A.
+Kazimierza Wielkiego 20a/6
+44-194 Knurów
+
+Nest Bank - Knurów (placówka partnerska)
+Kazimierza Wielkiego 20 A
+44-190 Knurów
+
+Alior Bank
+Kazimierza Wielkiego 20C
+44-194 Knurów
+
+Orzesko - Knurowski Bank Spółdzielczy z siedzibą w Knurowie. Ekspozytura w Szczygłowicach
+Stanisława Staszica 1
+44-193 Knurów
+
+Credit Agricole
+Kazimierza Wielkiego 20C
+44-190 Knurów
+
+Eurobank
+Jana Sobieskiego 6B
+44-100 Knurów
+
+SKOK 'Wesoła' oddział Knurów
+Niepodległości 28
+44-100 Knurów
+
+Millennium Partner
+ul
+Jana Sobieskiego 6C
+44-194 Knurów
+
+Oddział Banku Millennium
+Niepodległości 16
+44-190 Knurów
+
+Bank BGŻ BNP Paribas. Bankomat
+Kazimierza Wielkiego 20a/6
+44-194 Knurów
+
+Bankomat i wpłatomat ING Bank Śląski
+Łokietka 1
+44-196 Knurów
+
+#Policja
+
+Komisariat Policji w Knurowie
+Dworcowa 1A
+44-190 Knurów
+
+#Produkcja
+
+AIB spółka z ograniczoną odpowiedzialnością sp.k.
+Przemysłowa 22
+44-190 Knurów
+
+Producent obrusów. Hurtownia, firan i obrusów. Haft komputerowy,obrus plamoodporny,
+Wincentego Witosa 17
+44-196 Knurów
+
+Zakład Prefabrykacji Betonu
+Thomasa Woodrowa Wilsona 32
+44-190 Knurów
+
+Krywałd-Katex Sp. z o.o. Producent wyrobów z tworzyw sztucznych
+Zwycięstwa 28
+44-193 Knurów
+
+Ivet
+Zwycięstwa 12C
+75-511 Knurów
+
+Hennlich sp. z o.o.
+Thomasa Woodrowa Wilsona 24A
+44-190 Knurów
+
+FHU Jaworex
+Wincentego Witosa 15
+44-196 Knurów
+
+Berkner
+Szpitalna 31
+44-194 Knurów
+
+Producent Przyczep Wiola
+Przemysłowa 14
+44-100 Knurów
+
+Kopalnia Węgla Kamiennego Knurów-Szczygłowice
+Dworcowa 1
+44-190 Knurów
+
+SMOVE
+Przemysłowa 14
+44-190 Knurów
+
+KOMSTAL Knurów Sp.z o.o.
+Dębowa 10
+44-190 Knurów
+
+Światowy Mechaniczny Produkt Sp. z o.o.
+Górnicza 3
+44-190 Knurów
+
+Pokrowce na Siedzenia i Fotele Samochodowe Zakszwalnia
+Dworcowa 38A/budynek b
+44-190 Knurów
+
+#Zakłady
+
+KWK Knurów-Szczygłowice Ruch Knurów
+44-100 Knurów
+
+#Agencja
+
+Agencja Reklamowa "Oferta" s.c.
+Szpitalna 8
+44-190 Knurów
+
+WMS Sp. z o.o.
+Zwycięstwa 12C
+44-193 Knurów
+
+Meble | Stojaki | Reklama - raster art
+Wolności 1
+44-190 Knurów
+
+Nieruchomości i finanse Optima
+Kapelanów Wojskowych 2A/C
+44-194 Knurów
+
+Agencja JSU Ubezpieczenia,przy KWK "Knurów - Szczygłowice" (Budynek Związków Zawodowych , pokój nr 15)
+44-193 Knurów
+
+Agencja Ubezpieczeniowa
+Szpitalna 8
+44-190 Knurów
+
+Agencja Interaktywna myWebsArt
+10c
+Ziętka 6
+44-196 Knurów
+
+Dąbrowski Andrzej. Agencja nieruchomości
+Władysława Łokietka 3
+44-194 Knurów
+
+New Life. Durczyński Ł.
+Władysława Stanisława Reymonta 4
+44-194 Knurów
+
+VOLE
+Wolności 11I
+44-190 Knurów
+
+Compent s.c. Biuro obrotu nieruchomościami. Krystek A., Szwerthalter K.
+Władysława Łokietka 3
+44-194 Knurów
+
+Superpolisa.pl GSU oddział Knurów
+Dworcowa 3
+44-190 Knurów
+
+Best s.c. Garus U.B.
+Władysława Broniewskiego 11
+44-190 Knurów
+
+Agencja Pocztowa
+Rybnicka 1
+44-193 Knurów
+
+Superpolisa Ubezpieczenia
+Wincentego Witosa 11
+44-196 Knurów
+
+PZU Ubezpieczenia Knurów - Agent Grażyna Daniel
+Jana Sobieskiego 6
+44-190 Knurów
+
+Dragon's Stars. Agencja artystyczna
+Kosmonautów 14
+44-194 Knurów
+
+Poczta Polska
+Aleja Piastów 8/10
+44-193 Knurów
+
+ADM Osiedla Pocztowa Lokatorsko-Własnościowej Spółdzielni Mieszkaniowej
+Dworcowa 10
+44-190 Knurów
+
+ADM Osiedla 1000 Lecia Lokatorsko-Własnościowej Spółdzielni Mieszkaniowej
+1 Maja 51
+44-190 Knurów
+
+#Spółdzielnia
+
+Knurowianka
+Generała Jerzego Ziętka 18C
+44-196 Knurów
+
+Spółdzielnia Mieszkaniowa Lokatorsko - Własnościowa
+Jana III Sobieskiego 6
+44-194 Knurów
+
+Miejski Zespół Gospodarki Lokalowej i Administracji
+Floriana 4
+44-190 Knurów
+
+Lokatorsko Własnościowa Spółdzielnia Mieszkaniowa
+Jana Sobieskiego 6
+44-194 Knurów
+
+Maluch. Klub Lokatorsko - Własnościowej Spółdzielni Mieszkaniowej
+Lotników 4A
+44-196 Knurów
+
+Osiedle Wojska Polskiego II
+44-196 Knurów
+
+Gama. Klub Lokatorsko - Własnościowej Spółdzielni Mieszkaniowej
+Kapelanów Wojskowych 2
+44-194 Knurów
+
+#Klub
+
+Concordia Knurów
+Dworcowa 28
+44-190 Knurów
+
+#Fundacja
+
+Fundacja na Rzecz Rozwoju Miasta Knurowa
+Dworcowa 38
+44-190 Knurów
+
+#Poczta
+
+Urząd Pocztowy
+Lotników 17
+44-100 Knurów
+
+Poczta Polska
+Dworcowa 12
+44-190 Knurów
+
+Poczta Polska
+ul
+Władysława Łokietka 3
+44-194 Knurów
+
+Poczta Polska
+Thomasa Woodrowa Wilsona 8
+44-190 Knurów
+
+Poczta Polska
+ul.Tomasza Wilsona 8
+44-191 Knurów
+
+Poczta Polska
+ul
+Rybnicka 1A
+44-190 Knurów
+
+Knurów Poczta
+44-190 Knurów
+
+#ZNP
+
+Związek Nauczycielstwa Polskiego. Oddział
+Jedności Narodowej 5
+44-194 Knurów
+
+#muzeum
+
+Izba Tradycji KWK "Knurów" (budynek NOT)
+Dworcowa 3A
+44-190 Knurów
+
+#Czerwony Krzyż
+
+Polski Czerwony Krzyż
+Thomasa Woodrowa Wilsona 10
+44-190 Knurów
+
+#Centrum
+
+Centrum Kultury
+Niepodległości 26
+44-190 Knurów
+
+C. H. U. PLANETA
+Kazimierza Wielkiego 20
+44-194 Knurów
+
+DL Shopping Center Knurów
+ul
+1 Maja 74
+44-190 Knurów
+
+Nowa Cegielnia
+Jęczmienna 4
+44-190 Knurów
+
+Centrum Handlowe "Merkury"
+44-196 Knurów
+
+Centrum Terapii Dziecięcej TĘCZA - terapia SI
+Niepodległości 43
+44-190 Knurów
+
+Chińskie Centrum Handlowe SASA
+1 Maja 49
+44-194 Knurów
+
+Centrum Kultury W Knurowie
+Niepodległości 26
+44-190 Knurów
+
+LEADER Centrum Kształcenia
+lok. 17
+Mieszka I 5D
+44-196 Knurów
+
+PROGRESS FITNESS SZCZYGŁOWICE
+Górnicza 2
+44-193 Knurów
+
+Salon Fryzjerski
+Dworcowa 10
+44-190 Knurów
+
+======================================================================
+44-246 SZCZEJKOWICE
+
+#Dom kultury
+
+Wiejski Dom Kultury w Szczejkowicach
+Rybnicka 8
+44-246 Szczejkowice
+
+#Szkoła
+
+Szkoła Podstawowa w Szczejkowicach
+Wiejska 20
+44-246 Szczejkowice
+
+#Produkcja
+
+elmicro
+Palowicka 48
+44-246 Szczejkowice
+
+"HYDRO-REM" Sp. J. Produkcja stojaków hydraulicznych i ciernych
+Piaskowa 2
+44-246 Szczejkowice
+
+BTES
+Palowicka 48
+44-246 Szczejkowice
+
+#Agencja
+
+Agencja Pocztowa - Szczejkowice
+Gliwicka 3
+44-230 Szczejkowice
+
+www.Bus-RT.Eu
+Gajowa 4
+44-246 Szczejkowice
+
+Wynajme Busa Śląsk
+Poprzeczna 15G
+44-238 Szczejkowice
+
+Ochotnicza Straż Pożarna
+Rybnicka
+44-246 Szczejkowice
+
+#Klub
+
+LKS Borowik Szczejkowice
+44-246 Szczejkowice
+
+#Koło
+
+44-246
+Palowice
+Szczejkowice
+Bełk
+
+#Firma
+
+Gammeb. PPHU. Usługi stolarskie
+44-246 Szczejkowice; Piaskowa 2
+44-246
+
+#Poczta
+
+Kościół Rzymskokatolicki pw. Matki Bożej Pośredniczki Wszelkich Łask
+Wiejska 18
+44-246 Szczejkowice
+
+======================================================================
+44-246 PALOWICE
+
+#Ośrodek
+
+Zdrowie. Przychodnia lekarska NZOZ
+44-246 Palowice; Szeroka 2
+44-246
+
+#Szkoła
+
+Szkoła Podstawowa im. S. Żeromskiego
+Dębowa 3
+44-246 Palowice
+
+#Produkcja
+
+Trust CNC Ślusarstwo Marek Czudek
+Wiejska 60A
+44-246 Palowice
+
+#Stowarzyszenie
+
+Zbór Kościoła Wolnych Chrześcijan w Palowicach
+Szeroka 54c
+44-246 Palowice
+
+#Fundacja
+
+GaSzo
+Bełkowska 26
+44-246 Palowice
+
+#Firma
+
+JMP SYSTEM
+Szeroka 1C
+44-246 Palowice
+
+#muzeum
+
+Stodoła Galeria Boska
+Szeroka 1c
+44-246 Palowice
+
+======================================================================
+44-246 JESIONKA
+
+Results found: 602
