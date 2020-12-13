@@ -12,7 +12,7 @@ def test_import_results_from_text_file():
         ['Fundacja "Aleją Zdrowia - Od Juniora Do Seniora"', 'ul. Os. Legionów 12/1', '62-510 Konin'],
         ['Fundacja "Aluminium"', 'ul. Margaretkowa 7/4', '78-310 Łowów Podlaski'],
         ['Fundacja "Bądź Zaradny"', 'ul. Bydgoska 2a', '62–510 Konin'],
-        ['Fundacja "Głos Koniński"', '3 Maja 1-3', '62-500 '],
+        ['Fundacja "Głos Koniński"', '3 Maja 1-3', '62-500Konin'],
         ['Fundacja "Jeszcze Raz" i spółka', 'ul. Kwiatkowskiego 3/10', '62 - 504 Konin']
     ]
 
