@@ -1,8 +1,8 @@
-from nicelka.data_normalizer.importer import get_results_from_report
+from nicelka.data_normalizer.importer import import_results_from_text_file
 
 
 def find_duplicates(report_file_name, report_file_dir='data'):
-    results = get_results_from_report(report_file_dir, report_file_name)
+    results = import_results_from_text_file(report_file_dir, report_file_name)
     duplicates = _get_duplicates_from_results(results)
     _save_duplicates(duplicates)
     _show_duplicates(duplicates)

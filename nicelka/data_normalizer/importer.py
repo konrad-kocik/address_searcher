@@ -2,10 +2,10 @@ from os import path
 from re import match
 
 
-def get_results_from_report(report_file_dir, file_name):
+def import_results_from_text_file(file_dir, file_name):
     results = []
 
-    with open(path.join(report_file_dir, file_name), encoding='utf8') as file:
+    with open(path.join(file_dir, file_name), encoding='utf8') as file:
         result = []
 
         for line in file:
