@@ -10,7 +10,6 @@ def import_results_from_text_file(file_dir, file_name):
 
         for line in file:
             line = line.strip()
-            _check_for_corrupted_line(line, file_dir, file_name)
 
             if _is_line_empty_in_result(line, result):
                 continue
@@ -26,16 +25,6 @@ def import_results_from_text_file(file_dir, file_name):
     return results
 
 
-def _check_for_corrupted_line(line, file_dir, file_name):
-    if _is_line_corrupted(line):
-        raise Exception("Line '{}' is corrupted, fix it in file {}".format(
-            line, path.join(file_dir, file_name)))
-
-
-def _is_line_corrupted(line):
-    return match('^.+[0-9]{2} *- *[0-9]{3} *[A-Z a-z]+$', line)
-
-
 def _is_line_empty_in_result(line, result):
     return not line and len(result) < 3
 
@@ -45,7 +34,7 @@ def _is_line_empty_between_results(line, result):
 
 
 def _is_line_with_zip_code(line):
-    return match('^[0-9]{2} *- *[0-9]{3} *[A-Z a-z]+$', line)
+    return match('.*[0-9]{2} *[-–] *[0-9]{3} *.+$', line)
 
 
 def _has_multiple_line_name(result):
