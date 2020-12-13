@@ -1,4 +1,5 @@
 from os import path
+from pytest import raises
 
 from nicelka.data_normalizer.importer import import_results_from_text_file
 
@@ -17,3 +18,13 @@ def test_import_results_from_text_file():
     ]
 
     assert import_results_from_text_file(data_dir, 'import_results_from_text_file.txt') == expected_results
+
+
+def test_import_results_from_text_file_with_corrupted_line():
+    result_file_name = 'import_results_from_text_file_with_corrupted_line.txt'
+    corrupted_line = 'Fundacja "Bądź Zaradny" ul. Bydgoska 2a 62-510 Konin'
+
+    with raises(Exception) as error:
+        import_results_from_text_file(data_dir, result_file_name)
+    assert str(error.value) == "Line '{}' is corrupted, fix it in file {}".format(
+        corrupted_line, path.join(data_dir, result_file_name))
