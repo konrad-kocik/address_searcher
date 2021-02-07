@@ -22,6 +22,7 @@ class MapPage(WebPage):
     def _enter_query(self, main_city, target_city):
         Logger.debug(self, "Searching distance from main city: '{}' to target city: '{}'".format(
             main_city, target_city))
+        sleep(2)
 
         try:
             from_input = self._find_element_by_xpath('//*[@id="sb_ifc50"]/input')
@@ -37,7 +38,7 @@ class MapPage(WebPage):
 
     def _get_result(self):
         Logger.debug(self, 'Getting result...')
-        sleep(1)
+        sleep(2)
 
         try:
             distance_output_xpath = '//*[@id="section-directions-trip-0"]/div/div[1]/div[1]/div[2]/div'

@@ -32,12 +32,12 @@ def test_distances_from_one_main_city(data_dir_path, reports_dir_path, create_re
     expected_report = \
         '======================================================================' + '\n' + \
         'Kraków' + '\n\n' + \
-        '32-566 Alwernia 39,3 km' + '\n' + \
-        '34-120 Andrychów 62,5 km' + '\n' + \
-        '32-551 Babice 46,9 km' + '\n' + \
-        '34-116 Bachowice 48,8 km' + '\n' + \
-        '99-999 Dupowory None' + '\n' + \
-        '32-661 Bobrek 61,2 km' + '\n'
+        '32-566 Alwernia: 39,3 km' + '\n' + \
+        '34-120 Andrychów: 62,5 km' + '\n' + \
+        '32-551 Babice: 46,9 km' + '\n' + \
+        '34-116 Bachowice: 48,8 km' + '\n' + \
+        '99-999 Dupowory: None' + '\n' + \
+        '32-661 Bobrek: 61,2 km' + '\n'
 
     searcher = MapSearcher(main_city='Kraków', data_dir_path=data_dir_path, report_dir_path=reports_dir_path)
     searcher.search()

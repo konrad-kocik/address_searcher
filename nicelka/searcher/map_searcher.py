@@ -34,9 +34,10 @@ class MapSearcher(Searcher):
                 self._reporter.save_report(self._results)
 
         self._reporter.save_report(self._results)
+        self._reporter.save_to_excel(self._results, self._main_city)
 
         self._engine.stop()
 
     def _add_results(self, results, target_city):
-        self._results.append(target_city + ' ' + str(results) + '\n')
+        self._results.append(target_city + ': ' + str(results) + '\n')
         self._results_count += 1

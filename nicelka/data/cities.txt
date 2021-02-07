@@ -1,5 +1,128 @@
-32-566 Alwernia
-34-120 Andrychów
+32-014 Dąbrowa
+32-015 Kłaj
+32-020 Wieliczka
+32-045 Sułoszowa
+32-049 Przeginia
+32-050 Skawina
+32-051 Wielkie Drogi
+32-052 Radziszów
+32-053 Wola Radziszowska
+32-060 Kryspinów
+32-061 Rybna
+32-064 Rudawa
+32-065 Krzeszowice
+32-065 Wola Filipowska
+32-067 Sanka
+32-067 Tenczynek
+32-067 Zalas
+32-070 Zagacie
+32-071 Kamień
+32-071 Rusocice
+32-082 Karniowice
+32-084 Mników
+32-085 Modlnica
+32-100 Proszowice
+32-125 Wawrzeńczyce
+32-200 Miechów
+32-300 Olkusz
+32-300 Witeradów
+32-300 Zederman
+32-300 Żurada
+32-332 Bukowno
+32-340 Wolbrom
+32-400 Myślenice
+32-406 Zakliczyn
+32-410 Dobczyce
+32-412 Wiśniowa
+32-420 Gdów
+32-422 Kędzierzynka
+32-440 Rudnik
+32-440 Sułkowice
+32-442 Krzywaczka
+32-500 Pogorzyce
+32-540 Bolęcin
+32-540 Młoszowa
+32-543 Myślachowice
+32-543 Płoki
+32-545 Dulowa
 32-551 Babice
-34-116 Bachowice
+32-551 Mętków
+32-551 Rozkochów
+32-552 Płaza
+32-555 Zagórze
+32-566 Alwernia
+32-590 Libiąż
+32-593 Żarki
+32-600 Brzezinka
+32-607 Polanka Wielka
+32-608 Osiek
+32-615 Grojec
+32-640 Podolsze
+32-641 Piotrowice
+32-641 Przeciszów
+32-650 Witkowice
+32-660 Chełmek
 32-661 Bobrek
+32-700 Bochnia
+32-709 Drwinia
+32-720 Nowy Wiśnicz
+32-731 Bytomsko
+32-731 Żegocina
+32-765 Rzezawa
+32-800 Brzesko
+32-852 Dębno
+32-852 Wola Dębińska
+32-854 Porąbka Uszewska
+32-861 Iwkowa
+32-862 Porąbka Iwkowska
+32-864 Gnojnik
+33-200 Dąbrowa Tarnowska
+33-316 Tropie
+33-318 Gródek nad Dunajcem
+33-322 Korzenna
+33-395 Chełmiec
+34-100 Wadowice
+34-100 Gorzeń Dolny
+34-100 Jaroszewice
+34-100 Radocza
+34-100 Tomice
+34-103 Witanowice
+34-105 Wysoka
+34-106 Mucharz
+34-113 Paszkówka
+34-114 Brzeźnica
+34-114 Marcyporęba
+34-116 Bachowice
+34-116 Spytkowice
+34-120 Andrychów
+34-122 Wieprz
+34-123 Chocznia
+34-124 Klecza Górna
+34-130 Kalwaria Zebrzydowska
+34-130 Stanisław Dolny
+34-130 Zebrzydowice
+34-141 Przytkowice
+34-143 Lanckorona
+34-145 Stronie
+34-145 Zakrzów
+34-146 Stryszów
+34-200 Sucha Beskidzka
+34-210 ŚLESZOWICE
+34-210 Zembrzyce
+34-231 Juszczyn
+34-300 Żywiec
+34-312 Międzybrodzie Bialskie
+34-321 Łękawica
+34-323 Ślemień
+34-350 Węgierska Górka
+34-600 Limanowa
+34-602 Jaworzna
+34-603 Strzeszyce
+34-603 Ujanowice
+34-606 Łukowica
+34-650 Tymbark
+34-654 Męcina
+34-700 Rabka-Zdrój
+38-312 Ropa
+38-333 Zagórzany
+43-356 Kobiernice
