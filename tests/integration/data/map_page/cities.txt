@@ -2,4 +2,5 @@
 34-120 Andrychów
 32-551 Babice
 34-116 Bachowice
+99-999 Dupowory
 32-661 Bobrek

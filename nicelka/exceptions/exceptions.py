@@ -18,6 +18,10 @@ class KrkgwPageException(WebPageException):
     pass
 
 
+class MapPageException(WebPageException):
+    pass
+
+
 class GatewayException(NicelkaException):
     pass
 
