@@ -58,7 +58,7 @@ class GooglePage(WebPage):
 
     @except_to_bool(exc=NoSuchElementException)
     def _are_multiple_results(self):
-        self._find_element_by_class_name('i0vbXd')
+        self._find_element_by_class_name('wUrVib')
 
     def _get_single_result(self):
         Logger.debug(self, 'Getting single result...')
@@ -106,7 +106,7 @@ class GooglePage(WebPage):
 
     def _open_map(self):
         try:
-            map_link = self._wait_for_element_by_class_name('i0vbXd')
+            map_link = self._wait_for_element_by_class_name('wUrVib')
             map_link.click()
         except (TimeoutException, ElementClickInterceptedException) as e:
             Logger.error(self, e, self._open_map.__name__)
