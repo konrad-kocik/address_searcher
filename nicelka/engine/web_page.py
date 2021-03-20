@@ -48,6 +48,9 @@ class WebPage(Engine):
     def _find_element_by_link_text(self, link_text):
         return self._driver.find_element_by_link_text(link_text)
 
+    def _wait_for_element_by_id(self, id, timeout=0.5):
+        WebDriverWait(self._driver, timeout).until(EC.presence_of_element_located((By.ID, id)))
+
     def _wait_for_element_by_xpath(self, xpath, timeout=5):
         WebDriverWait(self._driver, timeout).until(EC.presence_of_element_located((By.XPATH, xpath)))
 

@@ -40,13 +40,13 @@ class GooglePage(WebPage):
         else:
             return []
 
-    @except_to_bool(exc=NoSuchElementException)
+    @except_to_bool(exc=TimeoutException)
     def _is_single_result(self):
-        self._find_element_by_class_name('LrzXr')
+        self._wait_for_element_by_class_name('LrzXr', timeout=2)
 
-    @except_to_bool(exc=NoSuchElementException)
+    @except_to_bool(exc=TimeoutException)
     def _are_multiple_results(self):
-        self._find_element_by_class_name('i0vbXd')
+        self._wait_for_element_by_xpath('//*[@id="rso"]/div[2]/div/div/div[2]/div/div[4]/div[1]/div/div/a[1]/div/div/span', timeout=2)
 
     def _get_single_result(self):
         Logger.debug(self, 'Getting single result...')
@@ -73,46 +73,37 @@ class GooglePage(WebPage):
     def _get_multiple_results(self):
         Logger.debug(self, 'Getting multiple results...')
         results = []
-        result_link_class = 'dbg0pd'
 
-        try:
-            self._open_map()
-            self._wait_for_element_by_class_name(result_link_class, 2)
-            result_links = self._find_elements_by_class_name(result_link_class)
-        except (TimeoutException, NoSuchElementException, GooglePageException) as e:
-            Logger.error(self, e, self._get_multiple_results.__name__)
-            return results
+        name_1_xpath = '//*[@id="rso"]/div[2]/div/div/div[2]/div/div[4]/div[1]/div/div/a[1]/div/div/span'
+        address_1_xpath = '//*[@id="rso"]/div[2]/div/div/div[2]/div/div[4]/div[1]/div/div/a[1]/div/span/div[2]/span/span'
 
-        for result_link in result_links:
+        name_2_xpath = '//*[@id="rso"]/div[2]/div/div/div[2]/div/div[4]/div[2]/div[2]/div/a[1]/div/div/span'
+        address_2_xpath = '//*[@id="rso"]/div[2]/div/div/div[2]/div/div[4]/div[2]/div[2]/div/a[1]/div/span/div[2]/span/span'
+
+        name_3_xpath = '//*[@id="rso"]/div[2]/div/div/div[2]/div/div[4]/div[3]/div[2]/div/a[1]/div/div/span'
+        address_3_xpath = '//*[@id="rso"]/div[2]/div/div/div[2]/div/div[4]/div[3]/div[2]/div/a[1]/div/span/div[2]/span/span'
+
+        xpaths = ((name_1_xpath, address_1_xpath),
+                  (name_2_xpath, address_2_xpath),
+                  (name_3_xpath, address_3_xpath))
+
+        for name_xpath, address_xpath in xpaths:
             try:
-                name, address = self._get_one_of_multiple_results(result_link)
+                name, address = self._get_one_of_multiple_results(name_xpath, address_xpath)
                 results.append(name + '\n' + self._format_address(address) + '\n')
             except GooglePageException as e:
                 Logger.error(self, e, self._get_multiple_results.__name__)
 
         return results
 
-    def _open_map(self):
+    def _get_one_of_multiple_results(self, name_xpath, address_xpath):
         try:
-            map_link = self._wait_for_element_by_class_name('i0vbXd')
-            map_link.click()
-        except (TimeoutException, ElementClickInterceptedException) as e:
-            Logger.error(self, e, self._open_map.__name__)
-            raise GooglePageException('Failed to open a map')
-
-    def _get_one_of_multiple_results(self, result_link):
-        try:
-            result_link.click()
-            sleep(1)
-
-            name_output_xpath = '//div[@class="SPZz6b"]//span'
-            self._wait_for_element_by_xpath(name_output_xpath, timeout=2)
-            name_output = self._find_element_by_xpath(name_output_xpath)
+            self._wait_for_element_by_xpath(name_xpath, timeout=2)
+            name_output = self._find_element_by_xpath(name_xpath)
             name = name_output.text
 
-            address_output_class = 'LrzXr'
-            self._wait_for_element_by_class_name(address_output_class, timeout=1)
-            address_output = self._find_element_by_class_name(address_output_class)
+            self._wait_for_element_by_xpath(address_xpath, timeout=1)
+            address_output = self._find_element_by_xpath(address_xpath)
             address = address_output.text
         except (TimeoutException, NoSuchElementException, ElementClickInterceptedException, StaleElementReferenceException) as e:
             Logger.error(self, e, self._get_one_of_multiple_results.__name__)
