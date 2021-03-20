@@ -15,9 +15,21 @@ class GooglePage(WebPage):
         self._name = 'google_page'
         self._url = 'https://google.pl'
 
+    def start(self):
+        super(GooglePage, self).start()
+        self._close_cookies_popup()
+
     def search(self, city, key):
         self._enter_query(city, key)
         return self._get_results()
+
+    def _close_cookies_popup(self):
+        cookie_frame_xpath = "//iframe[contains(@src, 'consent.google.com')]"
+        self._wait_for_element_by_xpath(cookie_frame_xpath)
+        cookie_frame = self._find_element_by_xpath(cookie_frame_xpath)
+        self._switch_to_frame(cookie_frame)
+        accept_button = self._find_element_by_xpath('//*[@id="introAgreeButton"]/span/span')
+        accept_button.click()
 
     def _enter_query(self, city, key):
         Logger.debug(self, "Searching for city: '{}' key: '{}'".format(city, key))

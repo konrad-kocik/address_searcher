@@ -61,6 +61,12 @@ class WebPage(Engine):
     def _wait_for_clickability_by_xpath(self, xpath, timeout=5):
         WebDriverWait(self._driver, timeout).until(EC.element_to_be_clickable((By.XPATH, xpath)))
 
+    def _wait_for_frame_availability_by_xpath(self, xpath, timeout=5):
+        WebDriverWait(self._driver, timeout).until(EC.frame_to_be_available_and_switch_to_it((By.XPATH, xpath)))
+
+    def _switch_to_frame(self, frame_web_element):
+        self._driver.switch_to.frame(frame_web_element)
+
     @except_to_bool(exc=(NoAlertPresentException, TimeoutException))
     def _is_alert_present(self, timeout=0.1):
         WebDriverWait(self._driver, timeout).until(EC.alert_is_present())
