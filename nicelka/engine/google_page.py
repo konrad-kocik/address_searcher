@@ -15,9 +15,21 @@ class GooglePage(WebPage):
         self._name = 'google_page'
         self._url = 'https://google.pl'
 
+    def start(self):
+        super(GooglePage, self).start()
+        self._close_cookies_popup()
+
     def search(self, city, key):
         self._enter_query(city, key)
         return self._get_results()
+
+    def _close_cookies_popup(self):
+        cookie_frame_xpath = "//iframe[contains(@src, 'consent.google.com')]"
+        self._wait_for_element_by_xpath(cookie_frame_xpath)
+        cookie_frame = self._find_element_by_xpath(cookie_frame_xpath)
+        self._switch_to_frame(cookie_frame)
+        accept_button = self._find_element_by_xpath('//*[@id="introAgreeButton"]/span/span')
+        accept_button.click()
 
     def _enter_query(self, city, key):
         Logger.debug(self, "Searching for city: '{}' key: '{}'".format(city, key))
@@ -46,7 +58,7 @@ class GooglePage(WebPage):
 
     @except_to_bool(exc=NoSuchElementException)
     def _are_multiple_results(self):
-        self._find_element_by_class_name('i0vbXd')
+        self._find_element_by_class_name('wUrVib')
 
     def _get_single_result(self):
         Logger.debug(self, 'Getting single result...')
@@ -94,7 +106,7 @@ class GooglePage(WebPage):
 
     def _open_map(self):
         try:
-            map_link = self._wait_for_element_by_class_name('i0vbXd')
+            map_link = self._wait_for_element_by_class_name('wUrVib')
             map_link.click()
         except (TimeoutException, ElementClickInterceptedException) as e:
             Logger.error(self, e, self._open_map.__name__)
