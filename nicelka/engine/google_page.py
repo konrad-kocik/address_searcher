@@ -32,7 +32,7 @@ class GooglePage(WebPage):
         accept_button.click()
 
     def _enter_query(self, city, key):
-        Logger.debug(self, "Searching for city: '{}' key: '{}'".format(city, key))
+        Logger.info(self, "Searching for city: '{}' key: '{}'".format(city, key))
         sleep(1.2)
 
         try:
@@ -50,6 +50,7 @@ class GooglePage(WebPage):
         elif self._are_multiple_results():
             return self._get_multiple_results()
         else:
+            Logger.info(self, 'No results')
             return []
 
     @except_to_bool(exc=NoSuchElementException)
@@ -61,7 +62,7 @@ class GooglePage(WebPage):
         self._find_element_by_class_name('H93uF')
 
     def _get_single_result(self):
-        Logger.debug(self, 'Getting single result...')
+        Logger.info(self, 'Getting single result...')
         result = []
 
         try:
@@ -75,6 +76,7 @@ class GooglePage(WebPage):
             address_output = self._find_element_by_class_name(address_output_class)
             address = address_output.text
 
+            Logger.debug(self, 'Single result: {} {}'.format(name, address))
             result.append(name + '\n' + self._format_address(address) + '\n')
         except (TimeoutException, NoSuchElementException, ElementClickInterceptedException, StaleElementReferenceException) as e:
             Logger.error(self, e, self._get_single_result.__name__)
@@ -83,7 +85,7 @@ class GooglePage(WebPage):
         return result
 
     def _get_multiple_results(self):
-        Logger.debug(self, 'Getting multiple results...')
+        Logger.info(self, 'Getting multiple results...')
         results = []
         result_link_class = 'dbg0pd'
 
@@ -130,6 +132,7 @@ class GooglePage(WebPage):
             Logger.error(self, e, self._get_one_of_multiple_results.__name__)
             raise GooglePageException('Failed to get one of multiple results')
 
+        Logger.debug(self, 'One of multiple results: {} {}'.format(name, address))
         return name, address
 
     @staticmethod
