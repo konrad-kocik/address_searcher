@@ -19,7 +19,7 @@ class KrkgwPage(WebPage):
         return self._get_results()
 
     def _enter_query(self, city_name):
-        Logger.debug(self, "Searching for city name: '{}'".format(city_name))
+        Logger.info(self, "Searching for city name: '{}'".format(city_name))
 
         try:
             search_input = self._find_element_by_id('kgw')
@@ -38,8 +38,10 @@ class KrkgwPage(WebPage):
 
         if not self._is_result_present():
             self._close_alert()
+            Logger.info(self, 'No results')
             return results
 
+        Logger.info(self, 'Getting results...')
         results.extend(self._get_results_from_current_page())
         page_links = self._get_page_links()
 
@@ -91,6 +93,7 @@ class KrkgwPage(WebPage):
                 info_button.click()
 
                 name, address = self._get_result_details()
+                Logger.debug(self, 'Result: {} {}'.format(name, address))
                 results.append(name + '\n' + self._format_address(address) + '\n')
 
                 self._close_details()
