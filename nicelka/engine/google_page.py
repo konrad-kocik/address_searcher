@@ -24,12 +24,18 @@ class GooglePage(WebPage):
         return self._get_results()
 
     def _close_cookies_popup(self):
-        cookie_frame_xpath = "//iframe[contains(@src, 'consent.google.com')]"
-        self._wait_for_element_by_xpath(cookie_frame_xpath)
-        cookie_frame = self._find_element_by_xpath(cookie_frame_xpath)
-        self._switch_to_frame(cookie_frame)
-        accept_button = self._find_element_by_xpath('//*[@id="introAgreeButton"]/span/span')
-        accept_button.click()
+        Logger.debug(self, 'Trying to close cookies popup...')
+        try:
+            cookie_frame_xpath = "//iframe[contains(@src, 'consent.google.com')]"
+            self._wait_for_element_by_xpath(cookie_frame_xpath)
+            cookie_frame = self._find_element_by_xpath(cookie_frame_xpath)
+            self._switch_to_frame(cookie_frame)
+            accept_button = self._find_element_by_xpath('//*[@id="introAgreeButton"]/span/span')
+            accept_button.click()
+            Logger.debug(self, 'Cookies popup closed successfully')
+        except (TimeoutException, NoSuchElementException, ElementClickInterceptedException) as e:
+            Logger.error(self, e, self._close_cookies_popup.__name__)
+            raise GooglePageException('Cannot close cookies popup')
 
     def _enter_query(self, city, key):
         Logger.info(self, "Searching for city: '{}' key: '{}'".format(city, key))

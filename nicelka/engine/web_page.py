@@ -30,6 +30,12 @@ class WebPage(Engine):
         self._driver = None
         Logger.info(self, 'Engine stopped')
 
+    def restart(self, timeout=5):
+        self.stop()
+        self.start()
+        self._driver.set_page_load_timeout(time_to_wait=timeout)
+        Logger.info(self, 'Engine restarted')
+
     def _find_element_by_id(self, id):
         return self._driver.find_element_by_id(id)
 

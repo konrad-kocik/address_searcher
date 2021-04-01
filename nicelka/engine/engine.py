@@ -18,6 +18,10 @@ class Engine:
         self._raise_not_implemented_error('start')
 
     @abstractmethod
+    def restart(self):
+        self._raise_not_implemented_error('start')
+
+    @abstractmethod
     def search(self, *args, **kwargs):
         self._raise_not_implemented_error('search')
 

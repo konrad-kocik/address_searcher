@@ -42,6 +42,8 @@ class GoogleSearcher(Searcher):
                     self._add_results(results, city, key)
                     self._reporter.save_report(self._results)
 
+            self._engine.restart()
+
         self._add_results_count()
         self._reporter.save_report(self._results)
 

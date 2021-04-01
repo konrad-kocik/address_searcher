@@ -20,7 +20,7 @@ class MapPage(WebPage):
         return self._get_result()
 
     def _enter_query(self, main_city, target_city):
-        Logger.debug(self, "Searching distance from main city: '{}' to target city: '{}'".format(
+        Logger.info(self, "Searching distance from main city: '{}' to target city: '{}'".format(
             main_city, target_city))
         sleep(2)
 
@@ -44,7 +44,9 @@ class MapPage(WebPage):
             distance_output_xpath = '//*[@id="section-directions-trip-0"]/div/div[1]/div[1]/div[2]/div'
             self._wait_for_element_by_xpath(distance_output_xpath, timeout=10)
             distance_output = self._find_element_by_xpath(distance_output_xpath)
-            return distance_output.text.strip()
+            distance = distance_output.text.strip()
+            Logger.debug(self, 'Result: {}'.format(distance))
+            return distance
         except (TimeoutException, NoSuchElementException, ElementClickInterceptedException,
                 StaleElementReferenceException) as e:
             Logger.error(self, e, self._get_result.__name__)
