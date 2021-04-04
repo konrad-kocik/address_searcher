@@ -26,4 +26,5 @@ class Engine:
         self._raise_not_implemented_error('search')
 
     def _raise_not_implemented_error(self, method_name):
-        raise NotImplementedError('{} class missing required implementation of method: {}'.format(self.__class__.__name__, method_name))
+        raise NotImplementedError('{} class missing required implementation of method: {}'.format(
+            self.__class__.__name__, method_name))
