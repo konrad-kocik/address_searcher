@@ -1,7 +1,8 @@
 from time import sleep
 
 from exceptbool import except_to_bool
-from selenium.common.exceptions import TimeoutException, NoSuchElementException, ElementClickInterceptedException, StaleElementReferenceException
+from selenium.common.exceptions import TimeoutException, NoSuchElementException, ElementClickInterceptedException, \
+    StaleElementReferenceException
 from selenium.webdriver.common.keys import Keys
 
 from nicelka.engine.web_page import WebPage
@@ -27,7 +28,7 @@ class GooglePage(WebPage):
         Logger.debug(self, 'Trying to close cookies popup...')
         try:
             cookie_frame_xpath = "//iframe[contains(@src, 'consent.google.com')]"
-            self._wait_for_element_by_xpath(cookie_frame_xpath)
+            self._wait_for_element_by_xpath(cookie_frame_xpath, timeout=2)
             cookie_frame = self._find_element_by_xpath(cookie_frame_xpath)
             self._switch_to_frame(cookie_frame)
             accept_button = self._find_element_by_xpath('//*[@id="introAgreeButton"]/span/span')
@@ -35,7 +36,6 @@ class GooglePage(WebPage):
             Logger.debug(self, 'Cookies popup closed successfully')
         except (TimeoutException, NoSuchElementException, ElementClickInterceptedException) as e:
             Logger.error(self, e, self._close_cookies_popup.__name__)
-            raise GooglePageException('Cannot close cookies popup')
 
     def _enter_query(self, city, key):
         Logger.info(self, "Searching for city: '{}' key: '{}'".format(city, key))
@@ -84,7 +84,10 @@ class GooglePage(WebPage):
 
             Logger.debug(self, 'Single result: {} {}'.format(name, address))
             result.append(name + '\n' + self._format_address(address) + '\n')
-        except (TimeoutException, NoSuchElementException, ElementClickInterceptedException, StaleElementReferenceException) as e:
+        except (TimeoutException,
+                NoSuchElementException,
+                ElementClickInterceptedException,
+                StaleElementReferenceException) as e:
             Logger.error(self, e, self._get_single_result.__name__)
             raise GooglePageException('Failed to get single result')
 
@@ -123,7 +126,7 @@ class GooglePage(WebPage):
     def _get_one_of_multiple_results(self, result_link):
         try:
             result_link.click()
-            sleep(2)
+            sleep(1)
 
             name_output_xpath = '//div[@class="SPZz6b"]//span'
             self._wait_for_element_by_xpath(name_output_xpath, timeout=2)
@@ -134,7 +137,10 @@ class GooglePage(WebPage):
             self._wait_for_element_by_class_name(address_output_class, timeout=1)
             address_output = self._find_element_by_class_name(address_output_class)
             address = address_output.text
-        except (TimeoutException, NoSuchElementException, ElementClickInterceptedException, StaleElementReferenceException) as e:
+        except (TimeoutException,
+                NoSuchElementException,
+                ElementClickInterceptedException,
+                StaleElementReferenceException) as e:
             Logger.error(self, e, self._get_one_of_multiple_results.__name__)
             raise GooglePageException('Failed to get one of multiple results')
 

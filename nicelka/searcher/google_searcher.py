@@ -28,8 +28,10 @@ class GoogleSearcher(Searcher):
 
         self._reporter.generate_new_report_file_path()
         self._engine.start()
+        search_count = 0
 
         for city in self._cities:
+            search_count += 1
             self._add_city_header(city)
 
             for key in self._keys:
@@ -42,7 +44,10 @@ class GoogleSearcher(Searcher):
                     self._add_results(results, city, key)
                     self._reporter.save_report(self._results)
 
-            self._engine.restart()
+            if search_count == 3:
+                search_count = 0
+                Logger.debug(self, 'Restarting engine after {} searches...'.format(search_count))
+                self._engine.restart()
 
         self._add_results_count()
         self._reporter.save_report(self._results)
