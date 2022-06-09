@@ -126,7 +126,7 @@ class GooglePage(WebPage):
     def _get_one_of_multiple_results(self, result_link):
         try:
             result_link.click()
-            sleep(1)
+            sleep(2)
 
             name_output_xpath = '//div[@class="SPZz6b"]//span'
             self._wait_for_element_by_xpath(name_output_xpath, timeout=2)
