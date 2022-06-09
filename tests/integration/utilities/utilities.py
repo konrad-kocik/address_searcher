@@ -23,11 +23,13 @@ def remove_file(file_path):
     os.remove(file_path)
 
 
-def run_google_searcher(data_dir_path, report_file_path, allow_indirect_matches=False, allow_duplicates=False, allow_blacklisted=False):
+def run_google_searcher(data_dir_path, report_file_path, allow_indirect_matches=False, allow_duplicates=False,
+                        allow_blacklisted=False, enable_engine_restart=False):
     searcher = GoogleSearcher(data_dir_path, report_file_path,
                               allow_indirect_matches=allow_indirect_matches,
                               allow_duplicates=allow_duplicates,
-                              allow_blacklisted=allow_blacklisted)
+                              allow_blacklisted=allow_blacklisted,
+                              enable_engine_restart=enable_engine_restart)
     searcher.search()
     return searcher
 

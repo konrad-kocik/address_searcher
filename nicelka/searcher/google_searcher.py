@@ -11,7 +11,8 @@ class GoogleSearcher(Searcher):
                  report_dir_path='reports',
                  allow_indirect_matches=False,
                  allow_duplicates=False,
-                 allow_blacklisted=False):
+                 allow_blacklisted=False,
+                 enable_engine_restart=False):
         super(GoogleSearcher, self).__init__(data_dir_path=data_dir_path,
                                              allow_indirect_matches=allow_indirect_matches,
                                              allow_duplicates=allow_duplicates)
@@ -20,6 +21,7 @@ class GoogleSearcher(Searcher):
         self._black_list = self._source.get_black_list()
 
         self._engine = EngineFactory.get_engine('google_page')
+        self._engine_restart_frequency = 100 if enable_engine_restart else 0
         self._keys = self._source.get_keys()
         self._reporter = Reporter(report_dir_path, self.engine_name)
 
@@ -44,9 +46,9 @@ class GoogleSearcher(Searcher):
                     self._add_results(results, city, key)
                     self._reporter.save_report(self._results)
 
-            if search_count == 3:
+            if self._engine_restart_frequency and search_count == self._engine_restart_frequency:
                 search_count = 0
-                Logger.debug(self, 'Restarting engine after {} searches...'.format(search_count))
+                Logger.debug(self, 'Restarting engine after {} searches...'.format(self._engine_restart_frequency))
                 self._engine.restart()
 
         self._add_results_count()
